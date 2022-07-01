@@ -1,85 +1,11 @@
 Welkom:
     Lees hier even rustig door de studiewijzer om te ontdekken hoe het vak in elkaar zit: /syllabus
 
-Week 1:
-    Maandag:
-        'Videocollege: Memory': /lectures/memory
-    Dinsdag:
-        'Whodunit [zelf]': /cs50/whodunit
-    Woensdag:
-        Filter (t/m reflection) [individueel]: /cs50/filter/less
-    Donderdag:
-        Filter (blur) [individueel]: /cs50/filter/less
-    Vrijdag:
-        Beatles [zelf]: /exercises/writing/beatles
-
-Week 2:
-    Maandag:
-        'Videocollege: Data structures': /lectures/data-structures
-    # Dinsdag:
-    #     Linked list [samen]: /exercises/writing/linked
-    Dinsdag:
-        "Speller: getting started [zelf]": /cs50/speller/startup
-        "Speller: specification [zelf]": /cs50/speller/specification
-    Woensdag:
-        "Speller: load [individueel]": /cs50/speller/load
-    Donderdag:
-        "Speller: check [individueel]": /cs50/speller/check
-
-Week 3:
-    Dinsdag:
-        "Speller: hash [individueel]": /cs50/speller/hash
-    Woensdag (kort):
-        "Speller: size [individueel]": /cs50/speller/size
-    Woensdag en donderdag:
-        "Speller: unload [individueel]": /cs50/speller/unload
-    Vrijdag:
-        "Speller: submit [individueel]": /cs50/speller/submit
-        Questions [individueel]: /questions/mispellings
-
-Week 4:
-    Maandag en dinsdag:
-        Stack [zelf]: /exercises/writing/stack
-    Donderdag:
-        'Videocollege: Python': /lectures/python-david
-        Mario [zelf]: /cs50/py/mario
-    Vrijdag:
-        Readability [zelf]: /cs50/py/readability
-        Questions: /questions/python
-
-Week 5:
-    Maandag:
-        World Cup [zelf]: /cs50/worldcup
-    Dinsdag en woensdag:
-        DNA [individueel]: /cs50/dna
-    Donderdag:
-        "Videocollege: OOP": /objects/lecture
-        Implementeer Queue [zelf]: /objects/queue
-        Implementeer Game of Cards [zelf]: /objects/cards
-
-Week 6:
-    Maandag t/m woensdag:
-        Hangman [samen]: /hangman/classic
-        Questions: /hangman/questions
-    Donderdag:
-        "Adventure: introduction": /adventure/steps/introduction
-        "Adventure: room class": /adventure/steps/room
-    Vrijdag:
-        "Adventure: data files": /adventure/steps/data
-
-Week 7:
-    Maandag:
-        "Adventure: moving around": /adventure/steps/move
-    Dinsdag:
-        "Adventure: forced movement": /adventure/steps/forced
-    Woensdag:
-        "Adventure: items": /adventure/steps/items
-    Donderdag:
-        "Adventure: conditional movement": /adventure/steps/conditional
-    Vrijdag:
-        "Adventure: additional commands": /adventure/steps/commands
-        "Adventure: synonyms": /adventure/steps/synonyms
-        "Adventure: submit": /adventure/steps/submit
-
-Week 8:
-    Uitloop: '#'
+Onderwerpen:
+    Computers: /onderwerpen/computers
+    Representaties: /onderwerpen/representaties
+    Text processing: /onderwerpen/text
+    Structured text: /onderwerpen/structured
+    APIs: /onderwerpen/apis
+    Web development: /onderwerpen/web
+    Databases: /onderwerpen/databases
