@@ -2,19 +2,29 @@
 
 What's the difference between syntax and semantics? How is semantics annotated in HTML and what alternatives are there? How can HTML be seen as a hierarchical structure?
 
-## Voorbereiding
+## 1.1 Overzicht Web
 
-- [Video lecture: CS50 Web development](https://cs50.harvard.edu/ap/2021/curriculum/technology/notes/web_development/)
+In deze module ga je kennis maken ...
 
-    - Browser, server
-    - HTTP
-    - HTML, Links, Images, Pars, Headings, Lists, Tables
-    - curl Google
-    - Forms
-    - DOM
-    - CSS
+Ga naar de pagina van het [CS50-lecture over Web Development](/cs50t/web) en beantwoord alle vragen.
 
-## DOM
+Onderwerpen van het college zijn:
+
+- Browser, server
+- HTTP
+- HTML, Links, Images, Pars, Headings, Lists, Tables
+- curl Google
+- Forms
+- DOM
+- CSS
+
+[Video lecture: CS50 Web development](https://cs50.harvard.edu/ap/2021/curriculum/technology/notes/web_development/)
+
+## 1.2 Homepage
+
+Create a Homepage for yourself on Github Pages.
+
+## 1.3 DOM
 
 - Laten zien met diagram dat het een hiërarchie is
 - In de inspector openen en uitklappen
@@ -22,7 +32,7 @@ What's the difference between syntax and semantics? How is semantics annotated i
 - DOM-manipulatie in web console
 - CSS selectors (worden ook gebruikt in pup, zie onder)
 
-## Scraping
+## 1.4 Scraping
 
 Pup: https://github.com/EricChiang/pup
 

@@ -5,9 +5,23 @@ Representatie van integers, floats en lettertekens. Where does it end? Which sta
 Should code == data be treated here??
 
 
-## Voorbereiding
+## 1.1 Zoeken in teksten
 
-Chapter 11+12 Bulletproof UNIX ?
+- Bulletproof UNIX chapter 11
+    - grep
+    - egrep
+    - fgrep
+
+
+## 1.2 Teksten systematisch bewerken
+
+- Bulletproof UNIX chapter 12
+    - tr
+    - sort
+    - sed
+
+https://cs50.harvard.edu/python/2022/psets/7/
+
 
 ## Regular expressions
 
@@ -39,5 +53,3 @@ Only 8 matches! We'll be solving that puzzle soon.
 
 https://geek-answers.imtqy.com/articles/761906/index.html
 https://swcarpentry.github.io/shell-novice/07-find/index.html
-
-

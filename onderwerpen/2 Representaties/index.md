@@ -4,37 +4,44 @@ Representatie van integers, floats en lettertekens. Where does it end? Which sta
 
 Should code == data be treated here??
 
+Files containing plain text are nothing special. As you've learned in module 3, eventually, even text is stored in binary format, using strictly 0's and 1's.
+However, plain text has a distinct place in computing because of the sheer number of applications that use plain text and because plain text files can easily be inspected by humans (in most cases). It's even possible to represent structured data using plain text files, and we'll learn more about that in the next module.
 
-## Voorbereiding
+## 1.1 Overzicht Multimedia
 
-[Video lecture: CS50 Multimedia](/cs50t/multimedia)
+In deze module ga je kennis maken ...
+
+Ga naar de pagina van het [CS50-lecture over Multimedia](/cs50t/multimedia) en beantwoord alle vragen.
+
+Onderwerpen van het college zijn:
 
 - Representatie van tekst
 - Representatie van multimedia
 - Representatie van hiërarchische structuren
 
+## 1.2 Datarepresentaties
+
+Lees het hoofdstuk Data Storage uit het boek van Brookshear, *Computer Science: An Overview*. De onderwerpen:
+
+- Bits and their storage
+- Main memory
+- Mass storage
+- Representing information as bit patterns
+- The binary system
+- Storing integers
+- Storing fractions
+- Data compression
+- Communication errors
+
+Beantwoord de vragen.
+
 [Hoofdstuk: Data, encoding and metadata](https://faculty.washington.edu/ajko/books/foundations-of-information/data)
 
-## File formats
+## 1.3 ASCII vs Unicode
 
-Uitlegvideo file formats (zowel binary als tekst)
-xxd: bestuderen files in hex?
- 
-Opdracht: hier heb je 10 files. Wat is het FORMAAT van de file? Gebruik xxd. Hoe weet je dit? Is het een tekstformaat? Binair? Wat kun je erover vinden?
-Gebruik de tool "file" om te achterhalen wat voor formaat het is.
-Uitleg magic numbers
+In het boek staat dat Unicode altijd 16 bits is. Maar dat is niet waar.
 
-## ASCII vs binary
-
-https://www.youtube.com/watch?v=MijmeoH9LT4 (computerphile ascii/Unicode)
-In this module, we'll only use ASCII as the underlying format for files. Even though such text files may contain any kind of combination of ASCII characters, there are many ways to structure information using text files.
-In particular, ASCII has quite a few control codes in the character set, especially in the lower regions. Some of these characters are often used to structure text.
-Newlines (more on this later)
-Tabs
-…?
-ASCII is a very universal standard and there are many tools available in UNIX systems that work with ASCII based text files. Also editors and code editors in particular use ASCII.
-
-## Text encodings: ASCII, Unicode
+<https://www.youtube.com/watch?v=MijmeoH9LT4> (computerphile ascii/Unicode)
 
 Many plain text files are encoded using ASCII. ASCII allocates exactly 7 or 8 bits per character.  This leaves us with 128 or 256 distinct different characters that may be represented.
 Original ASCII is 7 bits and contains mostly alphanumerical letters that are relevant to US English language (no accents!). 
@@ -47,11 +54,11 @@ The nice thing is that the first 128 characters are encoded exactly as they are 
 However, every UTF-8 file is not necessarily valid ASCII. This becomes a problem in older text editors that do not expect UTF-8 text. It also becomes a problem in tools to process text written using for example Python version 2.x.
 Because of this, encodings can be a bit of a hassle. It's good to be aware of this. In this course, we will notify you in case encodings may become a problem.
 
-## The newline problem
+## 1.4 Het probleem met newlines
 
 Difference between asc(10) and asc(13).
 
-## wc
+## 1.5 Woorden tellen
 
 Modern impementations of wc work perfectly fine with UTF-8 encoded files as well as ASCII. Have a look at the `wc` man page.
 
@@ -61,10 +68,16 @@ Which are the options to show the number of characters vs. the number of bytes? 
 
 Take home message: is all artificial, what counts as whitespace is just something that was defined somewhere. Some people do it differently!
 
-## Plain text
+## 1.6 Bestandsformaten
 
-Files containing plain text are nothing special. As you've learned in module 3, eventually, even text is stored in binary format, using strictly 0's and 1's.
-However, plain text has a distinct place in computing because of the sheer number of applications that use plain text and because plain text files can easily be inspected by humans (in most cases). It's even possible to represent structured data using plain text files, and we'll learn more about that in the next module.
+Uitlegvideo file formats (zowel binary als tekst)
+xxd: bestuderen files in hex?
+ 
+Opdracht: hier heb je 10 files. Wat is het FORMAAT van de file? Gebruik xxd. Hoe weet je dit? Is het een tekstformaat? Binair? Wat kun je erover vinden?
+Gebruik de tool "file" om te achterhalen wat voor formaat het is.
+Uitleg magic numbers
+
+
 
 ## Questions
 
