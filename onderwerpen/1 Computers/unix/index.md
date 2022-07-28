@@ -1,5 +1,11 @@
 # UNIX shell
 
+UNIX is een manier om opdrachten aan je computer te geven, meestal via het intikken van de namen van commando's (net zoals Windows een manier is om opdrachten te geven, maar dan door te klikken op bestanden en programma's). Deze workshop bestaat uit twee delen.
+
+Bij de installatie heb je gezien dat je eigen computer ook een Terminal heeft waarin je UNIX-commando's kunt geven. In de komende weken ga je diverse UNIX-commando's leren kennen. Data Scientists gebruiken ook vaak UNIX omdat je daarmee makkelijk vrij complexe operaties op data kunt uitvoeren. Daarover later meer.
+
+## Prompt
+
 Dit is de prompt:
 
     me@laptop % 
@@ -22,6 +28,8 @@ Su Mo Tu We Th Fr Sa
 15 16 17 18 19 20 21  
 22 23 24 25 26 27 28  
 29 30 31              
+
+## Command-line arguments
 
 Veel programma's ondersteunen zogeheten command-line arguments. Dit zijn extra opties die je meegeeft achter de naam van het commando. Zo heeft het programma cal de optie `-3` waarmee de kalenders van de vorige, huidige en volgende maand in één keer wordt geprint naar het scherm:
 
@@ -62,6 +70,8 @@ Kijk bijvoorbeeld naar het programma banner. Dit programma wil graag een tekstje
 
 We geven hier overigens ook de optie `-w 32` mee om te zorgen dat de letters niet al te groot worden. Probeer deze optie gerust eens weg te laten of aan te passen.
 
+## Manual
+
 Hoe kom je er nou achter welke opties een programma ondersteunt? Daarvoor is een speciaal commando "man" in het leven geroepen, dat de handleiding van allerlei programma's kan laten zien. Zo kunnen we de handleiding van "cal" opvragen:
 
     me@laptop ~ % man cal
@@ -82,7 +92,18 @@ Het nadeel van de man pages is dat er zelden goede voorbeelden gegeven worden, e
 
 ## Vragen
 
-1.	Hoe moet je cal "aanroepen" (welk commando moet je intikken) om een kalender van het huidige jaar te printen, dus alle 12 maanden? Gebruik man.
-2.	Is er nog een manier om de kalender van het hele jaar te printen?
-3.	Wat is het verschil tussen cal en ncal? Lees hiervoor de uitleg in de man page van cal.
-4.	Leg in je eigen woorden uit hoe je één van de bovengenoemde commando's kunt gebruiken.
+1.  Hoe moet je cal "aanroepen" (welk commando moet je intikken) om een kalender van het huidige jaar te printen, dus alle 12 maanden? Gebruik man.
+
+    <textarea name="form[q1]" rows="8" required></textarea>
+
+2.  Is er nog een manier om de kalender van het hele jaar te printen?
+
+    <textarea name="form[q2]" rows="8" required></textarea>
+
+3.  Wat is het verschil tussen cal en ncal? Lees hiervoor de uitleg in de man page van cal.
+
+    <textarea name="form[q3]" rows="8" required></textarea>
+
+4.  Leg in je eigen woorden uit hoe je één van de bovengenoemde commando's kunt gebruiken.
+
+    <textarea name="form[q4]" rows="8" required></textarea>

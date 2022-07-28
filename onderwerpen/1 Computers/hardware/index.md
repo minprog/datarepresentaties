@@ -7,6 +7,19 @@ Bestudeer het videocollege en beantwoord dan de vragen hieronder. Je antwoorden 
 - [Open in CS50 video player](https://video.cs50.io/6mbFO0ZLMW8?screen=WRB6P2vMAao)
 - [Open lecture notes](https://cs50.harvard.edu/ap/2021/curriculum/technology/notes/hardware/)
 
+Onderwerpen van het college zijn:
+
+- Binary
+- CPU
+- RAM
+- Hard drives
+- Flash memory
+- Types of memory
+- Display connectors
+- USB
+- Wireless
+- Operating systems
+
 ## Vragen
 
 Als je, net als David, soms je vingers gebruikt om te tellen, dan is de kans redelijk groot dat je tot 5 dingen met één hand kunt tellen. Maar dat geldt alleen als je de "unary"-notatie gebruikt, waar je maar één optie per vinger hebt, bijvoorbeeld de waarde 1. Als je binair telt kun je twee waardes per vinger gebruiken, namelijk 0 en 1. Hoe ver kun je tellen op één hand (met 5 vingers) als je binair telt? Neem aan dat een opgestoken vinger voor de waarde 1 staat, en een gekromde vinger voor de waarde 0.

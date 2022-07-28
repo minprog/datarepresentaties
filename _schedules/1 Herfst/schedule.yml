@@ -2,7 +2,11 @@ Welkom:
     Lees hier even rustig door de studiewijzer om te ontdekken hoe het vak in elkaar zit: /syllabus
 
 Onderwerpen:
-    Computers: /onderwerpen/computers
+    Computers:
+        Hardware: /cs50t/hardware
+        Besturingssystemen: /onderwerpen/hardware/besturingssystemen
+        UNIX intro: /onderwerpen/hardware/unix
+        Software Carpentry UNIX: /onderwerpen/hardware/carpentry
     Representaties: /onderwerpen/representaties
     Text processing: /onderwerpen/text
     Structured text: /onderwerpen/structured
