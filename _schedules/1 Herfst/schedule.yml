@@ -3,19 +3,37 @@ Welkom:
 
 Onderwerpen:
     Computers:
-        Hardware: /cs50t/hardware
+        Lecture: /onderwerpen/computers/lecture
         Besturingssystemen: /onderwerpen/computers/besturingssystemen
         UNIX intro: /onderwerpen/computers/unix
         Software Carpentry UNIX: /onderwerpen/computers/carpentry
     Representaties:
-        Intro: /onderwerpen/representaties
+        Lecture: /onderwerpen/representaties/lecture
+        Representaties: /onderwerpen/representaties/boek
+        Unicode: /onderwerpen/representaties/unicode
+        Formaten: /onderwerpen/representaties/formaten
     Text processing:
-        Intro: /onderwerpen/text
+        Regular expressions: /onderwerpen/text/regex
+        Grep: /onderwerpen/text/grep
+        Tools: /onderwerpen/text/tools
     Structured text:
-        Intro: /onderwerpen/structured
+        CSV: /onderwerpen/structured/csv
+        Awk: /onderwerpen/structured/awk
+        JSON: /onderwerpen/structured/json
+        Jq: /onderwerpen/structured/jq
     APIs:
-        Intro: /onderwerpen/apis
+        Lecture: /onderwerpen/apis/lecture
+        Curl: /onderwerpen/apis/curl
+        Crawling: /onderwerpen/apis/crawling
+        Graphviz: /onderwerpen/apis/graphviz
     Web development:
-        Intro: /onderwerpen/web
+        Lecture: /onderwerpen/web/lecture
+        Homepage: /onderwerpen/web/homepage
+        DOM: /onderwerpen/web/dom
+        Scraping: /onderwerpen/web/scraping
     Databases:
-        Intro: /onderwerpen/databases
+        Lecture: /onderwerpen/databases/lecture
+        Movies: /onderwerpen/databases/movies
+        Fiftyville: /onderwerpen/databases/fiftyville
+        Pizza: /onderwerpen/databases/pizza
+

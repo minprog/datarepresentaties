@@ -2,23 +2,6 @@
 
 What's the difference between syntax and semantics? How is semantics annotated in HTML and what alternatives are there? How can HTML be seen as a hierarchical structure?
 
-## 1.1 Overzicht Web
-
-In deze module ga je kennis maken ...
-
-Ga naar de pagina van het [CS50-lecture over Web Development](/cs50t/web) en beantwoord alle vragen.
-
-Onderwerpen van het college zijn:
-
-- Browser, server
-- HTTP
-- HTML, Links, Images, Pars, Headings, Lists, Tables
-- curl Google
-- Forms
-- DOM
-- CSS
-
-[Video lecture: CS50 Web development](https://cs50.harvard.edu/ap/2021/curriculum/technology/notes/web_development/)
 
 ## 1.2 Homepage
 
