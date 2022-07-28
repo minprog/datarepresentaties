@@ -4,9 +4,9 @@ Welkom:
 Onderwerpen:
     Computers:
         Hardware: /cs50t/hardware
-        Besturingssystemen: /onderwerpen/hardware/besturingssystemen
-        UNIX intro: /onderwerpen/hardware/unix
-        Software Carpentry UNIX: /onderwerpen/hardware/carpentry
+        Besturingssystemen: /onderwerpen/computers/besturingssystemen
+        UNIX intro: /onderwerpen/computers/unix
+        Software Carpentry UNIX: /onderwerpen/computers/carpentry
     Representaties:
         Intro: /onderwerpen/representaties
     Text processing:
