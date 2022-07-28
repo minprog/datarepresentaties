@@ -23,6 +23,9 @@ The nice thing is that the first 128 characters are encoded exactly as they are 
 However, every UTF-8 file is not necessarily valid ASCII. This becomes a problem in older text editors that do not expect UTF-8 text. It also becomes a problem in tools to process text written using for example Python version 2.x.
 Because of this, encodings can be a bit of a hassle. It's good to be aware of this. In this course, we will notify you in case encodings may become a problem.
 
+🌵 Oefening: een aantal tekstbestanden. Vogel uit welke encoding gebruikt is. Geef aan waarom je tot die conclusie komt.
+
+
 ## Het probleem met newlines
 
 Difference between asc(10) and asc(13).

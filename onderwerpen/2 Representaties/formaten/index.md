@@ -7,3 +7,6 @@ Opdracht: hier heb je 10 files. Wat is het FORMAAT van de file? Gebruik xxd. Hoe
 Gebruik de tool "file" om te achterhalen wat voor formaat het is.
 Uitleg magic numbers
 
+- sommige files zijn gewoon zip-files maar dan zit daarin weer iets anders
+-   unzip
+-   

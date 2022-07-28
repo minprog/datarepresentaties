@@ -4,21 +4,21 @@ Welkom:
 Onderwerpen:
     Computers:
         Lecture: /onderwerpen/computers/lecture
-        Besturingssystemen: /onderwerpen/computers/besturingssystemen
+        Besturingssystemen [boek]: /onderwerpen/computers/besturingssystemen
         UNIX intro: /onderwerpen/computers/unix
         Software Carpentry UNIX: /onderwerpen/computers/carpentry
     Representaties:
         Lecture: /onderwerpen/representaties/lecture
-        Representaties: /onderwerpen/representaties/boek
-        Text encoding: /onderwerpen/representaties/text
+        Representaties [boek]: /onderwerpen/representaties/boek
         Bestandsformaten: /onderwerpen/representaties/formaten
     Text processing:
+        Text encoding: /onderwerpen/representaties/text
         Regular expressions: /onderwerpen/text/regex
-        Grep: /onderwerpen/text/grep
-        Tools: /onderwerpen/text/tools
+        Grep [boek]: /onderwerpen/text/grep
+        Tools [boek]: /onderwerpen/text/tools
     Structured text:
         CSV: /onderwerpen/structured/csv
-        Awk: /onderwerpen/structured/awk
+        Awk [boek]: /onderwerpen/structured/awk
         JSON: /onderwerpen/structured/json
         Jq: /onderwerpen/structured/jq
     APIs:
@@ -36,4 +36,3 @@ Onderwerpen:
         Movies: /onderwerpen/databases/movies
         Fiftyville: /onderwerpen/databases/fiftyville
         Pizza: /onderwerpen/databases/pizza
-
