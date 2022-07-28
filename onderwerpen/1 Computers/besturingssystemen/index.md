@@ -1,6 +1,12 @@
 # Besturingssystemen
 
-Lees Brookshear hoofdstuk 3.1--3.3, 12 pagina's. Beantwoord de volgende vragen uit het hoofdstuk.
+Lees Brookshear hoofdstuk 3.1--3.3, 12 pagina's. De onderwerpen:
+
+- History of operating systems
+- Operating system architecture
+- Coordinating the machine's activities
+
+🌵 Beantwoord de onderstaande volgende vragen uit het hoofdstuk. Je mag de vragen gewoon in het Nederlands beantwoorden, maar veel technische termen zijn wel Engels.
 
 ## Vraag 3
 
