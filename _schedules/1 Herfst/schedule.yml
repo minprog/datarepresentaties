@@ -7,9 +7,15 @@ Onderwerpen:
         Besturingssystemen: /onderwerpen/hardware/besturingssystemen
         UNIX intro: /onderwerpen/hardware/unix
         Software Carpentry UNIX: /onderwerpen/hardware/carpentry
-    Representaties: /onderwerpen/representaties
-    Text processing: /onderwerpen/text
-    Structured text: /onderwerpen/structured
-    APIs: /onderwerpen/apis
-    Web development: /onderwerpen/web
-    Databases: /onderwerpen/databases
+    Representaties:
+        Intro: /onderwerpen/representaties
+    Text processing:
+        Intro: /onderwerpen/text
+    Structured text:
+        Intro: /onderwerpen/structured
+    APIs:
+        Intro: /onderwerpen/apis
+    Web development:
+        Intro: /onderwerpen/web
+    Databases:
+        Intro: /onderwerpen/databases
