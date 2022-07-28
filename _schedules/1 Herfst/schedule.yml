@@ -10,8 +10,8 @@ Onderwerpen:
     Representaties:
         Lecture: /onderwerpen/representaties/lecture
         Representaties: /onderwerpen/representaties/boek
-        Unicode: /onderwerpen/representaties/unicode
-        Formaten: /onderwerpen/representaties/formaten
+        Text encoding: /onderwerpen/representaties/text
+        Bestandsformaten: /onderwerpen/representaties/formaten
     Text processing:
         Regular expressions: /onderwerpen/text/regex
         Grep: /onderwerpen/text/grep
