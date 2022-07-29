@@ -49,7 +49,3 @@ Lees het hoofdstuk Data Storage uit het boek van Brookshear, *Computer Science: 
 1.  Vraag 36
 
     <textarea name="form[q36]" rows="8" required></textarea>
-
-🌵 Als je de tijd hebt kun je nadenken en discussiëren over vraag 4 van de Social Issues in het hoofdstuk. Als je hier een inzicht over ontwikkelt en het lukt te formuleren in een geschreven uitwerking dan kun je hier een extra punt mee verdienen. (Vul `-` in als je de vraag niet wil insturen.)
-
-<textarea name="form[qSI]" rows="8" required></textarea>
