@@ -1,6 +1,6 @@
 # Besturingssystemen
 
-Lees Brookshear hoofdstuk 3.1--3.3, 12 pagina's. De onderwerpen:
+Lees hoofdstuk 3.1--3.3 uit het boek van Brookshear, *Computer Science: An Overview*. De onderwerpen:
 
 - History of operating systems
 - Operating system architecture

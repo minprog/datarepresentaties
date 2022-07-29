@@ -12,14 +12,44 @@ Lees het hoofdstuk Data Storage uit het boek van Brookshear, *Computer Science: 
 - Data compression
 - Communication errors
 
-Beantwoord de vragen.
+🌵 Beantwoord de onderstaande volgende vragen uit het hoofdstuk. Je mag de vragen gewoon in het Nederlands beantwoorden, maar veel technische termen zijn wel Engels.
 
-[Hoofdstuk: Data, encoding and metadata](https://faculty.washington.edu/ajko/books/foundations-of-information/data)
+1.  Vraag 6
 
+    <textarea name="form[q6]" rows="8" required></textarea>
 
+1.  Vraag 7
 
-- What would be the kinds of content of a plain text file that cannot be so easily inspected by humans?
+    <textarea name="form[q7]" rows="8" required></textarea>
 
-- Decode the following ASCII message, assuming 7-bit ASCII characters and no parity: 1001010 1001111 1001000 1001110 0100000 1000100 1001111 1000101 (maybe don't use spaces!)
+1.  Vraag 10
 
-- The ASCII code for the letter A is 1000001, and the ASCII code for the letter a is 1100001. Given that the ASCII code for the letter G is 1000111, without looking at Table 2.7, what is the ASCII code for the letter g?
+    <textarea name="form[q10]" rows="8" required></textarea>
+
+1.  Vraag 11
+
+    <textarea name="form[q11]" rows="8" required></textarea>
+
+1.  Vraag 19
+
+    <textarea name="form[q19]" rows="8" required></textarea>
+
+1.  Vraag 20
+
+    <textarea name="form[q20]" rows="8" required></textarea>
+
+1.  Vraag 24
+
+    <textarea name="form[q24]" rows="8" required></textarea>
+
+1.  Vraag 30
+
+    <textarea name="form[q30]" rows="8" required></textarea>
+
+1.  Vraag 36
+
+    <textarea name="form[q36]" rows="8" required></textarea>
+
+🌵 Als je de tijd hebt kun je nadenken en discussiëren over vraag 4 van de Social Issues in het hoofdstuk. Als je hier een inzicht over ontwikkelt en het lukt te formuleren in een geschreven uitwerking dan kun je hier een extra punt mee verdienen. (Vul `-` in als je de vraag niet wil insturen.)
+
+<textarea name="form[qSI]" rows="8" required></textarea>

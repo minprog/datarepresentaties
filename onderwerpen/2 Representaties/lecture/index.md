@@ -48,10 +48,10 @@ Onderwerpen van het college zijn:
 
     <textarea name="form[q4]" rows="8" required></textarea>
 
-5.  Keep in mind that “1-bit color” connotes two colors, black and white.
+5.  Keep in mind that "1-bit color" connotes two colors, black and white.
 
-    - If an image supports “8-bit color,” (roughly) how many colors does it support?
-    - If an image supports “24-bit color,” (roughly) how many colors does it support?
+    - If an image supports "8-bit color," (roughly) how many colors does it support?
+    - If an image supports "24-bit color," (roughly) how many colors does it support?
 
     <textarea name="form[q5]" rows="8" required></textarea>
 
@@ -63,10 +63,10 @@ Onderwerpen van het college zijn:
 
     <textarea name="form[q6]" rows="8" required></textarea>
 
-7.  Consider the childhood “flip book” below, each of whose pages has a slightly different drawing of a shape.
+7.  Consider the childhood "flip book" below, each of whose pages has a slightly different drawing of a shape.
 
     ![Someone showing an animation in a flipbook](giphy.gif)
 
-    In what way is a childhood “flip book” like a digital video?
+    In what way is a childhood "flip book" like a digital video?
 
     <textarea name="form[q7]" rows="8" required></textarea>
