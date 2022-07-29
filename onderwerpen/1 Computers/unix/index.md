@@ -88,7 +88,7 @@ We geven hier de namen van een aantal interessante commando's. Je kunt ze uitpro
 - leave
 - dc
 
-Het nadeel van de man pages is dat er zelden goede voorbeelden gegeven worden, en dat de algemene uitleg vaak overdreven technisch geformuleerd is. Daarvoor kun je beter op internet zoeken. Optie: installeren "tldr" https://tldr.sh
+Het nadeel van de man pages is dat maar zelden goede voorbeelden gegeven worden, en dat de algemene uitleg vaak overdreven technisch geformuleerd is. Daarvoor kun je beter op internet zoeken. Ook kun je `tldr` installeren of voorbeelden opzoeken op de pagina <https://tldr.sh>.
 
 ## Vragen
 

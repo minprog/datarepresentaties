@@ -36,10 +36,15 @@ When might you want to use a JPEG instead of a GIF?
 
 Consider the GIFs below.
 
+**French Flag**
 
+![French Flag: blue, white and red from left to right, each being a bit wider than the previous](300px-Civil_and_Naval_Ensign_of_France.svg.png)
+
+**German Flag**
+
+![German Flag: black, red and yellow from top to bottom in equal parts](1280px-Flag_of_Germany.svg.png)
 
 Even though these images are the same resolution (300 pixels by 200 pixels), the German GIF is smaller (i.e., fewer bytes) than the French GIF. Hypothesize why that might be.
-
 
 <textarea name="form[q4]" rows="8" required></textarea>
 
@@ -52,13 +57,15 @@ If an image supports “24-bit color,” (roughly) how many colors does it suppo
 
 Consider the video below.
 
-<iframe width="993" height="478" src="https://www.youtube.com/embed/WwnI0RS6J5A" title="Let's Enhance" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+![embed](https://www.youtube.com/embed/WwnI0RS6J5A)
 
 Why does making an image bigger not make it clearer?
 
 <textarea name="form[q6]" rows="8" required></textarea>
 
 Consider the childhood “flip book” below, each of whose pages has a slightly different drawing of a shape.
+
+![Someone showing an animation in a flipbook](giphy.gif)
 
 In what way is a childhood “flip book” like a digital video?
 
