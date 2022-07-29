@@ -22,51 +22,51 @@ Onderwerpen van het college zijn:
 
 ## Questions
 
-Why might a song in MP3 format sound much better than a song in MIDI format?
+1.  Why might a song in MP3 format sound much better than a song in MIDI format?
 
-<textarea name="form[q1]" rows="8" required></textarea>
+    <textarea name="form[q1]" rows="8" required></textarea>
 
-When might you want to use a GIF instead of a JPEG?
+2.  When might you want to use a GIF instead of a JPEG?
 
-<textarea name="form[q2]" rows="8" required></textarea>
+    <textarea name="form[q2]" rows="8" required></textarea>
 
-When might you want to use a JPEG instead of a GIF?
+3.  When might you want to use a JPEG instead of a GIF?
 
-<textarea name="form[q3]" rows="8" required></textarea>
+    <textarea name="form[q3]" rows="8" required></textarea>
 
-Consider the GIFs below.
+4.  Consider the GIFs below.
 
-**French Flag**
+    **French Flag**
 
-![French Flag: blue, white and red from left to right, each being a bit wider than the previous](300px-Civil_and_Naval_Ensign_of_France.svg.png)
+    ![French Flag: blue, white and red from left to right, each being a bit wider than the previous](300px-Civil_and_Naval_Ensign_of_France.svg.png)
 
-**German Flag**
+    **German Flag**
 
-![German Flag: black, red and yellow from top to bottom in equal parts](1280px-Flag_of_Germany.svg.png)
+    ![German Flag: black, red and yellow from top to bottom in equal parts](1280px-Flag_of_Germany.svg.png)
 
-Even though these images are the same resolution (300 pixels by 200 pixels), the German GIF is smaller (i.e., fewer bytes) than the French GIF. Hypothesize why that might be.
+    Even though these images are the same resolution (300 pixels by 200 pixels), the German GIF is smaller (i.e., fewer bytes) than the French GIF. Hypothesize why that might be.
 
-<textarea name="form[q4]" rows="8" required></textarea>
+    <textarea name="form[q4]" rows="8" required></textarea>
 
-Keep in mind that “1-bit color” connotes two colors, black and white.
+5.  Keep in mind that “1-bit color” connotes two colors, black and white.
 
-If an image supports “8-bit color,” (roughly) how many colors does it support?
-If an image supports “24-bit color,” (roughly) how many colors does it support?
+    - If an image supports “8-bit color,” (roughly) how many colors does it support?
+    - If an image supports “24-bit color,” (roughly) how many colors does it support?
 
-<textarea name="form[q5]" rows="8" required></textarea>
+    <textarea name="form[q5]" rows="8" required></textarea>
 
-Consider the video below.
+6.  Consider the video below.
 
-![embed](https://www.youtube.com/embed/WwnI0RS6J5A)
+    ![embed](https://www.youtube.com/embed/WwnI0RS6J5A)
 
-Why does making an image bigger not make it clearer?
+    Why does making an image bigger not make it clearer?
 
-<textarea name="form[q6]" rows="8" required></textarea>
+    <textarea name="form[q6]" rows="8" required></textarea>
 
-Consider the childhood “flip book” below, each of whose pages has a slightly different drawing of a shape.
+7.  Consider the childhood “flip book” below, each of whose pages has a slightly different drawing of a shape.
 
-![Someone showing an animation in a flipbook](giphy.gif)
+    ![Someone showing an animation in a flipbook](giphy.gif)
 
-In what way is a childhood “flip book” like a digital video?
+    In what way is a childhood “flip book” like a digital video?
 
-<textarea name="form[q7]" rows="8" required></textarea>
+    <textarea name="form[q7]" rows="8" required></textarea>
