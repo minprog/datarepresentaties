@@ -41,7 +41,9 @@ Nu bekijken we de eerste 128 bytes van een MP4-bestand waarin video is opgeslage
     00000060: 47fd 97fe 68f8 bbbe 7d5e aeaf f75f 5b2a  G...h...}^..._[*
     00000070: 9240 8dd7 4771 6b40 ffc0 ede5 eecb c57d  .@..Gqk@.......}
 
-Voor het opslaan van video worden allerlei formaten gebruikt waarmee het geluid op een efficiënte manier binair kan worden gecodeerd. ASCII is specifiek bedoeld voor het opslaan van letters en andere tekst-tekens. Je ziet hierboven dan ook dat het grootste deel van de data geen geldige ASCII-tekens bevat. Maar er staan wel degelijk een aantal reeksen letters in, waardoor we vermoeden dat dit ook bedoeld is als een stukje ASCII. Specifiek zien we twee keer de string `mp4` staan, wat niet geheel toevallig ook de naam van het formaat is. Dat is dus niet de audio zelf maar kennelijk een beschrijving van het bestand. Hiervoor is ASCII gebruikt. Er omheen staan echter meer dan genoeg onherkenbare reeksen tekens. Dat is dus "binaire" data, waarmee we niet veel meer bedoelen dan dat het in een zelfgedefinieerd formaat is.
+Voor het opslaan van video worden allerlei formaten gebruikt waarmee het geluid op een efficiënte manier binair kan worden gecodeerd. ASCII is specifiek bedoeld voor het opslaan van letters en andere tekst-tekens. Zeker bij video-bestanden, die sowieso al erg groot worden, is het niet handig om elke pixel uit de video in ASCII-getallen op te slaan. Beter sla je de kleurwaarden van elk beeld op als "binaire data". Je ziet hierboven dan ook dat het grootste deel van de data geen geldige ASCII-tekens bevat.
+
+Toch staan er wel degelijk een aantal reeksen letters in de bovenstaande data, waardoor we vermoeden dat dit ook bedoeld is als een stukje ASCII. Specifiek zien we twee keer de string `mp4` staan, wat niet geheel toevallig ook de naam van het formaat is. Dat is dus niet de video zelf maar kennelijk een beschrijving van het bestand. Hiervoor is ASCII gebruikt. Er omheen staan echter meer dan genoeg onherkenbare reeksen tekens. Dat is dus binaire data, waarmee we niet veel meer bedoelen dan dat het in een zelfgedefinieerd formaat is, in plaats van ASCII.
 
 ## Magic bytes
 
