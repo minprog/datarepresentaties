@@ -21,7 +21,7 @@ In fact, in the book it is said that Unicode always uses 16 bits per code point.
 
 So the nice thing is that the first 128 characters of Unicode are encoded exactly as they are in ASCII. The very first bit in a byte is always 0 in those cases. The remaining 7 bits are used to encode the specific character.
 
-Characters starting with a 1 will be interpreted differently. This means that every ASCII text (but not extended ASCII) is valid UTF-8. In other words, many files can be read assuming that they are interpretable as UTF-8.
+In contrast, characters starting with a 1 will be interpreted differently in Unicode UTF-8 than there are in ASCII. This means that every ASCII text (but not extended ASCII) is valid UTF-8. In other words, many files can be read assuming that they are interpretable as UTF-8.
 
 **Question.** Why is not every text encoded in "extended ASCII" also valid Unicode?
 
