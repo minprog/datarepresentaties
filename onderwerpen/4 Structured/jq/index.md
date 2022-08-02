@@ -10,9 +10,24 @@ Via [deze link](https://raw.githubusercontent.com/prust/wikipedia-movie-data/mas
 
 ## Opdrachten
 
-1. Geef een commando om alleen de gegevens van de eerste film uit het bestand te laten zien.
-2. Geef een commando om alleen de titel van de eerste film uit het bestand te laten zien.
-3. Geef een commando om de titels van alle films uit het bestand te laten zien.
-4. Geef een commando om de titels van alle films uit het bestand te laten zien, zonder aanhalingstekens (met `sed`).
-5. Geef een commando om ...
+1.  Geef een commando om alleen de gegevens van de eerste film uit het bestand te laten zien.
+
+    <textarea name="form[q4]" rows="8" required></textarea>
+
+2.  Geef een commando om alleen de titel van de eerste film uit het bestand te laten zien.
+
+    <textarea name="form[q4]" rows="8" required></textarea>
+
+3.  Geef een commando om de titels van alle films uit het bestand te laten zien.
+
+    <textarea name="form[q4]" rows="8" required></textarea>
+
+4.  Geef een commando om de titels van alle films uit het bestand te laten zien, zonder aanhalingstekens (met `sed`).
+
+    <textarea name="form[q4]" rows="8" required></textarea>
+
+5.  Geef een commando om ...
+
+    <textarea name="form[q4]" rows="8" required></textarea>
+
 
