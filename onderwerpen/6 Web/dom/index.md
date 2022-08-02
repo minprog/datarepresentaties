@@ -1,5 +1,7 @@
 # DOM
 
+![embed](https://www.youtube.com/embed/GBKwdFEyJks>)
+
 - Laten zien met diagram dat het een hiërarchie is
 - In de inspector openen en uitklappen
 - "Add child" via de inspector

@@ -12,15 +12,15 @@ Via [deze link](https://raw.githubusercontent.com/prust/wikipedia-movie-data/mas
 
 1.  Geef een commando om alleen de gegevens van de eerste film uit het bestand te laten zien.
 
-    <textarea name="form[q4]" rows="8" required></textarea>
+    <textarea name="form[q1]" rows="8" required></textarea>
 
 2.  Geef een commando om alleen de titel van de eerste film uit het bestand te laten zien.
 
-    <textarea name="form[q4]" rows="8" required></textarea>
+    <textarea name="form[q2]" rows="8" required></textarea>
 
 3.  Geef een commando om de titels van alle films uit het bestand te laten zien.
 
-    <textarea name="form[q4]" rows="8" required></textarea>
+    <textarea name="form[q3]" rows="8" required></textarea>
 
 4.  Geef een commando om de titels van alle films uit het bestand te laten zien, zonder aanhalingstekens (met `sed`).
 
@@ -28,6 +28,6 @@ Via [deze link](https://raw.githubusercontent.com/prust/wikipedia-movie-data/mas
 
 5.  Geef een commando om ...
 
-    <textarea name="form[q4]" rows="8" required></textarea>
+    <textarea name="form[q5]" rows="8" required></textarea>
 
 
