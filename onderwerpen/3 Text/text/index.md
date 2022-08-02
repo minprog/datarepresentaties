@@ -35,7 +35,7 @@ However, every UTF-8 file is not necessarily valid ASCII. This becomes a problem
 
 Because of this, encodings can be a bit of a hassle. It's good to be aware of this. In this course, we will notify you in case encodings may become a problem.
 
-## Newlines
+## Line breaks
 
 ASCII and Unicode also contains various kinds of control codes, or "unprintable characters". A few of those are used to represent the "end of" something. The most important ones are the characters that signal the **end of a line**.
 
