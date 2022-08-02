@@ -22,7 +22,7 @@ Welk commando heb je uiteindelijk gebruikt?
 
 ## Encodings
 
-Ook CSV-bestanden kunnen in verschillende encodings worden opgeslagen, dus niet alleen ASCII (zoals in de RFC staat) maar bijvoorbeeld ook UTF-8. Net als bij andere teksten is het niet altijd vooraf duidelijk welke encoding wordt gebruikt. Daarom kun je bij het inlezen vaak aangeven welke encoding het moet zijn. Zie bijvoorbeeld [deze pagina met instructies over het importeren van UTF-8 CSV-bestanden in Excel]. Dit is ook relevant als je geautomatiseerd data gaat verwerken; je moet dan zorgen dat je meerdere formaten aankunt, of dat alle data gegarandeerd in hetzelfde formaat wordt aangeleverd.
+Ook CSV-bestanden kunnen in verschillende encodings worden opgeslagen, dus niet alleen ASCII (zoals in de RFC staat) maar bijvoorbeeld ook UTF-8. Net als bij andere teksten is het niet altijd vooraf duidelijk welke encoding wordt gebruikt. Daarom kun je bij het inlezen vaak aangeven welke encoding het moet zijn. Zie bijvoorbeeld [deze pagina met instructies over het importeren van UTF-8 CSV-bestanden in Excel](https://www.nextofwindows.com/how-to-display-csv-files-with-unicode-utf-8-encoding-in-excel). Dit is ook relevant als je geautomatiseerd data gaat verwerken; je moet dan zorgen dat je meerdere formaten aankunt, of dat alle data gegarandeerd in hetzelfde formaat wordt aangeleverd.
 
 ## Quotes
 
