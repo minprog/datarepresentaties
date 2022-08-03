@@ -2,7 +2,7 @@
 
 Bestudeer het videocollege en beantwoord dan de vragen hieronder. Je antwoorden kun je inleveren door onderaan op de knop "Submit voor grading" te drukken. Ze worden beoordeeld op diepgang, dus in hoeverre er een zinvol antwoord wordt gegeven met een duidelijke onderbouwing. Laat daarom ook weten als je voor het antwoord andere bronnen of tools hebt gebruikt dan het videocollege.
 
-![embed](https://www.youtube.com/embed/QQmFyybzon0)
+![embed](https://www.youtube.com/embed/U6hkOAnFJxM)
 
 - [Open in CS50 video player](https://video.cs50.io/U6hkOAnFJxM?screen=m67oi7tINzQ)
 - [Open lecture notes](https://cs50.harvard.edu/ap/2021/curriculum/technology/notes/web_development/)
