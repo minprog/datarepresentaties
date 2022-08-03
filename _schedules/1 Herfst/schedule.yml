@@ -20,14 +20,10 @@ Onderwerpen:
         Awk [boek]: /onderwerpen/structured/awk
         JSON: /onderwerpen/structured/json
         Jq: /onderwerpen/structured/jq
-    APIs:
-        Lecture: /onderwerpen/apis/lecture
-        Curl: /onderwerpen/apis/curl
-        Crawling: /onderwerpen/apis/crawling
-        Graphviz: /onderwerpen/apis/graphviz
     Web development:
         Lecture: /onderwerpen/web/lecture
         Homepage: /onderwerpen/web/homepage
+        Curl: /onderwerpen/web/curl
         Scraping: /onderwerpen/web/scraping
     Databases:
         Lecture: /onderwerpen/databases/lecture
