@@ -16,7 +16,7 @@ Let op dat er ook nog andere formaten zijn zoals "tab separated values", die op 
     van Assema,L0.09
     Vrielink,L0.10
 
-Welk commando heb je uiteindelijk gebruikt?
+Welk commando heb je uiteindelijk gebruikt? Leg uit hoe alle opties werken om het juiste resultaat te krijgen.
 
 <textarea name="form[q0A]" rows="4" required></textarea>
 
