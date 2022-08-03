@@ -2,7 +2,7 @@
 
 Great slides: <https://www.stat.berkeley.edu/~spector/sql.pdf>
 
-Watch the lecture by clicking the image below. Do just take a moment to familiarize yourself with the video player. Perhaps of special interest is the ability to jump to and search for specific instructions, and the feature to quickly jump between chapters. 
+Watch the lecture, noting that you should skip the first hour or so. The player should automatically start at the correct position.
 
 ![embed](https://www.youtube.com/embed/Wb0DM9I8RDo?start=3409)
 
