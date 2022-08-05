@@ -1,10 +1,6 @@
 # Besturingssystemen
 
-Lees hoofdstuk 3.1--3.3 uit het boek van Brookshear, *Computer Science: An Overview*. De onderwerpen:
-
-- History of operating systems
-- Operating system architecture
-- Coordinating the machine's activities
+Lees het onderdeel "Operating systems" uit het boek van Brookshear, *Computer Science: An Overview*.
 
 🌵 Beantwoord de onderstaande volgende vragen uit het hoofdstuk. Je mag de vragen gewoon in het Nederlands beantwoorden, maar veel technische termen zijn wel Engels.
 

@@ -1,8 +1,8 @@
 # Binary values and number systems
 
-Lees het onderdeel *Binary values and number systems* uit het boek van Dale & Lewis, *Computer Science Illuminated*.
+1. Lees het onderdeel *Number systems* uit het boek van Dale & Lewis, *Computer Science Illuminated*.
 
-Lees daarna ook *Binary hardware* uit het boek van Schneider & Gersting, *Invitation to Computer Science*.
+2. Lees daarna ook *Binary hardware* uit het boek van Schneider & Gersting, *Invitation to Computer Science*.
 
 Beantwoord de volgende vragen. Je mag de vragen in het Nederlands beantwoorden, maar veel technische termen zijn wel Engels, en die kun je gewoon gebruiken.
 
