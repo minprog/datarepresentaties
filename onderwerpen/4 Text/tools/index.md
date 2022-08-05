@@ -1,13 +1,6 @@
-# Grep
+# Manipulating files with UNIX
 
-Lees hoofdstuk 11 "Regular expressions and the grep sisters" uit het boek *Bulletproof UNIX* van Gottleber. Dit zijn de onderwerpen:
-
-- The history of grep
-- Searching within a file
-- Regular expressions
-- grep
-- egrep
-- fgrep
+Lees het onderdeel "Manipulating files" uit het boek *UNIX Visual Quickstart Guide* van Ray & Ray.
 
 🌵 Beantwoord de onderstaande volgende vragen uit het hoofdstuk. Je mag de vragen gewoon in het Nederlands beantwoorden, maar veel technische termen zijn wel Engels.
 

@@ -1,17 +1,6 @@
 # awk
 
-Lees hoofdstuk 13 "awk" uit het boek *Bulletproof UNIX* van Gottleber. Dit zijn de onderwerpen:
-
-- Awk syntax
-- Awk variables
-- The parts of a program
-- Awk program format
-- Patterns
-
-Bovenstaande is voldoende om gestructureerde datafiles te kunnen filteren met hulp van `awk`. Als je programmeren redelijk makkelijk vindt dan kun je ook nog de resterende pagina's doornemen:
-
-- Actions
-- `system()`
+Lees het hoofdstuk "awk" uit het boek *Bulletproof UNIX* van Gottleber.
 
 🌵 Beantwoord de onderstaande volgende vragen uit het hoofdstuk. Je mag de vragen gewoon in het Nederlands beantwoorden, maar veel technische termen zijn wel Engels.
 

@@ -1,11 +1,6 @@
-# Text tools
+# Scripting in the shell
 
-Lees hoofdstuk 12 "Types of text processing" uit het boek *Bulletproof UNIX* van Gottleber. Dit zijn de onderwerpen:
-
-- `tr`
-- POSIX extensions
-- `sort`
-- `sed`
+Lees het onderdeel "Writing basic scripts" uit het boek *UNIX Visual Quickstart Guide* van Ray & Ray.
 
 🌵 Beantwoord de onderstaande volgende vragen uit het hoofdstuk. Je mag de vragen gewoon in het Nederlands beantwoorden, maar veel technische termen zijn wel Engels.
 

@@ -1,16 +1,6 @@
 # Representaties
 
-Lees het hoofdstuk Data Storage uit het boek van Brookshear, *Computer Science: An Overview*. De onderwerpen:
-
-- Bits and their storage
-- Main memory
-- Mass storage
-- Representing information as bit patterns
-- The binary system
-- Storing integers
-- Storing fractions
-- Data compression
-- Communication errors
+Lees het onderwerp *Binary representation* uit het boek van Schneider & Gersting, *Invitation to Computer Science*.
 
 🌵 Beantwoord de onderstaande volgende vragen uit het hoofdstuk. Je mag de vragen gewoon in het Nederlands beantwoorden, maar veel technische termen zijn wel Engels.
 

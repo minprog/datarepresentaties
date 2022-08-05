@@ -3,21 +3,26 @@ Welkom:
 
 Onderwerpen:
     Computers:
-        Lecture: /onderwerpen/computers/lecture
-        Besturingssystemen [boek]: /onderwerpen/computers/besturingssystemen
+        Hardware: /onderwerpen/computers/lecture
+        Introduction to computing: /onderwerpen/computers/hardware
+        Binary values: /onderwerpen/computers/binary
         UNIX intro: /onderwerpen/computers/unix
-        Software Carpentry UNIX: /onderwerpen/computers/carpentry
+    Besturingssystemen:
+        Besturingssystemen: /onderwerpen/besturingssystemen/os
+        File systems: /onderwerpen/besturingssystemen/fs
+        Software Carpentry UNIX: /onderwerpen/besturingssystemen/carpentry
     Representaties:
-        Lecture: /onderwerpen/representaties/lecture
-        Representaties [boek]: /onderwerpen/representaties/boek
+        Multimedia: /onderwerpen/representaties/multimedia
+        Binaire representatie: /onderwerpen/representaties/binary
         Bestandsformaten: /onderwerpen/representaties/formaten
     Text processing:
         Text encoding: /onderwerpen/text/text
-        Grep [boek]: /onderwerpen/text/grep
-        Tools [boek]: /onderwerpen/text/tools
+        Manipulating files: /onderwerpen/text/tools
+        Regular expressions: /onderwerpen/text/regex
+        Scripting in the shell: /onderwerpen/text/scripts
     Structured text:
         CSV: /onderwerpen/structured/csv
-        Awk [boek]: /onderwerpen/structured/awk
+        Awk: /onderwerpen/structured/awk
         JSON: /onderwerpen/structured/json
         Jq: /onderwerpen/structured/jq
     Web development:
