@@ -1,8 +1,6 @@
 # Besturingssystemen
 
-Lees het onderdeel "Operating systems" uit het boek van Brookshear, *Computer Science: An Overview*.
-
-🌵 Beantwoord de onderstaande volgende vragen uit het hoofdstuk. Je mag de vragen gewoon in het Nederlands beantwoorden, maar veel technische termen zijn wel Engels.
+Lees het onderdeel "Operating systems" uit het boek van Brookshear, *Computer Science: An Overview*. Beantwoord onderstaande vragen. Je mag de vragen gewoon in het Nederlands beantwoorden, maar veel technische termen zijn wel Engels.
 
 1.  We hebben een queue waarin we de items R, S en T plaatsen, in die volgorde. Vervolgens verwijderen we één element uit de queue, volgens de queue-regels. Dan plaatsen we een vierde item X in de queue. We verwijderen dan weer één item, en we plaatsen tot slot Y en Z erin. Welke resterende items komen uit de queue als we deze één voor één verwijderen?
 

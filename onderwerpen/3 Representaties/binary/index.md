@@ -1,8 +1,6 @@
 # Representaties
 
-Lees het onderwerp *Binary representation* uit het boek van Schneider & Gersting, *Invitation to Computer Science*.
-
-🌵 Beantwoord de onderstaande volgende vragen uit het hoofdstuk. Je mag de vragen gewoon in het Nederlands beantwoorden, maar veel technische termen zijn wel Engels.
+Lees het onderwerp *Binary representation* uit het boek van Schneider & Gersting, *Invitation to Computer Science*. Beantwoord onderstaande vragen. Je mag de vragen gewoon in het Nederlands beantwoorden, maar veel technische termen zijn wel Engels.
 
 1.  Geef de binaire representatie van de volgende string (gebruik makend van de ASCII-manier van encoden): `$25.00`.
 

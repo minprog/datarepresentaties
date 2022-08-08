@@ -1,8 +1,6 @@
 # awk
 
-Lees het hoofdstuk "awk" uit het boek *Bulletproof UNIX* van Gottleber.
-
-🌵 Beantwoord de onderstaande volgende vragen uit het hoofdstuk. Je mag de vragen gewoon in het Nederlands beantwoorden, maar veel technische termen zijn wel Engels.
+Lees het hoofdstuk "awk" uit het boek *Bulletproof UNIX* van Gottleber. Beantwoord onderstaande vragen. Je mag de vragen gewoon in het Nederlands beantwoorden, maar veel technische termen zijn wel Engels.
 
 1.  Question 4
 
