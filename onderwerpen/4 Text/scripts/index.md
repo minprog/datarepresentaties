@@ -6,7 +6,7 @@ Je kunt ook *command-line arguments* gebruiken voor je scripts. Dan kun je echt 
 
     sed 's/[“”]/"/g' $1
 
-Vervolgens kun je `unquote` aanroepen met de naam van een bestand:
+Hiermee worden "mooie" quotes vervangen door eenvoudige ASCII quotes. Soms is dit handig als je een tekst hebt gekopieerd van een website of uit Word. Vervolgens kun je `unquote` aanroepen met de naam van een bestand:
 
     unquote imported-text.txt
 
