@@ -24,7 +24,7 @@ Lees het onderdeel *The big picture* uit het boek van Dale & Lewis, *Computer Sc
 
     <textarea name="form[q1a]" rows="4" required></textarea>
 
-2.  Abstracties spelen een belangrijke rol bij het programmeren. De definitie in het boek is "A mental model that removes complex details." In elk vakgebied en elke studie spelen abstractie een rol. Ze bieden een *manier van kijken* waarin de werkelijkheid een beetje simpel wordt gehouden zodat deze beter te begrijpen is. Beschrijf zo'n abstractie uit je eigen vakgebied.
+2.  Abstracties spelen een belangrijke rol bij het programmeren. De definitie in het boek is "A mental model that removes complex details." In elk vakgebied en elke studie spelen zulke abstracties een rol. Ze bieden een *manier van kijken* waarin de werkelijkheid een beetje simpel wordt gehouden zodat deze beter te begrijpen is. De details komen later wel. Beschrijf zo'n abstractie uit je eigen vakgebied.
 
     <textarea name="form[q2]" rows="8" required></textarea>
 
@@ -32,6 +32,6 @@ Lees het onderdeel *The big picture* uit het boek van Dale & Lewis, *Computer Sc
 
     <textarea name="form[q3]" rows="8" required></textarea>
 
-4.  Leg uit wat "machine language", "assembly language" en "higher-level languages" zijn, waarbij je ingaat op de verschillen en hoe ze "er uit zien". Heb je voorbeelden?
+4.  Leg uit wat "machine language", "assembly language" en "higher-level languages" zijn, waarbij je ingaat op de verschillen. Geef een (heel kort) voorbeeld van hoe elk er uit kan zien.
 
     <textarea name="form[q4]" rows="8" required></textarea>

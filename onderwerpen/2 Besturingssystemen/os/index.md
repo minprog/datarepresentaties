@@ -4,26 +4,30 @@ Lees het onderdeel "Operating systems" uit het boek van Brookshear, *Computer Sc
 
 🌵 Beantwoord de onderstaande volgende vragen uit het hoofdstuk. Je mag de vragen gewoon in het Nederlands beantwoorden, maar veel technische termen zijn wel Engels.
 
-## Vraag 3
+1.  We hebben een queue waarin we de items R, S en T plaatsen, in die volgorde. Vervolgens verwijderen we één element uit de queue, volgens de queue-regels. Dan plaatsen we een vierde item X in de queue. We verwijderen dan weer één item, en we plaatsen tot slot Y en Z erin. Welke resterende items komen uit de queue als we deze één voor één verwijderen?
 
-<textarea name="form[q3]" rows="8" required></textarea>
+    <textarea name="form[q1]" rows="8" required></textarea>
 
-## Vraag 8
+2.  Wat is de rol van de *user interface* in een besturingssysteem?
 
-<textarea name="form[q8]" rows="8" required></textarea>
+    <textarea name="form[q2]" rows="8" required></textarea>
 
-## Vraag 9
+3.  Wat is de rol van de *kernel* in een besturingssysteem?
 
-<textarea name="form[q9]" rows="8" required></textarea>
+    <textarea name="form[q3]" rows="8" required></textarea>
 
-## Vraag 19
+4.  Leg in woorden uit welke directorystructuur wordt geïmpliceerd door het pad `X/Y/Z`.
 
-<textarea name="form[q19]" rows="8" required></textarea>
+    <textarea name="form[q4]" rows="8" required></textarea>
 
-## Vraag 31
+5.  Wat is het verschil tussen een process met de status "waiting" en een proces met de status "ready"?
 
-<textarea name="form[q31]" rows="8" required></textarea>
+    <textarea name="form[q5]" rows="8" required></textarea>
 
-## Vraag 52
+6.  Waarom is het booten een noodzakelijk proces?
 
-<textarea name="form[q52]" rows="8" required></textarea>
+    <textarea name="form[q6]" rows="8" required></textarea>
+
+7.  Wat is het verschil tussen een firmware-update en een operating system-update?
+
+    <textarea name="form[q7]" rows="8" required></textarea>
