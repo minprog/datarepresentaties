@@ -2,7 +2,19 @@
 
 Lees het onderdeel "Writing basic scripts" uit het boek *UNIX Visual Quickstart Guide* van Ray & Ray.
 
-🌵 Beantwoord de onderstaande volgende vragen uit het hoofdstuk. Je mag de vragen gewoon in het Nederlands beantwoorden, maar veel technische termen zijn wel Engels.
+Je kunt ook *command-line arguments* gebruiken voor je scripts. Dan kun je echt een commando definiëren dat je vaker kunt gebruiken. Sla bijvoorbeeld het volgende scriptje op als `unquote`:
+
+    sed 's/[“”]/"/g' $1
+
+Vervolgens kun je `unquote` aanroepen met de naam van een bestand:
+
+    unquote imported-text.txt
+
+Jouw script gebruikt dan op de plaats van $1 de opgegeven naam `imported-text.txt`. Het nadeel is dat je script dan echt alleen maar met files werkt. Je kunt dan niet meer dit doen:
+
+    cat alice-in-wonderland.txt | unquote
+
+Hieronder vragen we je om een aantal scripts te schrijven.
 
 1.  Question 1
 
@@ -19,21 +31,3 @@ Lees het onderdeel "Writing basic scripts" uit het boek *UNIX Visual Quickstart 
 1.  Question 17
 
     <textarea name="form[q17]" rows="8" required></textarea>
-
-🌵 Geef voor de volgende oefeningen aan welke commando's je gebruikt om tot een antwoord te komen, inclusief alle command-line opties.
-
-1.  Exercise 2
-
-    <textarea name="form[e2]" rows="8" required></textarea>
-
-1.  Exercise 6
-
-    <textarea name="form[e6]" rows="8" required></textarea>
-
-1.  Exercise 8
-
-    <textarea name="form[e8]" rows="8" required></textarea>
-
-1.  Exercise 9
-
-    <textarea name="form[e9]" rows="8" required></textarea>
