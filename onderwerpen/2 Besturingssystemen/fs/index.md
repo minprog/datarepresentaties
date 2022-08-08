@@ -2,26 +2,18 @@
 
 Lees het onderdeel *File systems* uit het boek van Dale & Lewis, *Computer Science Illuminated*. Beantwoord de volgende vragen. Je mag de vragen in het Nederlands beantwoorden, maar veel technische termen zijn wel Engels, en die kun je gewoon gebruiken.
 
-## Vraag 3
+1.  De woorden "files" en "directories" (in het Nederlands zeggen we vaak "bestanden" en "mappen") zijn *analogiën* uit de echte wereld. Het nadeel van analogiën is dat de overeenkomst vaak maar beperkt is. Bespreek van twee van deze termen waar de analogie zit met het object uit de echte wereld en wat voor eigenschappen helemaal niet overeenkomen met de computerversie.
 
-<textarea name="form[q3]" rows="8" required></textarea>
+    <textarea name="form[q1]" rows="8" required></textarea>
 
-## Vraag 8
+2.  Wat is de minimale informatie die een directory over elke file moet bevatten?
 
-<textarea name="form[q8]" rows="8" required></textarea>
+    <textarea name="form[q2]" rows="8" required></textarea>
 
-## Vraag 9
+3.  Geef het absolute pad van het bestand `access.old` uit figuur 11.5 van het boek.
 
-<textarea name="form[q9]" rows="8" required></textarea>
+    <textarea name="form[q3]" rows="8" required></textarea>
 
-## Vraag 19
+4.  Stel dat de "current working directory" (huidige directory) is `C:\Windows\System`. Geef het relatieve pad naar het bestand `proj3.java` zoals in figuur 11.4 van het boek.
 
-<textarea name="form[q19]" rows="8" required></textarea>
-
-## Vraag 31
-
-<textarea name="form[q31]" rows="8" required></textarea>
-
-## Vraag 52
-
-<textarea name="form[q52]" rows="8" required></textarea>
+    <textarea name="form[q4]" rows="8" required></textarea>
