@@ -16,7 +16,7 @@ Jouw script gebruikt dan op de plaats van $1 de opgegeven naam `imported-text.tx
 
 Hieronder vragen we je om een aantal scripts te schrijven.
 
-1.  Question 1
+1.  Maak script dat het argument omzet van `camelCase` naar `snake_case`. Let ook op de hoofdletters.
 
     <textarea name="form[q1]" rows="8" required></textarea>
 

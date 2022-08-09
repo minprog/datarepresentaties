@@ -8,19 +8,20 @@ Onderwerpen:
         Binary values: /onderwerpen/computers/binary
         UNIX intro: /onderwerpen/computers/unix
     Besturingssystemen:
+        Internet: /onderwerpen/besturingssystemen/internet
         Besturingssystemen: /onderwerpen/besturingssystemen/os
         File systems: /onderwerpen/besturingssystemen/fs
         Software Carpentry UNIX: /onderwerpen/besturingssystemen/carpentry
     Representaties:
         Multimedia: /onderwerpen/representaties/multimedia
         Binaire representatie: /onderwerpen/representaties/binary
+        Text encoding: /onderwerpen/text/text
         Bestandsformaten: /onderwerpen/representaties/formaten
     Text processing:
-        Text encoding: /onderwerpen/text/text
+        Security: /onderwerpen/structured/security
         Manipulating files: /onderwerpen/text/tools
         Regular expressions: /onderwerpen/text/regex
         Scripting in the shell: /onderwerpen/text/scripts
-    Structured text:
         CSV: /onderwerpen/structured/csv
         Awk: /onderwerpen/structured/awk
         JSON: /onderwerpen/structured/json

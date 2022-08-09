@@ -84,9 +84,7 @@ The problem is: what is whitespace? This is not necessarily well-defined. Say we
     two
     words
 
-There is no "space" character between "two" and "words", there's only a newline there (and/or a carriage return, as we discussed earlier). But obviously we see these as separate words when we read then. 
-
-So what if you're making a tool that **counts the number of words in a file**? Which codes are seen as white space, and in turn decide how many words there are? 
+There is no "space" character between "two" and "words", there's only a newline there (and/or a carriage return, as we discussed earlier). But obviously we see these as separate words when we read them. So what if you're making a tool that **counts the number of words in a file**? Which codes are seen as white space, and in turn decide how many words there are?
 
 🌵 Your task is to investigate the inner workings of the tool called `wc` that is designed to count words in files.
 
