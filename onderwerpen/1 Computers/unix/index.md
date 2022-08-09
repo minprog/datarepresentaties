@@ -20,14 +20,14 @@ Hieronder vragen we bijvoorbeeld de datum op met het commando date:
 
 Een ander programma om de datum te laten zien is cal. Hiermee verschijnt een kalender van de huidige maand op het scherm (deze wordt "geprint" naar het scherm). Standaard wordt de huidige dag uitgelicht door de voor- en achtergrondkleuren om te wisselen (zie dag 10 hieronder).
 
-me@laptop ~ % cal
-      May 2022        
-Su Mo Tu We Th Fr Sa  
- 1  2  3  4  5  6  7  
- 8  9 10 11 12 13 14  
-15 16 17 18 19 20 21  
-22 23 24 25 26 27 28  
-29 30 31              
+    me@laptop ~ % cal
+          May 2022        
+    Su Mo Tu We Th Fr Sa  
+     1  2  3  4  5  6  7  
+     8  9 10 11 12 13 14  
+    15 16 17 18 19 20 21  
+    22 23 24 25 26 27 28  
+    29 30 31              
 
 ## Command-line arguments
 
