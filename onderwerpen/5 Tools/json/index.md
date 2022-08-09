@@ -17,3 +17,35 @@ Dit alles wordt gevat in een zeer eenvoudige syntax. Er is een [formele specific
 Een opmerking die wordt gemaakt in de specificatie is dat JSON weliswaar een **syntax** definieert maar dat de bijbehorende **semantiek** (betekenis van de inhoud) niet vastligt. Elke gebruiker van JSON moet afspraken maken of vastleggen over welke data precies gecommuniceerd wordt en wat je er mee kunt. Als je verwacht dat er een lijst van medewerkers wordt verstuurd dan zal de JSON wel een array zijn met daarin objecten.
 
 In feite geldt hetzelfde voor CSV: ook daar kun je niet aan de data ontlenen wat er bedoeld wordt.
+
+## jq
+
+Met de tool `jq` kun je data uit JSON-bestanden extraheren. Er is een speciale syntax voor het schrijven van kleine "queries" die aangeven welke data je wil hebben.
+
+Bestudeer goed de volgende pagina: <https://www.baeldung.com/linux/jq-command-json>
+
+## Movie data
+
+Via [deze link](https://raw.githubusercontent.com/prust/wikipedia-movie-data/master/movies.json) kun je een bestand downloaden met alle filminformatie die iemand van Wikipedia heeft gehaald. Bestudeer de structuur.
+
+## Opdrachten
+
+1.  Geef een commando om alleen de gegevens van de eerste film uit het bestand te laten zien.
+
+    <textarea name="form[q1]" rows="8" required></textarea>
+
+2.  Geef een commando om alleen de titel van de eerste film uit het bestand te laten zien.
+
+    <textarea name="form[q2]" rows="8" required></textarea>
+
+3.  Geef een commando om de titels van alle films uit het bestand te laten zien.
+
+    <textarea name="form[q3]" rows="8" required></textarea>
+
+4.  Geef een commando om de titels van alle films uit het bestand te laten zien, zonder aanhalingstekens (met `sed`).
+
+    <textarea name="form[q4]" rows="8" required></textarea>
+
+5.  Geef een commando om ...
+
+    <textarea name="form[q5]" rows="8" required></textarea>

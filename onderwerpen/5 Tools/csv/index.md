@@ -34,6 +34,25 @@ Het probleem is dat Excel, maar ook veel POSIX-tools, geen rekening houden met d
 
 ## 🌵 Opdracht
 
-Hieronder vind je de tekst van een CSV-bestand dat fouten bevat. Corrigeer het bestand zodat het klopt met de *bedoeling* van de auteur (als het goed is kun je de bedoeling makkelijk begrijpen, maar anders kun je natuurlijk overleggen).
+1.  Hieronder vind je de tekst van een CSV-bestand dat fouten bevat. Corrigeer het bestand zodat het klopt met de *bedoeling* van de auteur (als het goed is kun je de bedoeling makkelijk begrijpen, maar anders kun je natuurlijk overleggen).
 
-    CSV file
+        CSV file
+
+    <textarea name="form[q1]" rows="8" required></textarea>
+
+1.  Geef een awk-script dat "Hello, World" naar het scherm print.
+
+    <textarea name="form[e1]" rows="8" required></textarea>
+
+1.  Geef een awk-script dat van elke regel van de file `passwd` de username print, en of de gebruiker speciale privileges heeft. Dat laatste is alleen het geval als de gebruiker een ID kleiner dan 10 heeft ([download `passwd.txt` hier](passwd.txt)). Dat moet er zo uitzien:
+
+        root    privileged
+        daemon  privileged
+        nobody  not privileged
+        joedoe  privileged
+
+    <textarea name="form[e2]" rows="8" required></textarea>
+
+1.  Geeft een awk-script dat alle gebruikers op dezelfde manier print, behalve `root` en `daemon` omdat die bekend zijn.
+
+    <textarea name="form[e3]" rows="8" required></textarea>
