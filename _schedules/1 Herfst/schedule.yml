@@ -18,17 +18,16 @@ Onderwerpen:
         Text encoding: /onderwerpen/text/text
         Bestandsformaten: /onderwerpen/representaties/formaten
     Text processing:
-        Pipes & filters: /onderwerpen/text/carpentry
-        Manipulating files: /onderwerpen/text/tools
+        Security: /onderwerpen/text/security
         Regular expressions: /onderwerpen/text/regex
         Automaten: /onderwerpen/text/automaten
-        # Scripting in the shell: /onderwerpen/text/scripts
     Text tools:
-        Security: /onderwerpen/structured/security
-        CSV: /onderwerpen/structured/csv
-        Awk: /onderwerpen/structured/awk
-        JSON: /onderwerpen/structured/json
-        Jq: /onderwerpen/structured/jq
+        Pipes & filters: /onderwerpen/tools/carpentry
+        Manipulating files: /onderwerpen/tools/tools
+        CSV: /onderwerpen/tools/csv
+        Awk: /onderwerpen/tools/awk
+        JSON: /onderwerpen/tools/json
+        Jq: /onderwerpen/tools/jq
     Web development:
         Lecture: /onderwerpen/web/lecture
         Homepage: /onderwerpen/web/homepage

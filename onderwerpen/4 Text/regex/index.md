@@ -1,5 +1,7 @@
 # Reguliere expressies
 
+Lees het hoofdstuk "Regular expressions and the grep sisters" uit het boek *Bulletproof UNIX* van Gottleber. Beantwoord onderstaande vragen. Je mag de vragen gewoon in het Nederlands beantwoorden, maar veel technische termen zijn wel Engels.
+
 1.  Geef een reguliere expressie waarmee je elke regel selecteert waar aan het eind van de regel een punt (`.`) staat.
 
     <textarea name="form[q1]" rows="2" required></textarea>
