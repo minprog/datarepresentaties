@@ -20,7 +20,7 @@ Onderwerpen:
     Text processing:
         Manipulating files: /onderwerpen/text/tools
         Regular expressions: /onderwerpen/text/regex
-        Automata: /onderwerpen/text/regex
+        Automaten: /onderwerpen/text/automaten
         # Scripting in the shell: /onderwerpen/text/scripts
     Text tools:
         Security: /onderwerpen/structured/security
