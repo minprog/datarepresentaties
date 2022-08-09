@@ -18,6 +18,7 @@ Onderwerpen:
         Text encoding: /onderwerpen/text/text
         Bestandsformaten: /onderwerpen/representaties/formaten
     Text processing:
+        Pipes & filters: /onderwerpen/text/carpentry
         Manipulating files: /onderwerpen/text/tools
         Regular expressions: /onderwerpen/text/regex
         Automaten: /onderwerpen/text/automaten
