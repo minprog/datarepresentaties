@@ -22,6 +22,8 @@ We behandelen uiteenlopende onderwerpen in modules 0 t/m 7:
 7. **Databases.** Kennismaken met de relationele manier om data vast te leggen. Oefenen met het schrijven van SQL-queries om interessante data uit een database te halen.
 {: start="0"}
 
+Module 0 loopt dwars door de andere modules heen in de studieweken 2, 3 en 4. Hiervoor word je ingedeeld in een vaste practicumgroep met een vaste tijd.
+
 
 ## Deadlines
 
