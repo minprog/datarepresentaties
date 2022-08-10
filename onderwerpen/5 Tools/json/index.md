@@ -49,3 +49,10 @@ Via [deze link](https://raw.githubusercontent.com/prust/wikipedia-movie-data/mas
 5.  Geef een commando om ...
 
     <textarea name="form[q5]" rows="8" required></textarea>
+
+## Links
+
+- http://itsthisforthat.com/api.php?json
+- https://ghibliapi.herokuapp.com/
+- https://data.rijksmuseum.nl/object-metadata/api/
+- https://data.mprog.nl/acquisition/scraping

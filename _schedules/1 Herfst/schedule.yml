@@ -21,6 +21,7 @@ Onderwerpen:
         Security: /onderwerpen/text/security
         Regular expressions: /onderwerpen/text/regex
         Automaten: /onderwerpen/text/automaten
+        Graphviz: /onderwerpen/text/graphviz
     Text tools:
         Pipes & filters: /onderwerpen/tools/carpentry
         Manipulating files: /onderwerpen/tools/tools
