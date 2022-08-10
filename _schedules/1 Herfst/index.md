@@ -10,7 +10,7 @@ Je kunt dit vak parallel aan Programmeren 1 volgen, of nadat je Programmeren 1 h
 
 ## Onderwerpen
 
-We behandelen uiteenlopende onderwerpen:
+We behandelen uiteenlopende onderwerpen in modules 0 t/m 7:
 
 0. **Schakelingen.** Kennismaken met elektronische schakelingen waarop computers gebaseerd zijn en oefenen met het maken van schakelingen om berekeningen te doen.
 1. **Computers.** Kennismaken met standaard computerhardware en software, en de geschiedenis van het vakgebied. Een eerste start met gebruik van de command line.
@@ -21,6 +21,13 @@ We behandelen uiteenlopende onderwerpen:
 6. **Web development.** Leren schrijven van HTML en begrijpen hoe dit in de browser wordt ingeladen als DOM. Oefenen met scraping van informatie van websites.
 7. **Databases.** Kennismaken met de relationele manier om data vast te leggen. Oefenen met het schrijven van SQL-queries om interessante data uit een database te halen.
 {: start="0"}
+
+
+## Deadlines
+
+Voor modules 1 t/m 7 geldt dat de deadline op de **volgende maandag** is. De deadline van module 1 is dus 12 september, enzovoort.
+
+Voor studenten die ook Programmeren 1 volgen, en dus de minor fulltime doen, willen we de studielast in het weekend zoveel mogelijk beperken. Voor deze studenten is de deadline dan ook op **vrijdag** om 16:59. Hierop zijn incidenteel uitzonderingen mogelijk. Zo'n uitzondering kun je alleen schriftelijk aanvragen en krijgen via een mail naar <help@mprog.nl>.
 
 
 ## Docenten en assistenten
@@ -74,15 +81,9 @@ Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten
 * mail <help@mprog.nl> of kom langs tijdens het spreekuur
 
 
-## Deadlines
-
-Voor de hele cursus is er een **dagschema** dat het gewenste tempo aangeeft. De hoeveelheid werk is afgestemd op programmeurs met twee programmeervakken als ervaring. De bedoeling is dat je dit schema volledig kunt aanhouden, en dat je elke opdracht inlevert zodra je die af hebt. Er zijn dus dagelijkse deadlines.
-
-Heb je een keer een dag waarop je niet zo goed kunt focussen, of de opdracht ligt je niet zo goed, dan krijg je de opdracht misschien niet af. Geen probleem. Je gaat de volgende dag naar het docentenspreekuur om afspraken te maken over het weer op gang komen, of om gewoon even je hart te luchten.
-
 ## Aanwezigheid
 
-Aanwezigheid bij één werkcollege per week is verplicht. Ben je niet systematisch aanwezig of doe je niet systematisch mee, dan kun je het vak **niet** halen. Denk daarbij aan wegblijven van de colleges zonder overleg, pauzeren van inleveren zonder overleg. Je kunt natuurlijk wel op elk moment proberen alsnog te overleggen.
+Aanwezigheid bij één werkcollege per week is verplicht, en het aanwezig zijn bij de 3 practica ook. Ben je niet systematisch aanwezig of doe je niet systematisch mee, dan kun je het vak **niet** halen. Denk daarbij aan wegblijven van de colleges zonder overleg, of tijdelijk niet inleveren zonder overleg. Je kunt natuurlijk wel op elk moment proberen alsnog te overleggen.
 
 
 ## Procesboek
