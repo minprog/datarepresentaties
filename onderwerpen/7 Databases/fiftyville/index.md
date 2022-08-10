@@ -60,13 +60,3 @@ check50 -l minprog/webprogrammeren/checks_2020/fiftyville
 ## Acknowledgements
 
 Inspired by another case over at [SQL City](http://mystery.knightlab.com/).
-
-## Collaboration notice
-
-If you've collaborated with another student on this problem, please note their full name (first and last), and their student number below. Otherwise it suffices to simply note: `-`
-
-Full name:
-<textarea name="form[partner]" rows="1" required></textarea>
-
-Student number:
-<textarea name="form[partner]" rows="1" required></textarea>

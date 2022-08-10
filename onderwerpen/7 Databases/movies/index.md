@@ -137,13 +137,3 @@ Information courtesy of
 IMDb
 (<http://www.imdb.com>).
 Used with permission.
-
-## Collaboration notice
-
-If you've collaborated with another student on this problem, please note their full name (first and last), and their student number below. Otherwise it suffices to simply note: `-`
-
-Full name:
-<textarea name="form[partner]" rows="1" required></textarea>
-
-Student number:
-<textarea name="form[partner]" rows="1" required></textarea>
