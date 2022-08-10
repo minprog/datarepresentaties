@@ -1,9 +1,6 @@
 # Security
 
-> Je antwoorden op de vragen hieronder kun je inleveren door onderaan op de knop "Submit voor grading" te drukken. Ze worden beoordeeld op diepgang, dus in hoeverre er een zinvol antwoord wordt gegeven met een duidelijke onderbouwing. Laat daarom ook weten als je voor het antwoord andere bronnen of tools hebt gebruikt dan het videocollege hieronder.
-{:.bg-light}
-
-Study the following lecture and then answer the questions below.
+Bestudeer het videocollege en beantwoord dan de vragen hieronder. Je antwoorden kun je inleveren door onderaan op de knop "Submit voor grading" te drukken. Ze worden beoordeeld op diepgang, dus in hoeverre er een zinvol antwoord wordt gegeven met een duidelijke onderbouwing. Laat daarom ook weten als je voor het antwoord andere bronnen of tools hebt gebruikt dan het videocollege.
 
 ![embed](https://www.youtube.com/embed/QQmFyybzon0)
 
