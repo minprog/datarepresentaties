@@ -110,9 +110,7 @@ Wat betreft fraude en plagiaat volgen we in deze cursus de richtlijnen van de Un
 
 ## Herkansen
 
-Bij dit vak gaat herkansen vooral over de situatie waarin je stopt met opdrachten maken of erg gaat achterlopen. Het is niet mogelijk opdrachten nog in te leveren na de deadlines die genoemd zijn in deze studiewijzer.
-
-Herkansen kan daarom de eerstvolgende keer dat het vak wordt gegeven in het **volgende semester**. Dit vak wordt echter vanaf september 2022 vervangen door een ander vak. Je kunt dus niet zomaar alle opdrachten meenemen.
+Bij dit vak gaat herkansen vooral over de situatie waarin je stopt met opdrachten maken of erg gaat achterlopen. Het is niet mogelijk opdrachten nog in te leveren na de deadlines die genoemd zijn in deze studiewijzer. Herkansen kan daarom de eerstvolgende keer dat het vak wordt gegeven in het **volgende semester**. Als opdrachten aangepast worden dan moet je die altijd opnieuw maken en inleveren. Opdrachten die niet veranderen en al nagekeken zijn mag je niet opnieuw inleveren.
 
 
 ## Leerdoelen
