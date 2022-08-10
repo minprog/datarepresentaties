@@ -25,7 +25,7 @@ We behandelen uiteenlopende onderwerpen:
 
 ## Docenten en assistenten
 
-De docenten bij dit vak zijn Jelle van Assema, Simon Pauw, Edwin Steffens en Martijn Stegeman. Zij geven het vak vorm en verzorgen de organisatie. Je kunt ze bereiken via e-mail op help@mprog.nl. Daarnaast zijn er veel student-assistenten, die de cursus goed kennen en jou gaan helpen op de momenten dat het nodig is.
+De docenten bij dit vak zijn Jelle van Assema, Simon Pauw, Edwin Steffens en Martijn Stegeman. Zij geven het vak vorm en verzorgen de organisatie. Je kunt ze bereiken via e-mail op <help@mprog.nl>. Daarnaast zijn er veel student-assistenten, die de cursus goed kennen en jou gaan helpen op de momenten dat het nodig is.
 
 
 ## Minimumeisen
@@ -42,7 +42,7 @@ Op die manier kunnen we een goed beeld vormen van jouw voortgang en constateren 
 
 ## Eindcijfer
 
-Voordat je een eindcijfer kunt krijgen moet je alle opdrachten werkend hebben ingeleverd en aan alle bovengenoemde verwachtingen hebben voldaan, tenzij je een *schriftelijke* uitzondering hebt gekregen van de examinator of coördinator. Voel je vrij om te overleggen of jouw omstandigheden een uitzondering rechtvaardigen (via een mail naar help@mprog.nl). We denken graag mee!
+Voordat je een eindcijfer kunt krijgen moet je alle opdrachten werkend hebben ingeleverd en aan alle bovengenoemde verwachtingen hebben voldaan, tenzij je een *schriftelijke* uitzondering hebt gekregen van de examinator of coördinator. Voel je vrij om te overleggen of jouw omstandigheden een uitzondering rechtvaardigen (via een mail naar <help@mprog.nl>). We denken graag mee!
 
 Lukt het niet om systematisch laag te scoren op de plagiaatschaal, dan moet je je opdrachten bij de afloop van het vak presenteren en er vragen over beantwoorden, zodat er geconstateerd kan worden dat je voldoet aan de leerdoelen. Ben je niet systematisch aanwezig of doe je niet systematisch mee, dan kun je het vak niet halen.
 
@@ -102,7 +102,7 @@ Je mag gerust op het web zoeken naar uitleg die verder gaat dan de colleges en a
 
 ### Officiële regels
 
-Wat betreft fraude en plagiaat volgen we in deze cursus de richtlijnen van de Universiteit van Amsterdam en de werkwijze van de bachelor Informatica. De richtlijnen kun je [hier vinden].
+Wat betreft fraude en plagiaat volgen we in deze cursus de richtlijnen van de Universiteit van Amsterdam en de werkwijze van de bachelor Informatica. De richtlijnen kun je [hier vinden] (vraag ernaar als de link niet werkt).
 
 [hier vinden]: http://student.uva.nl/az/a-z-lijst/a-z-lijst/content/folder/fraude-plagiaat-en-bronvermelding/plagiaat-en-fraude.html
 
