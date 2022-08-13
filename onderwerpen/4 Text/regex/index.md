@@ -1,6 +1,6 @@
 # Reguliere expressies
 
-Lees het hoofdstuk "Regular expressions and the grep sisters" uit het boek *Bulletproof UNIX* van Gottleber. Beantwoord onderstaande vragen. Je mag de vragen gewoon in het Nederlands beantwoorden, maar veel technische termen zijn wel Engels.
+Lees het hoofdstuk "Regular expressions & grep" uit het boek *Bulletproof UNIX* van Gottleber. Beantwoord onderstaande vragen. Je mag de vragen gewoon in het Nederlands beantwoorden, maar veel technische termen zijn wel Engels, en die kun je gewoon gebruiken.
 
 1.  Geef een reguliere expressie waarmee je elke regel selecteert waar aan het eind van de regel een punt (`.`) staat.
 

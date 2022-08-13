@@ -1,6 +1,6 @@
 # Manipulating files with UNIX
 
-Lees het onderdeel "Manipulating files" uit het boek *UNIX Visual Quickstart Guide* van Ray & Ray. Beantwoord daarna de onderstaande vragen:
+Lees het onderdeel "Manipulating files", inclusief het deel "Writing basic scripts" uit het boek *UNIX Visual Quickstart Guide* van Ray & Ray. Een deel is herhaling van de Software Carpentry-module, maar dit kan ook nuttig zijn als naslag. Beantwoord daarna de onderstaande vragen:
 
 1.  Geef een commando om alle lowercase letters in een bestand om te zetten naar uppercase.
 

@@ -1,8 +1,8 @@
 # Binary values and number systems
 
-1. Lees het onderdeel *Number systems* uit het boek van Dale & Lewis, *Computer Science Illuminated*.
+1. Lees over *Decimal, binary, hexadecimal* uit het boek van Steven Frank, *How to count* (pagina 30 eindigt met een opmerking tussen haakjes maar pagina 31 is weggelaten om te zorgen dat we binnen de paginalimiet blijven; je kunt gewoon doorlezen).
 
-2. Lees daarna ook *Binary hardware* uit het boek van Schneider & Gersting, *Invitation to Computer Science*.
+2. Lees daarna ook *Binary hardware* uit het boek van Schneider & Gersting, *Invitation to Computer Science* (op de laatste pagina begint paragraaf 4.3, die geen onderdeel is van de stof).
 
 Beantwoord de volgende vragen. Je mag de vragen in het Nederlands beantwoorden, maar veel technische termen zijn wel Engels, en die kun je gewoon gebruiken.
 

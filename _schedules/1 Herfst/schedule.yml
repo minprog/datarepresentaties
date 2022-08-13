@@ -8,7 +8,7 @@ Onderwerpen:
         Binary values: /onderwerpen/computers/binary
         UNIX intro: /onderwerpen/computers/unix
     Besturingssystemen:
-        Internet: /onderwerpen/besturingssystemen/internet
+        Security: /onderwerpen/text/security
         Besturingssystemen: /onderwerpen/besturingssystemen/os
         File systems: /onderwerpen/besturingssystemen/fs
         Software Carpentry UNIX: /onderwerpen/besturingssystemen/carpentry
@@ -18,11 +18,11 @@ Onderwerpen:
         Text encoding: /onderwerpen/representaties/text
         Bestandsformaten: /onderwerpen/representaties/formaten
     Text processing:
-        Security: /onderwerpen/text/security
         Regular expressions: /onderwerpen/text/regex
         Automaten: /onderwerpen/text/automaten
         Graphviz: /onderwerpen/text/graphviz
     Text tools:
+        Internet: /onderwerpen/besturingssystemen/internet
         Pipes & filters: /onderwerpen/tools/carpentry
         Manipulating files: /onderwerpen/tools/tools
         CSV: /onderwerpen/tools/csv
