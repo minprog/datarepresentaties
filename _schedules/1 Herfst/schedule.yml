@@ -3,37 +3,37 @@ Welkom:
 
 Onderwerpen:
     Computers:
-        Hardware: /onderwerpen/computers/hardware
-        Introduction to computing: /onderwerpen/computers/intro
-        Binary values: /onderwerpen/computers/binary
-        UNIX intro: /onderwerpen/computers/unix
+        Hardware [college]: /onderwerpen/computers/hardware
+        Introduction to computing [boek]: /onderwerpen/computers/intro
+        Binair tellen [boek]: /onderwerpen/computers/binary
+        UNIX intro [opdracht]: /onderwerpen/computers/unix
     Besturingssystemen:
-        Security: /onderwerpen/text/security
-        Besturingssystemen: /onderwerpen/besturingssystemen/os
-        File systems: /onderwerpen/besturingssystemen/fs
-        Software Carpentry UNIX: /onderwerpen/besturingssystemen/carpentry
+        Beveiliging [college]: /onderwerpen/text/security
+        Besturingssystemen [boek]: /onderwerpen/besturingssystemen/os
+        Bestandssystemen [boek]: /onderwerpen/besturingssystemen/fs
+        Software Carpentry UNIX [tutorial]: /onderwerpen/besturingssystemen/carpentry
     Representaties:
-        Multimedia: /onderwerpen/representaties/multimedia
-        Binaire representatie: /onderwerpen/representaties/binary
-        Text encoding: /onderwerpen/representaties/text
-        Bestandsformaten: /onderwerpen/representaties/formaten
+        Multimedia [college]: /onderwerpen/representaties/multimedia
+        Binaire representatie [boek]: /onderwerpen/representaties/binary
+        Textcodering [achtergrond]: /onderwerpen/representaties/text
+        Bestandsformaten [opdracht]: /onderwerpen/representaties/formaten
     Text processing:
-        Regular expressions: /onderwerpen/text/regex
-        Automaten: /onderwerpen/text/automaten
-        Graphviz: /onderwerpen/text/graphviz
+        Reguliere expressies [boek]: /onderwerpen/text/regex
+        Automaten [college]: /onderwerpen/text/automaten
+        Graphviz [opdracht]: /onderwerpen/text/graphviz
     Text tools:
-        Internet: /onderwerpen/besturingssystemen/internet
-        Pipes & filters: /onderwerpen/tools/carpentry
-        Manipulating files: /onderwerpen/tools/tools
-        CSV: /onderwerpen/tools/csv
+        Internet [college]: /onderwerpen/besturingssystemen/internet
+        Pipes & filters [tutorial]: /onderwerpen/tools/carpentry
+        UNIX-commando's [boek]: /onderwerpen/tools/tools
+        CSV & JSON [opdracht]: /onderwerpen/tools/csv
         JSON: /onderwerpen/tools/json
     Web development:
-        Lecture: /onderwerpen/web/lecture
-        Homepage: /onderwerpen/web/homepage
-        Curl: /onderwerpen/web/curl
-        Scraping: /onderwerpen/web/scraping
+        Web [college]: /onderwerpen/web/lecture
+        Homepage [opdracht]: /onderwerpen/web/homepage
+        Curl [opdracht]: /onderwerpen/web/curl
+        Scraping [opdracht]: /onderwerpen/web/scraping
     Databases:
-        Lecture: /onderwerpen/databases/lecture
-        Movies: /onderwerpen/databases/movies
-        Fiftyville: /onderwerpen/databases/fiftyville
-        Pizza: /onderwerpen/databases/pizza
+        Databases [college]: /onderwerpen/databases/lecture
+        Movies [opdracht]: /onderwerpen/databases/movies
+        Fiftyville [opdracht]: /onderwerpen/databases/fiftyville
+        Pizza [opdracht]: /onderwerpen/databases/pizza
