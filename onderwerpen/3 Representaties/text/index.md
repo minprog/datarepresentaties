@@ -60,13 +60,21 @@ At this point it is somewhat common to find text files using the following line 
 
 Yes, on Windows they actually use two characters to indicate line endings. It's most consistent with how a type writer works, but maybe a bit old fashioned. But that's the way it works.
 
-The point is here, you *could* encounter some of these combinations when processing data. It could also very well be that you encounter just on of the above. However, it is up to you to be certain about this by talking to whomever delivered you the data, or using `xxd` to see what's going on. Here's a text made on macOS and what `xxd` shows:
+The point is here, you *could* encounter some of these combinations when processing data. It could also very well be that you encounter just one of the above. However, it is up to you to be certain about this by talking to whoever delivered you the data, or using `xxd` to see what's going on.
+
+Let's create a file by typing some text into the terminal, redirecting to a new file (ending by pressing CTRL-D on an otherwise empty line):
 
     % cat > bla
     hoe
     dan
-    % xxd bla 
-    00000000: 686f 650a 6461 6e0a                      hoe.dan.
+    ^D
+
+Here's what `xxd` shows for a text made on modern macOS using the method above:
+
+    % xxd -g1 bla 
+    00000000: 68 6f 65 0a 64 61 6e 0a                          hoe.dan.
+
+`xxd` shows the hexadecimal representation of each byte in the file. For example, hex 68 is the character `h` in ASCII. And so on.
 
 🌵 **Question.** Write down everything you can figure out about the line endings in the above `xxd` results.
 

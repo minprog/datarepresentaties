@@ -26,16 +26,6 @@ Als je, net als David, soms je vingers gebruikt om te tellen, dan is de kans red
 
 <textarea name="form[q1]" rows="8" required></textarea>
 
-In het college ging het ook over ASCII, waarin 7 of 8 bits worden gebruikt om letters van het alfabet te representeren. "Unicode" is nog een andere manier om veel meer verschillende tekens te representeren dan mogelijk is met ASCII, en dat is noodzakelijk voor het correct kunnen weergeven van teksten in allerlei talen. Lees eens wat meer over "Unicode" (dus zoek zelf een bron) en beschrijf, in je eigen woorden, hoe Unicode het mogelijk maakt om zoveel extra tekens te gebruiken.
-
-<textarea name="form[q2]" rows="8" required></textarea>
-
-01000001 01101110 01110011 01110111 01100101 01110010 00100000 01101001 01110011 00100000 00110100 00110010 00101110
-
-Er is een manier om bovenstaande boodschap beter leesbaar te maken voor "gewone mensen" (ofwel, niet-programmeurs). Vind deze manier en pas 'm toe!
-
-<textarea name="form[q3]" rows="8" required></textarea>
-
 Als iemand je vraagt hoeveel geheugen je computer heeft dan is de kans aanwezig dat ze willen weten hoeveel RAM-geheugen deze heeft. Maar laptops en desktops hebben ook nog andere soorten "geheugen". Noem er minstens één en beschrijf in je eigen woorden hoe deze soort verschilt van RAM-geheugen.
 
 <textarea name="form[q4]" rows="8" required></textarea>
