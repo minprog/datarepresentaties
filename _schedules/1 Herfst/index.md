@@ -68,11 +68,11 @@ Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten
 
 **Assistentie:** direct contact met een assistent, voor hulp bij programmeren.
 
-* hulp op locatie (lokaal A1.22) of via een videogesprek
+* hulp op locatie (lokaal L0.09--L0.10)
 * je weet niet waar te beginnen of een onvindbare bug, of alles loopt vast
 * moeite met verzinnen oplossing
-* dagelijks beschikbaar, vooraf afspraak maken via afsprakensysteem
-* beperkt ruimte voor inloop bij urgente vragen
+* dagelijks beschikbaar, zet jezelf in de rij
+* parttime-studenten vanaf 13 uur
 
 **Spreekuur en e-mail:** contact met de docenten.
 
