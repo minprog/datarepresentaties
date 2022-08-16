@@ -8,7 +8,7 @@ Onderwerpen:
         Binair tellen [boek]: /onderwerpen/computers/binary
         UNIX intro [opdracht]: /onderwerpen/computers/unix
     Besturingssystemen:
-        Beveiliging [college]: /onderwerpen/text/security
+        Beveiliging [college]: /onderwerpen/besturingssystemen/security
         Besturingssystemen [boek]: /onderwerpen/besturingssystemen/os
         Bestandssystemen [boek]: /onderwerpen/besturingssystemen/fs
         Software Carpentry UNIX [tutorial]: /onderwerpen/besturingssystemen/carpentry
@@ -22,7 +22,7 @@ Onderwerpen:
         Automaten [college]: /onderwerpen/text/automaten
         Graphviz [opdracht]: /onderwerpen/text/graphviz
     Text tools:
-        Internet [college]: /onderwerpen/besturingssystemen/internet
+        Internet [college]: /onderwerpen/tools/internet
         Pipes & filters [tutorial]: /onderwerpen/tools/carpentry
         UNIX-commando's [boek]: /onderwerpen/tools/tools
         CSV [opdracht]: /onderwerpen/tools/csv

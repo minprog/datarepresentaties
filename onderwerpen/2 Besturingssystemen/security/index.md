@@ -2,20 +2,12 @@
 
 Bestudeer het videocollege en beantwoord dan de vragen hieronder. Je antwoorden kun je inleveren door onderaan op de knop "Submit voor grading" te drukken. Ze worden beoordeeld op diepgang, dus in hoeverre er een zinvol antwoord wordt gegeven met een duidelijke onderbouwing. Laat daarom ook weten als je voor het antwoord andere bronnen of tools hebt gebruikt dan het videocollege.
 
-![embed](https://www.youtube.com/embed/QQmFyybzon0)
+![embed](https://www.youtube.com/embed/NoYfOHAYY7o)
 
-- [Open in CS50 video player](https://video.cs50.io/QQmFyybzon0?screen=zfrtobJbovM)
-- [Open lecture notes](https://cs50.harvard.edu/ap/2021/curriculum/technology/notes/security/)
+- [Open in CS50 video player](https://video.cs50.io/NoYfOHAYY7o?screen=-v6DvNFLFnY)
+- [Open lecture notes](https://cs50.harvard.edu/college/2022/spring/notes/cybersecurity/)
 
 ## Questions
-
-In what sense are files not actually deleted even if you empty the recycle bin on Windows or empty the trash on macOS?
-
-<textarea name="form[q1]" rows="8" required></textarea>
-
-Technically speaking, what is a cookie in the context of HTTP? And how, using cookies, does a web server actually remember that you're logged in?
-
-<textarea name="form[q2]" rows="8" required></textarea>
 
 If a mobile phone is protected with a 4-symbol passcode, whereby each symbol is a decimal number (0 through 9), how long might it take to guess that passcode if each guess takes 1 second to check?
 
@@ -35,7 +27,3 @@ Suppose you've forgotten your password to some website. Even though you can like
 What does it mean if a website requires two-factor authentication? What might those two factors be?
 
 <textarea name="form[q7]" rows="8" required></textarea>
-
-Gur nafjre vf 42.
-
-<textarea name="form[q8]" rows="8" required></textarea>
