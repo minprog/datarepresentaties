@@ -6,6 +6,8 @@ Om Pup uit te testen met websites kun je `curl` gebruiken voor het binnenhalen v
 
     curl -s 'https://www.knmi.nl/home' | pup -c
 
+Met de optie `-s` voor `curl` zorgen we ervoor dat het programma geen "loading" indicator geeft. Die is ook niet echt interessant omdat het laden van de meeste HTML-pagina's maar heel kort duurt. Met de optie `-c` voor `pup` zorgen we ervoor dat de output in kleur wordt weergegeven. Die kun je ook weglaten.
+
 ## Opdrachten
 
 1.  Zoek uit hoe je alle `span`s met de class `green` kunt scrapen van de pagina <https://www.pythonscraping.com/pages/warandpeace.html>.
