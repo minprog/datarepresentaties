@@ -43,7 +43,7 @@ Alle opdrachten netjes af en werkend inleveren is de basiseis om het vak te hale
 
 1. meedoen aan alle drie de PIDAC-practica
 1. minimaal één middag per week langskomen
-1. actief vragen stellen en hulp vragen
+1. actief vragen stellen aan de assistenten
 1. het bijhouden van een procesboek
 
 Op die manier kunnen we een goed beeld vormen van jouw voortgang en constateren dat je aan de leerdoelen van het vak hebt voldaan. Er is daarom ook niet voorzien in een schriftelijk tentamen. Dat is natuurlijk een prettig einde van het vak, maar legt wel meer verantwoordelijkheid bij jou om zichtbaar te leren.
