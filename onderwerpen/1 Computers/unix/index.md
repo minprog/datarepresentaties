@@ -80,6 +80,8 @@ Als je dit doet wordt de handleiding op het hele scherm weergegeven. De command 
  
 Als je **q** intikt verdwijnt de handleiding weer en ga je terug naar de command line.
 
+## Allerlei commando's
+
 We geven hier de namen van een aantal interessante commando's. Je kunt ze uitproberen en de "man page" opvragen met hulp van het commando `man`.
 
 - whoami
@@ -104,6 +106,6 @@ Het nadeel van de man pages is dat maar zelden goede voorbeelden gegeven worden,
 
     <textarea name="form[q3]" rows="8" required></textarea>
 
-4.  Leg in je eigen woorden uit hoe je één van de bovengenoemde commando's kunt gebruiken.
+4.  Leg in je eigen woorden uit hoe je één van de commando's `whoami`, `hostname`, `sleep`, `leave` of `dc` kunt gebruiken. Besteed aandacht aan het doel van het programma en voorbeelden en wat uitleg over de werking.
 
     <textarea name="form[q4]" rows="8" required></textarea>
