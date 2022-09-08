@@ -106,6 +106,6 @@ Het nadeel van de man pages is dat maar zelden goede voorbeelden gegeven worden,
 
     <textarea name="form[q3]" rows="8" required></textarea>
 
-4.  Leg in je eigen woorden uit hoe je één van de commando's `whoami`, `hostname`, `sleep`, `leave` of `dc` kunt gebruiken. Besteed aandacht aan het doel van het programma en voorbeelden en wat uitleg over de werking.
+4.  Leg in je eigen woorden uit hoe je één van de commando's `whoami`, `hostname`, `sleep`, `leave` of `dc` kunt gebruiken. Besteed aandacht aan het doel van het programma en geef voorbeelden en wat uitleg over de werking.
 
     <textarea name="form[q4]" rows="8" required></textarea>
