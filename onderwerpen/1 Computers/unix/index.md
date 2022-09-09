@@ -44,7 +44,8 @@ Veel programma's ondersteunen zogeheten command-line arguments. Dit zijn extra o
     24 25 26 27 28 29 30  29 30 31              26 27 28 29 30 
 
 Je kunt ook een programma starten dat zelf weer om informatie vraagt. Zo'n vraag heet wederom ook een prompt. Maar omdat je geen commando's kan intikken wordt het géén command line genoemd.
-Kijk bijvoorbeeld naar het programma banner. Dit programma wil graag een tekstje hebben dat in zeer grote letters op het scherm geprint wordt. Het programma print daarom `Message:` en wacht tot iets wordt ingetikt. Als je dat doet en op **Enter** drukt, dan gaat het programma pas verder.
+
+Kijk bijvoorbeeld naar het programma banner (alleen direct beschikbaar op Mac, het werkt anders op Ubuntu en WSL). Dit programma wil graag een tekstje hebben dat in zeer grote letters op het scherm geprint wordt. Het programma print daarom `Message:` en wacht tot iets wordt ingetikt. Als je dat doet en op **Enter** drukt, dan gaat het programma pas verder.
 
     me@laptop ~ % banner -w 32
     Message: hoi     
@@ -89,6 +90,8 @@ We geven hier de namen van een aantal interessante commando's. Je kunt ze uitpro
 - sleep
 - leave
 - dc
+
+(Sommige van deze commando's zijn niet beschikbaar op alle systemen, of er wordt aangeboden te installeren.)
 
 Het nadeel van de man pages is dat maar zelden goede voorbeelden gegeven worden, en dat de algemene uitleg vaak overdreven technisch geformuleerd is. Daarvoor kun je beter op internet zoeken. Ook kun je `tldr` installeren of voorbeelden opzoeken op de pagina <https://tldr.sh>.
 
