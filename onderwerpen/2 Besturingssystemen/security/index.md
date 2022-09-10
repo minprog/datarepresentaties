@@ -9,21 +9,22 @@ Bestudeer het videocollege en beantwoord dan de vragen hieronder. Je antwoorden 
 
 ## Questions
 
-If a mobile phone is protected with a 4-symbol passcode, whereby each symbol is a decimal number (0 through 9), how long might it take to guess that passcode if each guess takes 1 second to check?
+Als een mobiele telefoon beveiligd is met een code van 4 symbolen, waar elk symbool een decimaal cijfer is (0 tot en met 9), hoe lang zou het dan kunnen duren om de code te achterhalen als iedere poging 1 seconde kost om te controleren?
 
 <textarea name="form[q3]" rows="8" required></textarea>
 
-If a mobile phone is protected with a 6-symbol passcode, whereby each symbol is a decimal number (0 through 9), an uppercase letter (A through Z), or a lowercase letter (a through z), how long might it take to guess that passcode if each guess takes 1 second to check?
+Als een mobiele telefoon beveiligd is met een code van 6 symbolen, waar elk symbool een decimaal cijfer is (0 tot en met 9), een hoofdletter (A tot en met Z), of een kleine letter (a tot en met z), hoe lang zou het dan kunnen duren om de code te achterhalen als iedere poging 1 seconde kost om te controleren?
 
 <textarea name="form[q4]" rows="8" required></textarea>
 
-While you might think it's more secure (and clever!) to use numbers that resemble letters instead of the letters themselves in your password, it isn't really. Why not?
+Hoewel je zou kunnen denken dat het veiliger is (en slim!) om getallen te gebruiken die **lijken** op letters in plaats van de letters zelf, is dat niet echt veiliger. Waarom niet?
+
 <textarea name="form[q5]" rows="8" required></textarea>
 
-Suppose you've forgotten your password to some website. Even though you can likely reset your password via a link on the website, odds are no one at the company can actually tell you your forgotten password. Why not?
+Stel dat je je wachtwoord bent vergeten voor een bepaalde website. Ofschoon het waarschijnlijk wel tot de mogelijkheden behoort om je wachtwoord via een link op de website opnieuw in te stellen, zal niemand die bij het bedrijf werkt je het vergeten wachtwoord kunnen vertellen. Waarom niet?
 
 <textarea name="form[q6]" rows="8" required></textarea>
 
-What does it mean if a website requires two-factor authentication? What might those two factors be?
+Wat betekent het als een website 2-factor authenticatie gebruikt? Wat zouden die twee factoren kunnen zijn?
 
 <textarea name="form[q7]" rows="8" required></textarea>
