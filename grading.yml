@@ -83,9 +83,9 @@ grades:
     pr6: *writing
     pr7: *writing
 
-    pidac_1: *check
-    pidac_2: *check
-    pidac_3: *check
+    pidac_1: *aftekenen
+    pidac_2: *aftekenen
+    pidac_3: *aftekenen
 
 # CALCULATIONS - define the final grades for the course and the weights between
 # subcomponents for each. Often, multiple final grades are differentiated by the
