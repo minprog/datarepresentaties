@@ -64,7 +64,7 @@ grades:
     hardware: *writing
     intro: *writing
     binary: *aftekenen
-    unix: *writing
+    unix: *aftekenen
 
     security: *writing
     opsys: *writing
