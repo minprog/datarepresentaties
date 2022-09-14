@@ -10,19 +10,19 @@ Lees het onderdeel *The big picture* uit het boek van Dale & Lewis, *Computer Sc
 
     Tweede generatie
 
-    <textarea name="form[q1a]" rows="4" required></textarea>
+    <textarea name="form[q1b]" rows="4" required></textarea>
 
     Derde generatie
 
-    <textarea name="form[q1a]" rows="4" required></textarea>
+    <textarea name="form[q1c]" rows="4" required></textarea>
 
     Vierde generatie
 
-    <textarea name="form[q1a]" rows="4" required></textarea>
+    <textarea name="form[q1d]" rows="4" required></textarea>
 
     Vijfde generatie
 
-    <textarea name="form[q1a]" rows="4" required></textarea>
+    <textarea name="form[q1e]" rows="4" required></textarea>
 
 2.  Abstracties spelen een belangrijke rol bij het programmeren. De definitie in het boek is "A mental model that removes complex details." In elk vakgebied en elke studie spelen zulke abstracties een rol. Ze bieden een *manier van kijken* waarin de werkelijkheid een beetje simpel wordt gehouden zodat deze beter te begrijpen is. De details komen later wel. Beschrijf zo'n abstractie uit je eigen vakgebied.
 

@@ -18,11 +18,11 @@ templates:
             points: integer
         calculation: (points / 4.0 * 9 + 1).round(1)
         hide_calculated: true
-    3: &check
+    3: &aftekenen
         type: pass
         subgrades:
-            done: boolean
-        calculation: done
+            gedaan: boolean
+        calculation: gedaan
         hide_calculated: true
 
 # GRADES - contains definitions of how grades are structured. The names of the
@@ -61,9 +61,9 @@ templates:
 
 grades:
 
-    binary: *writing
     hardware: *writing
     intro: *writing
+    binary: *aftekenen
     unix: *writing
 
     security: *writing
@@ -137,9 +137,9 @@ calculation:
 module_1:
     show_progress: true
     submits:
-        binary: 1
         hardware: 1
         intro: 1
+        binary: 0
         unix: 1
 
 module_2:
