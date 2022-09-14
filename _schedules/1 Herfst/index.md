@@ -27,7 +27,7 @@ Module 0 loopt dwars door de andere modules heen in de studieweken 2, 3 en 4. Hi
 
 ## Deadlines
 
-Voor modules 1 t/m 7 geldt dat de deadline op de **volgende maandag** is. De deadline van module 1 is dus 12 september, enzovoort.
+Voor modules 1 t/m 7 geldt dat de deadline op de **volgende maandag** is om 17:59. De deadline van module 1 is dus 12 september om 17:59, enzovoort.
 
 Voor studenten die ook Programmeren 1 volgen, en dus de minor fulltime doen, willen we de studielast in het weekend zoveel mogelijk beperken. Voor deze studenten is de deadline dan ook op **vrijdag** om 17:59. Hierop zijn incidenteel uitzonderingen mogelijk. Zo'n uitzondering kun je alleen schriftelijk aanvragen en krijgen via een mail naar <help@mprog.nl>.
 
