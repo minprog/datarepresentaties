@@ -84,9 +84,9 @@ Dan zie je dat er twee bestanden in staan: een databestand (formaat is kennelijk
 
 ## Opdracht
 
-[Download een ZIP-bestand]() met daarin 10 andere bestanden. Deze bestanden hebben geen duidelijke naam die weggeeft wat voor soort bestand het is. Is het een document, een audio-file? Je kunt natuurlijk de extensies aanpassen en het bestand proberen te openen in Word of in een audioplayer. Maar in dit geval gaat `xxd` ons helpen om te analyseren wat er in de bestanden staat.
+[Download een ZIP-bestand](files.zip) met daarin 10 andere bestanden (het wachtwoord is `secret`). Deze bestanden hebben geen duidelijke naam die weggeeft wat voor soort bestand het is. Is het een document, een audio-file? Je kunt natuurlijk de extensies aanpassen en het bestand proberen te openen in Word of in een audioplayer. Maar in dit geval gaat `xxd` ons helpen om te analyseren wat er in de bestanden staat.
 
-Geef hieronder per bestand aan welk formaat het heeft en op basis waarvan je precies die conclusie kunt trekken.
+Geef hieronder per bestand aan welk formaat het heeft en op basis waarvan je precies die conclusie kunt trekken. Geef ook een korte indicatie van de inhoud (geen copy-past maar beschrijving).
 
 1. <textarea name="form[qB0]" rows="4" required></textarea>
 
