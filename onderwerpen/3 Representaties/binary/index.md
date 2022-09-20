@@ -15,7 +15,7 @@ Beantwoord onderstaande vragen. Je mag de vragen gewoon in het Nederlands beantw
 
     <textarea name="form[q2]" rows="2" required></textarea>
 
-1.  Gebruik 4 bits en two's-complement om de binaire representatie van de volgende decimale getallen op te stellen:
+1.  Gebruik 12 bits en two's-complement om de binaire representatie van de volgende decimale getallen op te stellen:
 
     1. 1066 <input name="form[q3a]" type="text" required>
     1. 1939 <input name="form[q3b]" type="text" required>
