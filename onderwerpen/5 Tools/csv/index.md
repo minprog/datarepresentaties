@@ -1,5 +1,7 @@
 # CSV-formaat
 
+> Bestudeer de stof en beantwoord de vragen hieronder. Je antwoorden worden beoordeeld op inzet en correctheid (1 punt voor de hele opdracht).
+
 CSV is de simpelste manier om data te organiseren in een tekstbestand. Als de data een **tabel** is, dus als deze bestaat uit rijen en kolommen, dan kan CSV gebruikt worden om de data te organiseren.
 
 De precieze definitie van het **Comma Separated Values** CSV-formaat is te vinden in een RFC-document. Zo'n RFC-document is een manier om een breed gebruikte werkwijze of bestandsformaat vast te leggen.

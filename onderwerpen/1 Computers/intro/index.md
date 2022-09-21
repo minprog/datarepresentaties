@@ -2,7 +2,7 @@
 
 Lees het onderdeel *The big picture* uit het boek van Dale & Lewis, *Computer Science Illuminated*. Beantwoord de volgende vragen.
 
-Je antwoorden worden beoordeeld op diepgang (tot 3 punten), dus in hoeverre er een zinvol antwoord wordt gegeven met een duidelijke onderbouwing. Laat daarom ook weten als je voor het antwoord andere bronnen of tools hebt gebruikt dan het videocollege.
+Beantwoord de vragen hieronder. Je antwoorden worden beoordeeld op inzet en correctheid (1 punt voor de hele opdracht).
 
 Je mag de vragen in het Nederlands beantwoorden, maar veel technische termen zijn wel Engels, en die kun je gewoon gebruiken.
 

@@ -1,7 +1,6 @@
 # Fiftyville
 
-> Voor deze opdracht raden we je aan samen te werken met één andere student. Zie voor de precieze instructies de [samenwerken pagina](/naslag/samenwerken). Werk je samen aan de opdracht, dan is het belangrijk dat jullie allebei elkaars naam en studentnummer melden bij het inleveren van de opdracht. Dat doe je onderaan deze pagina. Anders kan het voorkomen dat je opdracht onterecht uit de plagiaatscan komt rollen.
-{:.bg-light}
+> Je uitwerking voor deze opdracht wordt beoordeeld op inzet en correctheid (3 punt voor de hele opdracht).
 
 Write SQL queries to solve a mystery.
 

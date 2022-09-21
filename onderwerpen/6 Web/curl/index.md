@@ -1,5 +1,7 @@
 # Curl
 
+> Bestudeer de stof en beantwoord de vragen hieronder. Je antwoorden worden beoordeeld op inzet en correctheid (3 punten voor de hele opdracht).
+
 Gebruik `curl` om de HTML van een webpagina op te vragen. Zo kun je bijvoorbeeld de HTML van zoekmachine DuckDuckGo krijgen:
 
     curl -L duckduckgo.com

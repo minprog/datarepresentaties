@@ -44,7 +44,7 @@ Alle opdrachten netjes af en werkend inleveren is de basiseis om het vak te hale
 1. meedoen aan alle drie de PIDAC-practica
 1. minimaal één middag per week langskomen
 1. actief vragen stellen aan de assistenten
-1. het bijhouden van een procesboek
+1. het dagelijks bijhouden van een procesboek
 
 Op die manier kunnen we een goed beeld vormen van jouw voortgang en constateren dat je aan de leerdoelen van het vak hebt voldaan. Er is daarom ook niet voorzien in een schriftelijk tentamen. Dat is natuurlijk een prettig einde van het vak, maar legt wel meer verantwoordelijkheid bij jou om zichtbaar te leren.
 
@@ -58,7 +58,7 @@ Lukt het niet om systematisch laag te scoren op de plagiaatschaal, dan moet je j
 
 ## Cijfers
 
-Dit is een breed vak met uiteenlopende onderwerpen en opdrachtsvormen. Deze worden dan ook op verschillende manieren nagekeken.
+Dit is een breed vak met uiteenlopende onderwerpen en opdrachtsvormen. Voor alle modules kun je in totaal 6 punten halen, dus ze wegen allemaal gelijk. De opdrachten worden op verschillende manieren nagekeken en het aantal te halen punten varieert.
 
 ### Schrijfopdrachten (beoordeling op diepgang)
 
@@ -72,21 +72,15 @@ Er zijn diverse opdrachten waaarin een aantal open vragen een rol spelen. Het do
 
 ### Korte antwoorden (beoordeling op inzet en correctheid)
 
-Sommige opdrachten met open vragen zijn redelijk rechttoe-rechtaan. Hier kun je één punt mee verdienen.
+Sommige opdrachten met open vragen zijn redelijk rechttoe-rechtaan. Hier kun je één of twee punten mee verdienen.
 
-0. Niet of te laat ingeleverd, of één of meer ontbrekende of onserieuze antwoorden.
-1. Duidelijke antwoorden die in de basis kloppen, met ruimte voor een klein aandeel fouten.
-{:start="0"}
+(0 punten) Je krijgt dan helemaal geen punten als het niet of te laat is ingeleverd, of één of meer ontbrekende of onserieuze antwoorden bevat.
 
-### Afteken-opdrachten
-
-Opdrachten met relatief gesloten vragen, zoals bij het oefenen van UNIX, worden simpelweg afgetekend met "gedaan".
+(1, 2 of 3 punten) Je krijgt de punten als je duidelijke antwoorden geeft die in de basis kloppen, met ruimte voor een klein aandeel fouten (ongeveer een tiende). Hoeveel punten je krijgt hangt af van het gewicht van de opdracht.
 
 ### Procesboek
 
-De wijze van beoordeling volgt.
-
-
+Het procesboek wordt per week voldoende of onvoldoende afgetekend. Je mag maximaal 3 keer een onvoldoende halen (omdat dit de eerste keer is dat het vak gegeven wordt). Als je een week het procesboek helemáál niet bijhoudt dan kun je het vak **niet** halen.
 
 ## Vragen stellen
 

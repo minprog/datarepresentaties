@@ -1,6 +1,8 @@
 # Automaten
 
-Bestudeer het korte college hieronder en beantwoord dan de vragen. Je antwoorden kun je inleveren door onderaan op de knop "Submit voor grading" te drukken. Ze worden beoordeeld op diepgang, dus in hoeverre er een zinvol antwoord wordt gegeven met een duidelijke onderbouwing. Laat daarom ook weten als je voor het antwoord andere bronnen of tools hebt gebruikt dan het videocollege.
+Bestudeer het korte college hieronder.
+
+Beantwoord daarna de vragen. Je antwoorden worden beoordeeld op inzet en correctheid (3 punten voor de hele opdracht).
 
 ![embed](https://www.youtube.com/embed/iixnLh55wp0)
 

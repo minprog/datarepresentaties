@@ -1,5 +1,7 @@
 # JSON-formaat
 
+> Bestudeer de stof en beantwoord de vragen hieronder. Je antwoorden worden beoordeeld op inzet en correctheid (1 punt voor de hele opdracht).
+
 JSON is een formaat om hierarchische structuren uit te drukken in simpele tekst. Je kunt het in de praktijk gebruiken om data uit te wisselen. Sommige websites bieden dan ook de mogelijkheid om data op te vragen in JSON-formaat.
 
 JSON is een soort tegenhanger van een ouder formaat, XML. XML biedt ongeveer de zelfde mogelijkheden maar de syntax (manier van schrijven) is veel ingewikkelder. Je kunt ook zeggen dat je met XML preciezer kunt zijn, maar in de praktijk is JSON voor heel veel toepassingen meer dan voldoende.

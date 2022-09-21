@@ -18,11 +18,23 @@ templates:
             points: integer
         calculation: (points / 3.0 * 9 + 1).round(1)
         hide_calculated: true
-    3: &shortanswer
+    3: &shortanswer1
         type: float
         subgrades:
             points: integer
         calculation: (points / 1.0 * 9 + 1).round(1)
+        hide_calculated: true
+    3: &shortanswer2
+        type: float
+        subgrades:
+            points: integer
+        calculation: (points / 2.0 * 9 + 1).round(1)
+        hide_calculated: true
+    3: &shortanswer3
+        type: float
+        subgrades:
+            points: integer
+        calculation: (points / 3.0 * 9 + 1).round(1)
         hide_calculated: true
     3: &aftekenen
         type: pass
@@ -67,31 +79,31 @@ templates:
 
 grades:
 
-    hardware: *writing
-    intro: *writing
-    binary: *shortanswer
-    unix: *shortanswer
-
-    security: *writing
-    opsys: *shortanswer
-    filesys: *shortanswer
-
-    multimedia: *writing
-    binrep: *shortanswer
-    text_coding: *shortanswer
-    file_formats: *shortanswer
-
-    pr1: *writing
-    pr2: *writing
-    pr3: *writing
-    pr4: *writing
-    pr5: *writing
-    pr6: *writing
-    pr7: *writing
-
     pidac_1: *aftekenen
     pidac_2: *aftekenen
     pidac_3: *aftekenen
+
+    hardware: *writing
+    intro: *shortanswer1
+    binary: *shortanswer1
+    unix: *shortanswer1
+
+    security: *writing
+    opsys: *shortanswer2
+    filesys: *shortanswer1
+
+    multimedia: *writing
+    binrep: *shortanswer1
+    text_coding: *shortanswer1
+    file_formats: *shortanswer1
+
+    pr1: *aftekenen
+    pr2: *aftekenen
+    pr3: *aftekenen
+    pr4: *aftekenen
+    pr5: *aftekenen
+    pr6: *aftekenen
+    pr7: *aftekenen
 
 # CALCULATIONS - define the final grades for the course and the weights between
 # subcomponents for each. Often, multiple final grades are differentiated by the
@@ -140,30 +152,7 @@ calculation:
 #
 # You can leave these out if unused in the `calculation` section.
 
-module_1:
-    show_progress: true
-    submits:
-        hardware: 1
-        intro: 1
-        binary: 0
-        unix: 1
-
-module_2:
-    show_progress: true
-    submits:
-        security: 1
-        opsys: 1
-        filesys: 1
-
-module_3:
-    show_progress: true
-    submits:
-        multimedia: 1
-        binrep: 1
-        text_coding: 1
-        file_formats: 1
-
-pidac:
+module_0_pidac:
     show_progress: true
     required: true
     submits:
@@ -171,9 +160,32 @@ pidac:
         pidac_2: 1
         pidac_3: 1
 
+module_1:
+    show_progress: true
+    submits:
+        hardware: 3
+        intro: 1
+        binary: 1
+        unix: 1
+
+module_2:
+    show_progress: true
+    submits:
+        security: 3
+        opsys: 2
+        filesys: 1
+
+module_3:
+    show_progress: true
+    submits:
+        multimedia: 3
+        binrep: 1
+        text_coding: 1
+        file_formats: 1
+
 process_books:
     show_progress: true
-    minimum: 5.5
+    required: true
     submits:
         pr1: 1
         pr2: 1
