@@ -1,6 +1,10 @@
 # File systems
 
-Lees het onderdeel *File systems* uit het boek van Dale & Lewis, *Computer Science Illuminated*. Beantwoord de volgende vragen. Je mag de vragen in het Nederlands beantwoorden, maar veel technische termen zijn wel Engels, en die kun je gewoon gebruiken.
+Lees het onderdeel *File systems* uit het boek van Dale & Lewis, *Computer Science Illuminated*.
+
+## Vragen
+
+Beantwoord de vragen hieronder. Je antwoorden worden beoordeeld op inzet en correctheid (1 punt voor de hele opdracht).
 
 1.  De woorden "files" en "directories" (in het Nederlands zeggen we vaak "bestanden" en "mappen") zijn *analogiën* uit de echte wereld. Het nadeel van analogiën is dat de overeenkomst vaak maar beperkt is. Bespreek van twee van deze termen waar de analogie zit met het object uit de echte wereld en wat voor eigenschappen helemaal niet overeenkomen met de computerversie.
 

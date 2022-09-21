@@ -1,5 +1,7 @@
 # UNIX shell
 
+> Beantwoord de vragen die je hieronder tegenkomt. Je antwoorden worden beoordeeld op inzet en correctheid (1 punt voor de hele opdracht).
+
 UNIX is een manier om opdrachten aan je computer te geven, meestal via het intikken van de namen van commando's (net zoals Windows een manier is om opdrachten te geven, maar dan door te klikken op bestanden en programma's). Deze workshop bestaat uit twee delen.
 
 Bij de installatie heb je gezien dat je eigen computer ook een Terminal heeft waarin je UNIX-commando's kunt geven. In de komende weken ga je diverse UNIX-commando's leren kennen. Data Scientists gebruiken ook vaak UNIX omdat je daarmee makkelijk vrij complexe operaties op data kunt uitvoeren. Daarover later meer.

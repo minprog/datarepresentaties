@@ -1,5 +1,7 @@
 # Text encoding
 
+> Beantwoord de vragen die je hieronder tegenkomt. Je antwoorden worden beoordeeld op inzet en correctheid (1 punt voor de hele opdracht).
+
 Files containing plain text are nothing special. As you've seen previously, even text is eventually stored in binary format, meaning that it is written in memory or on disk using 0's and 1's. In that sense, it's nothing different from formats like MP3 to store music or docx to store text and layout.
 
 However, plain text has a distinct place in computing because of the sheer number of applications that use plain text, and because plain text files can easily be inspected by humans (in most cases).

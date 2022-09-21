@@ -16,7 +16,13 @@ templates:
         type: float
         subgrades:
             points: integer
-        calculation: (points / 4.0 * 9 + 1).round(1)
+        calculation: (points / 3.0 * 9 + 1).round(1)
+        hide_calculated: true
+    3: &shortanswer
+        type: float
+        subgrades:
+            points: integer
+        calculation: (points / 1.0 * 9 + 1).round(1)
         hide_calculated: true
     3: &aftekenen
         type: pass
@@ -63,17 +69,17 @@ grades:
 
     hardware: *writing
     intro: *writing
-    binary: *aftekenen
-    unix: *aftekenen
+    binary: *shortanswer
+    unix: *shortanswer
 
     security: *writing
-    opsys: *writing
-    filesys: *writing
+    opsys: *shortanswer
+    filesys: *shortanswer
 
     multimedia: *writing
-    binrep: *writing
-    text_coding: *writing
-    file_formats: *writing
+    binrep: *shortanswer
+    text_coding: *shortanswer
+    file_formats: *shortanswer
 
     pr1: *writing
     pr2: *writing

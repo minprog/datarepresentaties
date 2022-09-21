@@ -1,5 +1,7 @@
 # Bestandsformaten
 
+> Beantwoord de vragen die je hieronder tegenkomt. Je antwoorden worden beoordeeld op inzet en correctheid (1 punt voor de hele opdracht).
+
 Bestanden bevatten data die met hulp van programma's zijn opgeslagen. Als je een tekst-editor gebruikt kun je heel direct ASCII-tekens intikken en dan opslaan. Elk ASCII-teken dat je hebt ingetikt is een byte in dat bestand. Maar er zijn nog veel meer bestandsformaten.
 
 ## xxd

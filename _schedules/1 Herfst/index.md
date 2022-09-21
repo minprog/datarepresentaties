@@ -60,15 +60,22 @@ Lukt het niet om systematisch laag te scoren op de plagiaatschaal, dan moet je j
 
 Dit is een breed vak met uiteenlopende onderwerpen en opdrachtsvormen. Deze worden dan ook op verschillende manieren nagekeken.
 
-### Schrijfopdrachten
+### Schrijfopdrachten (beoordeling op diepgang)
 
 Er zijn diverse opdrachten waaarin een aantal open vragen een rol spelen. Het doel is hier om de stof te verkennen en jezelf te verdiepen. Dat je daarmee bezig bent geweest, en misschien zelfs dat het gelukt is, kun je aantonen in je antwoorden. Voor deze opdrachten worden als volgt punten toegekend:
 
-0. Niet of te laat ingeleverd
-1. Eén of meer ontbrekende of onserieuze antwoorden, of wat daarmee equivalent is
-2. Alle vragen zijn beantwoord, overwegend kortaf of beperkt tot een eenvoudige opsomming. Mogelijk is er sprake van incorrecte terminologie of matige zinsconstructie.
+0. Niet of te laat ingeleverd, of meer dan een kwart ontbrekende antwoorden.
+1. Eén of twee ontbrekende of onserieuze antwoorden, of wat daarmee equivalent is.
+2. Alle vragen zijn beantwoord, overwegend kortaf of beperkt tot een eenvoudige opsomming. Mogelijk is er een keertje sprake van incorrecte terminologie of matige zinsconstructie.
 3. Alle vragen zijn beantwoord, met overwegend uitgebreide antwoorden, consistent gebruik van terminologie, uitleg van termen om begrip zichtbaar te maken, verbanden tussen onderdelen gelegd, en een vertaling naar concrete, kloppende voorbeelden.
-4. Zoals bij 3 punten, maar er zijn ook één of meer opvallend uitgebreide antwoorden die duidelijk verder gaan dan stof.
+{:start="0"}
+
+### Korte antwoorden (beoordeling op inzet en correctheid)
+
+Sommige opdrachten met open vragen zijn redelijk rechttoe-rechtaan. Hier kun je één punt mee verdienen.
+
+0. Niet of te laat ingeleverd, of één of meer ontbrekende of onserieuze antwoorden.
+1. Duidelijke antwoorden die in de basis kloppen, met ruimte voor een klein aandeel fouten.
 {:start="0"}
 
 ### Afteken-opdrachten

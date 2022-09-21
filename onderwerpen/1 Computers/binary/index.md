@@ -4,7 +4,9 @@
 
 2. Lees daarna ook *Binary hardware* uit het boek van Schneider & Gersting, *Invitation to Computer Science* (op de laatste pagina begint paragraaf 4.3, die geen onderdeel is van de stof).
 
-Beantwoord de volgende vragen. Je mag de vragen in het Nederlands beantwoorden, maar veel technische termen zijn wel Engels, en die kun je gewoon gebruiken.
+## Vragen
+
+Beantwoord de vragen hieronder. Je antwoorden worden beoordeeld op inzet en correctheid (1 punt voor de hele opdracht).
 
 1.  Zet de volgende binaire getallen om naar octale representatie:
 
