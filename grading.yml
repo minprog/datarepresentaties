@@ -152,7 +152,7 @@ calculation:
 #
 # You can leave these out if unused in the `calculation` section.
 
-module_0_pidac:
+module_0:
     show_progress: true
     required: true
     submits:

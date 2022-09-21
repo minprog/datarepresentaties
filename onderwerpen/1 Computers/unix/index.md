@@ -47,7 +47,9 @@ Veel programma's ondersteunen zogeheten command-line arguments. Dit zijn extra o
 
 Je kunt ook een programma starten dat zelf weer om informatie vraagt. Zo'n vraag heet wederom ook een prompt. Maar omdat je geen commando's kan intikken wordt het géén command line genoemd.
 
-Kijk bijvoorbeeld naar het programma banner (alleen direct beschikbaar op Mac, het werkt anders op Ubuntu en WSL). Dit programma wil graag een tekstje hebben dat in zeer grote letters op het scherm geprint wordt. Het programma print daarom `Message:` en wacht tot iets wordt ingetikt. Als je dat doet en op **Enter** drukt, dan gaat het programma pas verder.
+Kijk bijvoorbeeld naar het programma banner (alleen direct beschikbaar op Mac, het werkt anders op Ubuntu en WSL - gebruik daar eerst het commando `sudo apt-get install sysvbanner`).
+
+Dit programma wil graag een tekstje hebben dat in zeer grote letters op het scherm geprint wordt. De Mac-versie van dit programma print daarom `Message:` en wacht tot iets wordt ingetikt. Als je dat doet en op **Enter** drukt, dan gaat het programma pas verder.
 
     me@laptop ~ % banner -w 32
     Message: hoi     
