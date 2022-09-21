@@ -39,8 +39,8 @@ templates:
     3: &aftekenen
         type: pass
         subgrades:
-            gedaan: boolean
-        calculation: gedaan
+            akkoord: boolean
+        calculation: akkoord
         hide_calculated: true
 
 # GRADES - contains definitions of how grades are structured. The names of the
