@@ -180,7 +180,7 @@ module_3:
     submits:
         multimedia: 3
         binrep: 1
-        text_coding: 1
+        text: 1
         file_formats: 1
 
 process_books:
