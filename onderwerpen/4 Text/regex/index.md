@@ -1,10 +1,8 @@
 # Reguliere expressies
 
-Lees het hoofdstuk "Regular expressions & grep" uit het boek *Bulletproof UNIX* van Gottleber.
+Lees het hoofdstuk "Regular expressions & grep" uit het boek _Bulletproof UNIX_ van Gottleber.
 
 Beantwoord de vragen hieronder. Je antwoorden worden beoordeeld op inzet en correctheid (3 punten voor de hele opdracht).
-
-Je mag de vragen gewoon in het Nederlands beantwoorden, maar veel technische termen zijn wel Engels, en die kun je gewoon gebruiken.
 
 1.  Geef een reguliere expressie waarmee je elke regel selecteert waar aan het eind van de regel een punt (`.`) staat.
 
@@ -30,6 +28,8 @@ Je mag de vragen gewoon in het Nederlands beantwoorden, maar veel technische ter
 
     <textarea name="form[q6]" rows="2" required></textarea>
 
+<!--
 - https://leanpub.com/bastards-regexes
 - https://algs4.cs.princeton.edu/54regexp/
 - https://v4.software-carpentry.org/regexp/index.html
+-->
