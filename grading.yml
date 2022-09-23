@@ -94,7 +94,7 @@ grades:
 
     multimedia: *writing
     binrep: *shortanswer1
-    text_coding: *shortanswer1
+    text: *shortanswer1
     file_formats: *shortanswer1
 
     pr1: *aftekenen
