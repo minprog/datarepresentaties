@@ -95,7 +95,11 @@ grades:
     multimedia: *writing
     binrep: *shortanswer1
     text: *shortanswer1
-    file_formats: *shortanswer1
+    formaten: *shortanswer1
+
+    regex: *shortanswer3
+    automaten: *shortanswer3
+    graphviz: *aftekenen
 
     pr1: *aftekenen
     pr2: *aftekenen
@@ -181,7 +185,13 @@ module_3:
         multimedia: 3
         binrep: 1
         text: 1
-        file_formats: 1
+        formaten: 1
+
+module_4:
+    show_progress: true
+    submits:
+        regex: 1
+        automaten: 1
 
 process_books:
     show_progress: true
