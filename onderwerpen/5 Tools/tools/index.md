@@ -12,7 +12,7 @@ Beantwoord de vragen hieronder. Je antwoorden worden beoordeeld op inzet en corr
 
     <textarea name="form[q2]" rows="8" required></textarea>
 
-1.  Schrijf een geheim bericht in een bestand genaamd `brief.txt`, schuif de letters met 13 posities op (dus `a` wordt `n`, `b` wordt `o` en `n` wordt `a`). Welk commando kun je gebruiken om dit voor elkaar te krijgen?
+1.  Schrijf een geheim bericht in een bestand genaamd `brief.txt`. Geef een commando om alle letters in het bestand met 13 posities op te schuiven (dus `a` wordt `n`, `b` wordt `o` en `n` wordt `a`).
 
     <textarea name="form[q3]" rows="8" required></textarea>
 
