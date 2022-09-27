@@ -1,2 +1,5 @@
 name: automaten
 form: true
+files:
+    required:
+        - tekening.jpg
