@@ -4,6 +4,8 @@ Lees het onderdeel "Manipulating files", inclusief het deel "Writing basic scrip
 
 Beantwoord de vragen hieronder. Je antwoorden worden beoordeeld op inzet en correctheid (1 punt voor de hele opdracht).
 
+Let op: als je testbestanden maakt, doe dat dan niet in Windows met Notepad of Atom. Gebruik in plaats daarvan `nano` (zoals uitgelegd in de Software Carpentry workshop). Dan zijn de line endings correct voor gebruik van `grep`.
+
 1.  Geef een commando om alle lowercase letters in een bestand om te zetten naar uppercase.
 
     <textarea name="form[q1]" rows="2" required></textarea>
