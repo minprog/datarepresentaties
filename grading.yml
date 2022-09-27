@@ -101,6 +101,11 @@ grades:
     automaten: *shortanswer3
     graphviz: *aftekenen
 
+    internet: *writing
+    unix_tools: *shortanswer1
+    csv: *shortanswer1
+    json: *shortanswer1
+
     pr1: *aftekenen
     pr2: *aftekenen
     pr3: *aftekenen
@@ -192,6 +197,14 @@ module_4:
     submits:
         regex: 1
         automaten: 1
+
+module_5:
+    show_progress: true
+    submits:
+        internet: 1
+        unix_tools: 1
+        csv: 1
+        json: 1
 
 process_books:
     show_progress: true
