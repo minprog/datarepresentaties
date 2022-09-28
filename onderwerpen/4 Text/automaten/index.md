@@ -16,6 +16,8 @@ Een aankoop doen bij een drankenautomaat kunnen we uittekenen als een finite sta
 
 Laten we aannemen dat de automaat per product een knop heeft en dat je moet betalen nadat op zo'n knop is gedrukt.
 
+Probeer alle mogelijke "states" van de automaat zo goed mogelijk in kaart te brengen. Hierbij hoef je geen verschil te maken tussen bijvoorbeeld de verschillende prijzen en drankjes, maar wel alle fundamenteel verschillende states die er kunnen zijn (denk aan "betaling gelukt" en "betaling mislukt").
+
 1.  Breng het hele proces in kaart door een finite state machine te tekenen. Upload een versie van je tekening onderaan deze pagina (bij de submit).
 
 2.  In welke **toestanden** kan de automaat verkeren? De starttoestand is bijvoorbeeld als nog niemand op een knop heeft gedrukt.
