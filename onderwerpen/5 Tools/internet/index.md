@@ -37,7 +37,7 @@ Both Wi-Fi and Bluetooth are wireless technologies, but each tends to be used di
 
 <textarea name="form[q6]" rows="8" required></textarea>
 
-Suppose that you turn on your computer and visit https://www.harvard.edu/ in a browser. Using each of the terms below in a context that makes clear your understanding of each, explain in a paragraph the process by which Harvard's home page appears on your screen: DHCP server, DNS server, IP address, packet, TCP port, web server.
+Suppose that you turn on your computer and visit <https://www.harvard.edu/> in a browser. Using each of the terms below in a context that makes clear your understanding of each, explain in a paragraph the process by which Harvard's home page appears on your screen: DHCP server, DNS server, IP address, packet, TCP port, web server.
 
 <textarea name="form[q7]" rows="8" required></textarea>
 
