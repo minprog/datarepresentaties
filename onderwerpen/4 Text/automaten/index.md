@@ -10,7 +10,7 @@ Beantwoord daarna de vragen. Je antwoorden worden beoordeeld op inzet en correct
 
 ## Vending machine
 
-Reguliere expressies zijn speciaal bedacht voor het herkennen van patronen in teksten. Maar finite state machines zijn veel algemener. Die kunnen we gebruiken om allerlei soorten processen in kaart te brengen. Een aankoop doen bij een drankenautomaat kunnen we uittekenen als een finite state machine. Het idee is om de **regels die gelden in de automaat** te vatten in zo'n tekening.
+Reguliere expressies zijn speciaal bedacht voor het herkennen van patronen in teksten. Maar finite state machines zijn veel algemener. Die kunnen we gebruiken om allerlei soorten processen in kaart te brengen. Een aankoop doen bij een drankenautomaat kunnen we uittekenen als een finite state machine. Het idee is om de **regels die gelden voor de werking van de automaat** te vatten in zo'n tekening. Een belangrijk inzicht is dat een automaat volgens een bepaald systeem, in een volgorde werkt.
 
 Laten we aannemen dat de automaat knoppen heeft om cijfers in te voeren. Elk product heeft een code van twee cijfers. Er is ook een module om contactloos te betalen. Ten minste de volgende regels gelden:
 
@@ -20,7 +20,7 @@ Laten we aannemen dat de automaat knoppen heeft om cijfers in te voeren. Elk pro
 - Als de betaalmodule een fout geeft dan wordt deze gedeactiveerd en kan opnieuw worden begonnen
 - Als de betaalmodule succesvol geld heeft geïnd dan wordt deze gedeactiveerd en kan het drankje worden uitgegeven
 
-Probeer nu alle mogelijke "states" van de automaat zo goed mogelijk in kaart te brengen, zodat op een eenduidige manier alle regels kunnen worden toegepast. Zoals je ziet in de regels wordt er geen verschil gemaakt tussen soorten drankjes en prijzen. Dit is een abstractie (weglating). De crux van het in kaart brengen is dat systeemfouten worden voorkomen: het kan niet zo zijn dat een drankje wordt uitgegeven als er nog geen keuze is gemaakt, of als er nog niet betaald is.
+Probeer nu alle mogelijke "states" (toestanden) van de automaat zo goed mogelijk in kaart te brengen, zodat op een eenduidige manier alle regels kunnen worden toegepast. Zoals je ziet in de regels wordt er geen verschil gemaakt tussen soorten drankjes en prijzen. Dit is een abstractie (weglating). De crux van het in kaart brengen is dat systeemfouten worden voorkomen: het kan niet zo zijn dat een drankje wordt uitgegeven als er nog geen keuze is gemaakt, of als er nog niet betaald is. Maar hoevéél er wordt betaald of wélk drankje wordt gekozen, dat maakt niet uit voor het beschrijven van de algemene werking van de machine.
 
 1.  Breng het hele proces in kaart door een finite state machine te tekenen. Upload een versie van je tekening onderaan deze pagina (bij de submit).
 
