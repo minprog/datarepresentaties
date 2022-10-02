@@ -39,4 +39,6 @@ Let op: als je testbestanden maakt, doe dat dan niet in Windows met Notepad of A
 
 1.  Bij een ander vak geven we [deze opdracht](https://pyprog.proglab.nl/opdrachten/week5/eca2csv) voor het schrijven van een programma om een databestand om te zetten in een beter formaat. Die cursus is in Python maar je kunt deze opdracht véél korter in UNIX doen. Geef een commando (met pipes) om deze datafile om te zetten naar het in de opdracht beschreven formaat. Het originele bestand kun je daar downloaden.
 
+    Deze opdracht is optioneel.
+
     <textarea name="form[q5]" rows="8" required></textarea>
