@@ -28,7 +28,7 @@ Ook CSV-bestanden kunnen in verschillende encodings worden opgeslagen, dus niet 
 
 ## Quotes
 
-Nog een ander pijnpunt van CSV zijn de quotes. Omdat het een tekstformaat is, moet je erg opletten bij het gebruik van bijvoorbeeld een line break in de data. Een line break (CRLF) is immers het scheidingsteken voor verschillende records. Wat nou als je één veld hebt waarin het complete adres van een bedrijf staat, inclusief line breaks? Hetzelfde probleem geldt natuurlijk voor komma's, die ook een speciale betekenis hebben. Daarom kun je, zoals in de RFC ook vermeld staat, quotes ("") gebruiken om data te markeren **waarin** line breaks worden gebruikt. 
+Nog een ander pijnpunt van CSV zijn de quotes. Omdat het een tekstformaat is, moet je erg opletten bij het gebruik van bijvoorbeeld een line break in de data. Een line break (CRLF) is immers het scheidingsteken voor verschillende records. Wat nou als je één veld hebt waarin het complete adres van een bedrijf staat, inclusief line breaks? Hetzelfde probleem geldt natuurlijk voor komma's, die ook een speciale betekenis hebben. Daarom kun je, zoals in de RFC ook vermeld staat, quotes ("") gebruiken om data te markeren **waarin** line breaks worden gebruikt.
 
 Het probleem is dat Excel, maar ook veel POSIX-tools, geen rekening houden met de quotes. Je moet dus dubbel opletten als je commando's gebruikt om CSV's te filteren en op een andere manier te bewerken. De tool `csvquote` kan hier goed bij helpen.
 
@@ -36,9 +36,21 @@ Het probleem is dat Excel, maar ook veel POSIX-tools, geen rekening houden met d
 
 ## 🌵 Opdracht
 
-1.  Hieronder vind je de tekst van een CSV-bestand dat fouten bevat. Corrigeer het bestand zodat het klopt met de *bedoeling* van de auteur (als het goed is kun je de bedoeling makkelijk begrijpen, maar anders kun je natuurlijk overleggen).
+1.  De lijst studenten van Programmeren 1 heeft wat problemen. We hebben deze in Excel opgeslagen als CSV en we kregen meteen deze melding:
 
-        CSV file
+    ![Possible Data Loss Some. features might be lost if you save this workbook in the comma-delimited (.csv) format. To preserve these features, save it in an Excel file format.](excel.png)
+
+    Hadden we maar geluisterd... want we hebben de originele .xlsx weggegooid en nu zitten we met een [nogal onhandig te verwerken bestand](students_50621PRP6Y.csv). Je moet het downloaden via dit commando om de originele versie te krijgen:
+
+        curl -OL https://raw.githubusercontent.com/minprog/datarepresentaties/2022/onderwerpen/5%20Tools/csv/students_50621PRP6Y.csv
+
+     Het volgende is mis:
+
+    - Line endings zijn Mac OS 7-style `\r`, wat niet goed werkt met UNIX-tools
+    - De laatste kolom is een opsomming van studies met komma ertussen, maar er staan geen quotes om heen
+    - De kolommen zijn gescheiden met een puntkomma in plaats van een komma
+
+    Geef de commando's, liefst een one-liner, om het bestand te corrigeren voor verdere verwerking als CSV.
 
     <textarea name="form[q1]" rows="8" required></textarea>
 
@@ -51,7 +63,7 @@ Het probleem is dat Excel, maar ook veel POSIX-tools, geen rekening houden met d
         root    privileged
         daemon  privileged
         nobody  not privileged
-        joedoe  privileged
+        joedoe  not privileged
 
     <textarea name="form[e2]" rows="8" required></textarea>
 
