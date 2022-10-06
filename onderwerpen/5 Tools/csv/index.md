@@ -40,7 +40,7 @@ Het probleem is dat Excel, maar ook veel POSIX-tools, geen rekening houden met d
 
     ![Possible Data Loss Some. features might be lost if you save this workbook in the comma-delimited (.csv) format. To preserve these features, save it in an Excel file format.](excel.png)
 
-    Hadden we maar geluisterd... want we hebben de originele .xlsx weggegooid en nu zitten we met een [nogal onhandig te verwerken bestand](students_50621PRP6Y.csv). Je moet het downloaden via dit commando om de originele versie te krijgen:
+    Hadden we maar geluisterd... want we hebben de originele .xlsx weggegooid en nu zitten we met een [nogal onhandig te verwerken bestand](students_50621PRP6Y.csv). Je **moet** het downloaden via dit commando om de originele versie te krijgen:
 
         curl -OL https://raw.githubusercontent.com/minprog/datarepresentaties/2022/onderwerpen/5%20Tools/csv/students_50621PRP6Y.csv
 
