@@ -58,7 +58,7 @@ Het probleem is dat Excel, maar ook veel POSIX-tools, geen rekening houden met d
 
     <textarea name="form[e1]" rows="8" required></textarea>
 
-1.  Geef een awk-script dat van elke regel van de file `passwd` de username print, en of de gebruiker speciale privileges heeft. Dat laatste is alleen het geval als de gebruiker een ID kleiner dan 10 heeft ([download `passwd.txt` hier](passwd.txt)). Dat moet er zo uitzien:
+1.  Geef een awk-script dat van elke regel van de file `passwd` de username print, en of de gebruiker speciale privileges heeft. Dat laatste is alleen het geval als de gebruiker een niet-negatief ID kleiner dan 10 heeft ([download `passwd.txt` hier](passwd.txt)). Dat moet er zo uitzien:
 
         root    privileged
         daemon  privileged
