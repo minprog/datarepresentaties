@@ -67,7 +67,7 @@ Het probleem is dat Excel, maar ook veel POSIX-tools, geen rekening houden met d
 
     <textarea name="form[e2]" rows="8" required></textarea>
 
-1.  Geeft een awk-script dat alle gebruikers op dezelfde manier print, maar in dit geval moeten de gebruikers `root` en `daemon` worden overgeslagen omdat op elk systeem bestaan. Alleen de overige gebruikers worden dus geprint, op dezelfde manier als bij de vorige vraag.
+1.  Geef een awk-script dat alle gebruikers op dezelfde manier print, maar in dit geval moeten de gebruikers `root` en `daemon` worden overgeslagen omdat deze op elk systeem bestaan. Alleen de overige gebruikers worden dus geprint, op dezelfde manier als bij de vorige vraag.
 
     <textarea name="form[e3]" rows="8" required></textarea>
 
