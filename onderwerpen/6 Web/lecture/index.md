@@ -19,12 +19,18 @@ Onderwerpen van het college zijn:
 - DOM
 - CSS
 
-## Questions
+## Vragen
 
-Recall that we discussed HTTP in the context of internet technologies and HTML in the context of web development. What’s the difference between HTTP and HTML?
+We hebben HTTP behandeld in de context van internet-technologie en HTML in de context van web-development. Wat zijn verschillen en relaties tussen HTTP en HTML? Beantwoord in termen van doel en  toepassing van beide.
 
 <textarea name="form[q1]" rows="8" required></textarea>
 
-Recall that we discussed both HTML and CSS in the context of web development. What’s the difference between HTML and CSS?
+We hebben HTML en CSS behandeld in de context van web-development. Wat zijn de verschillen en relaties tussen HTML en CSS? Beantwoord in termen van doel en toepassing van beide.
 
 <textarea name="form[q2]" rows="8" required></textarea>
+
+Beschrijf in enige diepte een onderwerp(je) uit het college dat je opviel omdat het nieuw voor je was, of waar je heel anders naar kijkt dan in het college beschreven. Mocht dit niet lukken, beschrijf dan een gerelateerde techniek of detail van HTML, CSS of JS die niet in het college zijn behandeld.
+
+(Deze vraag is in plaats van het procesboek.)
+
+<textarea name="form[q3]" rows="8" required></textarea>

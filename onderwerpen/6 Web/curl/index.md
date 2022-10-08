@@ -57,6 +57,8 @@ Dan kun je `jq` zo gebruiken:
         -41.536613527854
         -90.033171572304
 
+    <textarea name="form[q1]" rows="4" required></textarea>
+
 1.  Geef een commando om op basis van de timestamp uit de JSON de datum netjes uit te printen. Het zou er zo uit moeten zien:
 
         Wed Aug  3 09:02:30 CEST 2022
@@ -66,3 +68,5 @@ Dan kun je `jq` zo gebruiken:
     Documenteer in je antwoord exact welke bronnen je hebt geprobeerd en hoe je ze hebt toegepast. Dus gebruikte zoektermen, een referentie naar een website met een techniek die niet werkte, hoe je het wél werkend hebt gekregen, dat soort dingen.
 
     Als je er niet uitkomt dan is dat geen probleem, als je je zoektocht maar documenteert. Als je niet weet hoe te beginnen: vraag een assistent of stuur een mail.
+
+    <textarea name="form[q2]" rows="12" required></textarea>
