@@ -2,7 +2,7 @@
 
 Build a simple profile page using HTML, CSS, and JavaScript.
 
-> Je uitwerking voor deze opdracht wordt beoordeeld op inzet en correctheid (3 punt voor de hele opdracht).
+> Je uitwerking voor deze opdracht wordt beoordeeld op de minmumeisen en hoe ver je daarna bent gegaan (maximaal 3 punten voor de hele opdracht).
 
 ## Background
 
@@ -26,11 +26,8 @@ Here's how to download this problem's "distribution code" (i.e., starter code) i
 1. Execute `ls`. You should see a directory called `profile`, which was inside of that ZIP file.
 1. Execute `cd profile` to change into that directory.
 1. Execute `ls`. You should see this problem's distribution, including `index.html` and `styles.css`.
-1. You can immediately start a server to view the site by running
 
-        $ http-server
-
-in the terminal window and clicking on the link that appears.
+Open `index.html` in your web browser to see what it currently looks like.
 
 
 ## Specification
@@ -58,13 +55,7 @@ Implement in your `profile` directory a website that must:
 
 ## Testing
 
-If you want to view how your site looks while you work on it, there are two options:
-
-1.  Within CS50 IDE, navigate to your `profile` directory (remember how?) and then execute
-
-        $ http-server
-
-1.  Within CS50 IDE, right-click (or Ctrl+click, on a Mac) on the `profile` directory in the file tree at left. From the options that appear, select **Serve**, which should open a new tab in your browser (it may take a second or two) with your site therein.
+If you want to view how your site looks while you work on it, keep it open in your browser.
 
 Recall also that by opening Developer Tools in Google Chrome, you can _simulate_ visiting your page on a mobile device by clicking the phone-shaped icon to the left of **Elements** in the developer tools window, or, once the Developer Tools tab has already been opened, by typing `Ctrl`+`Shift`+`M` on a PC or `Cmd`+`Shift`+`M` on a Mac, rather than needing to visit your site on a mobile device separately!
 

@@ -1,6 +1,6 @@
 # Curl
 
-> Bestudeer de stof en beantwoord de vragen hieronder. Je antwoorden worden beoordeeld op inzet en correctheid (3 punten voor de hele opdracht).
+> Bestudeer de stof en beantwoord de vragen hieronder. Je antwoorden worden beoordeeld op uitleg en correctheid (1 punt voor de hele opdracht).
 
 Gebruik `curl` om de HTML van een webpagina op te vragen. Zo kun je bijvoorbeeld de HTML van zoekmachine DuckDuckGo krijgen:
 
@@ -16,7 +16,7 @@ In de volgende module gaan we aan de slag met HTML maar nu gaan we eerst JSON-da
 
     curl https://api.wheretheiss.at/v1/satellites/25544
 
-Je ziet dan meteen dat je JSON als antwoord krijgt in plaats van HTML. 
+Je ziet dan meteen dat je JSON als antwoord krijgt in plaats van HTML.
 
     {"name":"iss","id":25544,"latitude":-24.135574363392,"longitude":-111.86401960141,"altitude":425.37210858971,"velocity":27557.51464498,"visibility":"eclipsed","footprint":4534.693976796,"timestamp":1659509744,"daynum":2459794.7887037,"solar_lat":17.482788938462,"solar_lon":77.627649838076,"units":"kilometers"}
 
@@ -52,13 +52,17 @@ Dan kun je `jq` zo gebruiken:
 
 🌵 Oefening
 
-1.  Geef een commando om alleen de latitude én longitude uit te printen. Het resultaat zou er zo uit moeten zien (met andere getallen!):
+1.  Geef een commando om alleen de latitude én longitude uit te printen. Het resultaat zou er zo uit moeten zien (met andere getallen natuurlijk!):
 
         -41.536613527854
         -90.033171572304
 
-1.  (Challenge) Geef een commando om op basis van de timestamp uit de JSON de datum netjes uit te printen. Het zou er zo uit moeten zien:
+1.  Geef een commando om op basis van de timestamp uit de JSON de datum netjes uit te printen. Het zou er zo uit moeten zien:
 
         Wed Aug  3 09:02:30 CEST 2022
 
-    De timestamp is het aantal seconden sinds 1 januari 1970. Dit wordt ook wel een "epoch" tijd genoemd. Er zijn verschillende manieren om zo'n getal te converteren naar een datum.
+    De timestamp is het aantal seconden sinds 1 januari 1970. Dit wordt ook wel een "epoch" tijd genoemd. Er zijn verschillende manieren om zo'n getal te converteren naar een datum. Gebruik een zoekmachine om te achterhalen hoe dit moet.
+
+    Documenteer in je antwoord exact welke bronnen je hebt geprobeerd en hoe je ze hebt toegepast. Dus gebruikte zoektermen, een referentie naar een website met een techniek die niet werkte, hoe je het wél werkend hebt gekregen, dat soort dingen.
+
+    Als je er niet uitkomt dan is dat geen probleem, als je je zoektocht maar documenteert. Als je niet weet hoe te beginnen: vraag een assistent of stuur een mail.
