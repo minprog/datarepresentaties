@@ -2,7 +2,7 @@
 
 Build a simple profile page using HTML, CSS, and JavaScript.
 
-> Je uitwerking voor deze opdracht wordt beoordeeld op de minmumeisen en hoe ver je daarna bent gegaan (maximaal 3 punten voor de hele opdracht).
+> Je uitwerking voor deze opdracht wordt beoordeeld op de minmumeisen (1 punt) en hoe ver je daarna bent gegaan (maximaal 3 punten voor de hele opdracht).
 
 ## Background
 
@@ -17,15 +17,7 @@ Create a simple profile page that introduces yourself, your favorite hobby or ex
 
 ## Getting Started
 
-Here's how to download this problem's "distribution code" (i.e., starter code) into your own CS50 IDE. Log into [CS50 IDE](https://ide.cs50.io/) and then, in a terminal window, execute each of the below.
-
-1. Execute `cd` to ensure that you're in `~/` (i.e., your home directory).
-1. Execute `wget https://github.com/minprog/webprogrammeren/raw/2020/Problems/2%20profile/profile.zip` to download a (compressed) ZIP file with this problem's distribution.
-1. Execute `unzip profile.zip` to uncompress that file.
-1. Execute `rm profile.zip` followed by `yes` or `y` to delete that ZIP file.
-1. Execute `ls`. You should see a directory called `profile`, which was inside of that ZIP file.
-1. Execute `cd profile` to change into that directory.
-1. Execute `ls`. You should see this problem's distribution, including `index.html` and `styles.css`.
+Execute `curl -OL https://github.com/minprog/webprogrammeren/raw/2020/Problems/2%20profile/profile.zip` to download a (compressed) ZIP file with this problem's distribution.
 
 Open `index.html` in your web browser to see what it currently looks like.
 
@@ -49,15 +41,20 @@ Implement in your `profile` directory a website that must:
         <link href="styles.css" rel="stylesheet">
 
     to link your own CSS.
-*   Have at least one stylesheet file of your own creation, `styles.css`, which uses at least five (5) different CSS selectors (e.g. tag (`example`), class (`.example`), or ID (`#example`)), and within which you use a total of at least five (5) different CSS properties, such as `font-size`, or `margin`; and
+*   Have at least one stylesheet file of your own creation, `styles.css`, which uses at least five (5) different CSS selectors (e.g. tag (`example`), class (`.example`), or ID (`#example`)), and within which you use a total of at least five (5) different CSS properties, such as `font-size`, or `margin`.
+
+Optional:
+
 *   Integrate one or more features of JavaScript into your site to make your site more interactive. For example, you can use JavaScript to add alerts, to have an effect at a recurring interval, or to add interactivity to buttons, dropdowns, or forms. Feel free to be creative!
 *   Ensure that your site looks nice on browsers both on mobile devices as well as laptops and desktops.
+
 
 ## Testing
 
 If you want to view how your site looks while you work on it, keep it open in your browser.
 
 Recall also that by opening Developer Tools in Google Chrome, you can _simulate_ visiting your page on a mobile device by clicking the phone-shaped icon to the left of **Elements** in the developer tools window, or, once the Developer Tools tab has already been opened, by typing `Ctrl`+`Shift`+`M` on a PC or `Cmd`+`Shift`+`M` on a Mac, rather than needing to visit your site on a mobile device separately!
+
 
 ## Assessment
 
