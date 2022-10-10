@@ -106,6 +106,14 @@ grades:
     csv: *shortanswer1
     json: *shortanswer1
 
+    web-lecture: *aftekenen
+    profile: *writing
+    curl: *shortanswer1
+    scraping: *shortanswer2
+
+    movies: *shortanswer3
+    fiftyville: *shortanswer3
+
     pr1: *aftekenen
     pr2: *aftekenen
     pr3: *aftekenen
@@ -201,10 +209,24 @@ module_4:
 module_5:
     show_progress: true
     submits:
-        internet: 1
+        internet: 3
         unix_tools: 1
         csv: 1
         json: 1
+
+module_6:
+    show_progress: true
+    submits:
+        web-lecture: 0
+        profile: 3
+        curl: 1
+        scraping: 2
+
+module_7:
+    show_progress: true
+    submits:
+        movies: 1
+        fiftyville: 1
 
 process_books:
     show_progress: true
@@ -215,5 +237,5 @@ process_books:
         pr3: 1
         pr4: 1
         pr5: 1
-        pr6: 1
-        pr7: 1
+        # pr6: 1
+        # pr7: 1
