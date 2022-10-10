@@ -90,6 +90,6 @@ For fairly comprehensive guides on the languages introduced in this problem, che
 
 ## Vraag
 
-Beschrijf twee problemen die je bent tegengekomen tijdens het maken van je Homepage en hoe je die problemen toen hebt opgelost (proces, met verwijzingen naar inhoud van de stof; het gaat niet om problemen met de opdracht zelf maar met de stof).
+Beschrijf twee problemen die je bent tegengekomen tijdens het maken van je Homepage en hoe je die problemen toen hebt opgelost (proces, met verwijzingen naar inhoud van de stof; het gaat niet om problemen met het begrijpen van de opdracht zelf, maar met de stof).
 
 <textarea name="form[q1]" rows="8" required></textarea>
