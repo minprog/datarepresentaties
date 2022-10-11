@@ -4,6 +4,19 @@
 
 Lees de [README](https://github.com/EricChiang/pup) van de tool `pup`. Met deze tool kun je informatie scrapen uit HTML-pagina's. Zo kun je informatie van een website laten zien in je terminal, maar je kunt dit ook gebruiken voor bijvoorbeeld dataverzameling voor onderzoek.
 
+Installatie voor Ubuntu en WSL:
+
+    curl -LO https://github.com/ericchiang/pup/releases/download/v0.4.0/pup_v0.4.0_linux_amd64.zip
+    unzip pup_v*
+
+Dit geeft in de huidige directory een executable genaamd `pup` die je zoals normaal kunt runnen met `./pup`. Als dit niet werkt, stuur even een mail naar <help@mprog.nl>.
+
+Installatie voor Mac:
+
+    brew install pup
+
+Dit installeert een commando `pup` dat je kunt aanroepen met `pup` (anders dan op Windows dus!).
+
 Om Pup uit te testen met websites kun je `curl` gebruiken voor het binnenhalen van de pagina en het resultaat via een pipe doorsturen naar pup. Als voorbeeld kun je op deze pagina de pagina van het KNMI binnen halen en "netjes" uitprinten:
 
     curl -s 'https://www.knmi.nl/home' | pup -c
