@@ -9,7 +9,7 @@ Installatie voor Ubuntu en WSL:
     curl -LO https://github.com/ericchiang/pup/releases/download/v0.4.0/pup_v0.4.0_linux_amd64.zip
     unzip pup_v*
 
-Dit geeft in de huidige directory een executable genaamd `pup` die je zoals normaal kunt runnen met `./pup`. Als dit niet werkt, stuur even een mail naar <help@mprog.nl>.
+Dit geeft in de huidige directory een executable genaamd `pup` die je zoals normaal kunt runnen met `./pup`. Je kunt het programma dus niet runnen door alleen `pup` in te tikken. Pas dit aan in de voorbeelden hieronder! Als pup helemaal niet werkt, stuur even een mail naar <help@mprog.nl>.
 
 Installatie voor Mac:
 
