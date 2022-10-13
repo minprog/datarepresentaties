@@ -64,9 +64,11 @@ Dan kun je `jq` zo gebruiken:
         Wed Aug  3 09:02:30 CEST 2022
 
     De timestamp is het aantal seconden sinds 1 januari 1970. Dit wordt ook wel een "epoch" tijd genoemd. Er zijn verschillende manieren om zo'n getal te converteren naar een datum. Gebruik een zoekmachine om te achterhalen hoe dit moet.
+    
+    Het kan handig zijn om hier ook "command substitution" te gebruiken. Dit is een constructie die je in plaats van pipes of in samenwerking met pipes kan gebruiken. Zie [CommandSubstitution](http://mywiki.wooledge.org/CommandSubstitution).
 
     Documenteer in je antwoord exact welke bronnen je hebt geprobeerd en hoe je ze hebt toegepast. Dus gebruikte zoektermen, een referentie naar een website met een techniek die niet werkte, hoe je het wél werkend hebt gekregen, dat soort dingen.
 
-    Als je er niet uitkomt dan is dat geen probleem, als je je zoektocht maar documenteert. Als je niet weet hoe te beginnen: vraag een assistent of stuur een mail.
+    **Besteed niet meer dan 1 uur aan dit probleem.** Als je er niet uitkomt dan is dat geen probleem, als je je zoektocht maar documenteert. Als je niet weet hoe te beginnen: vraag een assistent of stuur een mail.
 
     <textarea name="form[q2]" rows="12" required></textarea>
