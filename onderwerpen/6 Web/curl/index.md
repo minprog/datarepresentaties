@@ -65,7 +65,7 @@ Dan kun je `jq` zo gebruiken:
 
     De timestamp is het aantal seconden sinds 1 januari 1970. Dit wordt ook wel een "epoch" tijd genoemd. Er zijn verschillende manieren om zo'n getal te converteren naar een datum. Gebruik een zoekmachine om te achterhalen hoe dit moet.
     
-    Het kan handig zijn om hier ook "command substitution" te gebruiken. Dit is een constructie die je in plaats van pipes of in samenwerking met pipes kan gebruiken. Zie [CommandSubstitution](http://mywiki.wooledge.org/CommandSubstitution).
+    Het kan handig zijn om hier ook "command substitution" te gebruiken. Dit is een constructie die je in plaats van pipes of in samenwerking met pipes kan gebruiken. Zie [Command Substitution](https://www.gnu.org/software/bash/manual/html_node/Command-Substitution.html). Je mag zo'n command substitution gebruiken als parameter van een ander commando.
 
     Documenteer in je antwoord exact welke bronnen je hebt geprobeerd en hoe je ze hebt toegepast. Dus gebruikte zoektermen, een referentie naar een website met een techniek die niet werkte, hoe je het wél werkend hebt gekregen, dat soort dingen.
 
