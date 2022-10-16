@@ -18,16 +18,13 @@ How will you go about solving this mystery? The Fiftyville authorities have take
 
 ## Getting Started
 
-Here's how to download this problem into your own CS50 IDE. Log into [CS50 IDE](https://ide.cs50.io/) and then, in a terminal window, execute each of the below.
-
-* Execute `cd` to ensure that you're in `~/` (i.e., your home directory, aka `~`).
-* Execute `wget https://github.com/minprog/webprogrammeren/raw/2020/Problems/1%20Fiftyville/fiftyville.zip` to download a (compressed) ZIP file with this problem's distribution.
-* Execute `unzip fiftyville.zip` to uncompress that file.
-* Execute `rm fiftyville.zip` followed by `yes` or `y` to delete that ZIP file.
-* Execute `ls`. You should see a directory called `fiftyville`, which was inside of that ZIP file.
-* Execute `cd fiftyville` to change into that directory.
-* Execute `ls`. You should see a `fiftyville.db` file, a `log.sql` file, and an `answers.txt` file.
-
+    $ curl -LO https://github.com/minprog/webprogrammeren/raw/2020/Problems/1%20Fiftyville/fiftyville.zip
+    $ unzip fiftyville.zip
+    $ rm fiftyville.zip
+    $ cd fiftyville
+    $ ls
+    answers.txt	fiftyville.db	log.sql
+    
 ## Specification
 
 For this problem, equally as important as solving the mystery itself is the process that you use to solve the mystery. In `log.sql`, keep a log of all SQL queries that you run on the database. Above each query, label each with a comment (in SQL, comments are any lines that begin with `--`) describing why you're running the query and/or what information you're hoping to get out of that particular query. You can use comments in the log file to add additional notes about your thought process as you solve the mystery: ultimately, this file should serve as evidence of the process you used to identify the thief!
