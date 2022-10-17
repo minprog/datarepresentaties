@@ -8,9 +8,9 @@ Write SQL queries to solve a mystery.
 
 The CS50 Duck has been stolen! The town of Fiftyville has called upon you to solve the mystery of the stolen duck. Authorities believe that the thief stole the duck and then, shortly afterwards, took a flight out of town with the help of an accomplice. Your goal is to identify:
 
-* Who the thief is,
-* What city the thief escaped to, and
-* Who the thief's accomplice is who helped them escape
+- Who the thief is,
+- What city the thief escaped to, and
+- Who the thief's accomplice is who helped them escape
 
 All you know is that the theft **took place on July 28, 2020** and that it **took place on Chamberlin Street**.
 
@@ -20,13 +20,13 @@ How will you go about solving this mystery? The Fiftyville authorities have take
 
 Here's how to download this problem into your own CS50 IDE. Log into [CS50 IDE](https://ide.cs50.io/) and then, in a terminal window, execute each of the below.
 
-* Execute `cd` to ensure that you're in `~/` (i.e., your home directory, aka `~`).
-* Execute `wget https://github.com/minprog/webprogrammeren/raw/2020/Problems/1%20Fiftyville/fiftyville.zip` to download a (compressed) ZIP file with this problem's distribution.
-* Execute `unzip fiftyville.zip` to uncompress that file.
-* Execute `rm fiftyville.zip` followed by `yes` or `y` to delete that ZIP file.
-* Execute `ls`. You should see a directory called `fiftyville`, which was inside of that ZIP file.
-* Execute `cd fiftyville` to change into that directory.
-* Execute `ls`. You should see a `fiftyville.db` file, a `log.sql` file, and an `answers.txt` file.
+- Execute `cd` to ensure that you're in `~/` (i.e., your home directory, aka `~`).
+- Execute `wget https://github.com/minprog/webprogrammeren/raw/2020/Problems/1%20Fiftyville/fiftyville.zip` to download a (compressed) ZIP file with this problem's distribution.
+- Execute `unzip fiftyville.zip` to uncompress that file.
+- Execute `rm fiftyville.zip` followed by `yes` or `y` to delete that ZIP file.
+- Execute `ls`. You should see a directory called `fiftyville`, which was inside of that ZIP file.
+- Execute `cd fiftyville` to change into that directory.
+- Execute `ls`. You should see a `fiftyville.db` file, a `log.sql` file, and an `answers.txt` file.
 
 ## Specification
 
@@ -42,18 +42,18 @@ Ultimately, you should submit both your `log.sql` and `answers.txt` files.
 
 ## Hints
 
-* Execute `sqlite3 fiftyville.db` to begin running queries on the database.
-    * While running `sqlite3`, executing `.tables` will list all of the tables in the database.
-    * While running `sqlite3`, executing `.schema TABLE_NAME`, where `TABLE_NAME` is the name of a table in the database, will show you the `CREATE TABLE` command used to create the table. This can be helpful for knowing which columns to query!
-* You may find it helpful to start with the `crime_scene_reports` table. Start by looking for a crime scene report that matches the date and the location of the crime.
-* See [this SQL keywords reference](https://www.w3schools.com/sql/sql_ref_keywords.asp) for some SQL syntax that may be helpful!
+- Execute `sqlite3 fiftyville.db` to begin running queries on the database.
+  - While running `sqlite3`, executing `.tables` will list all of the tables in the database.
+  - While running `sqlite3`, executing `.schema TABLE_NAME`, where `TABLE_NAME` is the name of a table in the database, will show you the `CREATE TABLE` command used to create the table. This can be helpful for knowing which columns to query!
+- You may find it helpful to start with the `crime_scene_reports` table. Start by looking for a crime scene report that matches the date and the location of the crime.
+- See [this SQL keywords reference](https://www.w3schools.com/sql/sql_ref_keywords.asp) for some SQL syntax that may be helpful!
 
 ## Testing
 
 Execute the below to evaluate the correctness of your code using `check50`.
 
 ```
-check50 -l minprog/webprogrammeren/checks_2020/fiftyville
+check50 -l minprog/checks/2022/fiftyville
 ```
 
 ## Acknowledgements
