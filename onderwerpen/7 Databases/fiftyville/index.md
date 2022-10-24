@@ -18,7 +18,7 @@ How will you go about solving this mystery? The Fiftyville authorities have take
 
 ## Getting Started
 
-    $ curl -LO https://github.com/minprog/webprogrammeren/raw/2020/Problems/1%20Fiftyville/fiftyville.zip
+    $ curl -LO https://github.com/minprog/datarepresentaties/blob/2022/onderwerpen/7%20Databases/fiftyville/fiftyville.zip
     $ unzip fiftyville.zip
     $ rm fiftyville.zip
     $ cd fiftyville
