@@ -140,6 +140,7 @@ grades:
 
 calculation:
     eindcijfer:
+        pidac: 1
         module_1: 1
         module_2: 1
         module_3: 1
@@ -171,7 +172,6 @@ calculation:
 
 pidac:
     show_progress: true
-    required: true
     submits:
         pidac_1: 1
         pidac_2: 1
