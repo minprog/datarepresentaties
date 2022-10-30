@@ -172,6 +172,7 @@ calculation:
 
 pidac:
     show_progress: true
+    convert_passes_to_grade: true
     submits:
         pidac_1: 1
         pidac_2: 1
