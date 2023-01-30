@@ -1,2 +1,4 @@
 name: binary
-form: true
+files:
+    required:
+        - binary.pdf

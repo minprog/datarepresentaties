@@ -1,11 +1,52 @@
 Welkom:
     Lees hier even rustig door de studiewijzer om te ontdekken hoe het vak in elkaar zit: /syllabus
 
-Onderwerpen:
-    Computers: /onderwerpen/computers
-    Representaties: /onderwerpen/representaties
-    Text processing: /onderwerpen/text
-    Structured text: /onderwerpen/structured
-    APIs: /onderwerpen/apis
-    Web development: /onderwerpen/web
-    Databases: /onderwerpen/databases
+Computers:
+    Hardware [college]: /onderwerpen/computers/hardware
+    Introduction to computing [boek]: /onderwerpen/computers/intro
+    Binair tellen [boek]: /onderwerpen/computers/binary
+    UNIX intro [opdracht]: /onderwerpen/computers/unix
+
+Besturingssystemen:
+    Beveiliging [college]: /onderwerpen/besturingssystemen/security
+    Besturingssystemen [boek]: /onderwerpen/besturingssystemen/os
+    Bestandssystemen [boek]: /onderwerpen/besturingssystemen/fs
+    Software Carpentry UNIX [tutorial]: /onderwerpen/besturingssystemen/carpentry
+    Procesboek:
+        Procesboek: /procesboek/week2
+
+Representaties:
+    Multimedia [college]: /onderwerpen/representaties/multimedia
+    Binaire representatie [boek]: /onderwerpen/representaties/binary
+    Textcodering [achtergrond]: /onderwerpen/representaties/text
+    Bestandsformaten [opdracht]: /onderwerpen/representaties/formaten
+    Procesboek:
+        Procesboek: /procesboek/week3
+
+Text processing:
+    Reguliere expressies [boek]: /onderwerpen/text/regex
+    Automaten [college]: /onderwerpen/text/automaten
+    Graphviz [opdracht]: /onderwerpen/text/graphviz
+    Procesboek:
+        Procesboek: /procesboek/week4
+
+Text tools:
+    Internet [college]: /onderwerpen/tools/internet
+    Pipes & filters [tutorial]: /onderwerpen/tools/carpentry
+    UNIX-commando's [boek]: /onderwerpen/tools/tools
+    CSV [opdracht]: /onderwerpen/tools/csv
+    JSON [opdracht]: /onderwerpen/tools/json
+    Procesboek:
+        Procesboek: /procesboek/week5
+
+Web development:
+    Web [college]: /onderwerpen/web/lecture
+    Homepage [opdracht]: /onderwerpen/web/homepage
+    Curl [opdracht]: /onderwerpen/web/curl
+    Scraping [opdracht]: /onderwerpen/web/scraping
+
+Databases:
+    Databases [college]: /onderwerpen/databases/lecture
+    Movies [opdracht]: /onderwerpen/databases/movies
+    Fiftyville [opdracht]: /onderwerpen/databases/fiftyville
+    # Pizza [opdracht]: /onderwerpen/databases/pizza

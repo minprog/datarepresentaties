@@ -1,2 +1,4 @@
 name: intro
-form: true
+files:
+    required:
+        - intro-to-computing.pdf

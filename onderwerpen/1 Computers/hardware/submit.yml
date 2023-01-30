@@ -1,2 +1,4 @@
 name: hardware
-form: true
+files:
+    required:
+        - hardware.pdf

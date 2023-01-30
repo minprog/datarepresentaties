@@ -1,6 +1,6 @@
 # UNIX shell
 
-> Beantwoord de vragen die je hieronder tegenkomt. Je antwoorden worden beoordeeld op inzet en correctheid (1 punt voor de hele opdracht).
+Beantwoord de vragen die je hieronder tegenkomt. Je antwoorden worden beoordeeld op inzet en correctheid (1 punt voor de hele opdracht).
 
 UNIX is een manier om opdrachten aan je computer te geven, meestal via het intikken van de namen van commando's (net zoals Windows een manier is om opdrachten te geven, maar dan door te klikken op bestanden en programma's). Deze workshop bestaat uit twee delen.
 
@@ -101,18 +101,12 @@ Het nadeel van de man pages is dat maar zelden goede voorbeelden gegeven worden,
 
 ## Vragen
 
-1.  Hoe moet je cal "aanroepen" (welk commando moet je intikken) om een kalender van het huidige jaar te printen, dus alle 12 maanden? Gebruik man.
-
-    <textarea name="form[q1]" rows="8" required></textarea>
+1.  Hoe moet je `cal` "aanroepen" (welk commando moet je intikken) om een kalender van het huidige jaar te printen, dus alle 12 maanden? Gebruik `man`.
 
 2.  Is er nog een manier om de kalender van het hele jaar te printen?
 
-    <textarea name="form[q2]" rows="8" required></textarea>
-
-3.  Wat is het verschil tussen cal en ncal? Lees hiervoor de uitleg in de man page van cal.
-
-    <textarea name="form[q3]" rows="8" required></textarea>
+3.  Wat is het verschil tussen `cal` en `ncal`? Lees hiervoor de uitleg in de `man`-page van `cal`.
 
 4.  Leg in je eigen woorden uit hoe je één van de commando's `whoami`, `hostname`, `sleep`, `leave` of `dc` kunt gebruiken. Besteed aandacht aan het doel van het programma en geef voorbeelden en wat uitleg over de werking.
 
-    <textarea name="form[q4]" rows="8" required></textarea>
+5.  Beschrijf als afsluiting welke problemen je bent tegengekomen tijdens de installatie en het uitproberen van de Terminal. Een "probleem" is ook als de instructies niet exact kloppen met wat er op jouw computer gebeurt. Dit is dus niet zozeer een reflectie als wel een verslag.

@@ -1,23 +1,29 @@
 # File systems
 
-Lees het onderdeel *File systems* uit het boek van Dale & Lewis, *Computer Science Illuminated*.
+**Lees de laatste vraag hieronder even goed door vóórdat je begint.**
+
+Lees dan het onderdeel *File systems* uit het boek van Dale & Lewis, *Computer Science Illuminated* en beantwoord de vragen hieronder.
+
+- Je antwoorden moeten in een PDF worden ingeleverd met een overzichtelijke opmaak
+- De vragen moeten zijn opgenomen in de PDF (of een ingekorte maar duidelijke versie van elke vraag) met het antwoord er steeds direct onder
+- De naam van de cursus, de opdracht en jouw eigen naam moeten ook vermeld zijn bovenaan het document
+- Je mag géén titelblad gebruiken, dat is teveel onzinnige ruimte voor zo'n korte opdracht
+- Als je informatie van buiten het boek gebruikt moet je een bronvermelding doen; je mag gewoon de site/titel noemen in de tekst
 
 ## Vragen
 
-Beantwoord de vragen hieronder. Je antwoorden worden beoordeeld op inzet en correctheid (1 punt voor de hele opdracht).
+1.  De woorden "files" en "directories" of hun Nederlandse vertalingen "bestanden" en "mappen" zijn *analogiën* uit de echte wereld. De woorden zijn dus afgeleid van een ander begrip, net zoals heel veel van de "magische woorden" die een rol spelen in de computerwereld.
 
-1.  De woorden "files" en "directories" (in het Nederlands zeggen we vaak "bestanden" en "mappen") zijn *analogiën* uit de echte wereld. Het nadeel van analogiën is dat de overeenkomst vaak maar beperkt is. Bespreek van twee van deze termen waar de analogie zit met het object uit de echte wereld en wat voor eigenschappen helemaal niet overeenkomen met de computerversie.
+    Het nadeel van analogiën is dat de overeenkomst vaak maar beperkt is. Bespreek van twee van bovengenoemde vier termen waar de analogie zit met een object uit de echte wereld, en wat voor eigenschappen helemaal niet overeenkomen met de computerversie. Baseer je onder andere op een goede woordenboek-definitie van de termen die je hebt gekozen. Doe een bronvermelding van het gebruikte woordenboek.
 
-    <textarea name="form[q1]" rows="8" required></textarea>
-
-2.  Wat is de minimale informatie die een directory over elke file moet bevatten?
-
-    <textarea name="form[q2]" rows="8" required></textarea>
+2.  Wat is de minimale informatie die een directory over elke file moet bevatten? Waarom is dit minimaal?
 
 3.  Geef het absolute pad van het bestand `access.old` uit figuur 11.5 van het boek.
 
-    <textarea name="form[q3]" rows="8" required></textarea>
-
 4.  Stel dat de "current working directory" (huidige directory) is `C:\Windows\System`. Geef het relatieve pad naar het bestand `proj3.java` zoals in figuur 11.4 van het boek.
 
-    <textarea name="form[q4]" rows="8" required></textarea>
+5.  Beschrijf welke opvallende dingen je hebt geleerd bij het lezen in het boek en het uitwerken van de vragen. Geef aan wat je eventueel moeilijk vond en welke bronnen je hebt gebruikt om verder uit te zoeken wat je moest begrijpen.
+
+## Nakijken
+
+De antwoorden worden kritisch nagekeken op zorgvuldige beantwoording. Dat betekent dat de antwoorden gebaseerd moeten zijn op de lesstof (het boek), dat wat er staat goed is en logisch onderbouwd en dat er geen onware of irrelevante beweringen of informatie bij de antwoorden staan. Aan de andere kant: een klein foutje is geen probleem.

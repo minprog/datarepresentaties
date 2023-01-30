@@ -1,2 +1,4 @@
 name: unix
-form: true
+files:
+    required:
+        - unix-starter.pdf
