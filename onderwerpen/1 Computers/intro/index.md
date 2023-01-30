@@ -2,7 +2,7 @@
 
 Lees het onderdeel *The big picture* uit het boek van Dale & Lewis, *Computer Science Illuminated*. Beantwoord de volgende vragen. Hou er rekening mee dat je bij de laatste vraag diepgaand moet schrijven over je leerproces.
 
-Je antwoorden worden beoordeeld op inzet en correctheid (1 punt voor de hele opdracht). Je mag de vragen in het Nederlands beantwoorden, maar veel technische termen zijn wel Engels, en die kun je gewoon gebruiken.
+Je antwoorden worden beoordeeld op diepgang (tot 2 punten), dus in hoeverre er een zinvol antwoord wordt gegeven met een duidelijke onderbouwing. Laat daarom ook weten als je voor het antwoord andere bronnen of tools hebt gebruikt dan het videocollege. Je mag de vragen in het Nederlands beantwoorden, maar veel technische termen zijn wel Engels, en die kun je gewoon gebruiken.
 
 1.  In welke periode vallen de volgende hardware- of softwarebegrippen? Assemblers, FORTRAN, Operating systems, Structured programming, Time sharing, HTML (for the Web), Loaders, Spreadsheets, Word processors, Lisp, PC-DOS, Loaders/linkers bundled into an operating system, Java, SPSS, C++.
 
