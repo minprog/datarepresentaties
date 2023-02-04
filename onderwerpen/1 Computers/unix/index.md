@@ -110,3 +110,7 @@ Het nadeel van de man pages is dat maar zelden goede voorbeelden gegeven worden,
 4.  Leg in je eigen woorden uit hoe je één van de commando's `whoami`, `hostname`, `sleep`, `leave` of `dc` kunt gebruiken. Besteed aandacht aan het doel van het programma en geef voorbeelden en wat uitleg over de werking.
 
 5.  Beschrijf als afsluiting welke problemen je bent tegengekomen tijdens de installatie en het uitproberen van de Terminal. Een "probleem" is ook als de instructies niet exact kloppen met wat er op jouw computer gebeurt. Dit is dus niet zozeer een reflectie als wel een verslag.
+
+## Inleveren
+
+Lever hieronder een PDF in met je uitwerkingen. Gebruik géén titelpagina. Vermeld je naam en studentnummer. Vermeld ook de vraag boven elk antwoord---dit mag een samengevatte versie van de vraag zijn.

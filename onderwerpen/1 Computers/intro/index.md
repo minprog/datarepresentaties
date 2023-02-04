@@ -15,3 +15,7 @@ Je antwoorden worden beoordeeld op diepgang (tot 2 punten), dus in hoeverre er e
 4.  Leg uit wat "machine language", "assembly language" en "higher-level languages" zijn, waarbij je ingaat op de verschillen. Geef een (heel kort) voorbeeld van hoe elk er uit kan zien.
 
 5.  Beschrijf welke opvallende dingen je hebt geleerd bij het studeren op het college en het uitwerken van de vragen. Geef aan wat je eventueel moeilijk vond en welke bronnen je hebt gebruikt om verder uit te zoeken wat je moest begrijpen. Als je het makkelijk vond had je waarschijnlijk voorkennis. In dat geval kun je die voorkennis vergelijken met het college: wat was er anders of zelfs in tegenspraak? Zonder uitgebreid antwoord op deze vraag kun je geen punten halen voor de opdracht.
+
+## Inleveren
+
+Lever hieronder een PDF in met je uitwerkingen. Gebruik géén titelpagina. Vermeld je naam en studentnummer. Vermeld ook de vraag boven elk antwoord---dit mag een samengevatte versie van de vraag zijn.

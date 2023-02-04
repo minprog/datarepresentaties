@@ -38,3 +38,7 @@ Beantwoord de vragen hieronder. Je antwoorden worden beoordeeld op inzet en corr
 4.  Stel dat je een 18-tallig stelsel ontwerpt voor het representeren van getallen. Welke symbolen (maar niet letters zoals gebruikelijk bij hexadecimaal) zou je kunnen gebruiken voor de 18 verschillende cijfers?
 
 5.  Beschrijf welke opvallende dingen je hebt geleerd bij het studeren op het college en het uitwerken van de vragen. Geef aan wat je eventueel moeilijk vond en welke bronnen je hebt gebruikt om verder uit te zoeken wat je moest begrijpen. Als je het makkelijk vond had je waarschijnlijk voorkennis. In dat geval kun je die voorkennis vergelijken met het college: wat was er anders of zelfs in tegenspraak? Zonder uitgebreid antwoord op deze vraag kun je geen punten halen voor de opdracht.
+
+## Inleveren
+
+Lever hieronder een PDF in met je uitwerkingen. Gebruik géén titelpagina. Vermeld je naam en studentnummer. Vermeld ook de vraag boven elk antwoord---dit mag een samengevatte versie van de vraag zijn.

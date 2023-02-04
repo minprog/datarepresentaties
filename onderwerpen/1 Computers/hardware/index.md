@@ -39,3 +39,7 @@ Onderwerpen van het college zijn:
 7. Wi-Fi en Bluetooth zijn allebei draadloze technologiën. Wat zijn de verschillen in techniek en toepassing? Ook bij deze vraag kun je gerust op internet zoeken, maar zorg dat je een duidelijk antwoord in eigen woorden formuleert.
 
 8. Beschrijf welke opvallende dingen je hebt geleerd bij het studeren op het college en het uitwerken van de vragen. Geef aan wat je eventueel moeilijk vond en welke bronnen je hebt gebruikt om verder uit te zoeken wat je moest begrijpen. Als je het makkelijk vond had je waarschijnlijk voorkennis. In dat geval kun je die voorkennis vergelijken met het college: wat was er anders of zelfs in tegenspraak? Zonder uitgebreid antwoord op deze vraag kun je geen punten halen voor de opdracht.
+
+## Inleveren
+
+Lever hieronder een PDF in met je uitwerkingen. Gebruik géén titelpagina. Vermeld je naam en studentnummer. Vermeld ook de vraag boven elk antwoord---dit mag een samengevatte versie van de vraag zijn.
