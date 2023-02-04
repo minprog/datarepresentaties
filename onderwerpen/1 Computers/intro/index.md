@@ -1,5 +1,7 @@
 # Introduction to computing
 
+Kijk eerst de [aflevering over de PC-revolutie van Andere Tijden](https://www.youtube.com/watch?v=SIJfmffun4c). Een tekstversie staat op de [site van Andere Tijden](https://anderetijden.nl/aflevering/508/De-PC-revolutie).
+
 Lees het onderdeel *The big picture* uit het boek van Dale & Lewis, *Computer Science Illuminated*. Beantwoord de volgende vragen. Hou er rekening mee dat je bij de laatste vraag diepgaand moet schrijven over je leerproces.
 
 Je antwoorden worden beoordeeld op diepgang (tot 2 punten), dus in hoeverre er een zinvol antwoord wordt gegeven met een duidelijke onderbouwing. Laat daarom ook weten als je voor het antwoord andere bronnen of tools hebt gebruikt dan het videocollege. Je mag de vragen in het Nederlands beantwoorden, maar veel technische termen zijn wel Engels, en die kun je gewoon gebruiken.
