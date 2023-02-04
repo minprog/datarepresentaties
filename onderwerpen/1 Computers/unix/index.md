@@ -113,4 +113,4 @@ Het nadeel van de man pages is dat maar zelden goede voorbeelden gegeven worden,
 
 ## Inleveren
 
-Lever hieronder een PDF in met je uitwerkingen. Gebruik géén titelpagina. Vermeld je naam en studentnummer. Vermeld ook de vraag boven elk antwoord---dit mag een samengevatte versie van de vraag zijn.
+Lever hieronder een PDF in met je uitwerkingen. Gebruik géén titelpagina. Vermeld je naam en studentnummer, en de naam van de opdracht. Vermeld ook de vraag boven elk antwoord---dit mag een samengevatte versie van de vraag zijn.
