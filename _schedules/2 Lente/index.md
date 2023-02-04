@@ -1,6 +1,6 @@
-# Datarepresentaties, tools en technieken<br><small>Studiewijzer, Lente 2022</small>
+# Datarepresentaties, tools en technieken<br><small>Studiewijzer, Lente 2023</small>
 
-In dit vak maak je kennis met verschillende platforms om programmeerproblemen aan te pakken. Dit is een breed vak met een focus op het gebruiken tools en technieken uit de professionele wereld. De platforms zijn geschikt om uiteenlopende problemen te benaderen, van dataverwerking tot aan webprogrammeren. Soms gebruik je één platform voor een probleem en soms kun je er meerdere samen gebruiken. Daarnaast word je bekend met Unix en allerlei verschillende command-line tools zodat je steeds beter grip hebt op jouw ontwikkelomgeving. Gedurende het hele vak bouw je ervaring op met versiebeheer via git en kom je in aanraking met allerlei tools en technieken om betere code te schrijven, zoals linters, unit testing, type checkers en profilers.
+In dit vak maak je kennis met verschillende platforms om programmeerproblemen aan te pakken. Dit is een breed vak met een focus op het gebruiken tools en technieken uit de professionele software-wereld. De platforms zijn geschikt om uiteenlopende problemen te benaderen, van dataverwerking tot aan webprogrammeren. Soms gebruik je één platform voor een probleem en soms kun je er meerdere samen gebruiken. Daarnaast raak je bekend met Unix en allerlei verschillende command-line tools zodat je steeds beter grip hebt op jouw ontwikkelomgeving.
 
 
 ## Voorkennis
@@ -14,10 +14,10 @@ We behandelen uiteenlopende onderwerpen in modules 0 t/m 7:
 
 0. **Schakelingen.** Kennismaken met elektronische schakelingen waarop computers gebaseerd zijn en oefenen met het maken van schakelingen om berekeningen te doen.
 1. **Computers.** Kennismaken met standaard computerhardware en software, en de geschiedenis van het vakgebied. Een eerste start met gebruik van de command line.
-2. **Besturingssystemen.** Kennismaken met de onderdelen van besturingsystemen. Een uitgebreide verkenning van de UNIX shell.
+2. **Besturingssystemen.** Kennismaken met de onderdelen van besturingsystemen. Een uitgebreide verkenning van de UNIX-shell.
 3. **Representaties.** Een overzicht van allerlei soorten informatie die in een computer kunnen worden gerepresenteerd. Oefenen met binaire bestanden en bestandsformaten.
 4. **Text processing.** Kennismaken met reguliere expressies en zoeken in teksten. Het weergeven van een systeem op een formele manier. Kennismaken met security-aspecten.
-5. **Text tools.** Een overzicht van de belangrijkste UNIX tools om tekst te verwerken en bewerken. Kennismaking met de CSV- en JSON-formaten.
+5. **Text tools.** Een overzicht van de belangrijkste UNIX-tools om tekst te verwerken en bewerken. Kennismaking met de CSV- en JSON-formaten.
 6. **Web development.** Leren schrijven van HTML en begrijpen hoe dit in de browser wordt ingeladen als DOM. Oefenen met scraping van informatie van websites.
 7. **Databases.** Kennismaken met de relationele manier om data vast te leggen. Oefenen met het schrijven van SQL-queries om interessante data uit een database te halen.
 {: start="0"}
@@ -27,14 +27,18 @@ Module 0 loopt dwars door de andere modules heen in de studieweken 2, 3 en 4. Hi
 
 ## Deadlines
 
-Voor modules 1 t/m 7 geldt dat de deadline op de **volgende maandag** is om 17:59. De deadline van module 1 is dus 12 september om 17:59, enzovoort.
+**Voor studenten die tegelijk Programmeren 1 volgen:**
 
-Voor studenten die ook Programmeren 1 volgen, en dus de minor fulltime doen, willen we de studielast in het weekend zoveel mogelijk beperken. Voor deze studenten is de deadline dan ook op **vrijdag** om 17:59. Hierop zijn incidenteel uitzonderingen mogelijk. Zo'n uitzondering kun je alleen schriftelijk aanvragen en krijgen via een mail naar <help@mprog.nl>.
+Deze studenten doen de fulltime Minor Programmeren. In principe hou je het dagschema aan zoals dat in het lokaal hangt. Een beetje schuiven is geen probleem. Opdrachten kunnen na **vrijdag 16:59** niet meer ingeleverd worden voor punten.
+
+**Voor studenten die alleen Datarepresentaties volgen:**
+
+De harde deadline is op **maandag om 16:59**. Na die tijd kun je geen punten meer krijgen voor het inleveren van opdrachten. Je kunt het dagschema van de fulltime-studenten om een indicatie te krijgen van de verwachte studielast per opdracht, maar plan het vooral zelf.
 
 
 ## Docenten en assistenten
 
-De docenten bij dit vak zijn Jelle van Assema, Simon Pauw, Edwin Steffens en Martijn Stegeman. Zij geven het vak vorm en verzorgen de organisatie. Je kunt ze bereiken via e-mail op <help@mprog.nl>. Daarnaast zijn er veel student-assistenten, die de cursus goed kennen en jou gaan helpen op de momenten dat het nodig is.
+De docenten bij dit vak zijn Simon Pauw en Martijn Stegeman. Mayla Kersten geeft de werkgroep op maandag voor parttime-studenten. Je kunt ze bereiken via e-mail op <help@mprog.nl>. Daarnaast zijn er veel student-assistenten, die de cursus goed kennen en jou gaan helpen op de momenten dat het nodig is. Je vindt ze elke werkdag in lokaal L0.09 (parttimers zijn doorgaans welkom vanaf 13:00 uur).
 
 
 ## Minimumeisen
@@ -44,7 +48,6 @@ Alle opdrachten netjes af en werkend inleveren is de basiseis om het vak te hale
 1. meedoen aan alle drie de PIDAC-practica
 1. minimaal één middag per week langskomen
 1. actief vragen stellen aan de assistenten
-1. het dagelijks bijhouden van een procesboek
 
 Op die manier kunnen we een goed beeld vormen van jouw voortgang en constateren dat je aan de leerdoelen van het vak hebt voldaan. Er is daarom ook niet voorzien in een schriftelijk tentamen. Dat is natuurlijk een prettig einde van het vak, maar legt wel meer verantwoordelijkheid bij jou om zichtbaar te leren.
 
@@ -78,58 +81,65 @@ Sommige opdrachten met open vragen zijn redelijk rechttoe-rechtaan. Hier kun je 
 
 (1, 2 of 3 punten) Je krijgt de punten als je duidelijke antwoorden geeft die in de basis kloppen, met ruimte voor een klein aandeel fouten (ongeveer een tiende). Hoeveel punten je krijgt hangt af van het gewicht van de opdracht.
 
-### Procesboek
-
-Het procesboek wordt per week voldoende of onvoldoende afgetekend. Je mag maximaal 3 keer een onvoldoende halen (omdat dit de eerste keer is dat het vak gegeven wordt). Als je een week het procesboek helemáál niet bijhoudt dan kun je het vak **niet** halen.
-
 ## Vragen stellen
 
 Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten. Er zijn diverse opties voor het stellen van vragen. De beste optie hangt af van het soort vraag dat je wil stellen.
 
 **Assistentie:** direct contact met een assistent, voor hulp bij programmeren.
 
-* hulp op locatie (lokaal L0.09--L0.10)
+* hulp op locatie (lokaal L0.09)
 * je weet niet waar te beginnen of een onvindbare bug, of alles loopt vast
 * moeite met verzinnen oplossing
 * dagelijks beschikbaar, zet jezelf in de rij
 * parttime-studenten vanaf 13 uur
 
+**Werkgroep parttime:** contact met je mentor.
+
+* terugblik opdrachten
+* vooruitkijken naar het nieuwe onderwerp
+* maken van een persoonlijke planning
+* meedenken over grote problemen met het vak
+* individuele hulp
+
 **Spreekuur en e-mail:** contact met de docenten.
 
 * maken van persoonlijke planningsafspraken
 * meedenken over grote problemen met het vak
-* andere officiële zaken
+* officiële zaken zoals deadlines en cijfers
 * administratie na afloop van het vak
 * mail <help@mprog.nl> of kom langs tijdens het spreekuur
 
 
 ## Aanwezigheid
 
-Aanwezigheid bij één werkcollege per week is verplicht, en het aanwezig zijn bij de 3 practica ook. Ben je niet systematisch aanwezig of doe je niet systematisch mee, dan kun je het vak **niet** halen. Denk daarbij aan wegblijven van de colleges zonder overleg, of tijdelijk niet inleveren zonder overleg. Je kunt natuurlijk wel op elk moment proberen alsnog te overleggen.
-
-
-## Procesboek
-
-Tijdens het volgen van het vak hou je een procesboek bij, waarin je per opdracht documenteert welke dingen je hebt geleerd die jou opvielen, maar ook welke bronnen je hebt gebruikt en wat voor soort hulp je hebt gevraagd: opstarten, nare bugs, ideeën opdoen? Allemaal vermelden!
+Aanwezigheid bij één werkcollege per week is verplicht, en het aanwezig zijn bij de 3 practica ook. Ben je niet systematisch aanwezig of doe je niet systematisch mee, dan kun je het vak **niet** halen. Denk daarbij aan wegblijven van de colleges zonder overleg, of tijdelijk niet inleveren zonder overleg. Je kunt natuurlijk wel op elk moment proberen alsnog te overleggen, maar hou er rekening mee dat je uiteindelijk toch volledig zult moeten meedoen om het vak te kunnen halen.
 
 
 ## Samenwerken
 
-Je mag met je medestudenten (en anderen) communiceren in het Nederlands of Engels over je werk in deze cursus, maar niet in de vorm van meer dan een paar regels Python, JavaScript, HTML en dergelijke talen. Als je twijfelt of je manier van werken in deze correct is, neem gerust contact op met de docenten.
+Je mag met je medestudenten (en anderen) communiceren in het Nederlands of Engels over je werk in deze cursus, maar niet in de vorm van meer dan een paar regels JavaScript, HTML en dergelijke talen. Als je twijfelt of je manier van werken in deze correct is, neem gerust contact op met de docenten.
 
 
 ### Citeren en hulpbronnen
 
-Je mag gerust op het web zoeken naar uitleg die verder gaat dan de colleges en andere materialen die in de cursus bijgeleverd zijn, en je mag op zoek naar oplossingen voor technische problemen waar je tegenaan loopt, maar je mag zeker geen oplossingen voor onderdelen van de opdrachten overnemen om aan de eisen te voldoen. Daarnaast moet je bij het geheel of gedeeltelijk overnemen van codefragmenten of werken via tutorials en dergelijke altijd een precieze bronvermelding doen.
+Je mag gerust op het web zoeken naar uitleg die verder gaat dan de colleges en andere materialen die in de cursus bijgeleverd zijn, en je mag op zoek naar oplossingen voor technische problemen waar je tegenaan loopt.
+
+Je mag niet op zoek naar daadwerkelijke **antwoorden en oplossingen** voor opdrachten uit het vak. Kom je er niet uit met een opdracht, dan moet uitgezocht worden waar het probleem ligt. Jij moet daar zelf het voortouw in nemen. Vraag dus hulp als je het nodig hebt, ook als het eigenlijk te laat is.
+
+Spreek je docent of assistent aan en zeg "ik weet niet hoe ik nu verder moet". Je docent vraagt dan "wat heb je al gelezen of gedaan?". Vanuit daar ga je kijken wat je nog nodig hebt om de opdracht goed te kunnen doen.
+
+Als je een kort tekst- of codefragment overneemt als onderdeel van jouw zelfbedachte oplossing, dan moet je altijd een precieze bronvermelding doen. Het moet exact duidelijk zijn welk idee je overneemt en van welke bron het komt.
 
 
 ### Officiële regels
 
-Wat betreft fraude en plagiaat volgen we in deze cursus de richtlijnen van de Universiteit van Amsterdam en de werkwijze van de bachelor Informatica. De richtlijnen kun je [hier vinden] (vraag ernaar als de link niet werkt).
+Wat betreft fraude en plagiaat volgen we in deze cursus de richtlijnen van de Universiteit van Amsterdam en de werkwijze van de bachelor Informatica. De richtlijnen kun je [hier vinden](vraag ernaar als de link niet werkt).
 
 [hier vinden]: http://student.uva.nl/az/a-z-lijst/a-z-lijst/content/folder/fraude-plagiaat-en-bronvermelding/plagiaat-en-fraude.html
 
 
 ## Herkansen
 
-Bij dit vak gaat herkansen vooral over de situatie waarin je stopt met opdrachten maken of erg gaat achterlopen. Het is niet mogelijk opdrachten nog in te leveren na de deadlines die genoemd zijn in deze studiewijzer. Herkansen kan daarom de eerstvolgende keer dat het vak wordt gegeven in het **volgende semester**. Als opdrachten aangepast worden dan moet je die altijd opnieuw maken en inleveren. Opdrachten die niet veranderen en al nagekeken zijn mag je niet opnieuw inleveren.
+Bij dit vak gaat herkansen vooral over de situatie waarin je stopt met opdrachten maken of erg gaat achterlopen. Het is ook als herkansing namelijk niet mogelijk opdrachten nog in te leveren na de deadlines die genoemd zijn in deze studiewijzer.
+
+Herkansen kan daarom de eerstvolgende keer dat het vak wordt gegeven in het **volgende semester**. Als opdrachten aangepast worden dan moet je die altijd opnieuw maken en inleveren. Opdrachten die niet veranderen en al nagekeken zijn mag je niet opnieuw inleveren.
