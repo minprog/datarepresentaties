@@ -1,0 +1,4 @@
+name: software-carpentry
+files:
+    required:
+        - software-carpentry.pdf
