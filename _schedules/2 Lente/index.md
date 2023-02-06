@@ -33,7 +33,7 @@ Deze studenten doen de fulltime Minor Programmeren. In principe hou je het dagsc
 
 **Voor studenten die alleen Datarepresentaties volgen:**
 
-De harde deadline is op **maandag om 16:59**. Na die tijd kun je geen punten meer krijgen voor het inleveren van opdrachten. Je kunt het dagschema van de fulltime-studenten om een indicatie te krijgen van de verwachte studielast per opdracht, maar plan het vooral zelf.
+De harde deadline is op **maandag om 12:59**. Na die tijd kun je geen punten meer krijgen voor het inleveren van opdrachten. Je kunt het dagschema van de fulltime-studenten om een indicatie te krijgen van de verwachte studielast per opdracht, maar plan het vooral zelf.
 
 
 ## Docenten en assistenten
