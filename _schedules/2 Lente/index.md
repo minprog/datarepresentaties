@@ -14,7 +14,7 @@ We behandelen uiteenlopende onderwerpen in modules 0 t/m 7:
 
 0. **Schakelingen.** Kennismaken met elektronische schakelingen waarop computers gebaseerd zijn en oefenen met het maken van schakelingen om berekeningen te doen.
 1. **Computers.** Kennismaken met standaard computerhardware en software, en de geschiedenis van het vakgebied. Een eerste start met gebruik van de command line.
-2. **Besturingssystemen.** Kennismaken met de onderdelen van besturingsystemen. Een uitgebreide verkenning van de UNIX-shell.
+2. **Besturingssystemen.** Kennismaken met de onderdelen van besturingssystemen. Een uitgebreide verkenning van de UNIX-shell.
 3. **Representaties.** Een overzicht van allerlei soorten informatie die in een computer kunnen worden gerepresenteerd. Oefenen met binaire bestanden en bestandsformaten.
 4. **Text processing.** Kennismaken met reguliere expressies en zoeken in teksten. Het weergeven van een systeem op een formele manier. Kennismaken met security-aspecten.
 5. **Text tools.** Een overzicht van de belangrijkste UNIX-tools om tekst te verwerken en bewerken. Kennismaking met de CSV- en JSON-formaten.

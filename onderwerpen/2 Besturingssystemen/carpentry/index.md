@@ -2,10 +2,14 @@
 
 Nu kun je aan de slag met een uitgebreide UNIX-workshop van [Software carpentry](https://swcarpentry.github.io/shell-novice/). Deze geeft je allerlei voorbeelden van commando's die je in UNIX kunt gebruiken.
 
-🌵 Doe alle oefeningen van hoofdstukken 1, 2 en 3. Het doel is om goed voorbereid te zijn voor de komende weken. Je doet dit door goed te oefenen en commando's over te tikken en de resultaten te bestuderen. Als je mazzel hebt maak je ook nog een paar tikfouten waardoor je moet achterhalen wat er fout ging: dan leer je het meest.
+**Ook bij deze opdracht moet je weer dingen die je hebt geleerd bijhouden, zie de laatste stap hieronder.**
 
-**Om te oefenen heb je de bestanden nodig die je kunt downloaden vanaf de Setup-pagina in de cursus. Maar ga geen software installeren zoals daar vermeld staat. Je hebt al een werkende UNIX-omgeving, namelijk Ubuntu of macOS.**
+1.  Zorg dat je een UNIX-omgeving klaar hebt staan op je computer. Wij hebben eigen installatie-instructies, zie [installatie](/install). Volg dus *niet* de instructies van Software Carpentry.
 
-Beschrijf in je procesboek de belangrijkste dingen die je hebt geleerd, maar ook wat je moest nazoeken of waarover je vragen hebt gesteld of discussies gevoerd met medestudenten.
+2.  Vergeet niet om op de Setup-pagina van de workshop de zip-file te downloaden waarin alle bestanden staan om mee te oefenen.
 
-Voor deze opdracht worden geen punten gerekend, maar de opdracht moet wel helemaal voldaan zijn.
+3.  Doe alle oefeningen van hoofdstukken 1, 2, 3 en 4. Het doel is om goed voorbereid te zijn voor de komende weken. Je doet dit door goed te oefenen en commando's over te tikken en de resultaten te bestuderen. Als je mazzel hebt maak je ook nog een paar tikfouten waardoor je moet achterhalen wat er fout ging: dan leer je het meest.
+
+3.  Beschrijf in een PDF welke opvallende dingen je hebt geleerd bij het doen van de workshop. Geef aan wat je eventueel moeilijk vond en welke bronnen je hebt gebruikt om verder uit te zoeken wat je moest begrijpen. Je kunt ook aangeven waarover je vragen hebt gesteld of waarover je discussies hebt gevoerd met medestudenten.
+
+    Tip: je kunt voor zo'n praktische opdracht als deze ook screenshots maken en opnemen in je PDF om te laten zien wat er bijvoorbeeld mis ging.
