@@ -33,7 +33,7 @@ Deze studenten doen de fulltime Minor Programmeren. In principe hou je het dagsc
 
 **Voor studenten die alleen Datarepresentaties volgen:**
 
-De harde deadline is op **maandag om 12:59**. Na die tijd kun je geen punten meer krijgen voor het inleveren van opdrachten. Je kunt het dagschema van de fulltime-studenten om een indicatie te krijgen van de verwachte studielast per opdracht, maar plan het vooral zelf.
+De harde deadline is op **maandag om 12:59**. Na die tijd kun je geen punten meer krijgen voor het inleveren van opdrachten. Je kunt het dagschema van de fulltime-studenten aanhouden om een indicatie te krijgen van de verwachte studielast per opdracht, maar plan het vooral zelf.
 
 
 ## Docenten en assistenten
@@ -79,7 +79,7 @@ Sommige opdrachten met open vragen zijn redelijk rechttoe-rechtaan. Hier kun je 
 
 (0 punten) Je krijgt dan helemaal geen punten als het niet of te laat is ingeleverd, of één of meer ontbrekende of onserieuze antwoorden bevat.
 
-(1, 2 of 3 punten) Je krijgt de punten als je duidelijke antwoorden geeft die in de basis kloppen, met ruimte voor een klein aandeel fouten (ongeveer een tiende). Hoeveel punten je krijgt hangt af van het gewicht van de opdracht.
+(1 of 2 punten) Je krijgt de punten als je duidelijke antwoorden geeft die in de basis kloppen, met ruimte voor een klein aandeel fouten (ongeveer een tiende). Hoeveel punten je krijgt hangt af van het gewicht van de opdracht.
 
 ## Vragen stellen
 
