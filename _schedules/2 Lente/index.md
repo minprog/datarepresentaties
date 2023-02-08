@@ -67,17 +67,16 @@ Dit is een breed vak met uiteenlopende onderwerpen en opdrachtsvormen. Voor alle
 
 Er zijn diverse opdrachten waaarin een aantal open vragen een rol spelen. Het doel is hier om de stof te verkennen en jezelf te verdiepen. Dat je daarmee bezig bent geweest, en misschien zelfs dat het gelukt is, kun je aantonen in je antwoorden. Voor deze opdrachten worden als volgt punten toegekend:
 
-0. Niet of te laat ingeleverd, of meer dan een kwart ontbrekende antwoorden.
-1. Eén of twee ontbrekende of onserieuze antwoorden, of wat daarmee equivalent is.
-2. Alle vragen zijn beantwoord, overwegend kortaf of beperkt tot een eenvoudige opsomming. Mogelijk is er een keertje sprake van incorrecte terminologie of matige zinsconstructie.
-3. Alle vragen zijn beantwoord, met overwegend uitgebreide antwoorden, consistent gebruik van terminologie, uitleg van termen om begrip zichtbaar te maken, verbanden tussen onderdelen gelegd, en een vertaling naar concrete, kloppende voorbeelden.
+0. Niet of te laat ingeleverd, of ontbrekende of onserieuze antwoorden, of wat daarmee equivalent is.
+1. Alle vragen zijn beantwoord, overwegend kortaf of beperkt tot een eenvoudige opsomming. Mogelijk is er een keertje sprake van incorrecte terminologie of matige zinsconstructie.
+2. Alle vragen zijn beantwoord, met overwegend uitgebreide antwoorden, consistent gebruik van terminologie, uitleg van termen om begrip zichtbaar te maken, verbanden tussen onderdelen gelegd, en een vertaling naar concrete, kloppende voorbeelden.
 {:start="0"}
 
 ### Korte antwoorden (beoordeling op inzet en correctheid)
 
 Sommige opdrachten met open vragen zijn redelijk rechttoe-rechtaan. Hier kun je één of twee punten mee verdienen.
 
-(0 punten) Je krijgt dan helemaal geen punten als het niet of te laat is ingeleverd, of één of meer ontbrekende of onserieuze antwoorden bevat.
+(0 punten) Je krijgt dan helemaal geen punten als het niet of te laat is ingeleverd, of één of meer ontbrekende of onserieuze antwoorden bevat. Ook geen punten als de beschrijving van je leerproces onvoldoende is.
 
 (1, 2 of 3 punten) Je krijgt de punten als je duidelijke antwoorden geeft die in de basis kloppen, met ruimte voor een klein aandeel fouten (ongeveer een tiende). Hoeveel punten je krijgt hangt af van het gewicht van de opdracht.
 
