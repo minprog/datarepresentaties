@@ -2,7 +2,7 @@
 
 Nu kun je aan de slag met een uitgebreide UNIX-workshop van [Software carpentry](https://swcarpentry.github.io/shell-novice/). Deze geeft je allerlei voorbeelden van commando's die je in UNIX kunt gebruiken.
 
-**Ook bij deze opdracht moet je weer dingen die je hebt geleerd bijhouden, zie de laatste stap hieronder. Bij deze opdracht geldt sterker dan voorheen dat je zelf verslag moet doen. Relateer je ervaringen tijdens de workshop.**
+**Ook bij deze opdracht moet je weer dingen die je hebt geleerd bijhouden, zie de laatste stap hieronder. Bij deze opdracht geldt sterker dan voorheen dat je zelf verslag moet doen. Relateer je ervaringen tijdens de workshop aan wat je al wist (of wat je nog niet wist).**
 
 Voor het doen van de hele workshop en de verslaglegging krijg je 1 punt.
 
