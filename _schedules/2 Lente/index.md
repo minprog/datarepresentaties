@@ -52,7 +52,7 @@ Alle opdrachten netjes af en werkend inleveren is de basiseis om het vak te hale
 
 ## Eindcijfer
 
-Voor deze cursus kun je 42 punten halen. Om de punten te krijgen moet je in ieder geval de opdracht naar verwachting doen, en in sommige gevallen moet je ook bij het tentamen laten zien dat je de stof voldoende beheerst.
+Voor deze cursus kun je 48 punten halen. Om de punten te krijgen moet je in ieder geval de opdracht naar verwachting doen, en in sommige gevallen moet je ook bij het tentamen laten zien dat je de stof voldoende beheerst.
 
 Op het tentamen worden 5 onderwerpen onafhankelijk van elkaar getoetst. Je kunt bijvoorbeeld bij het tentamen het onderdeel "UNIX basis" halen en daarmee de hieronder vermelde 3 punten voor de opdracht "UNIX deel 1" krijgen.
 
@@ -89,7 +89,9 @@ Op het tentamen worden 5 onderwerpen onafhankelijk van elkaar getoetst. Je kunt 
 |                    | Fiftyville            | oefenen   | 3      | Databases    |
 |--------------------|-----------------------|-----------|--------|--------------|
 
-Bovenstaande puntentelling kan nog enigszins gewijzigd worden in de loop van de weken, maar het principe blijft dat voor bijna de helft van de punten ook het tentamen voldoende gemaakt moet worden om ze te kunnen krijgen.
+De PIDAC-practica geheel doen op locatie levert de resterende 6 punten op.
+
+Bovenstaande puntentelling kan nog enigszins gewijzigd worden in de loop van de weken, maar het principe blijft dat voor een flink deel van de punten ook het tentamen voldoende gemaakt moet worden om ze te kunnen krijgen.
 
 Als je een opdracht niet op tijd inlevert krijg je 0 punten.
 
