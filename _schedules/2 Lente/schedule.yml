@@ -20,28 +20,21 @@ Representaties:
     Binaire representatie [boek]: /onderwerpen/representaties/binary
     Textcodering [achtergrond]: /onderwerpen/representaties/text
     Bestandsformaten [opdracht]: /onderwerpen/representaties/formaten
-    Procesboek:
-        Procesboek: /procesboek/week3
 
 Text processing:
     Reguliere expressies [boek]: /onderwerpen/text/regex
-    Automaten [college]: /onderwerpen/text/automaten
-    Graphviz [opdracht]: /onderwerpen/text/graphviz
-    Procesboek:
-        Procesboek: /procesboek/week4
-
-Text tools:
-    Internet [college]: /onderwerpen/tools/internet
-    Pipes & filters [tutorial]: /onderwerpen/tools/carpentry
-    UNIX-commando's [boek]: /onderwerpen/tools/tools
     CSV [opdracht]: /onderwerpen/tools/csv
-    JSON [opdracht]: /onderwerpen/tools/json
-    Procesboek:
-        Procesboek: /procesboek/week5
+    UNIX-commando's [boek]: /onderwerpen/tools/tools
+    # Automaten [college]: /onderwerpen/text/automaten
+    # Graphviz [opdracht]: /onderwerpen/text/graphviz
 
 Web development:
     Web [college]: /onderwerpen/web/lecture
     Homepage [opdracht]: /onderwerpen/web/homepage
+
+Text tools:
+    Internet [college]: /onderwerpen/tools/internet
+    JSON [opdracht]: /onderwerpen/tools/json
     Curl [opdracht]: /onderwerpen/web/curl
     Scraping [opdracht]: /onderwerpen/web/scraping
 

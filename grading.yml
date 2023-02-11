@@ -86,33 +86,33 @@ grades:
     hardware: *writing
     intro: *shortanswer1
     binary: *shortanswer1
-    software-carpentry: *shortanswer1
+    software-carpentry: *shortanswer1  # tentamen
 
     security: *writing
     opsys: *shortanswer2
     filesys: *shortanswer1
-    software-carpentry-2: *shortanswer1
+    software-carpentry-2: *shortanswer1  # mogelijk tentamen
 
     multimedia: *writing
     binrep: *shortanswer1
     text: *shortanswer1
     formaten: *shortanswer1
 
-    regex: *shortanswer3
+    regex: *shortanswer3  # tentamen
     automaten: *shortanswer3
     graphviz: *aftekenen
 
     internet: *writing
-    unix_tools: *shortanswer1
-    csv: *shortanswer1
-    json: *shortanswer1
+    unix_tools: *shortanswer1  # tentamen
+    csv: *shortanswer1  # tentamen
+    json: *shortanswer1  # tentamen
 
     web-lecture: *aftekenen
     profile: *writing
     curl: *shortanswer1
-    scraping: *shortanswer2
+    scraping: *shortanswer2  # tentamen
 
-    movies: *shortanswer3
+    movies: *shortanswer3  # tentamen
     fiftyville: *shortanswer3
 
     pr1: *aftekenen
