@@ -14,11 +14,11 @@ We behandelen uiteenlopende onderwerpen in modules 0 t/m 7:
 
 0. **Schakelingen.** Kennismaken met elektronische schakelingen waarop computers gebaseerd zijn en oefenen met het maken van schakelingen om berekeningen te doen.
 1. **Computers.** Kennismaken met standaard computerhardware en software, en de geschiedenis van het vakgebied. Een eerste start met gebruik van de command line.
-2. **Besturingssystemen.** Kennismaken met de onderdelen van besturingssystemen. Een uitgebreide verkenning van de UNIX-shell.
+2. **Besturingssystemen.** Kennismaken met de onderdelen van besturingssystemen, bestandssystemen en security-aspecten. Een uitgebreide verkenning van de UNIX-shell.
 3. **Representaties.** Een overzicht van allerlei soorten informatie die in een computer kunnen worden gerepresenteerd. Oefenen met binaire bestanden en bestandsformaten.
-4. **Text processing.** Kennismaken met reguliere expressies en zoeken in teksten. Het weergeven van een systeem op een formele manier. Kennismaken met security-aspecten.
-5. **Text tools.** Een overzicht van de belangrijkste UNIX-tools om tekst te verwerken en bewerken. Kennismaking met de CSV- en JSON-formaten.
-6. **Web development.** Leren schrijven van HTML en begrijpen hoe dit in de browser wordt ingeladen als DOM. Oefenen met scraping van informatie van websites.
+4. **Text processing.** Kennismaken met reguliere expressies en zoeken in teksten. Kennismaking met het CSV-dataformaat en gebruik van UNIX-tools om deze te filteren en te manipuleren.
+5. **Web development.** Leren schrijven van HTML en het toepassen van stijlen via CSS. Je maakt een eigen homepage als project.
+6. **Internet.** Studie van de werking van internet. Kennismaking met het JSON-formaat. Oefenen met het verkrijgen van data uit semi-gestructureerde websites.
 7. **Databases.** Kennismaken met de relationele manier om data vast te leggen. Oefenen met het schrijven van SQL-queries om interessante data uit een database te halen.
 {: start="0"}
 
@@ -38,7 +38,7 @@ De harde deadline is op **maandag om 12:59**. Na die tijd kun je geen punten mee
 
 ## Docenten en assistenten
 
-De docenten bij dit vak zijn Simon Pauw en Martijn Stegeman. Mayla Kersten geeft de werkgroep op maandag voor parttime-studenten. Je kunt ze bereiken via e-mail op <help@mprog.nl>. Daarnaast zijn er veel student-assistenten, die de cursus goed kennen en jou gaan helpen op de momenten dat het nodig is. Je vindt ze elke werkdag in lokaal L0.09 (parttimers zijn doorgaans welkom vanaf 13:00 uur).
+De docenten bij dit vak zijn Simon Pauw, Edwin Steffens en Martijn Stegeman. Mayla Kersten geeft de werkgroep op maandag voor parttime-studenten. Je kunt ze bereiken via e-mail op <help@mprog.nl>. Daarnaast zijn er veel student-assistenten, die de cursus goed kennen en jou gaan helpen op de momenten dat het nodig is. Je vindt ze elke werkdag in lokaal L0.09 (parttimers zijn doorgaans welkom vanaf 13:00 uur).
 
 
 ## Minimumeisen
@@ -54,9 +54,9 @@ Op die manier kunnen we een goed beeld vormen van jouw voortgang en constateren 
 
 ## Eindcijfer
 
-Voor deze cursus kun je 42 punten halen. Om de punten te krijgen moet je in ieder geval de opdracht naar verwachting doen, en in sommige gevallen moet je ook in een tentamen-opdracht laten zien dat je de stof voldoende beheerst.
+Voor deze cursus kun je 42 punten halen. Om de punten te krijgen moet je in ieder geval de opdracht naar verwachting doen, en in sommige gevallen moet je ook bij het tentamen laten zien dat je de stof voldoende beheerst.
 
-Op het tentamen worden 5 onderwerpen onafhankelijk van elkaar getoetst. Je kunt bijvoorbeeld bij het tentamen het onderdeel "UNIX basis" halen en daarmee de 3 punten voor de module "Computers" krijgen.
+Op het tentamen worden 5 onderwerpen onafhankelijk van elkaar getoetst. Je kunt bijvoorbeeld bij het tentamen het onderdeel "UNIX basis" halen en daarmee de hieronder vermelde 3 punten voor de opdracht "UNIX deel 1" krijgen.
 
 | Module             | Opdracht              | Vorm      | Punten | Tentamen     |
 |--------------------|-----------------------|-----------|--------|--------------|
@@ -91,11 +91,11 @@ Op het tentamen worden 5 onderwerpen onafhankelijk van elkaar getoetst. Je kunt 
 |                    | Fiftyville            | oefenen   | 3      | Databases    |
 |--------------------|-----------------------|-----------|--------|--------------|
 
-Bovenstaande puntentelling kan nog enigszins gewijzigd worden in de loop van de weken, maar het principe blijft dat voor bijna de helft van de punten ook het tentamen voldoende gemaakt moet worden.
+Bovenstaande puntentelling kan nog enigszins gewijzigd worden in de loop van de weken, maar het principe blijft dat voor bijna de helft van de punten ook het tentamen voldoende gemaakt moet worden om ze te kunnen krijgen.
 
 Als je een opdracht niet op tijd inlevert krijg je 0 punten.
 
-## Cijfers
+<!-- ## Cijfers
 
 Dit is een breed vak met uiteenlopende onderwerpen en opdrachtsvormen. Voor alle modules kun je in totaal 6 punten halen, dus ze wegen allemaal gelijk. De opdrachten worden op verschillende manieren nagekeken en het aantal te halen punten varieert.
 
@@ -114,7 +114,7 @@ Sommige opdrachten met open vragen zijn redelijk rechttoe-rechtaan. Hier kun je 
 
 (0 punten) Je krijgt dan helemaal geen punten als het niet of te laat is ingeleverd, of één of meer ontbrekende of onserieuze antwoorden bevat. Ook geen punten als de beschrijving van je leerproces onvoldoende is.
 
-(1, 2 of 3 punten) Je krijgt de punten als je duidelijke antwoorden geeft die in de basis kloppen, met ruimte voor een klein aandeel fouten (ongeveer een tiende). Hoeveel punten je krijgt hangt af van het gewicht van de opdracht.
+(1, 2 of 3 punten) Je krijgt de punten als je duidelijke antwoorden geeft die in de basis kloppen, met ruimte voor een klein aandeel fouten (ongeveer een tiende). Hoeveel punten je krijgt hangt af van het gewicht van de opdracht. -->
 
 ## Vragen stellen
 
@@ -125,7 +125,7 @@ Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten
 * hulp op locatie (lokaal L0.09)
 * je weet niet waar te beginnen of een onvindbare bug, of alles loopt vast
 * moeite met verzinnen oplossing
-* dagelijks beschikbaar, zet jezelf in de rij
+* dagelijks beschikbaar
 * parttime-studenten vanaf 13 uur
 
 **Werkgroep parttime:** contact met je mentor.
@@ -147,7 +147,7 @@ Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten
 
 ## Aanwezigheid
 
-Aanwezigheid bij één werkcollege per week is verplicht, en het aanwezig zijn bij de 3 practica ook. Ben je niet systematisch aanwezig of doe je niet systematisch mee, dan kun je het vak **niet** halen. Denk daarbij aan wegblijven van de colleges zonder overleg, of tijdelijk niet inleveren zonder overleg. Je kunt natuurlijk wel op elk moment proberen alsnog te overleggen, maar hou er rekening mee dat je uiteindelijk toch volledig zult moeten meedoen om het vak te kunnen halen.
+Aanwezigheid bij jouw geroosterde werkcollege is verplicht, en het aanwezig zijn bij de 3 practica ook. Ben je niet systematisch aanwezig of doe je niet systematisch mee, dan kun je het vak **niet** halen. Denk daarbij aan wegblijven van de colleges zonder overleg, of tijdelijk niet inleveren zonder overleg. Je kunt natuurlijk wel op elk moment proberen alsnog te overleggen, maar hou er rekening mee dat je uiteindelijk toch volledig zult moeten meedoen om het vak te kunnen halen.
 
 
 ## Samenwerken
