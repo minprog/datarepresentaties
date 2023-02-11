@@ -54,50 +54,46 @@ Op die manier kunnen we een goed beeld vormen van jouw voortgang en constateren 
 
 ## Eindcijfer
 
-Voor deze cursus kun je 42 punten halen. Om de punten te krijgen moet je de opdracht naar verwachting doen, en in sommige gevallen moet je ook in een tentamen-opdracht laten zien dat je de stof voldoende beheerst.
+Voor deze cursus kun je 42 punten halen. Om de punten te krijgen moet je in ieder geval de opdracht naar verwachting doen, en in sommige gevallen moet je ook in een tentamen-opdracht laten zien dat je de stof voldoende beheerst.
 
-| Module             | Opdracht              | Vorm      | Punten | Tentamen |
-|--------------------|-----------------------|-----------|--------|----------|
-| Computers          | Hardware              | schrijven | 1      |          |
-|                    | Computing             | schrijven | 1      |          |
-|                    | Binair tellen         | oefenen   | 1      |          |
-|                    | UNIX deel 1           | oefenen   | 3      | tentamen |
-|--------------------|-----------------------|-----------|--------|----------|
-| Besturingssystemen | Beveiliging           | schrijven | 1      |          |
-|                    | Besturingssystemen    | schrijven | 1      |          |
-|                    | Bestandssystemen      | schrijven | 1      |          |
-|                    | UNIX deel 2           | oefenen   | 3      | tentamen |
-|--------------------|-----------------------|-----------|--------|----------|
-| Representaties     | Multimedia            | schrijven | 1      |          |
-|                    | Binaire representatie | oefenen   | 1      |          |
-|                    | Tekstcodering         | oefenen   | 1      |          |
-|                    | Bestandsformaten      | opdracht  | 3      |          |
-|--------------------|-----------------------|-----------|--------|----------|
-| Text processing    | Reguliere expressies  | oefenen   | 3      | tentamen |
-|                    | CSV                   | oefenen   | 1      |          |
-|                    | UNIX tools            | oefenen   | 2      | tentamen |
-|--------------------|-----------------------|-----------|--------|----------|
-| Web                | Web development       | schrijven | 1      |          |
-|                    | Homepage              | opdracht  | 5      |          |
-|--------------------|-----------------------|-----------|--------|----------|
-| Internet           | Internet              | schrijven | 1      |          |
-|                    | JSON                  | oefenen   | 1      |          |
-|                    | cURL                  | oefenen   | 1      |          |
-|                    | Scraping              | oefenen   | 3      | tentamen |
-|--------------------|-----------------------|-----------|--------|----------|
-| Databases          | Movies                | oefenen   | 3      | tentamen |
-|                    | Fiftyville            | oefenen   | 3      | tentamen |
-|--------------------|-----------------------|-----------|--------|----------|
+Op het tentamen worden 5 onderwerpen onafhankelijk van elkaar getoetst. Je kunt bijvoorbeeld bij het tentamen het onderdeel "UNIX basis" halen en daarmee de 3 punten voor de module "Computers" krijgen.
 
+| Module             | Opdracht              | Vorm      | Punten | Tentamen     |
+|--------------------|-----------------------|-----------|--------|--------------|
+| Computers          | Hardware              | schrijven | 1      |              |
+|                    | Computing             | schrijven | 1      |              |
+|                    | Binair tellen         | oefenen   | 1      |              |
+|                    | UNIX deel 1           | oefenen   | 3      | UNIX basis   |
+|--------------------|-----------------------|-----------|--------|--------------|
+| Besturingssystemen | Beveiliging           | schrijven | 1      |              |
+|                    | Besturingssystemen    | schrijven | 1      |              |
+|                    | Bestandssystemen      | schrijven | 1      |              |
+|                    | UNIX deel 2           | oefenen   | 3      |              |
+|--------------------|-----------------------|-----------|--------|--------------|
+| Representaties     | Multimedia            | schrijven | 1      |              |
+|                    | Binaire representatie | oefenen   | 1      |              |
+|                    | Tekstcodering         | oefenen   | 1      |              |
+|                    | Bestandsformaten      | opdracht  | 3      |              |
+|--------------------|-----------------------|-----------|--------|--------------|
+| Text processing    | Reguliere expressies  | oefenen   | 3      | Regex + grep |
+|                    | CSV                   | oefenen   | 1      | Data tools   |
+|                    | UNIX tools            | oefenen   | 2      | Data tools   |
+|--------------------|-----------------------|-----------|--------|--------------|
+| Web                | Web development       | schrijven | 1      |              |
+|                    | Homepage              | opdracht  | 5      |              |
+|--------------------|-----------------------|-----------|--------|--------------|
+| Internet           | Internet              | schrijven | 1      |              |
+|                    | JSON                  | oefenen   | 1      |              |
+|                    | cURL                  | oefenen   | 1      |              |
+|                    | Scraping              | oefenen   | 3      | Scraping     |
+|--------------------|-----------------------|-----------|--------|--------------|
+| Databases          | Movies                | oefenen   | 3      | Databases    |
+|                    | Fiftyville            | oefenen   | 3      | Databases    |
+|--------------------|-----------------------|-----------|--------|--------------|
 
+Bovenstaande puntentelling kan nog enigszins gewijzigd worden in de loop van de weken, maar het principe blijft dat voor bijna de helft van de punten ook het tentamen voldoende gemaakt moet worden.
 
-
-Voordat je een eindcijfer kunt krijgen moet je alle opdrachten werkend hebben ingeleverd (opdrachten waarvoor punten worden gegeven hoeven in principe niet ingeleverd te worden, want dan krijg je 0 punten) en aan alle bovengenoemde verwachtingen hebben voldaan, tenzij je een *schriftelijke* uitzondering hebt gekregen van de examinator of coördinator. Voel je vrij om te overleggen of jouw omstandigheden een uitzondering rechtvaardigen (via een mail naar <help@mprog.nl>). We denken graag mee!
-
-Voor sommige opdrachten geldt dat je een tentamenoefening moet 
-
-Lukt het niet om systematisch laag te scoren op de plagiaatschaal, dan moet je je opdrachten bij de afloop van het vak presenteren en er vragen over beantwoorden, zodat er geconstateerd kan worden dat je voldoet aan de leerdoelen. Ben je niet systematisch aanwezig of doe je niet systematisch mee, dan kun je het vak niet halen.
-
+Als je een opdracht niet op tijd inlevert krijg je 0 punten.
 
 ## Cijfers
 
