@@ -35,5 +35,3 @@ Hoofdstuk: "Operating systems" uit het boek van Brookshear, *Computer Science: A
 ## Nakijken
 
 De antwoorden worden kritisch nagekeken op zorgvuldige beantwoording. Dat betekent dat de antwoorden gebaseerd moeten zijn op de lesstof (het boek), dat wat er staat goed is en logisch onderbouwd en dat er geen onware of irrelevante beweringen of informatie bij de antwoorden staan. Aan de andere kant: een klein foutje is geen probleem.
-
-Voor dit onderdeel kun je maximaal 2 punten krijgen.

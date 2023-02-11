@@ -1,21 +1,13 @@
 # Security
 
 1. Bestudeer het videocollege,
-2. hou goed bij wat je opvalt,
+2. hou goed bij wat je opvalt en wat je leert,
 3. en beantwoord dan de vragen hieronder.
 
 ![embed](https://www.youtube.com/embed/NoYfOHAYY7o)
 
 - [Open in CS50 video player](https://video.cs50.io/NoYfOHAYY7o?screen=-v6DvNFLFnY)
 - [Open lecture notes](https://cs50.harvard.edu/college/2022/spring/notes/cybersecurity/)
-
-## Specificatie
-
-- Je antwoorden moeten in een PDF worden ingeleverd met een overzichtelijke opmaak
-- De vragen moeten zijn opgenomen in de PDF (of een ingekorte maar duidelijke versie van elke vraag) met het antwoord er steeds direct onder
-- De naam van de cursus, de opdracht en jouw eigen naam moeten ook vermeld zijn bovenaan het document
-- Je mag géén titelblad gebruiken, dat is teveel onzinnige ruimte voor zo'n korte opdracht
-- Als je informatie van buiten het boek gebruikt moet je een bronvermelding doen; je mag gewoon de site/titel noemen in de tekst
 
 ## Vragen
 
@@ -31,8 +23,10 @@
 
 6. Beschrijf welke opvallende dingen je hebt geleerd bij het lezen in het boek en het uitwerken van de vragen. Geef aan wat je eventueel moeilijk vond en welke bronnen je hebt gebruikt om verder uit te zoeken wat je moest begrijpen. Zonder uitgebreid antwoord op deze vraag kun je geen punten halen voor de opdracht.
 
+## Inleveren
+
+Lever hieronder een PDF in met je uitwerkingen. Gebruik géén titelpagina. Vermeld je naam en studentnummer, en de naam van de opdracht. Vermeld ook de vraag boven elk antwoord---dit mag een samengevatte versie van de vraag zijn. Als je informatie van buiten het college gebruikt moet je een bronvermelding doen; je mag gewoon de site/titel noemen in de tekst.
+
 ## Nakijken
 
 De antwoorden worden kritisch nagekeken op zorgvuldige beantwoording. Dat betekent dat de antwoorden gebaseerd moeten zijn op de lesstof (het videocollege), dat wat er staat goed is en logisch onderbouwd en dat er geen onware of irrelevante beweringen of informatie bij de antwoorden staan. Aan de andere kant: een klein foutje is geen probleem.
-
-Voor dit onderdeel kun je maximaal 2 punten krijgen.

@@ -1,12 +1,14 @@
 # Binary values and number systems
 
-Bestudeer de hoofdstukken en beantwoord dan de vragen hieronder. Hou er rekening mee dat je bij de laatste vraag diepgaand moet schrijven over je leerproces.
+1. Studeer in de hieronder genoemde hoofdstukken,
+2. hou goed bij wat je opvalt en wat je leert,
+3. en beantwoord dan de vragen hieronder.
 
-1. Lees over *Decimal, binary, hexadecimal* uit het boek van Steven Frank, *How to count* (pagina 30 eindigt met een opmerking tussen haakjes maar pagina 31 is weggelaten om te zorgen dat we binnen de paginalimiet blijven; je kunt gewoon doorlezen).
+## Literatuur
 
-2. Lees daarna ook *Binary hardware* uit het boek van Schneider & Gersting, *Invitation to Computer Science* (op de laatste pagina begint paragraaf 4.3, die geen onderdeel is van de stof).
+- Lees over *Decimal, binary, hexadecimal* uit het boek van Steven Frank, *How to count* (pagina 30 eindigt met een opmerking tussen haakjes maar pagina 31 is weggelaten om te zorgen dat we binnen de paginalimiet blijven; je kunt gewoon doorlezen).
 
-Je antwoorden worden beoordeeld op inzet en correctheid (1 punt voor de hele opdracht). 
+- Lees daarna ook *Binary hardware* uit het boek van Schneider & Gersting, *Invitation to Computer Science* (op de laatste pagina begint paragraaf 4.3, die geen onderdeel is van de stof).
 
 ## Vragen
 
@@ -41,4 +43,8 @@ Beantwoord de vragen hieronder. Je antwoorden worden beoordeeld op inzet en corr
 
 ## Inleveren
 
-Lever hieronder een PDF in met je uitwerkingen. Gebruik géén titelpagina. Vermeld je naam en studentnummer, en de naam van de opdracht. Vermeld ook de vraag boven elk antwoord---dit mag een samengevatte versie van de vraag zijn.
+Lever hieronder een PDF in met je uitwerkingen. Gebruik géén titelpagina. Vermeld je naam en studentnummer, en de naam van de opdracht. Vermeld ook de vraag boven elk antwoord---dit mag een samengevatte versie van de vraag zijn. Als je informatie van buiten de aangeleverde tekst gebruikt moet je een bronvermelding doen; je mag gewoon de site/titel noemen in de tekst.
+
+## Nakijken
+
+De antwoorden worden kritisch nagekeken op zorgvuldige beantwoording. Dat betekent dat de antwoorden gebaseerd moeten zijn op de lesstof (het videocollege), dat wat er staat goed is en logisch onderbouwd en dat er geen onware of irrelevante beweringen of informatie bij de antwoorden staan. Aan de andere kant: een klein foutje is geen probleem.

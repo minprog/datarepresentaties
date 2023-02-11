@@ -1,10 +1,16 @@
 # Introduction to computing
 
+1. Bestudeer het materiaal hieronder,
+2. hou goed bij wat je opvalt en wat je leert,
+3. en beantwoord dan de vragen hieronder.
+
+## Studiemateriaal
+
 Kijk eerst de [aflevering over de PC-revolutie van Andere Tijden](https://www.youtube.com/watch?v=SIJfmffun4c). Een tekstversie staat op de [site van Andere Tijden](https://anderetijden.nl/aflevering/508/De-PC-revolutie).
 
 Lees het onderdeel *The big picture* uit het boek van Dale & Lewis, *Computer Science Illuminated*. Beantwoord de volgende vragen. Hou er rekening mee dat je bij de laatste vraag diepgaand moet schrijven over je leerproces.
 
-Je antwoorden worden beoordeeld op diepgang (tot 2 punten), dus in hoeverre er een zinvol antwoord wordt gegeven met een duidelijke onderbouwing. Laat daarom ook weten als je voor het antwoord andere bronnen of tools hebt gebruikt dan het videocollege. Je mag de vragen in het Nederlands beantwoorden, maar veel technische termen zijn wel Engels, en die kun je gewoon gebruiken.
+## Vragen
 
 1.  In welke periode vallen de volgende hardware- of softwarebegrippen? Assemblers, FORTRAN, Operating systems, Structured programming, Time sharing, HTML (for the Web), Loaders, Spreadsheets, Word processors, Lisp, PC-DOS, Loaders/linkers bundled into an operating system, Java, SPSS, C++.
 
@@ -20,4 +26,8 @@ Je antwoorden worden beoordeeld op diepgang (tot 2 punten), dus in hoeverre er e
 
 ## Inleveren
 
-Lever hieronder een PDF in met je uitwerkingen. Gebruik géén titelpagina. Vermeld je naam en studentnummer, en de naam van de opdracht. Vermeld ook de vraag boven elk antwoord---dit mag een samengevatte versie van de vraag zijn.
+Lever hieronder een PDF in met je uitwerkingen. Gebruik géén titelpagina. Vermeld je naam en studentnummer, en de naam van de opdracht. Vermeld ook de vraag boven elk antwoord---dit mag een samengevatte versie van de vraag zijn. Als je informatie van buiten het aangeleverde studiemateriaal gebruikt moet je een bronvermelding doen; je mag gewoon de site/titel noemen in de tekst.
+
+## Nakijken
+
+De antwoorden worden kritisch nagekeken op zorgvuldige beantwoording. Dat betekent dat de antwoorden gebaseerd moeten zijn op de lesstof (het videocollege), dat wat er staat goed is en logisch onderbouwd en dat er geen onware of irrelevante beweringen of informatie bij de antwoorden staan. Aan de andere kant: een klein foutje is geen probleem.

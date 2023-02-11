@@ -28,5 +28,3 @@ Gebruik de website van [Software carpentry](https://swcarpentry.github.io/shell-
 ## Nakijken
 
 Ook bij deze opdracht moet je weer dingen die je hebt geleerd bijhouden, zie de laatste stap hieronder. Bij deze opdracht geldt sterker dan voorheen dat je zelf verslag moet doen. Relateer je ervaringen tijdens de workshop aan wat je al wist (of wat je nog niet wist).
-
-Voor het doen van de hele workshop en uitgebreide verslaglegging krijg je 1 punt.

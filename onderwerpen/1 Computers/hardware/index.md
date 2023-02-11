@@ -1,26 +1,13 @@
 # Hardware
 
-Bestudeer het videocollege en beantwoord dan de vragen hieronder. Hou er rekening mee dat je bij de laatste vraag diepgaand moet schrijven over je leerproces.
-
-Je antwoorden worden beoordeeld op diepgang (tot 2 punten), dus in hoeverre er een zinvol antwoord wordt gegeven met een duidelijke onderbouwing. Laat daarom ook weten als je voor het antwoord andere bronnen of tools hebt gebruikt dan het videocollege. Je mag de vragen in het Nederlands beantwoorden, maar veel technische termen zijn wel Engels, en die kun je gewoon gebruiken.
+1. Bestudeer het videocollege,
+2. hou goed bij wat je opvalt en wat je leert,
+3. en beantwoord dan de vragen hieronder.
 
 ![embed](https://www.youtube.com/embed/6mbFO0ZLMW8)
 
 - [Open in CS50 video player](https://video.cs50.io/6mbFO0ZLMW8?screen=WRB6P2vMAao)
 - [Open lecture notes](https://cs50.harvard.edu/ap/2021/curriculum/technology/notes/hardware/)
-
-Onderwerpen van het college zijn:
-
-- Binary
-- CPU
-- RAM
-- Hard drives
-- Flash memory
-- Types of memory
-- Display connectors
-- USB
-- Wireless
-- Operating systems
 
 ## Vragen
 
@@ -42,4 +29,8 @@ Onderwerpen van het college zijn:
 
 ## Inleveren
 
-Lever hieronder een PDF in met je uitwerkingen. Gebruik géén titelpagina. Vermeld je naam en studentnummer, en de naam van de opdracht. Vermeld ook de vraag boven elk antwoord---dit mag een samengevatte versie van de vraag zijn.
+Lever hieronder een PDF in met je uitwerkingen. Gebruik géén titelpagina. Vermeld je naam en studentnummer, en de naam van de opdracht. Vermeld ook de vraag boven elk antwoord---dit mag een samengevatte versie van de vraag zijn. Als je informatie van buiten het college gebruikt moet je een bronvermelding doen; je mag gewoon de site/titel noemen in de tekst.
+
+## Nakijken
+
+De antwoorden worden kritisch nagekeken op zorgvuldige beantwoording. Dat betekent dat de antwoorden gebaseerd moeten zijn op de lesstof (het videocollege), dat wat er staat goed is en logisch onderbouwd en dat er geen onware of irrelevante beweringen of informatie bij de antwoorden staan. Aan de andere kant: een klein foutje is geen probleem.

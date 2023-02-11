@@ -1,10 +1,12 @@
 # Software Carpentry UNIX (deel 1)
 
-Nu kun je aan de slag met een uitgebreide UNIX-workshop van [Software carpentry](https://swcarpentry.github.io/shell-novice/). Deze geeft je allerlei voorbeelden van commando's die je in UNIX kunt gebruiken.
+1. Doe het eerste deel van de workshop hieronder,
+2. hou goed bij wat je opvalt en wat je leert,
+3. en schrijf een verslag van wat je hebt gedaan en geleerd.
 
-**Ook bij deze opdracht moet je weer dingen die je hebt geleerd bijhouden, zie de laatste stap hieronder. Bij deze opdracht geldt sterker dan voorheen dat je zelf verslag moet doen. Relateer je ervaringen tijdens de workshop aan wat je al wist (of wat je nog niet wist).**
+## Specificatie
 
-Voor het doen van de hele workshop en de verslaglegging krijg je 1 punt.
+Gebruik de website van [Software carpentry](https://swcarpentry.github.io/shell-novice/) om de workshop te doen.
 
 1.  Zorg dat je een UNIX-omgeving klaar hebt staan op je computer. Je hebt deze bij Programmeren 1 geinstalleerd. (Gebruik *niet* de installatie-instructies van Software Carpentry.)
 
@@ -22,3 +24,7 @@ Voor het doen van de hele workshop en de verslaglegging krijg je 1 punt.
 5.  Beschrijf in een PDF welke opvallende dingen je hebt geleerd bij het doen van de workshop. Geef aan wat je eventueel moeilijk vond en welke bronnen je hebt gebruikt om verder uit te zoeken wat je moest begrijpen. Je kunt ook aangeven waarover je vragen hebt gesteld of waarover je discussies hebt gevoerd met medestudenten.
 
     Tip: je kunt voor zo'n praktische opdracht als deze ook screenshots maken en opnemen in je PDF om te laten zien wat er bijvoorbeeld mis ging.
+
+## Nakijken
+
+Ook bij deze opdracht moet je weer dingen die je hebt geleerd bijhouden. Bij deze opdracht geldt sterker dan voorheen dat je zelf verslag moet doen. Relateer je ervaringen tijdens de workshop aan wat je al wist (of wat je nog niet wist).
