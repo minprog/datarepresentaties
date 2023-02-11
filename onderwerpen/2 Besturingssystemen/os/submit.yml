@@ -1,2 +1,4 @@
 name: opsys
-form: true
+files:
+    required:
+        - operating-systems.pdf

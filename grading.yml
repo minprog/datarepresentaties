@@ -86,11 +86,12 @@ grades:
     hardware: *writing
     intro: *shortanswer1
     binary: *shortanswer1
-    unix: *shortanswer1
+    software-carpentry: *shortanswer1
 
     security: *writing
     opsys: *shortanswer2
     filesys: *shortanswer1
+    software_carpentry_2: *shortanswer1
 
     multimedia: *writing
     binrep: *shortanswer1
@@ -184,7 +185,7 @@ module_1:
         hardware: 3
         intro: 1
         binary: 1
-        unix: 1
+        software_carpentry: 1
 
 module_2:
     show_progress: true
@@ -192,6 +193,7 @@ module_2:
         security: 3
         opsys: 2
         filesys: 1
+        software_carpentry_2: 1
 
 module_3:
     show_progress: true
@@ -230,7 +232,7 @@ module_7:
         fiftyville: 1
 
 process_books:
-    show_progress: true
+    # show_progress: true
     required: true
     submits:
         pr1: 1

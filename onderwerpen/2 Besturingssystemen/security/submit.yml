@@ -1,2 +1,4 @@
 name: security
-form: true
+files:
+    required:
+        - security.pdf

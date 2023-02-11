@@ -1,8 +1,12 @@
 # Besturingssystemen
 
-**Lees de laatste vraag hieronder even goed door vóórdat je begint.**
+1. Studeer in het hieronder genoemde hoofdstuk,
+2. hou goed bij wat je opvalt,
+3. en beantwoord dan de vragen hieronder.
 
-Lees dan het onderdeel "Operating systems" uit het boek van Brookshear, *Computer Science: An Overview* en beantwoord de vragen hieronder.
+Hoofdstuk: "Operating systems" uit het boek van Brookshear, *Computer Science: An Overview*.
+
+## Specificatie
 
 - Je antwoorden moeten in een PDF worden ingeleverd met een overzichtelijke opmaak
 - De vragen moeten zijn opgenomen in de PDF (of een ingekorte maar duidelijke versie van elke vraag) met het antwoord er steeds direct onder
@@ -31,3 +35,5 @@ Lees dan het onderdeel "Operating systems" uit het boek van Brookshear, *Compute
 ## Nakijken
 
 De antwoorden worden kritisch nagekeken op zorgvuldige beantwoording. Dat betekent dat de antwoorden gebaseerd moeten zijn op de lesstof (het boek), dat wat er staat goed is en logisch onderbouwd en dat er geen onware of irrelevante beweringen of informatie bij de antwoorden staan. Aan de andere kant: een klein foutje is geen probleem.
+
+Voor dit onderdeel kun je maximaal 2 punten krijgen.

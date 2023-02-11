@@ -1,2 +1,4 @@
 name: filesys
-form: true
+files:
+    required:
+        - file-systems.pdf

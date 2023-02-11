@@ -5,7 +5,7 @@ Computers:
     Hardware [college]: /onderwerpen/computers/hardware
     Introduction to computing [boek]: /onderwerpen/computers/intro
     Binair tellen [boek]: /onderwerpen/computers/binary
-    Software Carpentry UNIX [tutorial]: /onderwerpen/besturingssystemen/carpentry
+    Software Carpentry UNIX [tutorial]: /onderwerpen/computers/carpentry
     Oefeningen UNIX: /onderwerpen/computers/oefeningen
     # UNIX intro [opdracht]: /onderwerpen/computers/unix
 
@@ -13,8 +13,7 @@ Besturingssystemen:
     Beveiliging [college]: /onderwerpen/besturingssystemen/security
     Besturingssystemen [boek]: /onderwerpen/besturingssystemen/os
     Bestandssystemen [boek]: /onderwerpen/besturingssystemen/fs
-    Procesboek:
-        Procesboek: /procesboek/week2
+    Software Carpentry UNIX 2 [tutorial]: /onderwerpen/besturingssystemen/carpentry
 
 Representaties:
     Multimedia [college]: /onderwerpen/representaties/multimedia
