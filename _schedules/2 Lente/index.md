@@ -87,8 +87,7 @@ Voor deze cursus kun je 42 punten halen. Om de punten te krijgen moet je de opdr
 |--------------------|-----------------------|-----------|--------|----------|
 | Databases          | Movies                | oefenen   | 3      | tentamen |
 |                    | Fiftyville            | oefenen   | 3      | tentamen |
-|                    |                       |           |        |          |
-|                    |                       |           |        |          |
+|--------------------|-----------------------|-----------|--------|----------|
 
 
 
