@@ -1,2 +1,4 @@
 name: text
-form: true
+files:
+    required:
+        - tekstformaten.pdf

@@ -1,76 +1,55 @@
 # Multimedia
 
-Bestudeer het videocollege en beantwoord dan de vragen hieronder.
-
-Je antwoorden worden beoordeeld op diepgang (tot 3 punten), dus in hoeverre er een zinvol antwoord wordt gegeven met een duidelijke onderbouwing. Laat daarom ook weten als je voor het antwoord andere bronnen of tools hebt gebruikt dan het videocollege.
-
-Je mag de vragen in het Nederlands beantwoorden, maar veel technische termen zijn wel Engels, en die kun je gewoon gebruiken.
+1. Bestudeer het videocollege,
+2. hou goed bij wat je opvalt en wat je leert,
+3. en beantwoord dan de vragen hieronder.
 
 ![embed](https://www.youtube.com/embed/kccUxGDsMAQ)
 
 - [Open in CS50 video player](https://video.cs50.io/kccUxGDsMAQ?screen=d9eb5UAlvWc)
 - [Open lecture notes](https://cs50.harvard.edu/ap/2021/curriculum/technology/notes/multimedia/)
 
-Onderwerpen van het college zijn:
+## Vragen
 
-- Audio
-- Graphics
-- RGB
-- Bitmap format
-- Image compression
-- Image file formats
-- "Enhance"
-- Video compression
-- Video file formats
-- 3D video
+1.  Om welke redenen zou een liedje in MP3-formaat veel beter kunnen klinken dan een liedje in MIDI-formaat?
 
-## Questions
+2.  Wanneer zou je GIF kiezen boven JPEG voor een plaatje?
 
-1.  Why might a song in MP3 format sound much better than a song in MIDI format?
+3.  Wanneer zou je JPEG kiezen boven GIF voor een plaatje?
 
-    <textarea name="form[q1]" rows="8" required></textarea>
+4.  Hieronder vind je twee GIF's.
 
-2.  When might you want to use a GIF instead of a JPEG?
-
-    <textarea name="form[q2]" rows="8" required></textarea>
-
-3.  When might you want to use a JPEG instead of a GIF?
-
-    <textarea name="form[q3]" rows="8" required></textarea>
-
-4.  Consider the GIFs below.
-
-    **French Flag**
+    **Franse vlag**
 
     ![French Flag: blue, white and red from left to right, each being a bit wider than the previous](300px-Civil_and_Naval_Ensign_of_France.svg.png)
 
-    **German Flag**
+    **Duitse vlag**
 
     ![German Flag: black, red and yellow from top to bottom in equal parts](1280px-Flag_of_Germany.svg.png)
 
-    Even though these images are the same resolution (300 pixels by 200 pixels), the German GIF is smaller (i.e., fewer bytes) than the French GIF. Hypothesize why that might be.
+    Beide plaatjes hebben een resolutie van 300 bij 200 pixels. Toch is de GIF van de Duitse vlag kleiner (in bytes) dan die van de Franse vlag. Hoe zou dat mogelijk kunnen zijn?
 
-    <textarea name="form[q4]" rows="8" required></textarea>
+5.  "1-bit color" houdt in dat je twee kleurmogelijkheden hebt, zoals zwart-wit.
 
-5.  Keep in mind that "1-bit color" connotes two colors, black and white.
+    - Als een plaatje "8-bits color" ondersteunt, hoeveel kleuren zijn dan (ongeveer) mogelijk?
+    - Als een plaatje "24-bits color" ondersteunt, hoeveel kleuren zijn dan (ongeveer) mogelijk?
 
-    - If an image supports "8-bit color," (roughly) how many colors does it support?
-    - If an image supports "24-bit color," (roughly) how many colors does it support?
-
-    <textarea name="form[q5]" rows="8" required></textarea>
-
-6.  Consider the video below.
+6.  Bekijk onderstaande video.
 
     ![embed](https://www.youtube.com/embed/WwnI0RS6J5A)
 
-    Why does making an image bigger not make it clearer?
+    Waarom helpt het niet om een plaatje te vergroten als je het scherper wil kunnen bekijken?
 
-    <textarea name="form[q6]" rows="8" required></textarea>
-
-7.  Consider the childhood "flip book" below, each of whose pages has a slightly different drawing of a shape.
+7.  In onderstaande GIF zie je een "flipbook"; op elk van de pagina's staat een nét iets andere tekening.
 
     ![Someone showing an animation in a flipbook](giphy.gif)
 
-    In what way is a childhood "flip book" like a digital video?
+    Op welke manier is zo'n flipbook vergelijkbaar met een digitale video?
 
-    <textarea name="form[q7]" rows="8" required></textarea>
+## Inleveren
+
+Lever hieronder een PDF in met je uitwerkingen. Gebruik géén titelpagina. Vermeld je naam en studentnummer, en de naam van de opdracht. Vermeld ook de vraag boven elk antwoord---dit mag een samengevatte versie van de vraag zijn. Als je informatie van buiten het college gebruikt moet je een bronvermelding doen; je mag gewoon de site/titel noemen in de tekst.
+
+## Nakijken
+
+De antwoorden worden kritisch nagekeken op zorgvuldige beantwoording. Dat betekent dat de antwoorden gebaseerd moeten zijn op de lesstof (het videocollege), dat wat er staat goed is en logisch onderbouwd en dat er geen onware of irrelevante beweringen of informatie bij de antwoorden staan. Aan de andere kant: een klein foutje is geen probleem.

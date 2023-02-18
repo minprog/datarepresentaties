@@ -1,2 +1,4 @@
 name: formaten
-form: true
+files:
+    required:
+        - bestandsformaten.pdf

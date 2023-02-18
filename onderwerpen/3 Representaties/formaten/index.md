@@ -1,10 +1,12 @@
 # Bestandsformaten
 
-> Beantwoord de vragen die je hieronder tegenkomt. Je antwoorden worden beoordeeld op inzet en correctheid (1 punt voor de hele opdracht).
-
-Bestanden bevatten data die met hulp van programma's zijn opgeslagen. Als je een tekst-editor gebruikt kun je heel direct ASCII-tekens intikken en dan opslaan. Elk ASCII-teken dat je hebt ingetikt is een byte in dat bestand. Maar er zijn nog veel meer bestandsformaten.
+1. Bestudeer onderstaande uitleg over gebruik van `xxd`
+2. hou goed bij wat je opvalt en wat je leert,
+3. en doe dan de opdracht.
 
 ## xxd
+
+Bestanden bevatten data die met hulp van programma's zijn opgeslagen. Als je een tekst-editor gebruikt kun je heel direct ASCII-tekens intikken en dan opslaan. Elk ASCII-teken dat je hebt ingetikt is een byte in dat bestand. Maar er zijn nog veel meer bestandsformaten.
 
 Met de tool `xxd` kun je de inhoud van bestanden bekijken. Als er tekst in staat (in ASCII) dan wordt deze getoond, maar daarnaast staan ook de hexadecimale codes, waardoor het mogelijk wordt om te begrijpen hoe een bestand in elkaar zit dat geen tekst bevat.
 
@@ -17,9 +19,7 @@ Hieronder roepen we `xxd` aan met het bestand `course.yml`. YAML is een tekstfor
     00000030: 61 6e 67 75 61 67 65 3a 20 6e 6c 0a              anguage: nl.
 
 Elk ASCII-teken wordt weergegeven door middel van een hexadecimaal getal dat bestaat uit 2 tekens.
-Je ziet dat het getal `0a` drie keer voorkomt. Welk teken uit de ASCII-tabel is dit? Waarom wordt het weergegeven als een `.` in de rechterkolom?
-
-<textarea name="form[q0A]" rows="4" required></textarea>
+Je ziet dat het getal `0a` drie keer voorkomt. Welk teken uit de ASCII-tabel is dit? Waarom wordt het weergegeven als een `.` in de rechterkolom? Bespreek je ideeën met medestudenten en de assistenten, zodat je goed begrijpt wat `xxd` jou laat zien (voordat je verder gaat!).
 
 De optie `-g 1` hebben we hier gebruikt om de hexadecimale getallen apart neer te zetten. Als je deze optie weglaat worden de hexadecimale getallen gegroepeerd per 2 tekens. Dat ziet er dus bijna hetzelfde uit:
 
@@ -31,7 +31,7 @@ De optie `-g 1` hebben we hier gebruikt om de hexadecimale getallen apart neer t
 
 ## Binaire data
 
-Nu bekijken we de eerste 128 bytes van een MP4-bestand waarin video is opgeslagen:
+Nu bekijken we met hulp van de flag `-l` de eerste 128 bytes van een MP4-bestand waarin video is opgeslagen:
 
     % xxd -l 128 outro.mp4
     00000000: 0000 001c 6674 7970 6d70 3432 0000 0001  ....ftypmp42....
@@ -88,25 +88,12 @@ Dan zie je dat er twee bestanden in staan: een databestand (formaat is kennelijk
 
 [Download een ZIP-bestand](files.zip) met daarin 10 andere bestanden (het wachtwoord is `secret`). Deze bestanden hebben geen duidelijke naam die weggeeft wat voor soort bestand het is. Is het een document, een audio-file? Je kunt natuurlijk de extensies aanpassen en het bestand proberen te openen in Word of in een audioplayer. Maar in dit geval gaat `xxd` ons helpen om te analyseren wat er in de bestanden staat.
 
-Geef hieronder per bestand aan welk formaat het heeft en op basis waarvan je precies die conclusie kunt trekken. Geef ook een korte indicatie van de inhoud (geen copy-past maar beschrijving).
+Geef in jouw uitwerking per bestand aan welk formaat het heeft en op basis waarvan je precies die conclusie kunt trekken. Geef ook een idee van de inhoud zodat we kunnen zien dat je het goed begrepen hebt (geen copy-paste van de inhoud, maar een beschrijving in jouw eigen woorden). In principe moet je voor elk bestand kunnen achterhalen wat het is, maar soms is het even lastig.
 
-1. <textarea name="form[qB0]" rows="4" required></textarea>
+## Inleveren
 
-1. <textarea name="form[qB1]" rows="4" required></textarea>
+Lever hieronder een PDF in met je antwoorden. Gebruik géén titelpagina. Vermeld je naam en studentnummer, en de naam van de opdracht. Vermeld ook de vraag boven elk antwoord---dit mag een samengevatte versie van de vraag zijn. Als je informatie van buiten de aangeleverde tekst gebruikt moet je een bronvermelding doen; je mag gewoon de site/titel noemen in de tekst.
 
-1. <textarea name="form[qB2]" rows="4" required></textarea>
+## Nakijken
 
-1. <textarea name="form[qB3]" rows="4" required></textarea>
-
-1. <textarea name="form[qB4]" rows="4" required></textarea>
-
-1. <textarea name="form[qB5]" rows="4" required></textarea>
-
-1. <textarea name="form[qB6]" rows="4" required></textarea>
-
-1. <textarea name="form[qB7]" rows="4" required></textarea>
-
-1. <textarea name="form[qB8]" rows="4" required></textarea>
-
-1. <textarea name="form[qB9]" rows="4" required></textarea>
-{: start="0"}
+De antwoorden worden kritisch nagekeken op zorgvuldige beantwoording. De bedoeling is dat je voor elk bestand wel kunt omschrijven wat het is. Mocht je er niet uitkomen, bespreek dan met medestudenten hoe ze het aanpakken of betrek een assistent erbij. Een foutje is geen probleem natuurlijk.

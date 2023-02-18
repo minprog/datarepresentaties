@@ -1,2 +1,4 @@
 name: binrep
-form: true
+files:
+    required:
+        - binaire-representatie.pdf

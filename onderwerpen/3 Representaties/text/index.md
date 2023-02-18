@@ -1,6 +1,10 @@
-# Text encoding
+# Tekstcodering
 
-> Beantwoord de vragen die je hieronder tegenkomt. Je antwoorden worden beoordeeld op inzet en correctheid (1 punt voor de hele opdracht).
+1. Bestudeer onderstaande uitleg over tekstcodering,
+2. hou goed bij wat je opvalt en wat je leert,
+3. en beantwoord de vragen die in de tekst staan.
+
+## Plain text
 
 Files containing plain text are nothing special. As you've seen previously, even text is eventually stored in binary format, meaning that it is written in memory or on disk using 0's and 1's. In that sense, it's nothing different from formats like MP3 to store music or docx to store text and layout.
 
@@ -25,15 +29,11 @@ So the nice thing is that the first 128 characters of Unicode are encoded exactl
 
 In contrast, characters starting with a 1 will be interpreted differently in Unicode UTF-8 than there are in ASCII. This means that every ASCII text (but not extended ASCII) is valid UTF-8. In other words, many files can be read assuming that they are interpretable as UTF-8.
 
-**Question.** Why is not every text encoded in "extended ASCII" also valid Unicode?
-
-<textarea name="form[q0a]" rows="4" required></textarea>
+**Question 1.** Why is not every text encoded in "extended ASCII" also valid Unicode?
 
 However, every UTF-8 file is not necessarily valid ASCII. This becomes a problem in older text editors that do not expect UTF-8 text. It also becomes a problem in tools to process text written using for example Python version 2.x.
 
-**Question.** What will happen if you load a UTF-8 file in a text editor that only supports (extended) ASCII?
-
-<textarea name="form[q0b]" rows="4" required></textarea>
+**Question 2.** What will happen if you load a UTF-8 file in a text editor that only supports (extended) ASCII?
 
 Because of this, encodings can be a bit of a hassle. It's good to be aware of this. In this course, we will notify you in case encodings may become a problem.
 
@@ -78,10 +78,7 @@ Here's what `xxd` shows for a text made on modern macOS using the method above:
 
 `xxd` shows the hexadecimal representation of each byte in the file. For example, hex 68 is the character `h` in ASCII. And so on.
 
-🌵 **Question.** Write down everything you can figure out about the line endings in the above `xxd` results.
-
-<textarea name="form[q0c]" rows="7" required></textarea>
-
+🌵 **Question 3.** Write down everything you can figure out about the line endings in the above `xxd` results.
 
 ## White space
 
@@ -98,12 +95,16 @@ There is no "space" character between "two" and "words", there's only a newline 
 
 🌵 Your task is to investigate the inner workings of the tool called `wc` that is designed to count words in files.
 
-1.  What is a "word" according to the `wc` tool? Which characters are white space? Use `man wc` to start your investigation. You're going to need to read other man pages as well, as referred to by the `wc` man page. Another way to find out what "words" are according to `wc` is to make all kinds of test files and check out how `wc` deals with those. Make sure to explain in detail how you found your answer.
+**Question 4.** What is a "word" according to the `wc` tool? Which characters are white space? Use `man wc` to start your investigation. You're going to need to read other man pages as well, as referred to by the `wc` man page. Another way to find out what "words" are according to `wc` is to make all kinds of test files and check out how `wc` deals with those. Make sure to explain in detail how you found your answer.
 
-    <textarea name="form[q1]" rows="7" required></textarea>
-
-2.  Which are the options to use with `wc` to show the number of **characters** vs. the number of **bytes**? Can you create a file using TextEdit or Notepad, save as UTF-8 and check whether wc provides different values for both counts? Provide details of what you did and what you found.
-
-    <textarea name="form[q2]" rows="7" required></textarea>
+**Question 5.** Which are the options to use with `wc` to show the number of **characters** vs. the number of **bytes**? Can you create a file using TextEdit or Notepad, save as UTF-8 and check whether wc provides different values for both counts? Provide details of what you did and what you found.
 
 Your take home message: everything in computers is artificial, someone just made a decision and hopefully the rest of the world follows that decision (if they do, it's called a **convention**). So what counts as whitespace is just something that was defined somewhere, and some people do it differently, so be sure to check what the definitions are!
+
+## Inleveren
+
+Lever hieronder een PDF in met je uitwerkingen. Gebruik géén titelpagina. Vermeld je naam en studentnummer, en de naam van de opdracht. Vermeld ook de vraag boven elk antwoord---dit mag een samengevatte versie van de vraag zijn. Als je informatie van buiten de aangeleverde tekst gebruikt moet je een bronvermelding doen; je mag gewoon de site/titel noemen in de tekst.
+
+## Nakijken
+
+De antwoorden worden kritisch nagekeken op zorgvuldige beantwoording. Dat betekent dat de antwoorden gebaseerd moeten zijn op de lesstof, dat wat er staat goed is en logisch onderbouwd en dat er geen onware of irrelevante beweringen of informatie bij de antwoorden staan. Aan de andere kant: een klein foutje is geen probleem.

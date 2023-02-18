@@ -1,10 +1,14 @@
 # Representaties
 
-Lees het onderwerp *Binary representation* uit het boek van Schneider & Gersting, *Invitation to Computer Science*. Het hoofdstuk begint met wat herhaling maar gaat al snel verder dan wat je eerder hebt gelezen.
+1. Studeer in het hieronder genoemde hoofdstuk,
+2. hou goed bij wat je opvalt en wat je leert,
+3. en beantwoord dan de vragen hieronder.
+
+## Literatuur
+
+Hoofdstuk "Binary representation" uit het boek van Schneider & Gersting, *Invitation to Computer Science*. Het hoofdstuk begint met wat herhaling maar gaat al snel verder dan wat je eerder hebt gelezen.
 
 ## Vragen
-
-Beantwoord de vragen hieronder. Je antwoorden worden beoordeeld op inzet en correctheid (1 punt voor de hele opdracht).
 
 1.  Geef de binaire representatie van de volgende string (gebruik makend van de ASCII-manier van encoden): `$25.00`.
 
@@ -30,3 +34,11 @@ Beantwoord de vragen hieronder. Je antwoorden worden beoordeeld op inzet en corr
     Er is een manier om bovenstaande boodschap beter leesbaar te maken voor "gewone mensen" (ofwel, niet-programmeurs). Vind deze manier en pas 'm toe!
 
     <textarea name="form[q5]" rows="8" required></textarea>
+
+## Inleveren
+
+Lever hieronder een PDF in met je uitwerkingen. Gebruik géén titelpagina. Vermeld je naam en studentnummer, en de naam van de opdracht. Vermeld ook de vraag boven elk antwoord---dit mag een samengevatte versie van de vraag zijn. Als je informatie van buiten de aangeleverde tekst gebruikt moet je een bronvermelding doen; je mag gewoon de site/titel noemen in de tekst.
+
+## Nakijken
+
+De antwoorden worden kritisch nagekeken op zorgvuldige beantwoording. Dat betekent dat de antwoorden gebaseerd moeten zijn op de lesstof, dat wat er staat goed is en logisch onderbouwd en dat er geen onware of irrelevante beweringen of informatie bij de antwoorden staan. Aan de andere kant: een klein foutje is geen probleem.

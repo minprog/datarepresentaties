@@ -1,2 +1,4 @@
 name: multimedia
-form: true
+files:
+    required:
+        - multimedia.pdf
