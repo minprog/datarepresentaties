@@ -1,5 +1,0 @@
-name: graphviz
-form: true
-files:
-    required:
-        - automaat.svg
