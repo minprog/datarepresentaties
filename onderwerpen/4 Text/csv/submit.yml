@@ -1,2 +1,4 @@
 name: csv
-form: true
+files:
+    required:
+        - csv.pdf
