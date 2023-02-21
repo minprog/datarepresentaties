@@ -24,9 +24,9 @@ Representaties:
 
 Text processing:
     Reguliere expressies [boek]: /onderwerpen/text/regex/uitleg
-    CSV [opdracht]: /onderwerpen/text/csv
     Reguliere expressies [oefenen]: /onderwerpen/text/regex/opdrachten
     UNIX-commando's [boek]: /onderwerpen/text/tools
+    CSV [opdracht]: /onderwerpen/text/csv
     Tentamen:
         Oefeningen Regex: /onderwerpen/text/regex/oefeningen
         Oefeningen Tools: ''

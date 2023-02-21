@@ -1,6 +1,10 @@
 # CSV-formaat
 
-> Bestudeer de stof en beantwoord de vragen hieronder. Je antwoorden worden beoordeeld op inzet en correctheid (1 punt voor de hele opdracht).
+1. Bestudeer onderstaande uitleg over het CSV-formaat,
+2. hou goed bij wat je opvalt en wat je leert,
+3. en doe dan de opdracht.
+
+## CSV
 
 CSV is de simpelste manier om data te organiseren in een tekstbestand. Als de data een **tabel** is, dus als deze bestaat uit rijen en kolommen, dan kan CSV gebruikt worden om de data te organiseren.
 
@@ -12,15 +16,13 @@ Let even op de terminologie. Een rij wordt ook wel een **record** genoemd. Elk r
 
 Let op dat er ook nog andere formaten zijn zoals "tab separated values", die op een andere manier worden opgemaakt. Het idee is hetzelfde, maar je moet er rekening mee houden dat je zelf moet controleren of je commando's nog kloppen.
 
-🌵 **Oefening.** Hieronder vind je de tekst van een CSV-bestand. Gebruik het `sort`-commando om het te sorteren op kamernummer. Standaard sorteert het commando alle regels op alfabet. Gebruik `man sort` om te achterhalen hoe je moet sorteren met velden (fields) en hoe je zorgt dat de komma wordt gebruikt om de twee velden te onderscheiden.
+🌵 **Vraag 0.** Hieronder vind je de tekst van een CSV-bestand. Gebruik het `sort`-commando om het te sorteren op kamernummer. Standaard sorteert het commando alle regels op alfabet. Gebruik `man sort` om te achterhalen hoe je moet sorteren met velden (fields) en hoe je zorgt dat de komma wordt gebruikt om de twee velden te onderscheiden.
 
     Stegeman,L0.11
     van Assema,L0.09
     Vrielink,L0.10
 
 Welk commando heb je uiteindelijk gebruikt? Leg uit hoe alle opties werken om het juiste resultaat te krijgen.
-
-<textarea name="form[q0A]" rows="4" required></textarea>
 
 ## Encodings
 
@@ -34,7 +36,7 @@ Het probleem is dat Excel, maar ook veel POSIX-tools, geen rekening houden met d
 
 <https://github.com/dbro/csvquote>
 
-## 🌵 Opdracht
+## Vragen
 
 1.  De lijst studenten van Programmeren 1 heeft wat problemen. We hebben deze in Excel opgeslagen als CSV en we kregen meteen deze melding:
 
@@ -52,11 +54,7 @@ Het probleem is dat Excel, maar ook veel POSIX-tools, geen rekening houden met d
 
     Geef de commando's, liefst een one-liner, om het bestand te corrigeren voor verdere verwerking als CSV.
 
-    <textarea name="form[q1]" rows="8" required></textarea>
-
 1.  Geef een awk-script dat "Hello, World" naar het scherm print.
-
-    <textarea name="form[e1]" rows="8" required></textarea>
 
 1.  Geef een awk-script dat van elke regel van de file `passwd` de username print, en of de gebruiker speciale privileges heeft. Dat laatste is alleen het geval als de gebruiker een niet-negatief ID kleiner dan 10 heeft ([download `passwd.txt` hier](passwd.txt)). Dat moet er zo uitzien:
 
@@ -65,9 +63,12 @@ Het probleem is dat Excel, maar ook veel POSIX-tools, geen rekening houden met d
         nobody  not privileged
         joedoe  not privileged
 
-    <textarea name="form[e2]" rows="8" required></textarea>
-
 1.  Geef een awk-script dat alle gebruikers op dezelfde manier print, maar in dit geval moeten de gebruikers `root` en `daemon` worden overgeslagen omdat deze op elk systeem bestaan. Alleen de overige gebruikers worden dus geprint, op dezelfde manier als bij de vorige vraag.
 
-    <textarea name="form[e3]" rows="8" required></textarea>
+## Inleveren
 
+Lever hieronder een PDF in met je antwoorden. Gebruik géén titelpagina. Vermeld je naam en studentnummer, en de naam van de opdracht. Vermeld ook de vraag boven elk antwoord---dit mag een samengevatte versie van de vraag zijn. Als je informatie van buiten de aangeleverde tekst gebruikt moet je een bronvermelding doen; je mag gewoon de site/titel noemen in de tekst.
+
+## Nakijken
+
+De antwoorden worden kritisch nagekeken op zorgvuldige beantwoording. De bedoeling is dat je voor elk bestand wel kunt omschrijven wat het is. Mocht je er niet uitkomen, bespreek dan met medestudenten hoe ze het aanpakken of betrek een assistent erbij. Een foutje is geen probleem natuurlijk.

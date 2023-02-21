@@ -1,19 +1,9 @@
 # Reguliere expressies
 
-Beantwoord de vragen hieronder. Let ook weer op de laatste vraag.
+1. Gebruik onderstaande vragen om goed te begrijpen hoe regexes werken,
+2. en hou goed bij wat je opvalt en wat je leert.
 
-- Je antwoorden moeten in een PDF worden ingeleverd met een overzichtelijke opmaak
-- De PDF moet bij voorkeur gemaakt zijn met LaTeX
-- De vragen moeten zijn opgenomen in de PDF met het antwoord er steeds direct onder
-- De naam van de cursus, de opdracht en jouw eigen naam moeten ook vermeld zijn bovenaan het document
-- Je mag géén titelblad gebruiken, dat is teveel onzinnige ruimte voor zo'n korte opdracht
-- Als je informatie van buiten het boek gebruikt moet je een bronvermelding doen, maar je hoeft hiervoor geen LaTeX-referenties te gebruiken; je mag gewoon de site/titel noemen in de tekst
-
-Als je testbestanden maakt voor de opdrachten, doe dat dan niet in Windows met Notepad of Atom. Gebruik in plaats daarvan `nano` (zoals uitgelegd in de Software Carpentry workshop). Dan zijn de line endings correct voor gebruik van `grep`. Als je er technisch niet uitkomt, vraag dan ook hulp!
-
-Zorg dat je de reguliere expressies en voorbeelden netjes opmaakt in je PDF, zodat ze goed herkenbaar en leesbaar zijn als code. Vermeld bovenaan ook welke omgeving je gebruikt (Linux, MacOS, Git Bash, enz.) omdat grep op verschillende platforms anders werkt.
-
-## Opdracht
+## Aanpak
 
 Voor deze opdrachten moet je reguliere expressies schrijven en voorbeelden geven die wél en niet werken. Je moet hiervoor `grep`, `egrep` of `fgrep` gebruiken zoals in het boek beschreven. Gebruik de UNIX manual pages op jouw systeem om te juiste opties (flags) te vinden die je nodig hebt.
 
@@ -51,14 +41,10 @@ In de volgende opgaven ga je op zoek naar **strings** die matchen. De input is e
 
 1.  Beschrijf welke opvallende dingen je hebt geleerd bij het lezen in het boek, doen van de tutorial en het uitwerken van de vragen. Geef aan wat je eventueel moeilijk vond en welke bronnen je hebt gebruikt om verder uit te zoeken wat je moest begrijpen. Zonder uitgebreid antwoord op deze vraag kun je geen punten halen voor de opdracht.
 
-<!--
-- https://leanpub.com/bastards-regexes
-- https://algs4.cs.princeton.edu/54regexp/
-- https://v4.software-carpentry.org/regexp/index.html
--->
+## Inleveren
+
+Lever hieronder een PDF in met je uitwerkingen. Gebruik géén titelpagina. Vermeld je naam en studentnummer, en de naam van de opdracht. Vermeld ook de vraag boven elk antwoord---dit mag een samengevatte versie van de vraag zijn. Als je informatie van buiten de aangeleverde tekst gebruikt moet je een bronvermelding doen; je mag gewoon de site/titel noemen in de tekst.
 
 ## Nakijken
 
-Deze opdracht wordt afgetekend. Lever dus je PDF in en kom **daarna** langs bij een laptopcollege om dat te regelen. Bij het aftekenen word je gevraagd om een aantal van je antwoorden te demonstreren en eventueel nog te verbeteren.
-
-**Let op:** bovenstaande oefeningen zijn nuttig om reguliere expressies te leren maar ze zijn makkelijk "op te zoeken". Reguliere expressies worden daarom ook getoetst op het tentamen, want de bedoeling is dat je er wat handigheid in krijgt!
+De antwoorden worden kritisch nagekeken op zorgvuldige beantwoording. Dat betekent dat de antwoorden gebaseerd moeten zijn op de lesstof, dat wat er staat goed is en logisch onderbouwd en dat er geen onware of irrelevante beweringen of informatie bij de antwoorden staan. Aan de andere kant: een klein foutje is geen probleem.
