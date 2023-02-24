@@ -83,28 +83,29 @@ grades:
     pidac_2: *aftekenen
     pidac_3: *aftekenen
 
-    hardware: *writing
-    intro: *shortanswer1
-    binary: *shortanswer1
-    software-carpentry: *shortanswer1  # tentamen
+    hardware: *aftekenen
+    intro: *aftekenen
+    binary: *aftekenen
+    software-carpentry: *aftekenen  # tentamen
 
-    security: *writing
-    opsys: *shortanswer2
-    filesys: *shortanswer1
-    software-carpentry-2: *shortanswer1  # mogelijk tentamen
+    security: *aftekenen
+    opsys: *aftekenen
+    filesys: *aftekenen
+    software-carpentry-2: *aftekenen  # mogelijk tentamen
 
-    multimedia: *writing
-    binrep: *shortanswer1
-    text: *shortanswer1
-    formaten: *shortanswer1
+    multimedia: *aftekenen
+    binrep: *aftekenen
+    text: *aftekenen
+    formaten: *aftekenen
 
-    regex: *shortanswer3  # tentamen
-    automaten: *shortanswer3
-    graphviz: *aftekenen
+    regex: *aftekenen  # tentamen
+    unix_tools: *aftekenen  # tentamen
+    csv: *aftekenen  # tentamen
+
+    # automaten: *shortanswer3
+    # graphviz: *aftekenen
 
     internet: *writing
-    unix_tools: *shortanswer1  # tentamen
-    csv: *shortanswer1  # tentamen
     json: *shortanswer1  # tentamen
 
     web-lecture: *aftekenen
@@ -182,63 +183,50 @@ pidac:
 module_1:
     show_progress: true
     submits:
-        hardware: 3
+        hardware: 1
         intro: 1
         binary: 1
-        software-carpentry: 1
+        software-carpentry: 3
 
 module_2:
     show_progress: true
     submits:
-        security: 3
-        opsys: 2
+        security: 1
+        opsys: 1
         filesys: 1
-        software-carpentry-2: 1
+        software-carpentry-2: 3
 
 module_3:
     show_progress: true
     submits:
-        multimedia: 3
+        multimedia: 1
         binrep: 1
         text: 1
-        formaten: 1
+        formaten: 3
 
 module_4:
     show_progress: true
     submits:
-        regex: 1
-        automaten: 1
+        regex: 3
+        csv: 1
+        unix_tools: 2
 
 module_5:
     show_progress: true
     submits:
-        internet: 3
-        unix_tools: 1
-        csv: 1
-        json: 1
+        web-lecture: 1
+        profile: 5
 
 module_6:
     show_progress: true
     submits:
-        web-lecture: 0
-        profile: 3
+        internet: 1
+        json: 1
         curl: 1
-        scraping: 2
+        scraping: 3
 
 module_7:
     show_progress: true
     submits:
-        movies: 1
-        fiftyville: 1
-
-process_books:
-    # show_progress: true
-    required: true
-    submits:
-        pr1: 1
-        pr2: 1
-        pr3: 1
-        pr4: 1
-        pr5: 1
-        # pr6: 1
-        # pr7: 1
+        movies: 3
+        fiftyville: 3
