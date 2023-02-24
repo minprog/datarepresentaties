@@ -208,8 +208,8 @@ module_4:
     show_progress: true
     submits:
         regex: 3
-        csv: 1
         unix_tools: 2
+        csv: 1
 
 module_5:
     show_progress: true

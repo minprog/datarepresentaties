@@ -74,8 +74,8 @@ Op het tentamen worden 5 onderwerpen onafhankelijk van elkaar getoetst. Je kunt 
 |                    | Bestandsformaten      | opdracht  | 3      |              |
 |--------------------|-----------------------|-----------|--------|--------------|
 | Text processing    | Reguliere expressies  | oefenen   | 3      | Regex + grep |
-|                    | CSV                   | oefenen   | 1      | Data tools   |
 |                    | UNIX tools            | oefenen   | 2      | Data tools   |
+|                    | CSV                   | oefenen   | 1      | Data tools   |
 |--------------------|-----------------------|-----------|--------|--------------|
 | Web                | Web development       | schrijven | 1      |              |
 |                    | Homepage              | opdracht  | 5      |              |
