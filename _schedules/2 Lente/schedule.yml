@@ -27,9 +27,9 @@ Text processing:
     Reguliere expressies [oefenen]: /onderwerpen/text/regex/opdrachten
     UNIX-commando's [boek]: /onderwerpen/text/tools
     CSV [opdracht]: /onderwerpen/text/csv
-    Tentamen:
-        Oefeningen Regex: /onderwerpen/text/regex/oefeningen
-        Oefeningen Tools: ''
+    # Tentamen:
+    #     Oefeningen Regex: /onderwerpen/text/regex/oefeningen
+    #     Oefeningen Tools: ''
     # Automaten [college]: /onderwerpen/text/automaten
     # Graphviz [opdracht]: /onderwerpen/text/graphviz
 
