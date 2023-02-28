@@ -1,95 +1,89 @@
 # Homepage
 
-Build a simple profile page using HTML, CSS, and JavaScript.
+1. Maak je eigen website met HTML, CSS, and JavaScript,
+2. hou goed bij wat je opvalt en wat je leert,
+3. en leg in detail van twee problemen uit hoe je ze hebt opgelost.
 
-> Je uitwerking voor deze opdracht wordt beoordeeld op de minmumeisen (1 punt) en hoe ver je daarna bent gegaan (maximaal 3 punten voor de hele opdracht).
+## Achtergrond
 
-## Background
+Het internet heeft ongelooflijke dingen mogelijk gemaakt: we kunnen met zoekmachines onderzoek doen naar alles wat we maar kunnen bedenken, we kunnen communiceren met vrienden en familieleden die waar ook ter wereld zijn, games spelen, cursussen volgen en nog veel meer. Toch zijn de websites die we bezoeken gebouwd op slechts drie talen, die elk een specifiek doel dienen:
 
-The internet has enabled incredible things: we can use a search engine to research anything imaginable, communicate with friends and family members around the globe, play games, take courses, and so much more. But it turns out that nearly all pages we may visit are built on three core languages, each of which serves a slightly different purpose:
+1. HTML, of _HyperText Markup Language_, die wordt gebruikt om de inhoud van websites te beschrijven;
+1. CSS, _Cascading Style Sheets_, die wordt gebruikt om de vormgeving van websites te beschrijven; ander
+1. _JavaScript_, dat wordt gebruikt om websites interactief en dynamisch te maken.
 
-1. HTML, or _HyperText Markup Language_, which is used to describe the content of websites;
-1. CSS, _Cascading Style Sheets_, which is used to describe the aesthetics of websites; and
-1. JavaScript, which is used to make websites interactive and dynamic.
+In deze opdracht ga jij een profielpagina maken waarop je jezelf, je favoriete hobby of buitenschoolse activiteit, je interesses (muziek, boeken, eten) en/of je motivatie om te leren programmeren deelt met de wereld.
 
-Create a simple profile page that introduces yourself, your favorite hobby or extracurricular, your interests (music, books, food) and/or your motivation to study programming.
+## Om te beginnen
 
+Download de startbestanden:
 
-## Getting Started
+    curl -OL https://github.com/minprog/webprogrammeren/raw/2020/Problems/2%20profile/profile.zip
 
-Execute `curl -OL https://github.com/minprog/webprogrammeren/raw/2020/Problems/2%20profile/profile.zip` to download a (compressed) ZIP file with this problem's distribution.
+Unzip het bestand, en open dan de uitgepakte `index.html` in je webbrowser om te bekijken hoe deze er uit ziet.
 
-Open `index.html` in your web browser to see what it currently looks like.
+## Specificatie
 
+Implementeer in de `profile`-directory een website die:
 
-## Specification
+*   Ten minste vier verschillende `.html`-pagina's bevat, waarvan er ten minste één `index.html` is (de hoofdpagina van je website). Het moet mogelijk zijn om van elke pagina op jouw website naar elke andere pagina te gaan door door één of meer hyperlinks te volgen.
 
-Implement in your `profile` directory a website that must:
+*   `index.html` moet een profielfoto, je naam en een korte beschrijving van jezelf en je interesses bevatten. Als je je niet helemaal op je gemak voelt bij het delen van persoonlijke afbeeldingen of details, je in plaats daarvan bijvoorbeeld een avatarafbeelding kunt gebruiken.
 
-*   Contain at least four different `.html` pages, at least one of which is `index.html` (the main page of your website), and it should be possible to get from any page on your website to any other page by following one or more hyperlinks.
+*   De andere pagina's moeten informatie over jou bevatten of iets waarin je geïnteresseerd zou kunnen zijn. Overdrijf het niet, een paar alinea's met een afbeelding is hartstikke goed, of een pagina waar je door een aantal afbeeldingen kunt bladeren, of een soort Javascript-demo (door jezelf aangepast).
 
-*   `index.html` should include a profile picture, your name, and a short description of you and your interests. During the course we'll create a face book of sorts that combines all these pages. This face book will be shared among this year's cohort of students. Do note that if you feel uncomfortable sharing personal images or details, you are welcome to use an avatar picture instead, or to opt-out all together by mailing the staff at <help@mprog.nl>.
+*   Gebruik naast `<html>`, `<head>`, `<body>` en `<title>` ten minste tien (10) verschillende HTML-tags. Het meerdere keren gebruiken van een tag (bijv. `<p>`) telt nog steeds als slechts één (1) van die tien!
 
-*   The other pages should contain information about you or anything that you might be interested in. Don't overdo it, a few paragraphs with a picture would be great, or an image gallery page, or some kind of Javascript demo (customized by yourself), just about anything will do!
+*   Integreer één of meer functies van Bootstrap in je website. Bootstrap is een populaire bibliotheek (die wordt geleverd met veel kant-en-klare CSS-klassen) waarmee je je site kunt verfraaien. Zie [de documentatie van Bootstrap](https://getbootstrap.com/docs/5.2/) om aan de slag te gaan. Waarschijnlijk is het interessant om een aantal [Bootstrap-componenten](https://getbootstrap.com/docs/5.2/components/) te gebruiken. Om Bootstrap aan je site toe te voegen, volstaat het om de volgende tags in te voegen in de `<head>` van jouw pagina's:
 
-*   Use at least ten (10) distinct HTML tags besides `<html>`, `<head>`, `<body>`, and `<title>`. Using some tag (e.g., `<p>`) multiple times still counts as just one (1) of those ten!
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" crossorigin="anonymous">
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" crossorigin="anonymous"></script>
 
-*   Integrate one or more features from Bootstrap into your site. Bootstrap is a popular library (that comes with lots of CSS classes and more) via which you can beautify your site. See [Bootstrap's documentation](https://getbootstrap.com/docs/4.5/) to get started. In particular, you might find some of [Bootstrap's components](https://getbootstrap.com/docs/4.5/components/) of interest. To add Bootstrap to your site, it suffices to include
+*   Zorg voor ten minste één CSS-bestand dat je zelf schrijft, `styles.css`, waarin je ten minste vijf verschillende CSS-selectors gebruikt (bijv. tag (`example`), class (`.example`) of ID (` #example`)), en waarbinnen je in totaal minimaal vijf (5) verschillende CSS-eigenschappen gebruikt, zoals `font-size` of `margin`.
 
-        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
-        <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ho+j7jyWK8fNQe+A12Hb8AhRq26LrZ/JpcUGGOn+Y7RsweNrtN/tE3MoK7ZeZDyx" crossorigin="anonymous"></script>
+    Onder de Bootstrap-tags kun je vervolgens een link maken naar deze file:
 
-    in your pages' `<head>`, below which you can also include
+         <link href="styles.css" rel="stylesheet">
 
-        <link href="styles.css" rel="stylesheet">
+En dan nog optioneel:
 
-    to link your own CSS.
+*   Integreer één of meer JavaScript-gebaseerde functionaliteiten in je site om deze interactiever te maken. Je kunt JavaScript bijvoorbeeld gebruiken om waarschuwingen toe te voegen, om een steeds herhalend ​​effect te starten, of om interactiviteit toe te voegen aan knoppen, keuzelijsten of formulieren. Wees creatief!
 
-*   Have at least one stylesheet file of your own creation, `styles.css`, which uses at least five (5) different CSS selectors (e.g. tag (`example`), class (`.example`), or ID (`#example`)), and within which you use a total of at least five (5) different CSS properties, such as `font-size`, or `margin`.
+*   Zorg ervoor dat je site er goed uitziet in diverse browsers, zowel op mobiele apparaten als op laptops en desktops.
 
-Optional:
+## Testen
 
-*   Integrate one or more features of JavaScript into your site to make your site more interactive. For example, you can use JavaScript to add alerts, to have an effect at a recurring interval, or to add interactivity to buttons, dropdowns, or forms. Feel free to be creative!
+Als je wil zien hoe je site er uitziet terwijl je er aan werkt, hou deze dan geopend in je webbrowser.
 
-*   Ensure that your site looks nice on browsers both on mobile devices as well as laptops and desktops.
-
-
-## Testing
-
-If you want to view how your site looks while you work on it, keep it open in your browser.
-
-Recall also that by opening Developer Tools in Google Chrome, you can _simulate_ visiting your page on a mobile device by clicking the phone-shaped icon to the left of **Elements** in the developer tools window, or, once the Developer Tools tab has already been opened, by typing `Ctrl`+`Shift`+`M` on a PC or `Cmd`+`Shift`+`M` on a Mac, rather than needing to visit your site on a mobile device separately!
-
+Daarnaast kun je in Chrome een mobiele telefoon _simuleren_ door op het telefoonvormige pictogram links van **Elements** in het venster met ontwikkelaarstools te klikken of, als je het tabblad Developer Tools hebt geopend, door `Ctrl`+`Shift`+`M` op een PC of `Cmd`+`Shift`+`M` op een Mac te tikken. Dit is vaak handiger dan de site bezoeken via je eigen mobiele telefoon.
 
 ## Assessment
 
-Your site's correctness will be assessed based on whether you meet the requirements of the specification as outlined above, and whether your HTML is well-formed and valid. To ensure that your pages are, you can use this [Markup Validation Service](https://validator.w3.org/#validate_by_input), copying and pasting your HTML directly into the provided text box. Take care to eliminate any warnings or errors suggested by the validator before submitting!
+Je website wordt beoordeeld op basis van het feit of deze voldoet aan de vereisten van de specificatie zoals hierboven uiteengezet, en of de HTML netjes en correct is. Om ervoor te zorgen dat je pagina's correct zijn, kun je de [Markup Validation Service](https://validator.w3.org/#validate_by_input) gebruiken door door de HTML-code rechtstreeks in het daarvoor bestemde tekstvak te kopiëren en te plakken. Zorg ervoor dat je **alle** waarschuwingen of fouten die door de validator worden voorgesteld, oplost voordat je je opdracht instuurt!
 
-Consider also:
+Let ook op:
 
-* whether the aesthetics of your site are such that it is intuitive and straightforward for a user to navigate;
-* whether your CSS has been factored out into a separate CSS file(s); and
-* whether you have avoided repetition and redundancy by "cascading" style properties from parent tags.
+* of de vormgeving van je website zodanig is dat bediening en navigatie eenvoudig zijn voor een relatief onervaren gebruiker;
+* of de CSS echt in een aparte file staat zoals hierboven beschreven, en er dus helemaal geen CSS-code in de HTML-code staat; en
+* of je overbodige herhaling zoveel mogelijk hebt ingeperkt door gebruik te maken van het "cascading" principe van CSS, waarbij stijl op een bepaald element ook doorwerkt op de "child"-elementen.
 
-It is incumbent upon you to indent and align your HTML tags cleanly. Know also that you can create an HTML comment with:
+Qua stijl is het aan jou om de HTML tags netjes te indenteren en overzichtelijk te houden. Bovendien kun je ook in HTML comments plaatsen op deze manier:
 
         <!-- Comment goes here -->
 
-but commenting your HTML code is not as imperative as it is when commenting code in, say, C or Python. You can also comment your CSS, in CSS files, with:
+Maar het commenten van HTML is niet zo belangrijk als commenten in bijvoorbeeld C-code, omdat de inhoud van HTML vaak al aardig beschrijft wat er aan de hand is. Ook in CSS kun je comments achterlaten, maar dan op de volgende manier:
 
         /* Comment goes here */
 
 ## Hints
 
-For fairly comprehensive guides on the languages introduced in this problem, check out these tutorials:
+Zorg dat je de voorbeelden in het college goed bestudeert en van daaruit je website gaat uitbouwen. 
+Voor uitgebreide details over HTML, CSS en JS kun je kijken op de volgende pagina's:
 
 * [HTML](https://www.w3schools.com/html/)
 * [CSS](https://www.w3schools.com/css/)
 * [JavaScript](https://www.w3schools.com/js/)
 
-## Vraag
+## Reflectievraag
 
-Beschrijf twee problemen die je bent tegengekomen tijdens het maken van je Homepage en hoe je die problemen toen hebt opgelost (proces, met verwijzingen naar inhoud van de stof; het gaat niet om problemen met het begrijpen van de opdracht zelf, maar met de stof).
-
-<textarea name="form[q1]" rows="8" required></textarea>
+Beschrijf uitgebreid twee problemen die je bent tegengekomen tijdens het maken van je Homepage en hoe je die problemen toen hebt opgelost. Dit is dus een beschrijving van je ontwikkelproces, met verwijzingen naar inhoud van de stof; het gaat daarbij niet om problemen met het begrijpen van bedoeling van de opdracht zelf, maar met de stof, dus hoe HTML, CSS en JS precies werken of juist niet werken.

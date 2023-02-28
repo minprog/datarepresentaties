@@ -1,2 +1,4 @@
 name: web-lecture
-form: true
+files:
+    required:
+        - web-lecture.pdf
