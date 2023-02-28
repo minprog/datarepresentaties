@@ -3,6 +3,10 @@
 1. Gebruik onderstaande vragen om goed te begrijpen hoe regexes werken,
 2. en hou goed bij wat je opvalt en wat je leert.
 
+## Waarschuwing
+
+Let op: als je testbestanden maakt, doe dat dan niet in Windows met Notepad of Atom. Gebruik in plaats daarvan nano (zoals uitgelegd in de Software Carpentry workshop). Dan zijn de line endings correct voor gebruik van grep.
+
 ## Aanpak
 
 Voor deze opdrachten moet je reguliere expressies schrijven en voorbeelden geven die wél en niet werken. Je moet hiervoor `grep`, `egrep` of `fgrep` gebruiken zoals in het boek beschreven. Gebruik de UNIX manual pages op jouw systeem om te juiste opties (flags) te vinden die je nodig hebt.
