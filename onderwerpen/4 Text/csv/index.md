@@ -44,7 +44,7 @@ Het probleem is dat Excel, maar ook veel POSIX-tools, geen rekening houden met d
 
     Hadden we maar geluisterd... want we hebben de originele .xlsx weggegooid en nu zitten we met een [nogal onhandig te verwerken bestand](students_50621PRP6Y.csv). Je **moet** het downloaden via dit commando om de originele versie te krijgen:
 
-        curl -OL https://raw.githubusercontent.com/minprog/datarepresentaties/2022/onderwerpen/5%20Tools/csv/students_50621PRP6Y.csv
+        curl -OL https://raw.githubusercontent.com/minprog/datarepresentaties/2022/onderwerpen/4%20Text/csv/students_50621PRP6Y.csv
 
      Het volgende is mis:
 
