@@ -56,9 +56,9 @@ Filmpjes om JQ beter te begrijpen:
 
 - [Szymon Stepniak: JSON on the command line](https://www.youtube.com/watch?v=FSn_38gDvzM)
 
-Op Windows in Git Bash installeer je `jq` met dit commando:
+Op Windows in WSL installeer je `jq` met dit commando:
 
-    curl -L -o ~/bin/jq.exe https://github.com/stedolan/jq/releases/latest/download/jq-win64.exe
+    curl -L -o ~/.local/bin/jq.exe https://github.com/stedolan/jq/releases/latest/download/jq-win64.exe
 
 Op Mac installeer je `jq` met:
 
