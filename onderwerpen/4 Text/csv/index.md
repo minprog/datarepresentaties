@@ -32,9 +32,11 @@ Ook CSV-bestanden kunnen in verschillende encodings worden opgeslagen, dus niet 
 
 Nog een ander pijnpunt van CSV zijn de quotes. Omdat het een tekstformaat is, moet je erg opletten bij het gebruik van bijvoorbeeld een line break in de data. Een line break (CRLF) is immers het scheidingsteken voor verschillende records. Wat nou als je één veld hebt waarin het complete adres van een bedrijf staat, inclusief line breaks? Hetzelfde probleem geldt natuurlijk voor komma's, die ook een speciale betekenis hebben. Daarom kun je, zoals in de RFC ook vermeld staat, quotes ("") gebruiken om data te markeren **waarin** line breaks worden gebruikt.
 
+<!--
 Het probleem is dat Excel, maar ook veel POSIX-tools, geen rekening houden met de quotes. Je moet dus dubbel opletten als je commando's gebruikt om CSV's te filteren en op een andere manier te bewerken. De tool `csvquote` kan hier goed bij helpen.
 
 <https://github.com/dbro/csvquote>
+-->
 
 ## Vragen
 

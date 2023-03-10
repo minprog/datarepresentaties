@@ -54,7 +54,7 @@ Alle opdrachten netjes af en werkend inleveren is de basiseis om het vak te hale
 
 Voor deze cursus kun je 48 punten halen. Om de punten te krijgen moet je in ieder geval de opdracht naar verwachting doen, en in sommige gevallen moet je ook bij het tentamen laten zien dat je de stof voldoende beheerst.
 
-Op het tentamen worden 5 onderwerpen onafhankelijk van elkaar getoetst. Je kunt bijvoorbeeld bij het tentamen het onderdeel "UNIX basis" halen en daarmee de hieronder vermelde 3 punten voor de opdracht "UNIX deel 1" krijgen.
+Op het tentamen worden 4 onderwerpen onafhankelijk van elkaar getoetst. Je kunt bijvoorbeeld bij het tentamen het onderdeel "UNIX basis" halen en daarmee de hieronder vermelde 3 punten voor de opdracht "UNIX deel 1" krijgen.
 
 | Module             | Opdracht              | Vorm      | Punten | Tentamen     |
 |--------------------|-----------------------|-----------|--------|--------------|
@@ -74,8 +74,8 @@ Op het tentamen worden 5 onderwerpen onafhankelijk van elkaar getoetst. Je kunt 
 |                    | Bestandsformaten      | opdracht  | 3      |              |
 |--------------------|-----------------------|-----------|--------|--------------|
 | Text processing    | Reguliere expressies  | oefenen   | 3      | Regex + grep |
-|                    | UNIX tools            | oefenen   | 2      | Data tools   |
-|                    | CSV                   | oefenen   | 1      | Data tools   |
+|                    | UNIX tools            | oefenen   | 2      |              |
+|                    | CSV                   | oefenen   | 1      |              |
 |--------------------|-----------------------|-----------|--------|--------------|
 | Web                | Web development       | schrijven | 1      |              |
 |                    | Homepage              | opdracht  | 5      |              |
