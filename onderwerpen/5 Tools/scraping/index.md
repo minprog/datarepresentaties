@@ -27,6 +27,10 @@ Om Pup uit te testen met websites kun je `curl` gebruiken voor het binnenhalen v
 
 Met de optie `-s` voor `curl` zorgen we ervoor dat het programma geen "downloading" indicator geeft. Die is ook niet echt interessant omdat het laden van de meeste HTML-pagina's maar heel kort duurt. Met de optie `-c` voor `pup` zorgen we ervoor dat de output in kleur wordt weergegeven. Die kun je weglaten als je wilt.
 
+## CSS
+
+In een vorige module heb je kennis gemaakt met CSS, maar je hebt hier nog niet systematisch mee geoefend. Ga naar [deze website om extra te oefenen](https://flukeout.github.io/). Zorg dat je de belangrijkste CSS-selectors kent. Op de GitHub-pagina van `pup` staat ook een lijstje van de ondersteunde CSS-selectors in deze tool.
+
 ## Opdrachten
 
 Geef steeds de complete pipeline inclusief het gebruikte `curl`-commando, pipes en andere commando's.
