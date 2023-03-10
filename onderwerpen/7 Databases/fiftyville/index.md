@@ -1,8 +1,8 @@
 # Fiftyville
 
-> Je uitwerking voor deze opdracht wordt beoordeeld op inzet en correctheid (3 punt voor de hele opdracht).
-
-Write SQL queries to solve a mystery.
+1. Los het mysterie hieronder op door je SQL skills toe te passen,
+2. hou goed bij welke queries je gebruikt om dit voor elkaar te krijgen,
+3. en lever je oplossing in als logfile.
 
 ## A Mystery in Fiftyville
 

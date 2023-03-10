@@ -1,19 +1,19 @@
 # Movies
 
-> Je uitwerking voor deze opdracht wordt beoordeeld op inzet en correctheid (3 punt voor de hele opdracht).
-
-Write SQL queries to answer questions about a database of movies.
+1. Oefen je SQL skills door vragen over films te beantwoorden,
+2. maak voor elke oplossing een SQL-bestandje,
+3. en lever je oplossingen in om ze te controleren.
 
 ## Getting Started
 
-      $ curl -LO https://github.com/minprog/webprogrammeren/raw/2020/Problems/0%20Movies/movies.zip
-      $ unzip movies.zip
-      $ rm movies.zip
-      $ cd movies
-      $ ls
-      1.sql		12.sql		3.sql		6.sql		9.sql
-      10.sql	13.sql		4.sql		7.sql		movies.db
-      11.sql	2.sql		5.sql		8.sql
+    $ curl -LO https://github.com/minprog/webprogrammeren/raw/2020/Problems/0%20Movies/movies.zip
+    $ unzip movies.zip
+    $ rm movies.zip
+    $ cd movies
+    $ ls
+    1.sql   12.sql  3.sql   6.sql   9.sql
+    10.sql  13.sql  4.sql   7.sql   movies.db
+    11.sql  2.sql   5.sql   8.sql
 
 ## Understanding
 
