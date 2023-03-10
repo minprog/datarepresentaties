@@ -1,46 +1,40 @@
 # Internet
 
-Bestudeer het videocollege en beantwoord dan de vragen hieronder.
-
-Je antwoorden worden beoordeeld op diepgang (tot 3 punten), dus in hoeverre er een zinvol antwoord wordt gegeven met een duidelijke onderbouwing. Laat daarom ook weten als je voor het antwoord andere bronnen of tools hebt gebruikt dan het videocollege.
-
-Je mag de vragen in het Nederlands beantwoorden, maar veel technische termen zijn wel Engels, en die kun je gewoon gebruiken.
+1. Bestudeer het videocollege,
+2. hou goed bij wat je opvalt en wat je leert,
+3. en beantwoord dan de vragen hieronder.
 
 ![embed](https://www.youtube.com/embed/n_KghQP86Sw)
 
 - [Open in CS50 video player](https://video.cs50.io/n_KghQP86Sw?screen=CBDtYHnW3gI)
 - [Open lecture notes](https://cs50.harvard.edu/ap/2021/curriculum/technology/notes/internet/)
 
-## Questions
+## Vragen
 
-In a sentence that a non-technical friend or family member would understand, what is the internet?
+Beantwoord de vragen in je eigen woorden, je daarbij baserend op informatie uit het videocollege. Je mag gerust aanvullende externe bronnen gebruiken van goede kwaliteit, als je maar duidelijk citeert of samenvat, de specifieke pagina vermeldt, en niet het hele antwoord baseert op één externe bron.
 
-<textarea name="form[q1]" rows="8" required></textarea>
+1. Leg uit wat het internet is, in een zin die een niet-technische vriend of familielid zou begrijpen.
 
-What does it mean if a URL begins with https:// as opposed to http://?
+2. Wat betekent het als een URL begint met `https://` in plaats van `http://`?
 
-<textarea name="form[q2]" rows="8" required></textarea>
+3. Wat betekent het voor een computer om een ​​privé IP-adres te hebben (bijvoorbeeld een adres dat begint met 10., 192.168. of 172.16.)?
 
-What does it mean for a computer to have a private IP address (e.g. one that begins with 10., 192.168., or 172.16.)?
+4. Waarom duurt het niet altijd even lang voordat TCP/IP-pakketten van de ene computer naar de andere op hun bestemming aankomen?
 
-<textarea name="form[q3]" rows="8" required></textarea>
+5. De "thuisrouters" van tegenwoordig zijn vaak veel meer dan alleen routers. Het zijn ook "access points" (ook wel AP's genoemd) en ook "firewalls". Wat is een toegangspunt (AP)? En wat is een firewall?
 
-Why do TCP/IP packets from one computer to another not always take the same amount of time to arrive at their destination?
+6. Zowel Wi-Fi als Bluetooth zijn draadloze technologieën, maar ze worden allemaal anders gebruikt. Maak in een of meer zinnen onderscheid tussen de twee technologieën en noem voor elk een of meer "use cases" (bijv. apparaten waarbij ze gebruikt worden en waarom).
 
-<textarea name="form[q4]" rows="8" required></textarea>
+7. Stel dat je je computer aanzet en <https://www.harvard.edu/> bezoekt in een browser. Leg in één alinea uit hoe de homepage van Harvard op uw scherm verschijnt, daarbij gebruik makend van de volgende termen, zodanig dat je begrip van de termen goed duidelijk wordt: DHCP-server, DNS-server, IP-adres, pakket, TCP-poort, webserver.
 
-Today's "home routers" are often much more than routers alone. They are also "access points" (aka APs) and "firewalls" too. What is an access point (AP)? And what is a firewall?
+8. Zoek op internet naar een internetprovider (ISP) die internetservice levert aan jouw buurt (of een ander adres). Wat is de ISP die je hebt gevonden? Welke snelheden biedt de ISP die je hebt gevonden? Tegen welke prijs? En bieden ze symmetrische (d.w.z. identieke) upload- en downloadsnelheden, of verschillen ze?
 
-<textarea name="form[q5]" rows="8" required></textarea>
+9. Beschrijf welke opvallende dingen je hebt geleerd bij het bestuderen van het videocollege en het uitwerken van de vragen. Geef aan wat je eventueel moeilijk vond en welke bronnen je hebt gebruikt om verder uit te zoeken wat je moest begrijpen. Zonder uitgebreid antwoord op deze vraag kun je geen punten halen voor de opdracht.
 
-Both Wi-Fi and Bluetooth are wireless technologies, but each tends to be used differently. In one or more sentences, distinguish the two technologies, citing one or more use cases for each (e.g., devices that use each and why).
+## Inleveren
 
-<textarea name="form[q6]" rows="8" required></textarea>
+Lever hieronder een PDF in met je uitwerkingen. Gebruik géén titelpagina. Vermeld je naam en studentnummer, en de naam van de opdracht. Vermeld ook de vraag boven elk antwoord---dit mag een samengevatte versie van de vraag zijn. Als je informatie van buiten het college gebruikt moet je een bronvermelding doen; je mag gewoon de site/titel noemen in de tekst.
 
-Suppose that you turn on your computer and visit <https://www.harvard.edu/> in a browser. Using each of the terms below in a context that makes clear your understanding of each, explain in a paragraph the process by which Harvard's home page appears on your screen: DHCP server, DNS server, IP address, packet, TCP port, web server.
+## Nakijken
 
-<textarea name="form[q7]" rows="8" required></textarea>
-
-Whether or not you have internet service at home, Google around for an internet service provider (ISP) that provides internet service to your neighborhood (or somewhere nearby). What's the ISP you found? What speeds does the ISP you found offer? At what cost? And do they offer symmetric (i.e., identical) upload and download speeds, or do they differ?
-
-<textarea name="form[q8]" rows="8" required></textarea>
+De antwoorden worden kritisch nagekeken op zorgvuldige beantwoording. Dat betekent dat de antwoorden gebaseerd moeten zijn op de lesstof (het videocollege), dat wat er staat goed is en logisch onderbouwd en dat er geen onware of irrelevante beweringen of informatie bij de antwoorden staan. Aan de andere kant: een klein foutje is geen probleem.

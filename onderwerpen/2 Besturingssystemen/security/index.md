@@ -21,7 +21,7 @@
 
 5. Wat betekent het als een website 2-factor authenticatie gebruikt? Wat zouden die twee factoren kunnen zijn? Geef diverse opties en combinaties, en beschrijf voor minstens één combinatie waarom het in principe moeilijk is voor een crimineel om beide factoren onder controle te krijgen of te "stelen".
 
-6. Beschrijf welke opvallende dingen je hebt geleerd bij het lezen in het boek en het uitwerken van de vragen. Geef aan wat je eventueel moeilijk vond en welke bronnen je hebt gebruikt om verder uit te zoeken wat je moest begrijpen. Zonder uitgebreid antwoord op deze vraag kun je geen punten halen voor de opdracht.
+6. Beschrijf welke opvallende dingen je hebt geleerd bij het bestuderen van het videocollege en het uitwerken van de vragen. Geef aan wat je eventueel moeilijk vond en welke bronnen je hebt gebruikt om verder uit te zoeken wat je moest begrijpen. Zonder uitgebreid antwoord op deze vraag kun je geen punten halen voor de opdracht.
 
 ## Inleveren
 

@@ -1,6 +1,10 @@
 # Scraping
 
-> Bestudeer de stof en beantwoord de vragen hieronder. Je antwoorden worden beoordeeld op uitleg en correctheid (2 punten voor de hele opdracht).
+1. Bestudeer onderstaande uitleg over Scraping,
+2. en de materialen die gelinkt zijn,
+3. en hou goed bij wat je opvalt en wat je leert.
+
+## Pup
 
 Lees de [README](https://github.com/EricChiang/pup) van de tool `pup`. Met deze tool kun je informatie scrapen uit HTML-pagina's. Zo kun je informatie van een website laten zien in je terminal, maar je kunt dit ook gebruiken voor bijvoorbeeld dataverzameling voor onderzoek.
 
@@ -21,7 +25,7 @@ Om Pup uit te testen met websites kun je `curl` gebruiken voor het binnenhalen v
 
     curl -s 'https://www.knmi.nl/home' | pup -c
 
-Met de optie `-s` voor `curl` zorgen we ervoor dat het programma geen "loading" indicator geeft. Die is ook niet echt interessant omdat het laden van de meeste HTML-pagina's maar heel kort duurt. Met de optie `-c` voor `pup` zorgen we ervoor dat de output in kleur wordt weergegeven. Die kun je ook weglaten.
+Met de optie `-s` voor `curl` zorgen we ervoor dat het programma geen "downloading" indicator geeft. Die is ook niet echt interessant omdat het laden van de meeste HTML-pagina's maar heel kort duurt. Met de optie `-c` voor `pup` zorgen we ervoor dat de output in kleur wordt weergegeven. Die kun je weglaten als je wilt.
 
 ## Opdrachten
 
@@ -29,27 +33,15 @@ Geef steeds de complete pipeline inclusief het gebruikte `curl`-commando, pipes 
 
 1.  Zoek uit hoe je alle `span`s met de class `green` kunt scrapen van de pagina <https://www.pythonscraping.com/pages/warandpeace.html>.
 
-    <textarea name="form[q1]" rows="4" required></textarea>
-
 1.  Zoek uit hoe je <u>alleen de tekst</u> van bovenstaande `span`s kunt scrapen.
-
-    <textarea name="form[q2]" rows="4" required></textarea>
 
 1.  Zoek uit met welk commando (curl + pup) je alle URL's (links) naar het laatste nieuws van de NOS kunt scrapen. Gebruik hiervoor de pagina <https://nos.nl/nieuws>.
 
-    <textarea name="form[q3]" rows="4" required></textarea>
-
 1.  Zoek uit hoe je alle headlines kunt scrapen, dus de koppen van het nieuws.
-
-    <textarea name="form[q4]" rows="4" required></textarea>
 
 1.  Zoek uit hoe je een korte omschrijving van het weer kunt printen vanuit de website van het KNMI.
 
-    <textarea name="form[q5]" rows="4" required></textarea>
-
 1.  Zoek uit hoe je alle `tr` elementen uit de tabel op <https://pythonscraping.com/pages/page3.html> kunt scrapen, maar met uitzondering van het eerste `tr`-element (deze bevat de tabelkopjes en die hebben we niet nodig). In de README van Pup staan de selectors die je kunt gebruiken. Volg de link naar MDN om uit te zoeken hoe ze werken.
-
-    <textarea name="form[q6]" rows="4" required></textarea>
 
 1.  Extra opdracht (optioneel): zoek uit hoe je een JSON kunt genereren met daarin alle links en headlines als paren. Zo'n paar ziet er dan zo uit:
 
@@ -60,4 +52,10 @@ Geef steeds de complete pipeline inclusief het gebruikte `curl`-commando, pipes 
 
     Omdat het een lijst van paren is verwachten we dat hele de JSON een array is, dus begint met `[` en eindigt met `]`.
 
-    <textarea name="form[q7]" rows="4" required></textarea>
+## Inleveren
+
+Lever hieronder een PDF in met je uitwerkingen. Gebruik géén titelpagina. Vermeld je naam en studentnummer, en de naam van de opdracht. Vermeld ook de vraag boven elk antwoord---dit mag een samengevatte versie van de vraag zijn.
+
+## Nakijken
+
+De antwoorden worden kritisch nagekeken op zorgvuldige beantwoording. Dat betekent dat de antwoorden gebaseerd moeten zijn op de lesstof, dat wat er staat goed is en logisch onderbouwd en dat er geen onware of irrelevante beweringen of informatie bij de antwoorden staan. Aan de andere kant: een klein foutje is geen probleem.

@@ -1,16 +1,18 @@
-# Curl
+# cURL
 
-> Bestudeer de stof en beantwoord de vragen hieronder. Je antwoorden worden beoordeeld op uitleg en correctheid (1 punt voor de hele opdracht).
+1. Bestudeer onderstaande uitleg over cURL,
+2. en de materialen die gelinkt zijn,
+3. en hou goed bij wat je opvalt en wat je leert.
+
+## Over cURL
 
 Gebruik `curl` om de HTML van een webpagina op te vragen. Zo kun je bijvoorbeeld de HTML van zoekmachine DuckDuckGo krijgen:
 
     curl -L duckduckgo.com
 
-Dit commando stuurt een verzoek naar de server http://duckduckgo.com, dus via het HTTP-protocol. Nu worden tegenwoordig bijna alle websites bij voorkeur via HTTPS gebruikt. Daarom stuurt de server als antwoord dat de pagina te vinden is op https://duckduckgo.com/ en dat het verzoek dáárheen gestuurd moet worden.
+Dit commando stuurt standaard een verzoek naar de server http://duckduckgo.com, dus via het HTTP-protocol. Nu worden tegenwoordig bijna alle websites bij voorkeur via HTTPS gebruikt. Daarom stuurt de server in dat geval als antwoord dat de pagina te vinden is op https://duckduckgo.com/ en dat het verzoek dáárheen gestuurd moet worden. De optie `-L` zorgt ervoor dat bij zo'n antwoord alsnog de juiste pagina wordt opgevraagd (zolang de server maar zegt welke het moet zijn).
 
-De optie `-L` zorgt ervoor dat in zo'n geval meteen de juiste pagina wordt opgevraagd (zolang de server maar zegt welke het moet zijn).
-
-## JSON via Curl
+## JSON via cURL
 
 In de volgende module gaan we aan de slag met HTML maar nu gaan we eerst JSON-data opvragen via `curl`. Vraag eens de locatie van het International Space Station op:
 
@@ -42,6 +44,8 @@ Dan wordt de JSON zo op het scherm geprint:
       "units": "kilometers"
     }
 
+## Rate limits
+
 Let op dat veel API's een **rate limit** hebben. Dat betekent dat je niet al te vaak een verzoek mag sturen (vanaf hetzelfde IP-adres), om misbruik te voorkomen. Zelfs als je met de hand, vanaf de terminal, aan het experimenteren bent kan dit gebeuren. Als je echt veel gaat experimenteren kun je de JSON ook even opslaan op je eigen computer:
 
     curl https://api.wheretheiss.at/v1/satellites/25544 > iss.json
@@ -50,25 +54,11 @@ Dan kun je `jq` zo gebruiken:
 
     cat iss.json | jq '.'
 
-🌵 Oefening
+## Oefenvraag
 
-1.  Geef een commando om alleen de latitude én longitude uit te printen. Het resultaat zou er zo uit moeten zien (met andere getallen natuurlijk!):
+Geef een commando om alleen de latitude én longitude uit te printen. Het resultaat zou er zo uit moeten zien (met andere getallen natuurlijk!):
 
         -41.536613527854
         -90.033171572304
 
-    <textarea name="form[q1]" rows="4" required></textarea>
-
-1.  Geef een commando om op basis van de timestamp uit de JSON de datum netjes uit te printen. Het zou er zo uit moeten zien:
-
-        Wed Aug  3 09:02:30 CEST 2022
-
-    De timestamp is het aantal seconden sinds 1 januari 1970. Dit wordt ook wel een "epoch" tijd genoemd. Er zijn verschillende manieren om zo'n getal te converteren naar een datum. Gebruik een zoekmachine om te achterhalen hoe dit moet.
-    
-    Het kan handig zijn om hier ook "command substitution" te gebruiken. Dit is een constructie die je in plaats van pipes of in samenwerking met pipes kan gebruiken. Zie [Command Substitution](https://www.gnu.org/software/bash/manual/html_node/Command-Substitution.html). Je mag zo'n command substitution gebruiken als parameter van een ander commando.
-
-    Documenteer in je antwoord exact welke bronnen je hebt geprobeerd en hoe je ze hebt toegepast. Dus gebruikte zoektermen, een referentie naar een website met een techniek die niet werkte, hoe je het wél werkend hebt gekregen, dat soort dingen.
-
-    **Besteed niet meer dan 1 uur aan dit probleem.** Als je er niet uitkomt dan is dat geen probleem, als je je zoektocht maar documenteert. Als je niet weet hoe te beginnen: vraag een assistent of stuur een mail.
-
-    <textarea name="form[q2]" rows="12" required></textarea>
+Zorg dat dit lukt voordat je verder gaat.

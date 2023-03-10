@@ -1,14 +1,18 @@
-# JSON-formaat
+# JSON
 
-> Bestudeer de stof en beantwoord de vragen hieronder. Je antwoorden worden beoordeeld op inzet en correctheid (1 punt voor de hele opdracht).
+1. Bestudeer onderstaande uitleg over JSON,
+2. en de materialen die gelinkt zijn,
+3. en hou goed bij wat je opvalt en wat je leert.
 
-JSON is een formaat om hierarchische structuren uit te drukken in simpele tekst. Je kunt het in de praktijk gebruiken om data uit te wisselen. Sommige websites bieden dan ook de mogelijkheid om data op te vragen in JSON-formaat.
+## Het JSON tekst-formaat
 
-JSON is een soort tegenhanger van een ouder formaat, XML. XML biedt ongeveer de zelfde mogelijkheden maar de syntax (manier van schrijven) is veel ingewikkelder. Je kunt ook zeggen dat je met XML preciezer kunt zijn, maar in de praktijk is JSON voor heel veel toepassingen meer dan voldoende.
+JSON is een formaat om hierarchische structuren uit te drukken in simpele tekst. Je kunt het in de praktijk gebruiken om data uit te wisselen. Sommige websites bieden dan ook de mogelijkheid om data op te vragen in JSON-formaat, vaak zodat je die data kunt gebruiken om een andere website mee te bouwen.
+
+JSON is een soort tegenhanger van een ouder formaat, XML. XML biedt ongeveer de zelfde mogelijkheden maar de syntax (manier van schrijven) is veel ingewikkelder. In de praktijk kunnen de meeste toepassingen prima gebruik maken van alleen maar JSON.
 
 ## Hiërarchie
 
-De basis van JSON is dat je twee soorten structuren hebt die weer andere structuren kunnen bevatten. Dit zijn objecten en arrays. Het feit dat structuren andere structuren bevatten maakt dat je hierarchiën kunt beschrijven in JSON.
+De basis van JSON is dat je twee soorten structuren hebt die weer andere structuren kunnen bevatten. Dit zijn *objecten* en *arrays*. Het feit dat structuren andere structuren bevatten maakt dat je hierarchiën kunt beschrijven in JSON.
 
 Zo kun je een rijtje van objecten vatten in een array (denk aan een lijst van medewerkers). En je kunt een object "eigenschappen" meegeven waarin je weer andere waarden stopt (denk aan een persoon die een naam heeft en een huisnummer).
 
@@ -34,19 +38,19 @@ Via [deze link](https://raw.githubusercontent.com/prust/wikipedia-movie-data/mas
 
 1.  Geef een commando om alleen de gegevens van de eerste film uit het bestand te laten zien.
 
-    <textarea name="form[q1]" rows="8" required></textarea>
-
 2.  Geef een commando om alleen de titel van de eerste film uit het bestand te laten zien.
-
-    <textarea name="form[q2]" rows="8" required></textarea>
 
 3.  Geef een commando om de titels van alle films uit het bestand te laten zien.
 
-    <textarea name="form[q3]" rows="8" required></textarea>
+4.  Geef een commando om de titels van alle films uit het bestand te laten zien, zonder aanhalingstekens (met hulp van `sed`).
 
-4.  Geef een commando om de titels van alle films uit het bestand te laten zien, zonder aanhalingstekens (met `sed`).
+## Inleveren
 
-    <textarea name="form[q4]" rows="8" required></textarea>
+Lever hieronder een PDF in met je uitwerkingen. Gebruik géén titelpagina. Vermeld je naam en studentnummer, en de naam van de opdracht. Vermeld ook de vraag boven elk antwoord---dit mag een samengevatte versie van de vraag zijn.
+
+## Nakijken
+
+De antwoorden worden kritisch nagekeken op zorgvuldige beantwoording. Dat betekent dat de antwoorden gebaseerd moeten zijn op de lesstof, dat wat er staat goed is en logisch onderbouwd en dat er geen onware of irrelevante beweringen of informatie bij de antwoorden staan. Aan de andere kant: een klein foutje is geen probleem.
 
 <!-- ## Links
 

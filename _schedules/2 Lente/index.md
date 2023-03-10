@@ -81,8 +81,7 @@ Op het tentamen worden 5 onderwerpen onafhankelijk van elkaar getoetst. Je kunt 
 |                    | Homepage              | opdracht  | 5      |              |
 |--------------------|-----------------------|-----------|--------|--------------|
 | Internet           | Internet              | schrijven | 1      |              |
-|                    | JSON                  | oefenen   | 1      |              |
-|                    | cURL                  | oefenen   | 1      |              |
+|                    | JSON + cURL           | oefenen   | 2      |              |
 |                    | Scraping              | oefenen   | 3      | Scraping     |
 |--------------------|-----------------------|-----------|--------|--------------|
 | Databases          | Movies                | oefenen   | 3      | Databases    |

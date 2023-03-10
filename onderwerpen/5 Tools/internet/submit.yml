@@ -1,2 +1,4 @@
 name: internet
-form: true
+files:
+    required:
+        - internet.pdf

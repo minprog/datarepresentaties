@@ -8,7 +8,6 @@ Computers:
     Software Carpentry UNIX [tutorial]: /onderwerpen/computers/carpentry
     Tentamen:
         Oefeningen UNIX: /onderwerpen/computers/oefeningen
-    # UNIX intro [opdracht]: /onderwerpen/computers/unix
 
 Besturingssystemen:
     Beveiliging [college]: /onderwerpen/besturingssystemen/security
@@ -24,14 +23,12 @@ Representaties:
 
 Text processing:
     Theorie reguliere expressies [boek]: /onderwerpen/text/regex/uitleg
-    Reguliere expressies [oefenen]: /onderwerpen/text/regex/opdrachten
+    Reguliere expressies [opdracht]: /onderwerpen/text/regex/opdrachten
     UNIX-commando's [boek]: /onderwerpen/text/tools
     CSV [opdracht]: /onderwerpen/text/csv
-    # Tentamen:
-    #     Oefeningen Regex: /onderwerpen/text/regex/oefeningen
-    #     Oefeningen Tools: ''
-    # Automaten [college]: /onderwerpen/text/automaten
-    # Graphviz [opdracht]: /onderwerpen/text/graphviz
+    Tentamen:
+        Oefeningen Regex: /onderwerpen/text/regex/oefeningen
+        Oefeningen Tools: ''
 
 Web development:
     Web [college]: /onderwerpen/web/lecture
@@ -40,11 +37,14 @@ Web development:
 Text tools:
     Internet [college]: /onderwerpen/tools/internet
     JSON [opdracht]: /onderwerpen/tools/json
-    Curl [opdracht]: /onderwerpen/tools/curl
+    Curl [oefening]: /onderwerpen/tools/curl
     Scraping [opdracht]: /onderwerpen/tools/scraping
+    Tentamen:
+        Oefeningen Scraping: /onderwerpen/tools/oefeningen
 
 Databases:
     Databases [college]: /onderwerpen/databases/lecture
     Movies [opdracht]: /onderwerpen/databases/movies
     Fiftyville [opdracht]: /onderwerpen/databases/fiftyville
-    # Pizza [opdracht]: /onderwerpen/databases/pizza
+    Tentamen:
+        Oefeningen Databases: /onderwerpen/tools/oefeningen
