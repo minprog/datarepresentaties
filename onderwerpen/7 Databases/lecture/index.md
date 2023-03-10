@@ -4,7 +4,7 @@
 2. hou goed bij wat je opvalt en wat je leert,
 3. en beantwoord dan de vragen hieronder.
 
-![embed](still.png)
+![](still.png)
 
 Het deel over SQL in Python is voor deze cursus niet relevant.
 
