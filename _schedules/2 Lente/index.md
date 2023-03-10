@@ -77,10 +77,10 @@ Op het tentamen worden 4 onderwerpen onafhankelijk van elkaar getoetst. Je kunt 
 |                    | UNIX tools            | oefenen   | 2      |              |
 |                    | CSV                   | oefenen   | 1      |              |
 |--------------------|-----------------------|-----------|--------|--------------|
-| Web                | Web development       | schrijven | 1      |              |
+| Web Development    | Web development       | schrijven | 1      |              |
 |                    | Homepage              | opdracht  | 5      |              |
 |--------------------|-----------------------|-----------|--------|--------------|
-| Internet           | Internet              | schrijven | 1      |              |
+| Web Tools          | Internet              | schrijven | 1      |              |
 |                    | JSON + cURL           | oefenen   | 2      |              |
 |                    | Scraping              | oefenen   | 3      | Scraping     |
 |--------------------|-----------------------|-----------|--------|--------------|
