@@ -222,7 +222,7 @@ module_6:
     submits:
         internet: 1
         json: 1
-        curl: 1
+        # curl: 1
         scraping: 3
 
 module_7:
