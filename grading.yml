@@ -102,27 +102,15 @@ grades:
     unix_tools: *aftekenen  # tentamen
     csv: *aftekenen  # tentamen
 
-    # automaten: *shortanswer3
-    # graphviz: *aftekenen
-
-    internet: *writing
-    json: *shortanswer1  # tentamen
-
     web-lecture: *aftekenen
-    profile: *writing
-    curl: *shortanswer1
-    scraping: *shortanswer2  # tentamen
+    profile: *aftekenen
 
-    movies: *shortanswer3  # tentamen
-    fiftyville: *shortanswer3
+    internet: *aftekenen
+    json: *aftekenen  # tentamen
+    scraping: *aftekenen  # tentamen
 
-    pr1: *aftekenen
-    pr2: *aftekenen
-    pr3: *aftekenen
-    pr4: *aftekenen
-    pr5: *aftekenen
-    pr6: *aftekenen
-    pr7: *aftekenen
+    movies: *aftekenen  # tentamen
+    fiftyville: *aftekenen
 
 # CALCULATIONS - define the final grades for the course and the weights between
 # subcomponents for each. Often, multiple final grades are differentiated by the
@@ -150,8 +138,6 @@ calculation:
         module_5: 1
         module_6: 1
         module_7: 1
-        # pidac: 1
-        # process_books: 1
 
 # SUB-CALCULATIONS - define the components of the course that may be used in
 # final grade calculations. A few constraints can be specified.
@@ -176,9 +162,7 @@ pidac:
     show_progress: true
     convert_passes_to_grade: true
     submits:
-        pidac_1: 1
         pidac_2: 1
-        pidac_3: 1
 
 module_1:
     show_progress: true
@@ -222,7 +206,6 @@ module_6:
     submits:
         internet: 1
         json: 1
-        # curl: 1
         scraping: 3
 
 module_7:
