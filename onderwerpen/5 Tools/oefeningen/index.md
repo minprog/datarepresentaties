@@ -6,6 +6,13 @@ Je kunt onderstaande oefeningen niet inleveren en ze horen dus ook niet bij de d
 
 Onderstaande vragen zijn *grotendeels* representatief voor de vragen die je op het tentamen tegen zou kunnen komen, maar je zou ook vragen tegen kunnen komen die meer lijken op de vragen bij de [Scraping-opdracht](/tools/scraping). Er zullen geen vragen zijn over `jq` en JSON.
 
+Wat je moet weten voor het tentamen:
+
+- Hoe je elementen kunt selecteren op basis van tag-naam, id, class of andere attributen.
+- Hoe je selectors kunt combineren om op meerdere eigenschappen te selecteren.
+- Hoe je selectors kunt combineren om specifieke onderdelen van een document te selecteren.
+
+
 ## HTML
 
 Gegeven is dit HTML-document in een bestand `about.html`:

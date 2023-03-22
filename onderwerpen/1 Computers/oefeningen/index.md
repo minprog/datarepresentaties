@@ -2,6 +2,12 @@
 
 Deze vragen zijn goede oefeningen voor het tentamen. Op het tentamen zelf zul je minder vragen krijgen over UNIX, maar verwacht een mix van onderstaande. De verwachting is dat je alle vragen op het tentamen correct beantwoordt, foutjes daargelaten. Je hebt dus parate kennis nodig van de commando's en wat ze doen. Als je merkt dat je deze kennis nog niet echt paraat hebt, dan kun je extra studeren met hulp van de Software Carpentry-workshop.
 
+Wat je moet weten voor het tentamen:
+
+- De globale werking van onderstaande commando's, zodat je de opdrachten hieronder uit je hoofd kunt beantwoorden.
+- Hoe je meerdere commando's kunt combineren met pipes (`|`).
+- Hoe redirection werkt met (`<` en `>`).
+
 
 ## Overzicht behandelde commando's
 

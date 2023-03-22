@@ -6,6 +6,14 @@ Je kunt onderstaande oefeningen niet inleveren en ze horen dus ook niet bij de d
 
 Onderstaande vragen zijn *grotendeels* representatief voor de vragen die je op het tentamen tegen zou kunnen komen. De vraagstelling kan wat anders zijn maar je zult sowieso `grep`-commando's op basis van reguliere expressies moeten schrijven (in feite gewoon alle stof uit het boek). Alle vormen van reguliere expressies van [de opdrachten op deze pagina](/regex/opdrachten) kunnen voorkomen.
 
+Wat je moet weten voor het tentamen:
+
+- Verschil tussen selecteren van regels (ook wel zinnen), tekst (ook wel strings), of losse woorden.
+- Hoe je dingen aan begin/eind regel kunt selecteren.
+- Hoe je woorden met iets ervoor of erachter kunt selecteren.
+- Betekenis van speciale tekens zoals `()|[]^$` enz.
+- Alle andere dingen die je nodig had om de regex-opdrachten te doen.
+
 ## Tekst
 
 Gebruik de volgende tekst (door Robin Langerak) als context voor de opgaven hieronder. De tekst op het tentamen zal korter zijn zodat je makkelijker je antwoorden kan nalopen.

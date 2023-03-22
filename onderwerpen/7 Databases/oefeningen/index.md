@@ -6,6 +6,12 @@ Je kunt onderstaande oefeningen niet inleveren en ze horen dus ook niet bij de d
 
 Onderstaande vragen zijn *grotendeels* representatief voor de vragen die je op het tentamen tegen zou kunnen komen, maar je zou ook vragen tegen kunnen komen die meer lijken op de vragen bij de [Movies-opdracht](/databases/movies). 
 
+Wat je moet weten voor het tentamen:
+
+- Alle SQL-onderdelen die je nodig kon hebben om Movies en Fiftyville op te lossen.
+- Specifiek ook hoe JOIN's werken.
+
+
 ## Database
 
 Voor de vragen gebruiken we de movies-database die je al kent. Hier is het schema:
