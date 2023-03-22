@@ -94,7 +94,7 @@ Bovenstaande puntentelling kan nog enigszins gewijzigd worden in de loop van de 
 
 Als je een opdracht niet op tijd inlevert krijg je 0 punten.
 
-Je eindcijfer kun je vervolgens berekenen met `totaal_punten / 48 * 9 + 1`.
+Je eindcijfer kun je vervolgens berekenen met `totaal_punten / 48 * 9 + 1`. Een 5,5 wordt bij de UvA afgerond naar een 6 en is voldoende.
 
 <!-- ## Cijfers
 
