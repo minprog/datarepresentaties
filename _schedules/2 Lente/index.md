@@ -94,6 +94,8 @@ Bovenstaande puntentelling kan nog enigszins gewijzigd worden in de loop van de 
 
 Als je een opdracht niet op tijd inlevert krijg je 0 punten.
 
+Je eindcijfer kun je vervolgens berekenen met `totaal_punten / 48 * 9 + 1`.
+
 <!-- ## Cijfers
 
 Dit is een breed vak met uiteenlopende onderwerpen en opdrachtsvormen. Voor alle modules kun je in totaal 6 punten halen, dus ze wegen allemaal gelijk. De opdrachten worden op verschillende manieren nagekeken en het aantal te halen punten varieert.
