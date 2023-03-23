@@ -2,7 +2,7 @@
 
 1. Bestudeer het videocollege,
 2. hou goed bij wat je opvalt en wat je leert,
-3. en beantwoord dan de vragen hieronder.
+3. en ga daarna aan de slag met de twee opdrachten.
 
 ![](still.png)
 
