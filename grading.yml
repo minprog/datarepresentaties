@@ -1,84 +1,12 @@
-# This is a separate section containing a few templates that we will use below.
-# The & feature is built into YAML, it is not a special feature of the website.
-# The section does not need to be called `templates` necessarily.
-
 templates:
-    1: &automatic
-        type: pass
-        subgrades:
-            done: boolean
-        automatic:
-            done: -(correctness_score.floor)
-        calculation: done
-        auto_publish: true
-        hide_calculated: true
-    2: &writing
-        type: float
-        subgrades:
-            points: integer
-        calculation: (points / 3.0 * 9 + 1).round(1)
-        hide_calculated: true
-    3: &shortanswer1
-        type: float
-        subgrades:
-            points: integer
-        calculation: (points / 1.0 * 9 + 1).round(1)
-        hide_calculated: true
-    3: &shortanswer2
-        type: float
-        subgrades:
-            points: integer
-        calculation: (points / 2.0 * 9 + 1).round(1)
-        hide_calculated: true
-    3: &shortanswer3
-        type: float
-        subgrades:
-            points: integer
-        calculation: (points / 3.0 * 9 + 1).round(1)
-        hide_calculated: true
-    3: &aftekenen
+    1: &aftekenen
         type: pass
         subgrades:
             akkoord: boolean
         calculation: akkoord
         hide_calculated: true
 
-# GRADES - contains definitions of how grades are structured. The names of the
-# grades match the names of submits that may be defined in `submit.yml`
-# elsewhere, but you can also create grades without an accompanying submit.
-#
-# The following properties are supported:
-#
-# - `type` can be `integer`, `float` or `pass`, which influences presentation
-# and input
-#
-# - `subgrades` defines any extra numbers to be added to a grade, with their
-# types `integer`, `pass`, `boolean` or `float`
-#
-# - note: if any subgrades are defined, teaching assistants are only allowed to
-# enter those, and can't override the grade itself
-#
-# - `calculation` is an expression that is evaluated in the context of the
-# subgrades, which means you can use any subgrade by name in that expression, as
-# well as any standard Ruby objects and syntax
-#
-# - `automatic` is an expression that is evaluated in the context of any
-# automatic grading results (as defined in `submit.yml`) - allowing the use of
-# the variable `correctness_score`. It can only be used to fill in subgrades,
-# but you can then use the `calculation` to transfer the value of a subgrade
-# into the grade.
-#
-# - `hide_calculated` hides the calculated grade, only showing the entered
-# subgrades (to de-emphasize grades for students)
-#
-# - `hide_subgrades` hides the subgrades, for example if you want to do a simple
-# calculation but only show the resulting grade to students
-#
-# You can leave this out if grading isn't used or if each submit simply requires
-# entering a final grade, no subgrades and no calculations.
-
 grades:
-
     pidac_1: *aftekenen
     pidac_2: *aftekenen
     pidac_3: *aftekenen
@@ -86,47 +14,31 @@ grades:
     hardware: *aftekenen
     intro: *aftekenen
     binary: *aftekenen
-    software-carpentry: *aftekenen  # tentamen
+    software-carpentry: *aftekenen
 
     security: *aftekenen
     opsys: *aftekenen
     filesys: *aftekenen
-    software-carpentry-2: *aftekenen  # mogelijk tentamen
+    software-carpentry-2: *aftekenen
 
     multimedia: *aftekenen
     binrep: *aftekenen
     text: *aftekenen
     formaten: *aftekenen
 
-    regex: *aftekenen  # tentamen
-    unix_tools: *aftekenen  # tentamen
-    csv: *aftekenen  # tentamen
+    regex: *aftekenen
+    unix_tools: *aftekenen
+    csv: *aftekenen
 
     web-lecture: *aftekenen
     profile: *aftekenen
 
     internet: *aftekenen
-    json: *aftekenen  # tentamen
-    scraping: *aftekenen  # tentamen
+    json: *aftekenen
+    scraping: *aftekenen
 
-    movies: *aftekenen  # tentamen
+    movies: *aftekenen
     fiftyville: *aftekenen
-
-# CALCULATIONS - define the final grades for the course and the weights between
-# subcomponents for each. Often, multiple final grades are differentiated by the
-# choice of grades that are used for the calculation, for example calculating
-# the "normal" final grade based on the "first exam", and the "resit" final
-# grade based on the result of the second exam. Currently, running "calculate
-# final grades" on the website will try to calculate all, which might result in
-# useless non-grades getting calculated.
-#
-# Weights specify proportionally to each other and do not need to add up to
-# anything in particular. If a weight of 0 is specified, the grade is not used
-# in the calculation, but the grade must be "passed" for the calculation to
-# succeed.
-#
-# You can leave this out if the site does not need to perform final grade
-# calculations.
 
 calculation:
     eindcijfer:
@@ -148,33 +60,17 @@ calculation:
         module_6: 1
         module_7: 1
 
-# SUB-CALCULATIONS - define the components of the course that may be used in
-# final grade calculations. A few constraints can be specified.
-#
-# The following properties are supported:
-#
-# `submits` are the names of the grades/submits with accompanying weight for
-# each
-#
-# `show_progress: true` will list the results of the grades in a table on
-# students' progress pages
-#
-# `required: true` will only "pass" this part if all comprising grades are
-# passed (used with pass/fail tests)
-#
-# `minimum: 5.5` will only "pass" this part if the weighed average of the grades
-# is at least the specified minimum
-#
-# You can leave these out if unused in the `calculation` section.
-
 pidac:
     show_progress: true
-    convert_passes_to_grade: true
+    type: points
     submits:
-        pidac_2: 1
+        pidac_1: 2
+        pidac_2: 2
+        pidac_3: 2
 
 module_1:
     show_progress: true
+    type: points
     submits:
         hardware: 1
         intro: 1
@@ -183,6 +79,7 @@ module_1:
 
 module_2:
     show_progress: true
+    type: points
     submits:
         security: 1
         opsys: 1
@@ -191,6 +88,7 @@ module_2:
 
 module_3:
     show_progress: true
+    type: points
     submits:
         multimedia: 1
         binrep: 1
@@ -199,6 +97,7 @@ module_3:
 
 module_4:
     show_progress: true
+    type: points
     submits:
         regex: 3
         unix_tools: 2
@@ -206,19 +105,22 @@ module_4:
 
 module_5:
     show_progress: true
+    type: points
     submits:
         web-lecture: 1
         profile: 5
 
 module_6:
     show_progress: true
+    type: points
     submits:
         internet: 1
-        json: 1
+        json: 2
         scraping: 3
 
 module_7:
     show_progress: true
+    type: points
     submits:
         movies: 3
         fiftyville: 3
