@@ -43,6 +43,12 @@ grades:
 
     movies: *aftekenen
     fiftyville: *aftekenen
+    
+    tentamen-commands: *aftekenen
+    tentamen-oneliners: *aftekenen
+    tentamen-regexes: *aftekenen
+    tentamen-scraping: *aftekenen
+    tentamen-databases: *aftekenen
 
 calculation:
     eindcijfer:
