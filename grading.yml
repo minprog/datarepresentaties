@@ -78,6 +78,7 @@ module_1:
         intro: 1
         binary: 1
         software-carpentry: 3
+        tentamen-commands: 0
 
 module_2:
     show_progress: true
@@ -87,6 +88,7 @@ module_2:
         opsys: 1
         filesys: 1
         software-carpentry-2: 3
+        tentamen-oneliners: 0
 
 module_3:
     show_progress: true
@@ -104,6 +106,7 @@ module_4:
         regex: 3
         unix_tools: 2
         csv: 1
+        tentamen-regexes: 0
 
 module_5:
     show_progress: true
@@ -119,6 +122,7 @@ module_6:
         internet: 1
         json: 2
         scraping: 3
+        tentamen-scraping: 0
 
 module_7:
     show_progress: true
@@ -126,3 +130,4 @@ module_7:
     submits:
         movies: 3
         fiftyville: 3
+        tentamen-databases: 0
