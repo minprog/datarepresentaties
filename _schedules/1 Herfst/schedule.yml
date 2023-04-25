@@ -5,50 +5,46 @@ Computers:
     Hardware [college]: /onderwerpen/computers/hardware
     Introduction to computing [boek]: /onderwerpen/computers/intro
     Binair tellen [boek]: /onderwerpen/computers/binary
-    UNIX intro [opdracht]: /onderwerpen/computers/unix
-    Procesboek:
-        Procesboek: /procesboek/week1
+    Software Carpentry UNIX [tutorial]: /onderwerpen/computers/carpentry
+    Tentamen:
+        Oefeningen UNIX: /onderwerpen/computers/oefeningen
 
 Besturingssystemen:
     Beveiliging [college]: /onderwerpen/besturingssystemen/security
     Besturingssystemen [boek]: /onderwerpen/besturingssystemen/os
     Bestandssystemen [boek]: /onderwerpen/besturingssystemen/fs
-    Software Carpentry UNIX [tutorial]: /onderwerpen/besturingssystemen/carpentry
-    Procesboek:
-        Procesboek: /procesboek/week2
+    Software Carpentry UNIX 2 [tutorial]: /onderwerpen/besturingssystemen/carpentry
 
 Representaties:
     Multimedia [college]: /onderwerpen/representaties/multimedia
     Binaire representatie [boek]: /onderwerpen/representaties/binary
     Textcodering [achtergrond]: /onderwerpen/representaties/text
     Bestandsformaten [opdracht]: /onderwerpen/representaties/formaten
-    Procesboek:
-        Procesboek: /procesboek/week3
 
 Text processing:
-    Reguliere expressies [boek]: /onderwerpen/text/regex
-    Automaten [college]: /onderwerpen/text/automaten
-    Graphviz [opdracht]: /onderwerpen/text/graphviz
-    Procesboek:
-        Procesboek: /procesboek/week4
-
-Text tools:
-    Internet [college]: /onderwerpen/tools/internet
-    Pipes & filters [tutorial]: /onderwerpen/tools/carpentry
-    UNIX-commando's [boek]: /onderwerpen/tools/tools
-    CSV [opdracht]: /onderwerpen/tools/csv
-    JSON [opdracht]: /onderwerpen/tools/json
-    Procesboek:
-        Procesboek: /procesboek/week5
+    Theorie reguliere expressies [boek]: /onderwerpen/text/regex/uitleg
+    Reguliere expressies [opdracht]: /onderwerpen/text/regex/opdrachten
+    UNIX-commando's [boek]: /onderwerpen/text/tools
+    CSV [opdracht]: /onderwerpen/text/csv
+    Tentamen:
+        Oefeningen Regex: /onderwerpen/text/regex/oefeningen
+        # Oefeningen Tools: ''
 
 Web development:
     Web [college]: /onderwerpen/web/lecture
     Homepage [opdracht]: /onderwerpen/web/homepage
-    Curl [opdracht]: /onderwerpen/web/curl
-    Scraping [opdracht]: /onderwerpen/web/scraping
+
+Web tools:
+    Internet [college]: /onderwerpen/tools/internet
+    JSON [opdracht]: /onderwerpen/tools/json
+    Curl [oefening]: /onderwerpen/tools/curl
+    Scraping [opdracht]: /onderwerpen/tools/scraping
+    Tentamen:
+        Oefeningen Scraping: /onderwerpen/tools/oefeningen
 
 Databases:
     Databases [college]: /onderwerpen/databases/lecture
     Movies [opdracht]: /onderwerpen/databases/movies
     Fiftyville [opdracht]: /onderwerpen/databases/fiftyville
-    # Pizza [opdracht]: /onderwerpen/databases/pizza
+    Tentamen:
+        Oefeningen Databases: /onderwerpen/databases/oefeningen
