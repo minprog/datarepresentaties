@@ -4,12 +4,16 @@ templates:
         subgrades:
             akkoord: boolean
         calculation: akkoord
-        hide_calculated: true
+        hide_subgrades: true
+    2: &punten
+        type: pass
+        subgrades:
+            punten: integer
+        calculation: punten
+        hide_subgrades: true
 
 grades:
-    pidac_1: *aftekenen
-    pidac_2: *aftekenen
-    pidac_3: *aftekenen
+    pidac: *punten
 
     hardware: *aftekenen
     intro: *aftekenen
@@ -31,7 +35,7 @@ grades:
     csv: *aftekenen
 
     web-lecture: *aftekenen
-    profile: *aftekenen
+    profile: *punten
 
     internet: *aftekenen
     json: *aftekenen
@@ -64,9 +68,7 @@ pidac:
     show_progress: true
     type: points
     submits:
-        pidac_1: 2
-        pidac_2: 2
-        pidac_3: 2
+        pidac: 6
 
 module_1:
     show_progress: true
