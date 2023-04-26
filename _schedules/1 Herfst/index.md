@@ -91,7 +91,7 @@ De opdrachten kunnen niet "herkanst" worden na de deadline. Voor het tentamen wo
 
 ## Vragen stellen
 
-Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten. Er zijn diverse opties voor het stellen van vragen. De beste optie hangt af van het soort vraag dat je wil stellen.
+Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten als je vastzit met een opdracht. Ook kun je voor bepaalde onderwerpen terecht bij de docenten.
 
 **Assistentie:** direct contact met een assistent.
 
@@ -127,7 +127,7 @@ Als je een kort tekst- of codefragment overneemt als onderdeel van jouw zelfbeda
 
 ### Officiële regels
 
-Wat betreft fraude en plagiaat volgen we in deze cursus de richtlijnen van de Universiteit van Amsterdam en de werkwijze van de bachelor Informatica. De richtlijnen kun je [hier vinden](vraag ernaar als de link niet werkt).
+Wat betreft fraude en plagiaat volgen we in deze cursus de richtlijnen van de Universiteit van Amsterdam en de werkwijze van de bachelor Informatica. De richtlijnen kun je [hier vinden].
 
 [hier vinden]: https://student.uva.nl/onderwerpen/plagiaat-en-fraude
 
