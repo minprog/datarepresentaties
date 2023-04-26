@@ -97,7 +97,7 @@ Voor deze cursus kun je 48 punten halen.
 
 Voorwaarden voor de punten per module:
 
-- Bij elke module staat vermeld hoe de verschillende opdrachten beoordeeld worden.
+- Bij elke opdracht staat vermeld hoe deze beoordeeld wordt. Soms zijn deelpunten mogelijk, soms moet de hele opdracht goed zijn om alle punten te krijgen.
 
 - Je krijgt alleen punten voor de opdrachten van een module als je het bijbehorende tentamen-onderdeel <u>voldoende</u> maakt. Als in de tabel geen tentamen-onderwerp vermeld is dan geldt de eis niet voor die module.
 
