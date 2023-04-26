@@ -97,9 +97,11 @@ Voor deze cursus kun je 48 punten halen.
 
 Voorwaarden voor de punten per module:
 
-- Je krijgt alleen punten voor de module als je het bijbehorende tentamen-onderdeel voldoende maakt (pass/fail). Als in de tabel geen tentamen-onderwerp vermeld is dan geldt de eis niet voor die module.
+- Bij elke module staat vermeld hoe de verschillende opdrachten beoordeeld worden.
 
-- Je krijgt alleen de deelpunten voor de opdrachten die je op tijd hebt ingeleverd, volgens de deadline die hierboven is vermeld. Voor PIDAC geldt dat je alleen punten krijgt als je aanwezig was en de bijbehorende opdracht af hebt.
+- Je krijgt alleen punten voor de opdrachten van een module als je het bijbehorende tentamen-onderdeel <u>voldoende</u> maakt. Als in de tabel geen tentamen-onderwerp vermeld is dan geldt de eis niet voor die module.
+
+- Je krijgt alleen punten voor de opdrachten die je op tijd hebt ingeleverd, volgens de deadline die hierboven is vermeld. Voor PIDAC geldt dat je alleen punten krijgt als je aanwezig was en de bijbehorende opdracht af hebt.
 
 Je eindcijfer kun je vervolgens berekenen met `totaal_punten / 48 * 9 + 1`. Als je dus de helft van de punten haalt is dat een 5,5 als cijfer, en dat betekent een voldoende voor het vak.
 
