@@ -36,9 +36,24 @@ Deze studenten doen de fulltime Minor Programmeren. In principe hou je het dagsc
 De harde deadline is op **zondag om 16:59**. Na die tijd kun je geen punten meer krijgen voor het inleveren van opdrachten. Je kunt het dagschema van de fulltime-studenten bekijken om een indicatie te krijgen van de verwachte studielast per opdracht, maar plan het vooral zelf.
 
 
-## Docenten en assistenten
+## Docenten en vragen stellen
 
-De docenten bij dit vak zijn Simon Pauw, Edwin Steffens en Martijn Stegeman. Je kunt ze bereiken via e-mail op <help@mprog.nl>. Daarnaast zijn er veel student-assistenten, die de cursus goed kennen en jou gaan helpen op de momenten dat het nodig is. Je vindt ze elke werkdag in lokaal L0.09 en L0.10.
+De docenten bij dit vak zijn Simon Pauw, Edwin Steffens en Martijn Stegeman. Je kunt ze bereiken via e-mail op <help@mprog.nl>. Daarnaast zijn er veel student-assistenten, die de cursus goed kennen en jou gaan helpen op de momenten dat het nodig is.
+
+**Assistentie:** direct contact met een assistent.
+
+* hulp op locatie (lokaal L0.09 of L0.10)
+* je weet niet waar te beginnen of een onvindbare bug, of alles loopt vast
+* moeite met verzinnen oplossing of juist begrijpen van de vraag
+* dagelijks beschikbaar
+
+**Spreekuur en e-mail:** contact met de docenten.
+
+* alle vragen over de regels en over dubbelzinnigheden in opdrachten
+* bespreken van persoonlijke omstandigheden
+* meedenken over grote problemen met het vak
+* officiële zaken zoals deadlines en cijfers
+* mail <help@mprog.nl> of kom langs tijdens het spreekuur
 
 
 ## Eindcijfer
@@ -87,26 +102,6 @@ Voor deze cursus kun je 48 punten halen. Voor elke module geldt:
 Je eindcijfer kun je vervolgens berekenen met `totaal_punten / 48 * 9 + 1`. Als je dus de helft van de punten haalt is dat een 5,5 als cijfer, en dat betekent een voldoende voor het vak.
 
 De opdrachten kunnen niet "herkanst" worden na de deadline. Voor het tentamen wordt een normale herkansing gepland. Hier hoef je alleen de onderdelen te herkansen die nog onvoldoende zijn. Het heeft geen zin om een module op het tentamen te herkansen waarvan je de opdrachten uiteindelijk niet op tijd had ingeleverd.
-
-
-## Vragen stellen
-
-Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten als je vastzit met een opdracht. Ook kun je voor bepaalde onderwerpen terecht bij de docenten.
-
-**Assistentie:** direct contact met een assistent.
-
-* hulp op locatie (lokaal L0.09 of L0.10)
-* je weet niet waar te beginnen of een onvindbare bug, of alles loopt vast
-* moeite met verzinnen oplossing of juist begrijpen van de vraag
-* dagelijks beschikbaar
-
-**Spreekuur en e-mail:** contact met de docenten.
-
-* alle vragen over de regels en over dubbelzinnigheden in opdrachten
-* bespreken van persoonlijke omstandigheden
-* meedenken over grote problemen met het vak
-* officiële zaken zoals deadlines en cijfers
-* mail <help@mprog.nl> of kom langs tijdens het spreekuur
 
 
 ## Samenwerken
