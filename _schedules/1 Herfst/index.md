@@ -137,4 +137,4 @@ Bij dit vak gaat herkansen vooral over de situatie waarin je stopt met opdrachte
 
 Herkansen kan daarom de eerstvolgende keer dat het vak wordt gegeven in het **volgende semester**. Als opdrachten aangepast worden dan moet je die altijd opnieuw maken en inleveren. Opdrachten die niet veranderen en al nagekeken zijn mag je niet opnieuw inleveren. Wel kan het zijn dat de puntenverdeling is aangepast; in dat geval wordt de nieuwe puntenverdeling aangehouden.
 
-Heb je dit vak al eens eerder gevolgd en sluit je nu weer aan? Dan is het verplicht om een persoonlijke afspraak met de docenten te maken en hier samen overeenstemming te bereiken over hoe je het vak gaat aanpakken. Zonder dit gesprek mag je niet meedoen met het vak.
+Heb je dit vak al eens eerder gevolgd en sluit je nu weer aan? Dan is het verplicht om een persoonlijke afspraak met de docenten te maken en hier samen overeenstemming te bereiken over hoe je het vak gaat aanpakken. Dit gesprek moet plaatsvinden binnen enkele dagen na de officiële start van het vak. Zonder dit gesprek mag je niet meedoen.
