@@ -10,7 +10,7 @@ Je kunt dit vak parallel aan Programmeren 1 volgen, of nadat je Programmeren 1 h
 
 ## Onderwerpen en aanpak
 
-Het vak is opgedeeld in acht modules die onafhankelijk van elkaar worden getoetst. Je kunt binnen elke module punten verzamelen. Om het vak te halen zul je dus de verschillende opdrachten maken, en voor de meeste modules moet je dan nog het bijbehorende deel van het tentamen halen om de punten definitief te maken. Voor het halen van de PIDAC-module is aanwezigheid noodzakelijk.
+Het vak is opgedeeld in acht modules die onafhankelijk van elkaar worden getoetst. Je kunt binnen elke module punten verzamelen. Om het vak te halen zul je dus de verschillende opdrachten maken, en voor de meeste modules moet je het bijbehorende deel van het tentamen halen om de punten definitief te krijgen. Voor het halen van de PIDAC-module is aanwezigheid noodzakelijk.
 
 0. **Schakelingen met PIDAC.** Kennismaken met elektronische schakelingen waarop computers gebaseerd zijn en oefenen met het maken van schakelingen om berekeningen te doen.
 1. **Computers.** Kennismaken met standaard computerhardware en software, en de geschiedenis van het vakgebied. Een eerste start met gebruik van de command line.
