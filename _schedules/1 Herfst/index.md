@@ -45,7 +45,7 @@ De docenten bij dit vak zijn Simon Pauw, Edwin Steffens en Martijn Stegeman. Je 
 * hulp op locatie (lokaal L0.09 of L0.10)
 * je weet niet waar te beginnen of een onvindbare bug, of alles loopt vast
 * moeite met verzinnen oplossing of juist begrijpen van de vraag
-* dagelijks beschikbaar
+* dagelijks beschikbaar: je kunt gewoon binnenlopen
 
 **Spreekuur en e-mail:** contact met de docenten.
 
