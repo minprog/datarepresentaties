@@ -1,18 +1,18 @@
 # Datarepresentaties, tools en technieken<br><small>Studiewijzer, Herfst 2023</small>
 
-In dit vak maak je kennis met verschillende platforms om programmeerproblemen aan te pakken. Dit is een breed vak met een focus op het gebruiken tools en technieken uit de professionele wereld. De platforms zijn geschikt om uiteenlopende problemen te benaderen, van dataverwerking tot aan webprogrammeren. Soms gebruik je één platform voor een probleem en soms kun je er meerdere samen gebruiken. Daarnaast word je bekend met Unix en allerlei verschillende command-line tools zodat je steeds beter grip hebt op jouw ontwikkelomgeving.
+In dit vak maak je kennis met verschillende platforms om programmeerproblemen aan te pakken. Dit is een breed vak met een focus op het gebruiken tools en technieken uit de professionele software-wereld. De platforms zijn geschikt om uiteenlopende problemen te benaderen, van dataverwerking tot aan webprogrammeren. Soms gebruik je één platform voor een probleem en soms kun je er meerdere samen gebruiken. Daarnaast raak je bekend met Unix en allerlei verschillende command-line tools zodat je steeds beter grip hebt op jouw ontwikkelomgeving.
 
 
 ## Voorkennis
 
-Je kunt dit vak parallel aan Programmeren 1 volgen, of nadat je Programmeren 1 hebt gehaald.
+Je kunt dit vak parallel aan Programmeren 1 volgen, of nadat je Programmeren 1 hebt gehaald. Er is geen verdere voorkennis vereist.
 
 
-## Onderwerpen
+## Onderwerpen en aanpak
 
-We behandelen uiteenlopende onderwerpen in modules 0 t/m 7:
+Het vak is opgedeeld in acht modules die onafhankelijk van elkaar worden getoetst. Je kunt binnen elke module punten verzamelen. Om het vak te halen zul je dus de verschillende opdrachten maken, en voor de meeste modules moet je dan nog het bijbehorende deel van het tentamen halen om de punten definitief te maken. Voor het halen van de PIDAC-module is aanwezigheid noodzakelijk.
 
-0. **Schakelingen.** Kennismaken met elektronische schakelingen waarop computers gebaseerd zijn en oefenen met het maken van schakelingen om berekeningen te doen.
+0. **Schakelingen met PIDAC.** Kennismaken met elektronische schakelingen waarop computers gebaseerd zijn en oefenen met het maken van schakelingen om berekeningen te doen.
 1. **Computers.** Kennismaken met standaard computerhardware en software, en de geschiedenis van het vakgebied. Een eerste start met gebruik van de command line.
 2. **Besturingssystemen.** Kennismaken met de onderdelen van besturingssystemen, bestandssystemen en security-aspecten. Een uitgebreide verkenning van de UNIX-shell.
 3. **Representaties.** Een overzicht van allerlei soorten informatie die in een computer kunnen worden gerepresenteerd. Oefenen met binaire bestanden en bestandsformaten.
@@ -29,11 +29,11 @@ Module 0 loopt dwars door de andere modules heen in de studieweken 2, 3 en 4. Hi
 
 **Voor studenten die tegelijk Programmeren 1 volgen:**
 
-Deze studenten doen de fulltime Minor Programmeren. In principe hou je het dagschema aan zoals dat in het lokaal hangt. Een beetje schuiven is geen probleem. Opdrachten kunnen na **vrijdag 16:59** niet meer ingeleverd worden voor punten.
+Deze studenten doen de fulltime Minor Programmeren. In principe hou je het dagschema aan zoals dat in het lokaal hangt. Een beetje schuiven is geen probleem. Opdrachten kunnen na **zondag om 16:59** niet meer ingeleverd worden voor punten.
 
 **Voor studenten die alleen Datarepresentaties volgen:**
 
-De harde deadline is op **maandag om 12:59**. Na die tijd kun je geen punten meer krijgen voor het inleveren van opdrachten. Je kunt het dagschema van de fulltime-studenten bekijken om een indicatie te krijgen van de verwachte studielast per opdracht, maar plan het vooral zelf.
+De harde deadline is op **zondag om 16:59**. Na die tijd kun je geen punten meer krijgen voor het inleveren van opdrachten. Je kunt het dagschema van de fulltime-studenten bekijken om een indicatie te krijgen van de verwachte studielast per opdracht, maar plan het vooral zelf.
 
 
 ## Docenten en assistenten
@@ -41,26 +41,19 @@ De harde deadline is op **maandag om 12:59**. Na die tijd kun je geen punten mee
 De docenten bij dit vak zijn Simon Pauw, Edwin Steffens en Martijn Stegeman. Je kunt ze bereiken via e-mail op <help@mprog.nl>. Daarnaast zijn er veel student-assistenten, die de cursus goed kennen en jou gaan helpen op de momenten dat het nodig is. Je vindt ze elke werkdag in lokaal L0.09 en L0.10.
 
 
-## Minimumeisen
-
-Alle opdrachten netjes maken is de basis om het vak te halen. Daarnaast is het nodig dat je *zichtbaar* actief meedoet en leert van het vak. Dat doe je onder andere op de volgende manieren:
-
-1. meedoen aan alle drie de PIDAC-practica
-1. minimaal één middag per week langskomen
-1. actief vragen stellen aan de assistenten
-
-Voor de meeste onderdelen moet je bovendien het bijbehorende deel van het tentamen halen om punten te kunnen krijgen.
-
-
 ## Eindcijfer
 
 Voor deze cursus kun je 48 punten halen. Voor elke module geldt:
 
-- Je krijgt alleen punten voor de module als je het bijbehorende tentamen-onderdeel voldoende maakt. Als er in de tabel hieronder geen tentamen-onderwerp vermeld is dan geldt de eis niet voor die module.
+- Je krijgt alleen punten voor de module als je het bijbehorende tentamen-onderdeel voldoende maakt (pass/fail). Als er in de tabel hieronder geen tentamen-onderwerp vermeld is dan geldt de eis niet voor die module.
 
 - Je krijgt alleen de deelpunten voor de opdrachten die je op tijd hebt ingeleverd, volgens de deadline die hierboven is vermeld. Voor PIDAC geldt dat je alleen punten krijgt als je aanwezig was en de bijbehorende opdracht af hebt.
 
 | Module             | Opdracht              | Vorm      | Punten | Tentamen-onderwerp |
+|--------------------|-----------------------|-----------|--------|----------------|
+| PIDAC              | Deel 1                | practicum | 2      | -              |
+|                    | Deel 2                | practicum | 2      |                |
+|                    | Deel 3                | practicum | 2      |                |
 |--------------------|-----------------------|-----------|--------|----------------|
 | Computers          | Hardware              | schrijven | 1      | UNIX-commandos |
 |                    | Computing             | schrijven | 1      |                |
@@ -90,46 +83,30 @@ Voor deze cursus kun je 48 punten halen. Voor elke module geldt:
 |--------------------|-----------------------|-----------|--------|----------------|
 | Databases          | Movies                | oefenen   | 3      | Databases      |
 |                    | Fiftyville            | oefenen   | 3      |                |
-|--------------------|-----------------------|-----------|--------|----------------|
-| PIDAC              | Practicum 1           | practicum | 2      | -              |
-|                    | Practicum 2           | practicum | 2      |                |
-|                    | Practicum 3           | practicum | 2      |                |
 
-Je eindcijfer kun je vervolgens berekenen met `totaal_punten / 48 * 9 + 1`. De helft van de punten wordt hiermee een 5,5 en dat betekent een voldoende voor het vak.
+Je eindcijfer kun je vervolgens berekenen met `totaal_punten / 48 * 9 + 1`. Als je dus de helft van de punten haalt is dat een 5,5 als cijfer, en dat betekent een voldoende voor het vak.
 
-De opdrachten kunnen niet "herkanst" worden na de deadline. Voor het tentamen wordt een normale herkansing gepland. Hier hoef je alleen de onderdelen te herkansen die nog onvoldoende zijn. Het heeft geen zin om een module te herkansen waarvan je de opdrachten uiteindelijk niet had ingeleverd.
+De opdrachten kunnen niet "herkanst" worden na de deadline. Voor het tentamen wordt een normale herkansing gepland. Hier hoef je alleen de onderdelen te herkansen die nog onvoldoende zijn. Het heeft geen zin om een module op het tentamen te herkansen waarvan je de opdrachten uiteindelijk niet op tijd had ingeleverd.
+
 
 ## Vragen stellen
 
 Tijdens dit vak zul je vaak de hulp inroepen van de assistenten en medestudenten. Er zijn diverse opties voor het stellen van vragen. De beste optie hangt af van het soort vraag dat je wil stellen.
 
-**Assistentie:** direct contact met een assistent, voor hulp bij programmeren.
+**Assistentie:** direct contact met een assistent.
 
 * hulp op locatie (lokaal L0.09 of L0.10)
 * je weet niet waar te beginnen of een onvindbare bug, of alles loopt vast
-* moeite met verzinnen oplossing
+* moeite met verzinnen oplossing of juist begrijpen van de vraag
 * dagelijks beschikbaar
-
-**Werkgroep parttime:** contact met je mentor.
-
-* terugblik opdrachten
-* vooruitkijken naar het nieuwe onderwerp
-* maken van een persoonlijke planning
-* meedenken over grote problemen met het vak
-* individuele hulp
 
 **Spreekuur en e-mail:** contact met de docenten.
 
-* maken van persoonlijke planningsafspraken
+* alle vragen over de regels en over dubbelzinnigheden in opdrachten
+* bespreken van persoonlijke omstandigheden
 * meedenken over grote problemen met het vak
 * officiële zaken zoals deadlines en cijfers
-* administratie na afloop van het vak
 * mail <help@mprog.nl> of kom langs tijdens het spreekuur
-
-
-## Aanwezigheid
-
-Aanwezigheid bij jouw geroosterde werkcollege is verplicht, en het aanwezig zijn bij de 3 practica ook. Ben je niet systematisch aanwezig of doe je niet systematisch mee, dan kun je het vak **niet** halen. Denk daarbij aan wegblijven van de colleges zonder overleg, of tijdelijk niet inleveren zonder overleg. Je kunt natuurlijk wel op elk moment proberen alsnog te overleggen, maar hou er rekening mee dat je uiteindelijk toch volledig zult moeten meedoen om het vak te kunnen halen.
 
 
 ## Samenwerken
@@ -152,11 +129,11 @@ Als je een kort tekst- of codefragment overneemt als onderdeel van jouw zelfbeda
 
 Wat betreft fraude en plagiaat volgen we in deze cursus de richtlijnen van de Universiteit van Amsterdam en de werkwijze van de bachelor Informatica. De richtlijnen kun je [hier vinden](vraag ernaar als de link niet werkt).
 
-[hier vinden]: http://student.uva.nl/az/a-z-lijst/a-z-lijst/content/folder/fraude-plagiaat-en-bronvermelding/plagiaat-en-fraude.html
+[hier vinden]: https://student.uva.nl/onderwerpen/plagiaat-en-fraude
 
 
 ## Herkansen
 
 Bij dit vak gaat herkansen vooral over de situatie waarin je stopt met opdrachten maken of erg gaat achterlopen. Het is ook als herkansing namelijk niet mogelijk opdrachten nog in te leveren na de deadlines die genoemd zijn in deze studiewijzer.
 
-Herkansen kan daarom de eerstvolgende keer dat het vak wordt gegeven in het **volgende semester**. Als opdrachten aangepast worden dan moet je die altijd opnieuw maken en inleveren. Opdrachten die niet veranderen en al nagekeken zijn mag je niet opnieuw inleveren.
+Herkansen kan daarom de eerstvolgende keer dat het vak wordt gegeven in het **volgende semester**. Als opdrachten aangepast worden dan moet je die altijd opnieuw maken en inleveren. Opdrachten die niet veranderen en al nagekeken zijn mag je niet opnieuw inleveren. Wel kan het zijn dat de puntenverdeling is aangepast; in dat geval wordt de nieuwe puntenverdeling aangehouden.
