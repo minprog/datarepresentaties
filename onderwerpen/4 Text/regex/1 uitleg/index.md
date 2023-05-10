@@ -28,11 +28,11 @@ Je kunt proberen de geldige en ongeldige patronen te vatten in een reguliere exp
 
 Overigens kan je ook in de problemen komen met simpelere regels. Zo zijn er mensen op de wereld [die maar één naam hebben](https://scholar.google.com/citations?user=eGOkAUMAAAAJ&hl=nl&oi=ao), dus niet per se een voornaam én een achternaam. Als je in je systeem vastlegt dat er een foutmelding komt als iemand geen spatie in de naam invoert, dan kan deze persoon zich alleen met omwegen registreren. Heel irritant!
 
-Dat klinkt niet als een goed reclamepraatje voor reguliere expressies maar in de praktijk zijn ze dus erg handig om stukjes tekst automatisch te controleren of te ontleden. Bovendien kun je er heel handig mee zoeken in langere teksten. Daarover meer in het hoofdstuk.
+Dat klinkt niet als een goed reclamepraatje voor reguliere expressies maar in de praktijk zijn ze dus erg handig om stukjes tekst automatisch te controleren of te ontleden. Bovendien kun je er heel handig mee zoeken in langere teksten.
 
 ## Studiemateriaal
 
-1.  Lees het hoofdstuk "Regular expressions & grep" uit het boek _Bulletproof UNIX_ van Gottleber. Dit geeft een basisbegrip van de manier van werken met reguliere expressies. Er wordt gebruik gemaakt van de tools `grep`, `egrep` en `fgrep` die op de meeste UNIX-computers beschikbaar zijn.
+1.  Lees het hoofdstuk "Regular expressions, text normalization" uit het boek _Speech and Language Processing_ van Jurafsky en Martin. Dit geeft een basisbegrip van de manier van werken met reguliere expressies.
 
     - Hou tijdens het lezen bij wat je opvalt en wat je moeilijk vond, en waar je vragen over hebt gesteld of extra informatie opgezocht. Op de volgende pagina ga je dit weer inleveren samen met de opdracht.
 
@@ -44,4 +44,4 @@ Dat klinkt niet als een goed reclamepraatje voor reguliere expressies maar in de
 
     - Onthou dat het om de basis gaat van `*`, `.`, `+`, `?`, `()`, `[]` enzovoort. Die basis is overal gelijk en kun je steeds toepassen om teksten heel precies te filteren.
 
-Na deze oefeningen kun je naar de volgende pagina om opdrachten met `grep` te doen.
+Na deze oefeningen kun je naar de volgende pagina om te oefenen met reguliere expressies in een UNIX-omgeving.

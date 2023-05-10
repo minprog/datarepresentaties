@@ -13,10 +13,10 @@ Je kunt dit vak parallel aan Programmeren 1 volgen, of nadat je Programmeren 1 h
 Het vak is opgedeeld in acht modules die onafhankelijk van elkaar worden getoetst. Je kunt binnen elke module punten verzamelen. Om het vak te halen zul je dus de verschillende opdrachten maken, en voor de meeste modules moet je het bijbehorende deel van het tentamen halen om de punten definitief te krijgen. Voor het halen van de PIDAC-module is aanwezigheid noodzakelijk.
 
 0. **Schakelingen met PIDAC.** Kennismaken met elektronische schakelingen waarop computers gebaseerd zijn en oefenen met het maken van schakelingen om berekeningen te doen.
-1. **Computers.** Kennismaken met standaard computerhardware en software, en de geschiedenis van het vakgebied. Een eerste start met gebruik van de command line.
-2. **Besturingssystemen.** Kennismaken met de onderdelen van besturingssystemen, bestandssystemen en security-aspecten. Een uitgebreide verkenning van de UNIX-shell.
+1. **Computers.** Kennismaken met standaard computerhardware en software, en de geschiedenis van het vakgebied. Een eerste start met gebruik van de command line en bestandssystemen.
+2. **Besturingssystemen.** Kennismaken met de onderdelen van besturingssystemen en security-aspecten. Een uitgebreide verkenning van de UNIX-shell.
 3. **Representaties.** Een overzicht van allerlei soorten informatie die in een computer kunnen worden gerepresenteerd. Oefenen met binaire bestanden en bestandsformaten.
-4. **Text processing.** Kennismaken met reguliere expressies en zoeken in teksten. Kennismaking met het CSV-dataformaat en gebruik van UNIX-tools om deze te filteren en te manipuleren.
+4. **Reguliere expressies.** Kennismaken met reguliere expressies. Het zoeken in en manipuleren van teksten. Regelgebaseerde chatbots.
 5. **Web development.** Leren schrijven van HTML en het toepassen van stijlen via CSS. Je maakt een eigen homepage als project.
 6. **Internet.** Studie van de werking van internet. Kennismaking met het JSON-formaat. Oefenen met het verkrijgen van data uit semi-gestructureerde websites.
 7. **Databases.** Kennismaken met de relationele manier om data vast te leggen. Oefenen met het schrijven van SQL-queries om interessante data uit een database te halen.
@@ -66,14 +66,14 @@ Voor deze cursus kun je 48 punten halen.
 |                    | Deel 2                | practicum | 2      |                |
 |                    | Deel 3                | practicum | 2      |                |
 |--------------------|-----------------------|-----------|--------|----------------|
-| Computers          | Hardware              | schrijven | 1      | UNIX-commandos |
-|                    | Computing             | schrijven | 1      |                |
+| Computers          | Hardware & Computing  | schrijven | 1      | UNIX-commands  |
 |                    | Binair tellen         | oefenen   | 1      |                |
+|                    | Bestandssystemen      | schrijven | 1      |                |
 |                    | UNIX deel 1           | oefenen   | 3      |                |
 |--------------------|-----------------------|-----------|--------|----------------|
 | Besturingssystemen | Beveiliging           | schrijven | 1      | UNIX-oneliners |
 |                    | Besturingssystemen    | schrijven | 1      |                |
-|                    | Bestandssystemen      | schrijven | 1      |                |
+|                    | CSV                   | oefenen   | 1      |                |
 |                    | UNIX deel 2           | oefenen   | 3      |                |
 |--------------------|-----------------------|-----------|--------|----------------|
 | Representaties     | Multimedia            | schrijven | 1      | -              |
@@ -82,8 +82,7 @@ Voor deze cursus kun je 48 punten halen.
 |                    | Bestandsformaten      | opdracht  | 3      |                |
 |--------------------|-----------------------|-----------|--------|----------------|
 | Text processing    | Reguliere expressies  | oefenen   | 3      | Regex + grep   |
-|                    | UNIX tools            | oefenen   | 2      |                |
-|                    | CSV                   | oefenen   | 1      |                |
+|                    | Chatbots              | oefenen   | 3      |                |
 |--------------------|-----------------------|-----------|--------|----------------|
 | Web Development    | Web development       | schrijven | 1      | -              |
 |                    | Homepage              | opdracht  | 5      |                |
@@ -99,7 +98,7 @@ Voorwaarden voor de punten per module:
 
 - Bij elke opdracht staat vermeld hoe deze beoordeeld wordt. Soms zijn deelpunten mogelijk, soms moet de hele opdracht goed zijn om alle punten te krijgen.
 
-- Je krijgt alleen punten voor de opdrachten van een module als je het bijbehorende tentamen-onderdeel <u>voldoende</u> maakt. Als in de tabel geen tentamen-onderwerp vermeld is dan geldt de eis niet voor die module.
+- Je krijgt alleen punten voor de module als je het bijbehorende tentamen-onderdeel <u>voldoende</u> maakt. Als in de tabel geen tentamen-onderwerp vermeld is dan geldt de eis niet voor die module.
 
 - Je krijgt alleen punten voor de opdrachten die je op tijd hebt ingeleverd, volgens de deadline die hierboven is vermeld. Voor PIDAC geldt dat je alleen punten krijgt als je aanwezig was en de bijbehorende opdracht af hebt.
 
