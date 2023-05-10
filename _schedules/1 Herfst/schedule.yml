@@ -14,8 +14,8 @@ Computers:
 Besturingssystemen:
     Beveiliging [college]: /onderwerpen/besturingssystemen/security
     Besturingssystemen [boek]: /onderwerpen/besturingssystemen/os
-    UNIX-commando's [boek]: /onderwerpen/text/tools
-    CSV [opdracht]: /onderwerpen/text/csv
+    UNIX-commando's [boek]: /onderwerpen/besturingssystemen/tools
+    CSV [opdracht]: /onderwerpen/besturingssystemen/csv
     Manipulating files [carpentry]: /onderwerpen/besturingssystemen/carpentry
     Tentamen:
         Oefeningen UNIX-oneliners: /onderwerpen/computers/oefeningen
@@ -27,12 +27,12 @@ Representaties:
     Bestandsformaten [opdracht]: /onderwerpen/representaties/formaten
 
 Reguliere expressies:
-    Reguliere expressies [boek]: /onderwerpen/text/regex/uitleg
-    Using grep [carpentry]: /onderwerpen/text/carpentry
-    Reguliere expressies [opdracht]: /onderwerpen/text/regex/opdrachten
-    Chatbots [opdracht]: /onderwerpen/text/regex/chatbots
+    Reguliere expressies [boek]: /onderwerpen/regex/uitleg
+    Using grep [carpentry]: /onderwerpen/regex/carpentry
+    Reguliere expressies [opdracht]: /onderwerpen/regex/opdrachten
+    Chatbots [opdracht]: /onderwerpen/regex/chatbots
     Tentamen:
-        Oefeningen Regex: /onderwerpen/text/regex/oefeningen
+        Oefeningen Regex: /onderwerpen/regex/oefeningen
 
 Web development:
     Web [college]: /onderwerpen/web/lecture
