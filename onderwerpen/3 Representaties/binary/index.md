@@ -25,7 +25,7 @@ Hoofdstuk "Binary representation" uit het boek van Schneider & Gersting, *Invita
 
 1.  01000001 01101110 01110011 01110111 01100101 01110010 00100000 01101001 01110011 00100000 00110100 00110010 00101110
 
-    Er is een manier om bovenstaande boodschap beter leesbaar te maken voor "gewone mensen" (ofwel, niet-programmeurs). Vind deze manier en pas 'm toe!
+    Wat is de boodschap hier?
 
 ## Inleveren
 
