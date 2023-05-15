@@ -1,10 +1,16 @@
 # Chatbots met reguliere expressies
 
+1. Implementeer een simpele chatbot,
+2. formuleer regels met hulp van reguliere expressies,
+3. en bewonder het resultaat!
+
+## ELIZA
+
 In het hoofdstuk van Jurafsky en Martin heb je gezien dat de computertherapeut ELIZA geheel geïmplementeerd kan worden met hulp van reguliere expressies. In feite worden hier allerlei **regels** verzameld die op volgorde toegepast kunnen worden.
 
 Hoewel menselijke communicatie meestal flexibeler is dan het zuiver toepassen van strakke regels, is het vatten van allerlei patronen wel een succesvolle strategie om een prototype van een chatbot te implementeren. Nog sterker, het analyseren van potentiële patronen helpt je beter begrijpen hoe zo'n gesprek vorm krijgt.
 
-## ELIZA
+## Eigen implementatie
 
 Als eerste stap ga je een uitgebreidere versie van ELIZA implementeren. Maak een file `eliza.sh` en voeg daar deze regels aan toe:
 
@@ -21,8 +27,8 @@ Maak ook een bestand `eliza.sed` om de regels in te plaatsen. Neem de volgende r
 
     s/.*I'M (DEPRESSED|SAD).*/I AM SORRY TO HEAR YOU ARE \1/
     s/.*I AM (DEPRESSED|SAD).*/WHY DO YOU THINK YOU ARE \1/
-    s/.* ALL .*/IN WHAT WAY/
-    s/.* ALWAYS .*/CAN YOU THINK OF A SPECIFIC EXAMPLE/
+    s/.*ALL .*/IN WHAT WAY/
+    s/.*ALWAYS .*/CAN YOU THINK OF A SPECIFIC EXAMPLE/
 
 Om het script te starten run je `bash eliza.sh` en stoppen kan met **Ctrl-C**. Op dit moment zijn maar vier regels actief.
 
@@ -34,6 +40,9 @@ Als tweede stap ga je een eigen bot maken die op dezelfde manier werkt maar een 
 
 - Een student helpen met een programmeeropdracht in C
 - Iemand helpen kiezen om wel of niet naar de kroeg te gaan
+- Ideeën opdoen voor op vakantie gaan met of zonder veel budget
 - ...
+
+Het probleem is wel dat je geen "geheugen" hebt. Als je een antwoord formuleert dan is dat alleen gebaseerd op de huidige input, en niet op wat er eerder gezegd is. Maar dat geeft niet, het gaat vooral om het oefenen met reguliere expressies!
 
 Je hoeft niet meer dan 8 regels te gebruiken, het gaat uiteindelijk om nadenken over die regels en het oefenen met het schrijven van reguliere expressies.
