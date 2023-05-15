@@ -8,8 +8,6 @@ Computers:
     Binair tellen [boek]: /onderwerpen/computers/binary
     Bestandssystemen [boek]: /onderwerpen/besturingssystemen/fs
     Navigating file systems [carpentry]: /onderwerpen/computers/carpentry
-    Tentamen:
-        Oefeningen UNIX-commando\'s: /onderwerpen/computers/oefeningen
 
 Besturingssystemen:
     Beveiliging [college]: /onderwerpen/besturingssystemen/security
@@ -17,8 +15,6 @@ Besturingssystemen:
     UNIX-commando's [boek]: /onderwerpen/besturingssystemen/tools
     CSV [opdracht]: /onderwerpen/besturingssystemen/csv
     Manipulating files [carpentry]: /onderwerpen/besturingssystemen/carpentry
-    Tentamen:
-        Oefeningen UNIX-oneliners: /onderwerpen/computers/oefeningen
 
 Representaties:
     Multimedia [college]: /onderwerpen/representaties/multimedia
@@ -28,11 +24,9 @@ Representaties:
 
 Reguliere expressies:
     Reguliere expressies [boek]: /onderwerpen/regex/uitleg
+    Chatbots [opdracht]: /onderwerpen/regex/chatbots
     Using grep [carpentry]: /onderwerpen/regex/carpentry
     Reguliere expressies [opdracht]: /onderwerpen/regex/opdrachten
-    Chatbots [opdracht]: /onderwerpen/regex/chatbots
-    Tentamen:
-        Oefeningen Regex: /onderwerpen/regex/oefeningen
 
 Web development:
     Web [college]: /onderwerpen/web/lecture
@@ -43,12 +37,15 @@ Web tools:
     JSON [opdracht]: /onderwerpen/tools/json
     Curl [oefening]: /onderwerpen/tools/curl
     Scraping [opdracht]: /onderwerpen/tools/scraping
-    Tentamen:
-        Oefeningen Scraping: /onderwerpen/tools/oefeningen
 
 Databases:
     Databases [college]: /onderwerpen/databases/lecture
     Movies [opdracht]: /onderwerpen/databases/movies
     Fiftyville [opdracht]: /onderwerpen/databases/fiftyville
-    Tentamen:
-        Oefeningen Databases: /onderwerpen/databases/oefeningen
+
+Tentamen:
+    Oefeningen UNIX-commando\'s: /onderwerpen/computers/oefeningen
+    Oefeningen UNIX-oneliners: /onderwerpen/computers/oefeningen
+    Oefeningen Regex: /onderwerpen/regex/oefeningen
+    Oefeningen Scraping: /onderwerpen/tools/oefeningen
+    Oefeningen Databases: /onderwerpen/databases/oefeningen
