@@ -10,10 +10,9 @@ Computers:
 
 Besturingssystemen:
     Beveiliging [college]: /onderwerpen/besturingssystemen/security
-    Besturingssystemen [boek]: /onderwerpen/besturingssystemen/os
+    Besturingssystemen [boek]: /onderwerpen/besturingssystemen/intro
+    Tools in UNIX [carpentry]: /onderwerpen/besturingssystemen/carpentry
     UNIX-commando's [boek]: /onderwerpen/besturingssystemen/tools
-    CSV [opdracht]: /onderwerpen/besturingssystemen/csv
-    Manipulating files [carpentry]: /onderwerpen/besturingssystemen/carpentry
 
 Representaties:
     Multimedia [college]: /onderwerpen/representaties/multimedia
