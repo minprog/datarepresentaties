@@ -69,26 +69,29 @@ Voor deze cursus kun je 48 punten halen.
 | Computers          | Hardware & Computing  | schrijven | 1      | UNIX-commands  |
 |                    | The Big Picture       | schrijven | 1      |                |
 |                    | Binair tellen         | oefenen   | 1      |                |
-|                    | UNIX Bestandssystemen | oefenen   | 3      |                |
+|                    | UNIX Files            | oefenen   | 3      |                |
 |--------------------|-----------------------|-----------|--------|----------------|
 | Besturingssystemen | Beveiliging           | schrijven | 1      | UNIX-oneliners |
 |                    | Besturingssystemen    | schrijven | 1      |                |
-|                    | CSV                   | oefenen   | 1      |                |
-|                    | UNIX Tools            | oefenen   | 3      |                |
+|                    | UNIX Pipelines        | oefenen   | 2      |                |
+|                    | UNIX Tools            | oefenen   | 2      |                |
 |--------------------|-----------------------|-----------|--------|----------------|
 | Representaties     | Multimedia            | schrijven | 1      | -              |
 |                    | Binaire representatie | oefenen   | 1      |                |
 |                    | Tekstcodering         | oefenen   | 1      |                |
 |                    | Bestandsformaten      | opdracht  | 3      |                |
 |--------------------|-----------------------|-----------|--------|----------------|
-| Text processing    | Reguliere expressies  | oefenen   | 3      | Regex + grep   |
-|                    | Chatbots              | oefenen   | 3      |                |
+| Text processing    | Reguliere expressies  | oefenen   | 1      | Regex + grep   |
+|                    | Chatbots              | oefenen   | 1      |                |
+|                    | Zoeken in bestanden   | oefenen   | 2      |                |
+|                    | Werken met grep       | oefenen   | 2      |                |
 |--------------------|-----------------------|-----------|--------|----------------|
 | Web Development    | Web development       | schrijven | 1      | -              |
 |                    | Homepage              | opdracht  | 5      |                |
 |--------------------|-----------------------|-----------|--------|----------------|
 | Web Tools          | Internet              | schrijven | 1      | Scraping       |
-|                    | JSON + cURL           | oefenen   | 2      |                |
+|                    | JSON                  | oefenen   | 1      |                |
+|                    | CSS                   | oefenen   | 1      |                |
 |                    | Scraping              | oefenen   | 3      |                |
 |--------------------|-----------------------|-----------|--------|----------------|
 | Databases          | Movies                | oefenen   | 3      | Databases      |
