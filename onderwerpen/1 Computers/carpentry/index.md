@@ -10,13 +10,15 @@ Hoofdstuk "File systems" uit het boek van Dale & Lewis, *Computer Science Illumi
 
 ## Vragen
 
+Beantwoord de volgende vragen weer in een PDF. Je voegt later ook nog een verslag toe van het doen van de workshop (zie onder).
+
 1.  De woorden "files" en "directories" of hun Nederlandse vertalingen "bestanden" en "mappen" zijn *analogiën* uit de echte wereld. De woorden zijn dus afgeleid van een ander begrip, net zoals heel veel van de "magische woorden" die een rol spelen in de computerwereld. Het nadeel van analogiën is dat de overeenkomst vaak maar beperkt is.
 
     Bespreek van zowel het woord "map" als van "directory" hoe sterk de analogie is met het object uit de echte wereld. Bedenk welke eigenschappen van de computerversie en de echte versie er zijn (bijvoorbeeld: een "map" in de echte wereld kan papieren bevatten). Bespreek welke eigenschappen wel en niet overeenkomen. Baseer je onder andere op een goede woordenboek-definitie van de termen die je hebt gekozen (want wat is een "directory" eigenlijk in de echte wereld?).
 
     Let op: je vergelijkt dus niet "map" met "directory", dat is niet de opdracht hier!
 
-2.  Wat is de minimale informatie die een directory over elke file moet bevatten? Waarom is dit minimaal?
+2.  Wat is de minimale informatie die een directory over elke file moet bevatten? Waarom is dit minimaal, ofwel waarom zou het anders niet kunnen werken als opslag?
 
 3.  Geef het absolute pad van het bestand `access.old` uit figuur 11.5 van het boek.
 
