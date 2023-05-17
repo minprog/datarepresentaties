@@ -16,9 +16,9 @@ Het vak is opgedeeld in acht modules die onafhankelijk van elkaar worden getoets
 1. **Computers.** Kennismaken met standaard computerhardware en software, en de geschiedenis van het vakgebied. Een eerste start met gebruik van de command line en bestandssystemen.
 2. **Besturingssystemen.** Kennismaken met de onderdelen van besturingssystemen en security-aspecten. Een uitgebreide verkenning van de UNIX-shell.
 3. **Representaties.** Een overzicht van allerlei soorten informatie die in een computer kunnen worden gerepresenteerd. Oefenen met binaire bestanden en bestandsformaten.
-4. **Reguliere expressies.** Kennismaken met reguliere expressies. Het zoeken in en manipuleren van teksten. Regelgebaseerde chatbots.
+4. **Text processing.** Kennismaken met reguliere expressies. Het zoeken in en manipuleren van teksten. Regelgebaseerde chatbots.
 5. **Web development.** Leren schrijven van HTML en het toepassen van stijlen via CSS. Je maakt een eigen homepage als project.
-6. **Internet.** Studie van de werking van internet. Kennismaking met het JSON-formaat. Oefenen met het verkrijgen van data uit semi-gestructureerde websites.
+6. **Scraping.** Studie van de werking van internet. Kennismaking met het JSON-formaat. Oefenen met het verkrijgen van data uit semi-gestructureerde websites.
 7. **Databases.** Kennismaken met de relationele manier om data vast te leggen. Oefenen met het schrijven van SQL-queries om interessante data uit een database te halen.
 {: start="0"}
 
@@ -99,7 +99,7 @@ Voor deze cursus kun je 48 punten halen.
 
 Voorwaarden voor de punten per module:
 
-- Bij elke opdracht staat vermeld hoe deze beoordeeld wordt. Soms zijn deelpunten mogelijk, soms moet de hele opdracht goed zijn om alle punten te krijgen.
+- Bij elke opdracht staat vermeld hoe deze beoordeeld wordt. Soms zijn deelpunten mogelijk, meestal moet de hele opdracht goed zijn om alle punten te krijgen.
 
 - Je krijgt alleen punten voor de module als je het bijbehorende tentamen-onderdeel <u>voldoende</u> maakt. Als in de tabel geen tentamen-onderwerp vermeld is dan geldt de eis niet voor die module.
 
