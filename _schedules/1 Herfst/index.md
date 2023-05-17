@@ -67,14 +67,14 @@ Voor deze cursus kun je 48 punten halen.
 |                    | Deel 3                | practicum | 2      |                |
 |--------------------|-----------------------|-----------|--------|----------------|
 | Computers          | Hardware & Computing  | schrijven | 1      | UNIX-commands  |
+|                    | The Big Picture       | schrijven | 1      |                |
 |                    | Binair tellen         | oefenen   | 1      |                |
-|                    | Bestandssystemen      | schrijven | 1      |                |
-|                    | UNIX deel 1           | oefenen   | 3      |                |
+|                    | UNIX Bestandssystemen | oefenen   | 3      |                |
 |--------------------|-----------------------|-----------|--------|----------------|
 | Besturingssystemen | Beveiliging           | schrijven | 1      | UNIX-oneliners |
 |                    | Besturingssystemen    | schrijven | 1      |                |
 |                    | CSV                   | oefenen   | 1      |                |
-|                    | UNIX deel 2           | oefenen   | 3      |                |
+|                    | UNIX Tools            | oefenen   | 3      |                |
 |--------------------|-----------------------|-----------|--------|----------------|
 | Representaties     | Multimedia            | schrijven | 1      | -              |
 |                    | Binaire representatie | oefenen   | 1      |                |
