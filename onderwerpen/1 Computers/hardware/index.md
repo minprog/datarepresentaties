@@ -25,6 +25,8 @@
 
 7. Wi-Fi en Bluetooth zijn allebei draadloze technologiën. Wat zijn de verschillen in techniek en toepassing? Ook bij deze vraag kun je gerust op internet zoeken, maar zorg dat je een duidelijk antwoord in eigen woorden formuleert.
 
+    > Hoe kan je zoeken op internet op een verantwoorde manier aanpakken? Wat niet OK is, is letterlijk zoeken op websites of in GPT naar "de verschillen in techniek en toepassing tussen wi-fi en bluetooth". Zo leer je zelf niet analytisch denken. Wat wél OK is, is zoeken of vragen naar "techniek en toepassing van bluetooth" en daarna "techniek en toepassing van wi-fi". Dan verzamel je van een aantal websites informatie, die vat je samen, en dan doe je *zelf* een analyse van de verschillen. Zo leer je wat over de onderwerpen maar je krijgt ook nodige oefening met scherp redeneren.
+
 8. Beschrijf welke opvallende dingen je hebt geleerd bij het studeren op het college en het uitwerken van de vragen. Geef aan wat je eventueel moeilijk vond en welke bronnen je hebt gebruikt om verder uit te zoeken wat je moest begrijpen. Als je het makkelijk vond had je waarschijnlijk voorkennis. In dat geval kun je die voorkennis vergelijken met het college: wat was er anders of zelfs in tegenspraak? Zonder uitgebreid antwoord op deze vraag kun je geen punten halen voor de opdracht.
 
 ## Inleveren

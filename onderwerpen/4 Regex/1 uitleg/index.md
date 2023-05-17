@@ -44,4 +44,4 @@ Dat klinkt niet als een goed reclamepraatje voor reguliere expressies maar in de
 
     - Onthou dat het om de basis gaat van `*`, `.`, `+`, `?`, `()`, `[]` enzovoort. Die basis is overal gelijk en kun je steeds toepassen om teksten heel precies te filteren.
 
-Na deze oefeningen kun je naar de volgende pagina om te oefenen met reguliere expressies in een UNIX-omgeving.
+Na deze oefeningen kun je naar de volgende pagina om te oefenen met reguliere expressies.
