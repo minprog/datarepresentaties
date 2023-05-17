@@ -81,7 +81,7 @@ module_1:
     type: points
     submits:
         hardware: 1
-        intro: 1
+        big-picture: 1
         binary: 1
         software-carpentry: 3
         tentamen-commands: 0
@@ -92,8 +92,8 @@ module_2:
     submits:
         security: 1
         opsys: 1
-        filesys: 1
         software-carpentry-2: 3
+        unix-tools: 1
         tentamen-oneliners: 0
 
 module_3:
