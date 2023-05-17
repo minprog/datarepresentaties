@@ -33,7 +33,7 @@ grades:
     regex-intro: *aftekenen
     chatbots: *aftekenen
     carpentry-finding: *aftekenen
-    regex-cases: *aftekenen
+    grep: *aftekenen
 
     web-lecture: *aftekenen
     profile: *punten

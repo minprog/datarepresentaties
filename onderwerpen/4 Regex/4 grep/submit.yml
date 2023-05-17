@@ -1,4 +1,4 @@
-name: regex
+name: grep
 files:
     required:
-        - regex.pdf
+        - grep.pdf
