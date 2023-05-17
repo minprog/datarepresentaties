@@ -4,9 +4,9 @@
 2. hou goed bij wat je opvalt en wat je leert,
 3. en beantwoord dan de vragen hieronder.
 
-![embed](https://www.youtube.com/embed/NoYfOHAYY7o)
+![embed](https://www.youtube.com/embed/Kuy4cEXpXEE)
 
-- [Open in CS50 video player](https://video.cs50.io/NoYfOHAYY7o?screen=-v6DvNFLFnY)
+- [Open in CS50 video player](https://video.cs50.io/Kuy4cEXpXEE?start=983)
 - [Open lecture notes](https://cs50.harvard.edu/college/2022/spring/notes/cybersecurity/)
 
 ## Vragen
