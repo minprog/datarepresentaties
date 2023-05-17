@@ -1,4 +1,4 @@
-# Software Carpentry UNIX (deel 1)
+# Bestandssysteem in UNIX
 
 1. Lees het hoofdstuk en doe het eerste deel van de workshop hieronder,
 2. hou goed bij wat je opvalt en wat je leert,
