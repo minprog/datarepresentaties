@@ -16,14 +16,14 @@ grades:
     pidac: *punten
 
     hardware: *aftekenen
-    intro: *aftekenen
+    big-picture: *aftekenen
     binary: *aftekenen
     software-carpentry: *aftekenen
 
     security: *aftekenen
     opsys: *aftekenen
-    filesys: *aftekenen
     software-carpentry-2: *aftekenen
+    unix-tools: *aftekenen
 
     multimedia: *aftekenen
     binrep: *aftekenen
