@@ -1,4 +1,4 @@
-# Binary values and number systems
+# Binair tellen
 
 1. Studeer in de hieronder genoemde hoofdstukken,
 2. hou goed bij wat je opvalt en wat je leert,
