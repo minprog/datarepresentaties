@@ -22,7 +22,7 @@ grades:
 
     security: *aftekenen
     opsys: *aftekenen
-    carpentry-tools: *aftekenen
+    carpentry-pipelines: *aftekenen
     unix-tools: *aftekenen
 
     multimedia: *aftekenen
@@ -93,7 +93,7 @@ module_2:
     submits:
         security: 1
         opsys: 1
-        carpentry-tools: 3
+        carpentry-pipelines: 3
         unix-tools: 1
         tentamen-oneliners: 0
 

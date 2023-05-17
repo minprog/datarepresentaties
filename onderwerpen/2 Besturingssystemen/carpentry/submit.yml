@@ -1,4 +1,4 @@
-name: carpentry-tools
+name: carpentry-pipelines
 files:
     required:
-        - carpentry-tools.pdf
+        - carpentry-pipelines.pdf
