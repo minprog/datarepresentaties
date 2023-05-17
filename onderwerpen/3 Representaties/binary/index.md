@@ -1,4 +1,4 @@
-# Representaties
+# Binaire representatie
 
 1. Studeer in het hieronder genoemde hoofdstuk,
 2. hou goed bij wat je opvalt en wat je leert,

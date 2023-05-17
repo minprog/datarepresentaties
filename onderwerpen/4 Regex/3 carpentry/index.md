@@ -1,4 +1,4 @@
-# Software Carpentry UNIX (deel 3)
+# Zoeken in bestanden
 
 1. Doe het laatste deel van de workshop,
 2. hou goed bij wat je opvalt,
