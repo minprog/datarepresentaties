@@ -1,4 +1,4 @@
-# Security
+# Beveiliging
 
 1. Bestudeer het videocollege,
 2. hou goed bij wat je opvalt en wat je leert,

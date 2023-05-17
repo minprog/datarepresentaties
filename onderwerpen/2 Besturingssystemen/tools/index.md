@@ -1,4 +1,4 @@
-# Manipulating files with UNIX
+# UNIX-commando's
 
 1. Studeer in het hieronder genoemde hoofdstuk en doe de oefeningen,
 2. hou goed bij wat je opvalt en wat je leert,

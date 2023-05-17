@@ -21,10 +21,10 @@ Representaties:
     Bestandsformaten [opdracht]: /onderwerpen/representaties/formaten
 
 Reguliere expressies:
-    Reguliere expressies [boek]: /onderwerpen/regex/uitleg
+    Reguliere expressies [boek]: /onderwerpen/regex/intro
     Chatbots [opdracht]: /onderwerpen/regex/chatbots
-    Using grep [carpentry]: /onderwerpen/regex/carpentry
-    Reguliere expressies [opdracht]: /onderwerpen/regex/opdrachten
+    Zoeken in bestanden [carpentry]: /onderwerpen/regex/carpentry
+    Werken met grep [opdracht]: /onderwerpen/regex/opdrachten
 
 Web development:
     Web [college]: /onderwerpen/web/lecture

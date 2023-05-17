@@ -1,4 +1,4 @@
-name: software-carpentry
+name: carpentry-files
 files:
     required:
-        - software-carpentry.pdf
+        - carpentry-files.pdf

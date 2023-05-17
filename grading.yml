@@ -18,21 +18,22 @@ grades:
     hardware: *aftekenen
     big-picture: *aftekenen
     binary: *aftekenen
-    software-carpentry: *aftekenen
+    carpentry-files: *aftekenen
 
     security: *aftekenen
     opsys: *aftekenen
-    software-carpentry-2: *aftekenen
+    carpentry-tools: *aftekenen
     unix-tools: *aftekenen
 
     multimedia: *aftekenen
-    binrep: *aftekenen
+    binaire-representatie: *aftekenen
     text: *aftekenen
     formaten: *aftekenen
 
-    regex: *aftekenen
-    unix_tools: *aftekenen
-    csv: *aftekenen
+    regex-intro: *aftekenen
+    chatbots: *aftekenen
+    carpentry-finding: *aftekenen
+    regex-cases: *aftekenen
 
     web-lecture: *aftekenen
     profile: *punten
@@ -83,7 +84,7 @@ module_1:
         hardware: 1
         big-picture: 1
         binary: 1
-        software-carpentry: 3
+        carpentry-files: 3
         tentamen-commands: 0
 
 module_2:
@@ -92,7 +93,7 @@ module_2:
     submits:
         security: 1
         opsys: 1
-        software-carpentry-2: 3
+        carpentry-tools: 3
         unix-tools: 1
         tentamen-oneliners: 0
 
@@ -101,7 +102,7 @@ module_3:
     type: points
     submits:
         multimedia: 1
-        binrep: 1
+        binaire-representatie: 1
         text: 1
         formaten: 3
 
@@ -109,9 +110,10 @@ module_4:
     show_progress: true
     type: points
     submits:
-        regex: 3
-        unix_tools: 2
-        csv: 1
+        regex-intro: 3
+        chatbots: 2
+        carpentry-finding: 3
+        grep: 1
         tentamen-regexes: 0
 
 module_5:

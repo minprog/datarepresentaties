@@ -1,4 +1,4 @@
-# Software Carpentry UNIX (deel 2)
+# Pipelines in UNIX
 
 1. Doe het tweede deel van de workshop,
 2. hou goed bij wat je opvalt,
