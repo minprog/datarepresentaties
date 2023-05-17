@@ -31,10 +31,10 @@ Web development:
     Homepage [opdracht]: /onderwerpen/web/homepage
 
 Web tools:
-    Internet [college]: /onderwerpen/tools/internet
-    JSON [opdracht]: /onderwerpen/tools/json
-    Curl [oefening]: /onderwerpen/tools/curl
-    Scraping [opdracht]: /onderwerpen/tools/scraping
+    Internet [college]: /onderwerpen/scraping/internet
+    JSON [opdracht]: /onderwerpen/scraping/json
+    CSS [oefening]: /onderwerpen/scraping/css
+    Scraping [opdracht]: /onderwerpen/scraping/scraping
 
 Databases:
     Databases [college]: /onderwerpen/databases/lecture

@@ -89,7 +89,7 @@ Voor deze cursus kun je 48 punten halen.
 | Web Development    | Web development       | schrijven | 1      | -              |
 |                    | Homepage              | opdracht  | 5      |                |
 |--------------------|-----------------------|-----------|--------|----------------|
-| Web Tools          | Internet              | schrijven | 1      | Scraping       |
+| Scraping           | Internet              | schrijven | 1      | Scraping       |
 |                    | JSON                  | oefenen   | 1      |                |
 |                    | CSS                   | oefenen   | 1      |                |
 |                    | Scraping              | oefenen   | 3      |                |
