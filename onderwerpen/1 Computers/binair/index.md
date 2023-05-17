@@ -37,7 +37,7 @@ Beantwoord de vragen hieronder. Je antwoorden worden beoordeeld op inzet en corr
     1. 998
     1. 43
 
-4.  Stel dat je een 18-tallig stelsel ontwerpt voor het representeren van getallen. Welke symbolen (maar niet letters zoals gebruikelijk bij hexadecimaal) zou je kunnen gebruiken voor de 18 verschillende cijfers?
+4.  Bij hexadecimaal gebruiken we de cijfers 0-9 en de letters A-F om getallen op te schrijven. Zonder die letters hebben we niet genoeg symbolen om 16 verschillende cijfers weer te geven. Stel dat je een 18-tallig stelsel ontwerpt voor het representeren van getallen. Welke symbolen zou je kunnen gebruiken voor de 18 verschillende cijfers, als je géén letters mag gebruiken? Bedenk een concreet alternatief.
 
 5.  Beschrijf welke opvallende dingen je hebt geleerd bij het studeren op het college en het uitwerken van de vragen. Geef aan wat je eventueel moeilijk vond en welke bronnen je hebt gebruikt om verder uit te zoeken wat je moest begrijpen. Als je het makkelijk vond had je waarschijnlijk voorkennis. In dat geval kun je die voorkennis vergelijken met het college: wat was er anders of zelfs in tegenspraak? Zonder uitgebreid antwoord op deze vraag kun je geen punten halen voor de opdracht.
 

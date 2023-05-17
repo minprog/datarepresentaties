@@ -1,4 +1,4 @@
-# Introduction to computing
+# The Big Picture
 
 1. Bestudeer het materiaal hieronder,
 2. hou goed bij wat je opvalt en wat je leert,
