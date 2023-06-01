@@ -1,0 +1,4 @@
+name: text
+files:
+    required:
+        - text.pdf

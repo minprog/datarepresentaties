@@ -78,8 +78,8 @@ Voor deze cursus kun je 48 punten halen.
 |--------------------|-----------------------|-----------|--------|----------------|
 | Representaties     | Multimedia            | schrijven | 1      | -              |
 |                    | Binaire representatie | oefenen   | 1      |                |
-|                    | Tekstcodering         | lezen     | 0      |                |
-|                    | Bestandsformaten      | opdracht  | 4      |                |
+|                    | Tekstcodering         | lezen     | 1      |                |
+|                    | Bestandsformaten      | opdracht  | 3      |                |
 |--------------------|-----------------------|-----------|--------|----------------|
 | Text processing    | Reguliere expressies  | oefenen   | 1      | Regex + grep   |
 |                    | Chatbots              | oefenen   | 1      |                |

@@ -8,6 +8,8 @@ Wat je moet weten voor het tentamen:
 - Hoe je meerdere commando's kunt combineren met pipes (`|`).
 - Hoe redirection werkt met (`<` en `>`).
 
+> Nog toe te voegen: meer opdrachten die begrip absolute/relatieve paths checken
+
 
 ## Overzicht behandelde commando's
 

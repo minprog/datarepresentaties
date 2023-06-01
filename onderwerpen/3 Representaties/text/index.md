@@ -22,6 +22,8 @@ Tegelijk is het niet zo efficiënt als je voor alle letters 2 bytes gaat gebruik
 
 ![embed](https://www.youtube.com/embed/MijmeoH9LT4)
 
+Dit is relevant als je geautomatiseerd data gaat verwerken; je moet dan zorgen dat je meerdere formaten aankunt, of dat alle data gegarandeerd in hetzelfde formaat wordt aangeleverd.
+
 ## Verwarring tussen ASCII en Unicode
 
 Het mooie is dat de eerste 128 tekens van Unicode precies zo zijn gecodeerd als in ASCII. Het allereerste bit in de binaire representatie is in die gevallen altijd **0** (kijk maar naar de ASCII-tabel). De resterende 7 bits worden gebruikt om het specifieke teken te coderen. Tekens die beginnen met een **1** worden wél anders geïnterpreteerd in Unicode UTF-8 dan in ASCII. Je mag er daarom bij UTF-8 niet meer vanuit gaan dat byte die begint met een 1 een teken is dat je in de ASCII-tabel kunt opzoeken.
@@ -95,6 +97,24 @@ Als je "zinnen" wil onderscheiden in dit bestand dan doet de CR/LF aan het eind 
 ## Conclusie
 
 Wat we maar willen zeggen: alles op de computer is kunstmatig. Iemand heeft een beslissing genomen (waarschijnlijk een heel comité) en vanaf dat moment wordt op een bepaald systeem, of in een bepaald deel van de wereld die beslissing gevolgd (dit heet ook wel een **conventie**). Daarnaast kan in bepaalde toepassingen een bepaalde conventie gevolgd worden. Als programmeur moet je altijd in je achterhoofd houden dat files verschillende herkomsten kunnen hebben en op een andere manier in elkaar zitten. Of je moet juist files schrijven die voor een bepaalde doelgroep zijn.
+
+## Opdracht
+
+De lijst studenten van Programmeren 1 heeft wat problemen. We hebben deze in Excel opgeslagen als CSV en we kregen meteen deze melding:
+
+![Possible Data Loss. Some features might be lost if you save this workbook in the comma-delimited (.csv) format. To preserve these features, save it in an Excel file format.](excel.png)
+
+Hadden we maar geluisterd... want we hebben de originele .xlsx weggegooid en nu zitten we met een [nogal onhandig te verwerken bestand](students_50621PRP6Y.csv). Je **moet** het downloaden via dit commando om de originele versie te krijgen:
+
+    curl -OL https://raw.githubusercontent.com/minprog/datarepresentaties/2022/onderwerpen/4%20Text/csv/students_50621PRP6Y.csv
+
+Het volgende is mis:
+
+- Line endings zijn Mac OS 7-style `\r`, wat niet goed werkt met UNIX-tools
+- De laatste kolom is een opsomming van studies met komma ertussen, maar er staan geen quotes om heen
+- De kolommen zijn gescheiden met een puntkomma in plaats van een komma
+
+Geef de commando's, liefst een one-liner, om het bestand te corrigeren voor verdere verwerking als CSV. Je kunt dit doen met hulp van de UNIX-tools die je eerder hebt leren kennen.
 
 ## Inleveren
 

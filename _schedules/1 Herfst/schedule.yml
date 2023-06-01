@@ -7,12 +7,16 @@ Computers:
     The Big Picture [boek]: /onderwerpen/computers/big-picture
     Binair tellen [boek]: /onderwerpen/computers/binair-tellen
     Bestandssysteem in UNIX [carpentry]: /onderwerpen/computers/carpentry
+    Tentamen:
+        Oefeningen: /onderwerpen/computers/oefeningen
 
 Besturingssystemen:
     Beveiliging [college]: /onderwerpen/besturingssystemen/security
     Besturingssystemen [boek]: /onderwerpen/besturingssystemen/intro
     Pipelines in UNIX [carpentry]: /onderwerpen/besturingssystemen/carpentry
     UNIX-commando's [boek]: /onderwerpen/besturingssystemen/tools
+    Tentamen:
+        Oefeningen: /onderwerpen/besturingssystemen/oefeningen
 
 Representaties:
     Multimedia [college]: /onderwerpen/representaties/multimedia
@@ -25,6 +29,8 @@ Text processing:
     Chatbots [opdracht]: /onderwerpen/regex/chatbots
     Zoeken in bestanden [carpentry]: /onderwerpen/regex/carpentry
     Werken met grep [opdracht]: /onderwerpen/regex/grep
+    Tentamen:
+        Oefeningen: /onderwerpen/regex/oefeningen
 
 Web development:
     Web [college]: /onderwerpen/web/lecture
@@ -35,11 +41,15 @@ Web tools:
     JSON [opdracht]: /onderwerpen/scraping/json
     CSS [oefening]: /onderwerpen/scraping/css
     Scraping [opdracht]: /onderwerpen/scraping/scraping
+    Tentamen:
+        Oefeningen: /onderwerpen/scraping/oefeningen
 
 Databases:
     Databases [college]: /onderwerpen/databases/lecture
     Movies [opdracht]: /onderwerpen/databases/movies
     Fiftyville [opdracht]: /onderwerpen/databases/fiftyville
+    Tentamen:
+        Oefeningen: /onderwerpen/databases/oefeningen
 
 Tentamen:
     Oefeningen UNIX-commando's: /onderwerpen/computers/oefeningen
