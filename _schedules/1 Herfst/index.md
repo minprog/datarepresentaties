@@ -101,7 +101,7 @@ Voorwaarden voor de punten per module:
 
 - Bij elke opdracht staat vermeld hoe deze beoordeeld wordt. Soms zijn deelpunten mogelijk, meestal moet de hele opdracht goed zijn om alle punten te krijgen.
 
-- Je krijgt alleen punten voor de module als je het bijbehorende tentamen-onderdeel <u>voldoende</u> maakt. Als in de tabel geen tentamen-onderwerp vermeld is dan geldt de eis niet voor die module.
+- Je krijgt alleen punten voor de module als je opdrachten serieus maakt én het bijbehorende tentamen-onderdeel <u>voldoende</u> maakt. Als in de tabel geen tentamen-onderwerp vermeld is, dan krijg je die punten op basis van de opdrachten alleen.
 
 - Je krijgt alleen punten voor de opdrachten die je op tijd hebt ingeleverd, volgens de deadline die hierboven is vermeld. Het idee is dus dat je het goed bijhoudt.
 
