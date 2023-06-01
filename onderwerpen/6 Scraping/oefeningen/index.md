@@ -1,5 +1,7 @@
 # Oefeningen
 
+> De tentamen-oefeningen zijn nog niet bijgewerkt voor het nieuwe studiejaar. Er ontbreken nog onderdelen of vragen gaan op een andere manier gesteld worden.
+
 Deze vragen zijn goede oefeningen voor het tentamen. De verwachting is dat je alle vragen op het tentamen correct beantwoordt, foutjes daargelaten. Je hebt dus parate kennis nodig van de regels die je nodig hebt om via `pup` informatie uit een HTML-pagina te extraheren.
 
 Je kunt onderstaande oefeningen niet inleveren en ze horen dus ook niet bij de deadline voor de Scraping-module.

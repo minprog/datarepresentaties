@@ -112,6 +112,17 @@ Je eindcijfer kun je vervolgens berekenen met `totaal_punten / 48 * 9 + 1`. Als 
 De opdrachten kunnen niet "herkanst" worden na de deadline. Voor het tentamen wordt een normale herkansing gepland. Hier hoef je alleen de onderdelen te herkansen die nog onvoldoende zijn. Het heeft geen zin om een module op het tentamen te herkansen waarvan je de opdrachten uiteindelijk niet op tijd had ingeleverd.
 
 
+## Tentamen
+
+Voor dit vak is er een schriftelijk tentamen, waar je op papier korte commando's en stukjes code moet schrijven om je kennis en inzicht te demonstreren.
+
+Het tentamen heeft vijf losse onderdelen, zoals benoemd in de tabel hierboven. Voor elk onderdeel wordt bepaald of je het voldoende gehaald hebt, en daarmee worden de punten voor die module vastgelegd, op basis van de opdrachten die je tijdens de cursus hebt ingeleverd.
+
+Het heeft dus ook geen zin om onderdelen op het tentamen te doen waarvoor je tijdens de cursus geen punten hebt gehaald (bijvoorbeeld als je een week hebt overgeslagen).
+
+Er is daarnaast een herkansing ingepland. Bij deze herkansing hoef je alléén onderdelen te doen die je nog niet gehaald hebt. Andere onderdelen blijven staan. Ook hier geldt dat je punten krijgt als je de opdrachten tijdig had ingeleverd, en het tentamenonderdeel voldoende hebt gemaakt.
+
+
 ## Samenwerken
 
 Je mag met je medestudenten (en anderen) communiceren in het Nederlands of Engels over je werk in deze cursus, maar niet in de vorm van meer dan een paar regels JavaScript, HTML en dergelijke talen. Als je twijfelt of je manier van werken in deze correct is, neem gerust contact op met de docenten.

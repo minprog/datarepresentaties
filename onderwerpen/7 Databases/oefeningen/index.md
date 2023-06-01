@@ -1,5 +1,7 @@
 # Oefeningen
 
+> De tentamen-oefeningen zijn nog niet bijgewerkt voor het nieuwe studiejaar. Er ontbreken nog onderdelen of vragen gaan op een andere manier gesteld worden.
+
 Deze vragen zijn goede oefeningen voor het tentamen. Op het tentamen kun je ook vragen verwachten op basis van de jou al bekende Movies-database. De verwachting is dat je alle vragen op het tentamen correct beantwoordt, foutjes daargelaten. Je hebt dus parate kennis nodig van SQL en wat de verschillende clausules (JOIN, WHERE, enzovoort) doen. Als je merkt dat je deze kennis nog niet echt paraat hebt, dan kun je extra studeren met hulp van het videocollege of externe bronnen over SQL.
 
 Je kunt onderstaande oefeningen niet inleveren en ze horen dus ook niet bij de deadline voor de Databases-module.
