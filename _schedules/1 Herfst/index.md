@@ -29,7 +29,7 @@ Module 0 loopt dwars door de andere modules heen in de studieweken 2, 3 en 4. Hi
 
 **Voor studenten die tegelijk Programmeren 1 volgen:**
 
-Deze studenten doen de fulltime Minor Programmeren. In principe hou je het dagschema aan zoals dat in het lokaal hangt. Een beetje schuiven is geen probleem. Opdrachten kunnen na **zondag om 16:59** niet meer ingeleverd worden voor punten.
+Deze studenten doen de fulltime Minor Programmeren. In principe hou je het dagschema aan zoals dat in het lokaal hangt. Een beetje schuiven is geen probleem. Opdrachten kunnen na **vrijdag om 16:59** niet meer ingeleverd worden voor punten.
 
 **Voor studenten die alleen Datarepresentaties volgen:**
 
@@ -78,8 +78,8 @@ Voor deze cursus kun je 48 punten halen.
 |--------------------|-----------------------|-----------|--------|----------------|
 | Representaties     | Multimedia            | schrijven | 1      | -              |
 |                    | Binaire representatie | oefenen   | 1      |                |
-|                    | Tekstcodering         | oefenen   | 1      |                |
-|                    | Bestandsformaten      | opdracht  | 3      |                |
+|                    | Tekstcodering         | lezen     | 0      |                |
+|                    | Bestandsformaten      | opdracht  | 4      |                |
 |--------------------|-----------------------|-----------|--------|----------------|
 | Text processing    | Reguliere expressies  | oefenen   | 1      | Regex + grep   |
 |                    | Chatbots              | oefenen   | 1      |                |
@@ -103,7 +103,9 @@ Voorwaarden voor de punten per module:
 
 - Je krijgt alleen punten voor de module als je het bijbehorende tentamen-onderdeel <u>voldoende</u> maakt. Als in de tabel geen tentamen-onderwerp vermeld is dan geldt de eis niet voor die module.
 
-- Je krijgt alleen punten voor de opdrachten die je op tijd hebt ingeleverd, volgens de deadline die hierboven is vermeld. Voor PIDAC geldt dat je alleen punten krijgt als je aanwezig was en de bijbehorende opdracht af hebt.
+- Je krijgt alleen punten voor de opdrachten die je op tijd hebt ingeleverd, volgens de deadline die hierboven is vermeld. Het idee is dus dat je het goed bijhoudt.
+
+- Voor PIDAC geldt dat je alleen punten krijgt als je aanwezig was en de bijbehorende opdracht af hebt.
 
 Je eindcijfer kun je vervolgens berekenen met `totaal_punten / 48 * 9 + 1`. Als je dus de helft van de punten haalt is dat een 5,5 als cijfer, en dat betekent een voldoende voor het vak.
 

@@ -6,53 +6,50 @@
 
 ## Plain text
 
-Files containing plain text are nothing special. As you've seen previously, even text is eventually stored in binary format, meaning that it is written in memory or on disk using 0's and 1's. In that sense, it's nothing different from formats like MP3 to store music or docx to store text and layout.
+Bestanden met "plain text" zijn eigenlijk niets bijzonders. Zoals je eerder hebt gezien wordt ook tekst uiteindelijk in binair formaat opgeslagen, wat betekent dat zo'n tekst in het geheugen of op een harddisk wordt weggeschreven met nullen en enen. In die zin is het niets anders dan een formaat zoals MP3 om muziek op te slaan of docx om tekst en lay-out op te slaan.
 
-However, plain text has a distinct place in computing because of the sheer number of applications that use plain text, and because plain text files can easily be inspected by humans (in most cases).
-Plain text can be shown using just about any computer without using specialized programs, as you would need to show, for example, a 3D model of a human organ.
+Platte tekst heeft echter een aparte plaats in de computerwereld vanwege het enorme aantal toepassingen dat eenvoudige tekst gebruikt en omdat platte-tekstbestanden (in de meeste gevallen) gemakkelijk door mensen kunnen worden gelezen, ook als het programma waarmee het is gemaakt, even niet beschikbaar is. Platte tekst kan dus worden weergegeven met vrijwel elke computer zonder speciale programma's, zoals je die wel nodig zou hebben voor bijvoorbeeld het weergeven van een 3D-model van een menselijk orgaan.
 
-Even plain text comes with some problems. It would have been great if every word in any language could be expressed using the 256 different characters of extended ASCII. And yes, it has been [tried](https://en.wikipedia.org/wiki/Transliteration_of_Chinese) to make other languages "compatible" with English. But in reality, ASCII is not flexible enough.
-
-In addition, there are some problems with the interpretation of special characters and language concepts. We'll discuss the most important ones here.
-
-It's even possible to represent structured data using plain text files, and we'll learn more about that in the next module.
+Ook platte tekst levert toch wat problemen op. Het zou erg handig zijn geweest als elk woord in welke taal dan ook kon worden uitgedrukt met behulp van de 256 verschillende karakters van ASCII. En ja, er is wel [geprobeerd](https://en.wikipedia.org/wiki/Transliteration_of_Chinese) om andere talen "compatibel" te maken met het Engels. Maar realistisch gezien is ASCII niet flexibel genoeg, en heeft gewoon niet genoeg verschillende tekens. Daarom zijn er **verschillende coderingen om tekst te beschrijven met nullen en enen**.
 
 ## Unicode
 
-In a previous module you've read about Unicode. Unicode is a more modern invention and is much more ambitious than ASCII: it aims to represent as many human scripts as possible (currently 159), as well as various kinds of symbols. Currently, there are around 100.000 characters in Unicode, and the number is increasing every year. Allowing that many characters is done, in essence, by increasing the number of bits available to represent one character ("code point" in Unicode).
+Bij het onderdeel over binaire representatie heb je al gelezen over Unicode. Unicode is een modernere uitvinding en daarbij veel ambitieuzer dan ASCII: het heeft tot doel zoveel mogelijk menselijke schriften weer te geven (momenteel 159), evenals verschillende soorten symbolen. Er zijn zo'n 100.000 tekens gedefinieerd in Unicode, en het aantal neemt elk jaar toe.
 
-In fact, in the book it is said that Unicode always uses 16 bits per code point. That's not quite the case. Unicode text are nowadays most often saved using UTF-8 encoding. Here, every character does not take the **same** number of bits. UTF-8 assigns characters 1 **or more** bytes. Any character encoded in 2 or more bytes is called a "multi-byte" character. So how does that work? Take a look at the following:
+Het mogelijk maken van zoveel verschillende tekens wordt in feite gedaan door het aantal **beschikbare bits te vergroten** waarmee één teken wordt gerepresenteerd (elk "teken" of character wordt in Unicode een "code point" genoemd). In het boek wordt zelfs gezegd dat Unicode altijd 16 bits per codepunt gebruikt. Een tijdlang is Unicode inderdaad op die manier gebruikt: simpelweg 2 bytes per letter. Dat geeft een heleboel extra ruimte.
+
+Tegelijk is het niet zo efficiënt als je voor alle letters 2 bytes gaat gebruiken. Elke file in Unicode wordt dan 2x zo groot als in ASCII (als je bijvoorbeeld Engels schrijft). Daarom wordt Unicode-tekst tegenwoordig meestal opgeslagen met **UTF-8**-codering. In deze codering kunnen code points **1 of meer** bytes innemen, in plaats van altijd 2. Hoe werkt dat? Kijk eens naar het volgende:
 
 ![embed](https://www.youtube.com/embed/MijmeoH9LT4)
 
-So the nice thing is that the first 128 characters of Unicode are encoded exactly as they are in ASCII. The very first bit in a byte is always 0 in those cases. The remaining 7 bits are used to encode the specific character.
+## Verwarring tussen ASCII en Unicode
 
-In contrast, characters starting with a 1 will be interpreted differently in Unicode UTF-8 than there are in ASCII. This means that every ASCII text (but not extended ASCII) is valid UTF-8. In other words, many files can be read assuming that they are interpretable as UTF-8.
+Het mooie is dat de eerste 128 tekens van Unicode precies zo zijn gecodeerd als in ASCII. Het allereerste bit in de binaire representatie is in die gevallen altijd **0** (kijk maar naar de ASCII-tabel). De resterende 7 bits worden gebruikt om het specifieke teken te coderen. Tekens die beginnen met een **1** worden wél anders geïnterpreteerd in Unicode UTF-8 dan in ASCII. Je mag er daarom bij UTF-8 niet meer vanuit gaan dat byte die begint met een 1 een teken is dat je in de ASCII-tabel kunt opzoeken.
 
-**Question 1.** Why is not every text encoded in "extended ASCII" also valid Unicode?
+Dat is allemaal niet zo'n probleem, als je maar weet of een bestand ASCII of Unicode UTF-8 is.
 
-However, every UTF-8 file is not necessarily valid ASCII. This becomes a problem in older text editors that do not expect UTF-8 text. It also becomes a problem in tools to process text written using for example Python version 2.x.
+En dat is waar het nu net mis gaat. Er staat namelijk bovenaan een tekstbestand géén indicatie staat of het Unicode is of ASCII. Een tekstbestand bevat immers de tekst zelf en niets anders.
 
-**Question 2.** What will happen if you load a UTF-8 file in a text editor that only supports (extended) ASCII?
+Aan de bytes kun je het ook niet echt zie. Als je ze inspecteert zie je gewoon een heleboel bytes waarvan de meeste met een 0 beginnen (als je Engelse of Nederlandse tekst schrijft) maar je ziet waarschijnlijk ook bytes die met een 1 beginnen. Met jouw kennis van taal kun je soms wel zien of ASCII hier de juiste tekst geeft, maar een computer kan dit niet zomaar "zien". Daarom kan het gebeuren dat je een tekst opent en sommige tekens er vreemd uitzien.
 
-Because of this, encodings can be a bit of a hassle. It's good to be aware of this. In this course, we will notify you in case encodings may become a problem.
+Conclusie: dit betekent dat elke ASCII-tekst (maar dus niet elke tekst in *extended ASCII*) geldige UTF-8 is. Met andere woorden, veel bestanden die oorspronkelijk opgeslagen zijn in ASCII kunnen worden gelezen alsof het UTF-8 is.
 
-## Line breaks
+Andersom is lastiger: als je een UTF-8 bestand opent in een teksteditor die dit niet verwacht, of helemaal niet aankan, dan kan het zijn dat bepaalde letters anders zijn dan verwacht. Ook programma's in oude programmeertalen zoals Python versie 2 kunnen dit probleem hebben.
 
-ASCII and Unicode also contains various kinds of control codes, or "unprintable characters". A few of those are used to represent the "end of" something. The most important ones are the characters that signal the **end of a line**.
+Encodings voor tekst zijn dus een beetje gedoe, omdat in de tekst niet staat welke encoding is gebruikt. In de praktijk speelt het probleem steeds minder vaak, maar duikt wel plotseling weer op als je bijvoorbeeld met een wat oudere dataset aan de slag gaat.
 
-There are two characters that may be used to end a line:
+## Regeleindes
 
-| Code | Hex | Meaning    | Acronym | Escape |
-| ---- | --- | ---------- | ------- | ------ |
-| 10   | 0a  | line feed  | LF      | \n     |
-| 13   | 0d  | carriage return | CR | \r     |
+ASCII en Unicode bevatten naast letters ook een aantal veelgebruikte control-codes, ook wel "unprintable characters" genoemd. Enkele van die tekens representeren het "einde" van iets, en de belangrijkste zijn de twee tekens die het **einde van een regel** markeren. Hier staan ze in een tabel met hun code-nummer:
 
-Historically, [these two characters do not mean the same thing at all](https://youtu.be/C4Z0ZdYHW3o). ([Also.](https://youtu.be/JY3QfJ6KHq0)). But since printers got more automated (and we stopped using printers anyway) the difference has become less important.
+| Code | Hex | Meaning         | Acronym | Escape |
+| ---- | --- | --------------- | ------- | ------ |
+| 10   | 0a  | line feed       | LF      | \n     |
+| 13   | 0d  | carriage return | CR      | \r     |
 
-Now in software, the thing we do most often is storing text files on disk and retrieving them again to show or edit. So what is needed there is some character that signifies the end of a line. Based on the availability of both LF and CR, different software makers did different things and we ended up with a mess!
+Historisch gezien hebben de twee tekens een totaal verschillend doel: line feed gaat naar de **volgende** regel, en carriage return gaat naar het **begin** van de (huidige) regel. Dit verschil maakt uit bij zoiets als een "[matrix printer](https://en.wikipedia.org/wiki/Dot_matrix_printing#/media/File:Printer_dot_matrix_EPSON_VP-500.jpg)" maar niet in moderne toepassingen.
 
-At this point it is somewhat common to find text files using the following line endings:
+In tekstbestanden die we op het scherm tonen, of bewerken, is het nog steeds nodig om aan te geven als een regel "eindigt", want hoe hebben we anders een paragraaf? Ook hiervoor worden CR en LF gebruikt, maar op verschillende systemen gaat het wel om verschillende combinaties van beide. Dit is wel iets makkelijker te detecteren dan het gebruik van UTF-8, maar toch is het erg onhandig.
 
 | Characters | Operating System |
 | ---------- | ---------------- |
@@ -60,46 +57,44 @@ At this point it is somewhat common to find text files using the following line 
 | LF         | Most UNIX files + Mac OS X |
 | CRLF       | Windows files    |
 
-Yes, on Windows they actually use two characters to indicate line endings. It's most consistent with how a type writer works, but maybe a bit old fashioned. But that's the way it works.
+Zoals je ziet wordt op oude Mac-systemen CR gebruikt, en op moderne UNIX-gebaseerde systemen LF. Windows doet het wéér anders (maar wel al heel lang op dezelfde manier), namelijk door beide tekens achter elkaar te gebruiken! Elk regeleinde in een tekstbestand gemaakt onder Windows kost dus 16 bytes.
 
-The point is here, you *could* encounter some of these combinations when processing data. It could also very well be that you encounter just one of the above. However, it is up to you to be certain about this by talking to whoever delivered you the data, or using `xxd` to see what's going on.
+Je kunt al deze combinaties tegenkomen als je een tekstbestand hebt met onbekende herkomst. Sommige programma's achterhalen automatisch wat de bedoeling is (ofwel, elke combinatie van CR/LF beschouwen ze als regeleinde). Andere programma's houden star vast aan hun eigen conventie. Als jij een tekstbestand inlaadt in een zelfgeschreven programma moet je hier dus wel op letten.
 
-Let's create a file by typing some text into the terminal, redirecting to a new file (ending by pressing CTRL-D on an otherwise empty line):
+**Oefening.** Maak een bestand in de Terminal door de uitvoer van `cat` te redirecten naar een bestand genaamd `bla`. Je tikt een aantal regels in, steeds gevolgd door ENTER. Om te eindigen tik je de combinatie CTRL-D in op een lege regel. CTRL-betekent "end of input", waarmee je aangeeft dat er niets meer volgt en het programma de verwerking mag beëindigen. Het zou er zo uit moeten zien:
 
     % cat > bla
     hoe
     dan
     ^D
 
-Here's what `xxd` shows for a text made on modern macOS using the method above:
+Stel dat je op macOS werkt, en via `xxd` de bytes van het bestand bekijkt, dan ziet het er zo uit:
 
     % xxd -g1 bla 
     00000000: 68 6f 65 0a 64 61 6e 0a                          hoe.dan.
 
-`xxd` shows the hexadecimal representation of each byte in the file. For example, hex 68 is the character `h` in ASCII. And so on.
+Met `xxd` krijg je toegang tot de hexadecimale representatie van de bytes in het bestand. Het getal 68 (hex) is het teken `h` in ASCII. Vaak zie je ook hexadecimale versies in de ASCII-tabel staan, dus dan kun je het makkelijk opzoeken. Hierboven zie je voor CR en LF ook de hexadecimale representatie.
 
-🌵 **Question 3.** Write down everything you can figure out about the line endings in the above `xxd` results.
+Je ziet dat direct na elk woord `hoe` en `dan` alléén een `0a` staat. Dit is `10` in decimale representatie en dus een LF. Dit is wat we verwachten van Mac OS (en Linux). Als je Windows hebt met WSL, probeer dan bovenstaand recept ook in de WSL Terminal. En maak eens een bestand in Windows Notepad, en bekijk daar de inhoud van met `xxd`.
 
-## White space
+## Witruimte (white space)
 
-Another feature of ASCII and Unicode is white space. ASCII supports some characters that are shown as space on the screen and which are called the "white space characters". The most obvious example is the "space" character itself (ASCII 32) that is used to separate words.
+In de character sets van ASCII en Unicode komen ook tekens voor dit een vorm van witruimte voorstellen. De bekendste is de spatie (space) die in ASCII het getal 32 heeft gekregen. Hiermee worden meestal woorden onderscheiden in een tekst.
 
-A little bit more complex is the "tab" character (ASCII 9) that is used to separate records, but it's also used to format tables on screen. Unicode supports special versions of spaces, e.g. the ["thin space"](https://www.compart.com/en/unicode/U+2009) that takes up less room than a regular space.
+Een ander teken dat witruimte voorstelt is "tab", ofwel ASCII 9. Dit teken wordt historisch gebruikt om verschillende onderdelen van een dataregel te onderscheiden. Op het beeldscherm wordt een tab op een speciale manier weergegeven, met 1 of meer spaties.
 
-The problem is: what is whitespace? This is not necessarily well-defined. Say we have the following text file:
+Unicode bevat nog meer soorten spaties die interessant zijn om meer controle te hebben over typografie---relevant als je bijvoorbeeld een webpagina of een Word-document aan het maken bent. Zo is er bijvoorbeeld de ["thin space"](https://www.compart.com/en/unicode/U+2009) die iets minder ruimte inneemt en in bepaalde situaties gebruikt zou moeten worden.
 
-    two
-    words
+Voor dataverwerking is de relevante vraag: wat wordt gezien als witruimte en wat betekenen de verschillende soorten? Hoe je witruimte interpreteert hangt van het doel af. Stel dat je een bestand hebt met twee regels:
 
-There is no "space" character between "two" and "words", there's only a newline there (and/or a carriage return, as we discussed earlier). But obviously we see these as separate words when we read them. So what if you're making a tool that **counts the number of words in a file**? Which codes are seen as white space, and in turn decide how many words there are?
+    These are two
+    words.
 
-🌵 Your task is to investigate the inner workings of the tool called `wc` that is designed to count words in files.
+Als je "zinnen" wil onderscheiden in dit bestand dan doet de CR/LF aan het eind van de regel niet ter zake. De zin eindigt bij een punt. Maar "two" en "words" zijn wel twee *verschillende* woorden. Toch staat géén spatie tussen, maar alleen een CR/LF. Een CR/LF kunnen we dus als relevante witruimte zien als we individuele woorden in een tekst willen herkennen. Bijvoorbeeld als je simpelweg het aantal woorden in een tekst wil tellen.
 
-**Question 4.** What is a "word" according to the `wc` tool? Which characters are white space? Use `man wc` to start your investigation. You're going to need to read other man pages as well, as referred to by the `wc` man page. Another way to find out what "words" are according to `wc` is to make all kinds of test files and check out how `wc` deals with those. Make sure to explain in detail how you found your answer.
+## Conclusie
 
-**Question 5.** Which are the options to use with `wc` to show the number of **characters** vs. the number of **bytes**? Can you create a file using TextEdit or Notepad, save as UTF-8 and check whether wc provides different values for both counts? Provide details of what you did and what you found.
-
-Your take home message: everything in computers is artificial, someone just made a decision and hopefully the rest of the world follows that decision (if they do, it's called a **convention**). So what counts as whitespace is just something that was defined somewhere, and some people do it differently, so be sure to check what the definitions are!
+Wat we maar willen zeggen: alles op de computer is kunstmatig. Iemand heeft een beslissing genomen (waarschijnlijk een heel comité) en vanaf dat moment wordt op een bepaald systeem, of in een bepaald deel van de wereld die beslissing gevolgd (dit heet ook wel een **conventie**). Daarnaast kan in bepaalde toepassingen een bepaalde conventie gevolgd worden. Als programmeur moet je altijd in je achterhoofd houden dat files verschillende herkomsten kunnen hebben en op een andere manier in elkaar zitten. Of je moet juist files schrijven die voor een bepaalde doelgroep zijn.
 
 ## Inleveren
 
