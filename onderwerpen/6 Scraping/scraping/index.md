@@ -29,9 +29,7 @@ Met de optie `-s` voor `curl` zorgen we ervoor dat het programma geen "downloadi
 
 ## CSS
 
-Scraping met `pup` gaat op basis van de selectors die ook in CSS gebruikt worden. Hiermee kun je aangeven welk deel van de HTML je wilt hebben.
-
-In een vorige module heb je kennis gemaakt met CSS, maar je hebt hier nog niet systematisch mee geoefend. Ga naar [deze website om extra te oefenen](https://flukeout.github.io/). Zorg dat je de belangrijkste CSS-selectors kent. Op de GitHub-pagina van `pup` staat ook een lijstje van de ondersteunde CSS-selectors in deze tool.
+Scraping met `pup` gaat op basis van de selectors die ook in CSS gebruikt worden. Hiermee kun je aangeven welk deel van de HTML je wilt hebben. Op de GitHub-pagina van `pup` staat ook een lijstje van de ondersteunde CSS-selectors in deze tool.
 
 ## Opdrachten
 
