@@ -8,7 +8,9 @@
 
 In het hoofdstuk van Jurafsky en Martin heb je gezien dat de computertherapeut ELIZA geheel geïmplementeerd kan worden met hulp van reguliere expressies. In feite worden hier allerlei **regels** verzameld die op volgorde toegepast kunnen worden.
 
-Hoewel menselijke communicatie meestal flexibeler is dan het zuiver toepassen van strakke regels, is het vatten van allerlei patronen wel een succesvolle strategie om een prototype van een chatbot te implementeren. Nog sterker, het analyseren van potentiële patronen helpt je beter begrijpen hoe zo'n gesprek vorm krijgt.
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/RMK9AphfLco" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Hoewel menselijke communicatie meestal flexibeler is dan het zuiver toepassen van strakke regels, is het vatten van allerlei patronen wel een succesvolle strategie om een prototype van een chatbot te implementeren. Nog sterker, het analyseren van potentiële patronen en hiervan een programma maken helpt je beter begrijpen hoe zo'n gesprek vorm krijgt.
 
 ## Eigen implementatie
 
