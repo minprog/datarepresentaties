@@ -2,3 +2,4 @@ name: profile
 files:
     required:
         - profile.zip
+

@@ -87,3 +87,4 @@ Voor uitgebreide details over HTML, CSS en JS kun je kijken op de volgende pagin
 ## Reflectievraag
 
 Beschrijf uitgebreid twee problemen die je bent tegengekomen tijdens het maken van je Homepage en hoe je die problemen toen hebt opgelost. Dit is dus een beschrijving van je ontwikkelproces, met verwijzingen naar inhoud van de stof; het gaat daarbij niet om problemen met het begrijpen van bedoeling van de opdracht zelf, maar met de stof, dus hoe HTML, CSS en JS precies werken of juist niet werken.
+
