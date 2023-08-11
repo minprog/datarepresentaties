@@ -6,7 +6,9 @@
 
 ## Specificatie
 
-Bij dit deel van de workshop ga je reguliere expressies gebruiken, maar specifiek met het commando `grep`. De syntax van de reguliere expressies is grotendeels gelijk, behalve dat hier geen `//` wordt gebruikt.
+Gebruik de website van [Software carpentry](https://swcarpentry.github.io/shell-novice/) om de workshop te doen.
+
+Bij dit deel van de workshop ga je reguliere expressies gebruiken, maar specifiek met het commando `grep`. De syntax van de reguliere expressies is grotendeels gelijk, behalve dat hier geen `/.../` wordt gebruikt.
 
 3.  Doe alle oefeningen van **hoofdstuk 7** (Finding Things). Het doel is om goed voorbereid te zijn voor de komende weken. Je doet dit door goed te oefenen en commando's **over te tikken** en de resultaten te bestuderen. Als je mazzel hebt maak je ook nog een paar tikfouten waardoor je moet achterhalen wat er fout ging: dan leer je het meest.
 

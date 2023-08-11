@@ -1,16 +1,12 @@
 # Oefeningen
 
-> De tentamen-oefeningen zijn nog niet bijgewerkt voor het nieuwe studiejaar. Er ontbreken nog onderdelen of vragen gaan op een andere manier gesteld worden.
-
 Deze vragen zijn goede oefeningen voor het tentamen. Op het tentamen zelf zul je minder vragen krijgen over UNIX, maar verwacht een mix van onderstaande. De verwachting is dat je alle vragen op het tentamen correct beantwoordt, foutjes daargelaten. Je hebt dus parate kennis nodig van de commando's en wat ze doen. Als je merkt dat je deze kennis nog niet echt paraat hebt, dan kun je extra studeren met hulp van de Software Carpentry-workshop.
 
 Wat je moet weten voor het tentamen:
 
-- De globale werking van onderstaande commando's, zodat je de opdrachten hieronder uit je hoofd kunt beantwoorden.
-- Hoe je meerdere commando's kunt combineren met pipes (`|`).
-- Hoe redirection werkt met (`<` en `>`).
-
-> Nog toe te voegen: meer opdrachten die begrip absolute/relatieve paths checken
+- Hoe paths werken als verwijzing naar bestanden en directories in het file system.
+- De globale werking van onderstaande commando's en een aantal specifieke opties.
+- Hoe wildcards werken om meerdere bestanden te "matchen".
 
 
 ## Overzicht behandelde commando's
@@ -44,12 +40,6 @@ Data processing:
 - uniq, uniq -c
 - cat
 
-Daarnaast is het voor UNIX nodig om te weten:
-
-- hoe paths werken (van files en directories)
-- hoe wildcards werken
-- hoe pipes en redirects werken
-
 
 ## Vragen over commando's
 
@@ -65,49 +55,19 @@ Beantwoord de volgende vragen. Geef altijd een concreet en compleet commando. Al
 1. Wat is het commando om hele map te kopiëren naar een andere locatie?
 1. Hoe verwijder je een bestand?
 
-## Opgaven met one-liners
 
-Gegeven dit bestand:
+## Opgaven met paths
 
-    apple
-    banana
-    cherry
-    apple
-    date
-    fig
-    banana
-    grape
-    apple
-    date
+Geef commando's om een bestand te `cat`ten, dus de inhoud op het scherm te printen. Twee notities:
 
-Geef one-liners voor de volgende opdrachten:
+- Als je `cd` gebruikt om naar een directory te "gaan" dan "ben je in de directory", of eigenlijk is de shell in die directory.
+- Een relatief pad begint nooit met een `/`. Dat is het hele idee. Begrijp je dit nog niet, lees dan het hoofdstuk, de uitleg van Software Carpentry, of bespreek met je medestudenten.
 
-1. Count the number of occurrences of each unique word in the file.
-2. Display the last 5 lines of the file.
-3. Display the first 3 lines of the file.
-4. Display the unique words in the file in alphabetical order.
-5. Display the number of lines in the file.
-6. Count the number of occurrences of each unique word in the file, ignoring any spaces.
-7. Display the unique words in the file in order of most to least common.
-8. Display the 3 most common words in the file.
-9. Display the 3 least common words in the file.
+De opgaven:
 
-## One-liners deel 2
-
-Gegeven dit bestand:
-
-    John, 25, New York
-    Mary, 32, Los Angeles
-    Mike, 19, Chicago
-    Jane, 27, New York
-    Steve, 22, Chicago
-
-Geef one-liners voor de volgende opdrachten:
-
-1. Sort the contents of the file alphabetically by the first column.
-2. Display only the first column of the file (the names).
-3. Display only the third column of the file (cities) and show only unique values.
-4. Create a new file with the first 3 lines of `example.txt`.
-5. Show the second column of the file (ages) in numerical order.
-
-(Deze oefeningen zijn gegenereerd met ChatGPT.)
+1. Hoe `cat` je een file `/Users/martijn/kattennamen.txt` als je in de directory `/Users/martijn` bent met hulp van een zo kort mogelijk *relatief* pad?
+1. Hoe `cat` je een file `/Users/martijn/kattennamen.txt` als je in de directory `/Users/jelle` bent met hulp van een zo kort mogelijk *relatief* pad?
+1. Hoe `cat` je een file `/Users/martijn/kattennamen.txt` als je in de directory `/mnt/server2` bent met hulp van een zo kort mogelijk *relatief* pad?
+1. Hoe `cat` je een file `/Users/martijn/kattennamen.txt` als je in de directory `/` bent met hulp van een zo kort mogelijk *relatief* pad?
+1. Hoe `cat` je een file `kattennamen.txt` in de directory `/Users/martijn` met hulp van een absoluut pad?
+1. Hoe `cat` je een file `kattennamen.txt` in de directory `/root` met hulp van een absoluut pad?
