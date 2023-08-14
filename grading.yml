@@ -15,36 +15,82 @@ templates:
 grades:
     pidac: *punten
 
-    hardware: *aftekenen
-    big-picture: *aftekenen
-    binary: *aftekenen
-    carpentry-files: *aftekenen
+    hardware:
+        <<: *aftekenen
+        deadline: 8/9/2023
+    big-picture:
+        <<: *aftekenen
+        deadline: 8/9/2023
+    binary:
+        <<: *aftekenen
+        deadline: 8/9/2023
+    carpentry-files:
+        <<: *aftekenen
+        deadline: 8/9/2023
 
-    security: *aftekenen
-    opsys: *aftekenen
-    carpentry-pipelines: *aftekenen
-    unix-tools: *aftekenen
+    security:
+        <<: *aftekenen
+        deadline: 15/9/2023
+    opsys:
+        <<: *aftekenen
+        deadline: 15/9/2023
+    carpentry-pipelines:
+        <<: *aftekenen
+        deadline: 15/9/2023
+    unix-tools:
+        <<: *aftekenen
+        deadline: 15/9/2023
 
-    multimedia: *aftekenen
-    binaire-representatie: *aftekenen
-    text: *aftekenen
-    formaten: *aftekenen
+    multimedia:
+        <<: *aftekenen
+        deadline: 22/9/2023
+    binaire-representatie:
+        <<: *aftekenen
+        deadline: 22/9/2023
+    text:
+        <<: *aftekenen
+        deadline: 22/9/2023
+    formaten:
+        <<: *aftekenen
+        deadline: 22/9/2023
 
-    regex-intro: *aftekenen
-    chatbots: *aftekenen
-    carpentry-finding: *aftekenen
-    grep: *aftekenen
+    regex-intro:
+        <<: *aftekenen
+        deadline: 29/9/2023
+    chatbots:
+        <<: *aftekenen
+        deadline: 29/9/2023
+    carpentry-finding:
+        <<: *aftekenen
+        deadline: 29/9/2023
+    grep:
+        <<: *aftekenen
+        deadline: 29/9/2023
 
-    web-lecture: *aftekenen
-    profile: *punten
+    web-lecture:
+        <<: *aftekenen
+        deadline: 6/10/2023
+    homepage:
+        <<: *punten
+        deadline: 6/10/2023
 
-    internet: *aftekenen
-    json: *aftekenen
-    scraping: *aftekenen
+    internet:
+        <<: *aftekenen
+        deadline: 13/10/2023
+    json:
+        <<: *aftekenen
+        deadline: 13/10/2023
+    scraping:
+        <<: *aftekenen
+        deadline: 13/10/2023
 
-    movies: *aftekenen
-    fiftyville: *aftekenen
-    
+    movies:
+        <<: *aftekenen
+        deadline: 20/10/2023
+    fiftyville:
+        <<: *aftekenen
+        deadline: 20/10/2023
+
     tentamen-commands: *aftekenen
     tentamen-oneliners: *aftekenen
     tentamen-regexes: *aftekenen
@@ -121,7 +167,7 @@ module_5:
     type: points
     submits:
         web-lecture: 1
-        profile: 5
+        homepage: 5
 
 module_6:
     show_progress: true
