@@ -17,79 +17,79 @@ grades:
 
     hardware:
         <<: *aftekenen
-        deadline: 8/9/2023
+        deadline: 8/9/2023 17:00
     big-picture:
         <<: *aftekenen
-        deadline: 8/9/2023
+        deadline: 8/9/2023 17:00
     binary:
         <<: *aftekenen
-        deadline: 8/9/2023
+        deadline: 8/9/2023 17:00
     carpentry-files:
         <<: *aftekenen
-        deadline: 8/9/2023
+        deadline: 8/9/2023 17:00
 
     security:
         <<: *aftekenen
-        deadline: 15/9/2023
+        deadline: 15/9/2023 17:00
     opsys:
         <<: *aftekenen
-        deadline: 15/9/2023
+        deadline: 15/9/2023 17:00
     carpentry-pipelines:
         <<: *aftekenen
-        deadline: 15/9/2023
+        deadline: 15/9/2023 17:00
     unix-tools:
         <<: *aftekenen
-        deadline: 15/9/2023
+        deadline: 15/9/2023 17:00
 
     multimedia:
         <<: *aftekenen
-        deadline: 22/9/2023
+        deadline: 22/9/2023 17:00
     binaire-representatie:
         <<: *aftekenen
-        deadline: 22/9/2023
+        deadline: 22/9/2023 17:00
     text:
         <<: *aftekenen
-        deadline: 22/9/2023
+        deadline: 22/9/2023 17:00
     formaten:
         <<: *aftekenen
-        deadline: 22/9/2023
+        deadline: 22/9/2023 17:00
 
     regex-intro:
         <<: *aftekenen
-        deadline: 29/9/2023
+        deadline: 29/9/2023 17:00
     chatbots:
         <<: *aftekenen
-        deadline: 29/9/2023
+        deadline: 29/9/2023 17:00
     carpentry-finding:
         <<: *aftekenen
-        deadline: 29/9/2023
+        deadline: 29/9/2023 17:00
     grep:
         <<: *aftekenen
-        deadline: 29/9/2023
+        deadline: 29/9/2023 17:00
 
     web-lecture:
         <<: *aftekenen
-        deadline: 6/10/2023
+        deadline: 6/10/2023 17:00
     homepage:
         <<: *punten
-        deadline: 6/10/2023
+        deadline: 6/10/2023 17:00
 
     internet:
         <<: *aftekenen
-        deadline: 13/10/2023
+        deadline: 13/10/2023 17:00
     json:
         <<: *aftekenen
-        deadline: 13/10/2023
+        deadline: 13/10/2023 17:00
     scraping:
         <<: *aftekenen
-        deadline: 13/10/2023
+        deadline: 13/10/2023 17:00
 
     movies:
         <<: *aftekenen
-        deadline: 20/10/2023
+        deadline: 20/10/2023 17:00
     fiftyville:
         <<: *aftekenen
-        deadline: 20/10/2023
+        deadline: 20/10/2023 17:00
 
     tentamen-commands: *aftekenen
     tentamen-oneliners: *aftekenen
