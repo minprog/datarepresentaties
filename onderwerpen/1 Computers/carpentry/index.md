@@ -6,7 +6,7 @@
 
 ## Literatuur
 
-Hoofdstuk "File systems" uit het boek van Dale & Lewis, *Computer Science Illuminated*.
+Hoofdstuk "File systems" uit het boek van Dale & Lewis, *Computer Science Illuminated*. (Let op: in de reader staat eerst nog een ander hoofdstuk "Operating Systems", maar dat komt later.)
 
 ## Vragen
 
