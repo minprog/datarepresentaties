@@ -27,13 +27,7 @@ Module 0 loopt dwars door de andere modules heen in de studieweken 2, 3 en 4. Hi
 
 ## Deadlines
 
-**Voor studenten die tegelijk Programmeren 1 volgen:**
-
-Deze studenten doen de fulltime Minor Programmeren. In principe hou je het dagschema aan zoals dat in het lokaal hangt. Een beetje schuiven is geen probleem. Opdrachten kunnen na **vrijdag om 16:59** niet meer ingeleverd worden voor punten.
-
-**Voor studenten die alleen Datarepresentaties volgen:**
-
-De harde deadline is op **zondag om 16:59**. Na die tijd kun je geen punten meer krijgen voor het inleveren van opdrachten. Je kunt het dagschema van de fulltime-studenten bekijken om een indicatie te krijgen van de verwachte studielast per opdracht, maar plan het vooral zelf.
+Opdrachten van de betreffende week kunnen na **vrijdag om 16:59** niet meer ingeleverd worden voor punten.
 
 
 ## Docenten en vragen stellen
