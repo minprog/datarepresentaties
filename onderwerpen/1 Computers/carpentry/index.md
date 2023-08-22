@@ -43,10 +43,10 @@ Gebruik de website van [Software carpentry](https://swcarpentry.github.io/shell-
 
 4.  In sommige gevallen matcht de omgeving niet met de omgeving die jij op je computer hebt. Zorg dat je uitzoekt hoe je dan moet handelen en betrek de assistenten hierbij. Je zou elk commando in de workshop moeten kunnen uitproberen.
 
-5.  Beschrijf in dezelfde PDF als hierboven welke opvallende dingen je hebt geleerd bij het doen van de workshop. Geef aan wat je eventueel moeilijk vond en welke bronnen je hebt gebruikt om verder uit te zoeken wat je moest begrijpen. Je kunt ook aangeven waarover je vragen hebt gesteld of waarover je discussies hebt gevoerd met medestudenten.
+5.  **Dit is de belangrijkste vraag.** Beschrijf in dezelfde PDF als hierboven welke opvallende dingen je hebt geleerd bij het doen van de workshop. Geef aan wat je eventueel moeilijk vond en welke bronnen je hebt gebruikt om verder uit te zoeken wat je moest begrijpen. Je kunt ook aangeven waarover je vragen hebt gesteld of waarover je discussies hebt gevoerd met medestudenten.
 
     Tip: je kunt voor zo'n praktische opdracht als deze ook screenshots maken en opnemen in je PDF om te laten zien wat er bijvoorbeeld mis ging.
 
 ## Nakijken
 
-Ook bij deze opdracht moet je weer dingen die je hebt geleerd bijhouden. Bij deze opdracht geldt (naast het beantwoorden van de specifieke vragen) sterker dan voorheen dat je zelf verslag moet doen. Relateer je ervaringen tijdens de workshop aan wat je al wist (of wat je nog niet wist).
+Ook bij deze opdracht moet je weer dingen die je hebt geleerd bijhouden. Bij deze opdracht geldt (naast het beantwoorden van de specifieke vragen) sterker dan voorheen dat je zelf verslag moet doen van jouw leerproces, dus bij vraag 5 hierboven. Relateer je ervaringen tijdens de workshop aan wat je al wist (of wat je nog niet wist).
