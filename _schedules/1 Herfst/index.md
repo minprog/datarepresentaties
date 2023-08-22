@@ -103,7 +103,15 @@ Voorwaarden voor de punten per module:
 
 Je eindcijfer kun je vervolgens berekenen met `totaal_punten / 48 * 9 + 1`. Als je dus de helft van de punten haalt is dat een 5,5 als cijfer, en dat betekent een voldoende voor het vak.
 
-De opdrachten kunnen niet "herkanst" worden na de deadline. Voor het tentamen wordt een normale herkansing gepland. Hier hoef je alleen de onderdelen te herkansen die nog onvoldoende zijn. Het heeft geen zin om een module op het tentamen te herkansen waarvan je de opdrachten uiteindelijk niet op tijd had ingeleverd.
+### Herkansingen
+
+- Opdrachten kunnen niet meer ingeleverd worden na de deadline, dus ook niet bij wijze van herkansing.
+
+- Bij het PIDAC-practicum is er enige ruimte om in te halen, mits het nog past in het practicumschema. Mocht je ziek zijn, mail dan <mailto:help@mprog.nl> om meteen afspraken te maken. Als de practica zijn afgelopen kan er ook niet meer ingehaald worden.
+
+- Voor het tentamen wordt een normale herkansing gepland. Hier hoef je alleen de onderdelen te herkansen die nog onvoldoende zijn. Het heeft geen zin om een module op het tentamen te herkansen waarvan je de opdrachten uiteindelijk niet op tijd had ingeleverd.
+
+De bedoeling van de deadlines bij dit vak is om de werkdruk laag te houden. Je kunt dingen over het algemeen niet inhalen, en daarmee mis je punten, maar over het algemeen kun je dan nog steeds een goed cijfer halen voor het vak! Maak je je zorgen hierover dan mag je altijd om advies vragen.
 
 
 ## Tentamen
