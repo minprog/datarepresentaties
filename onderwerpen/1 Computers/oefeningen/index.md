@@ -71,3 +71,8 @@ De opgaven:
 1. Hoe `cat` je een file `/Users/martijn/kattennamen.txt` als je in de directory `/` bent met hulp van een zo kort mogelijk *relatief* pad?
 1. Hoe `cat` je een file `kattennamen.txt` in de directory `/Users/martijn` met hulp van een absoluut pad?
 1. Hoe `cat` je een file `kattennamen.txt` in de directory `/root` met hulp van een absoluut pad?
+
+
+## Nakijken
+
+Deze oefeningen kun je niet inleveren. Je kunt je uitwerkingen zelf controleren door alles uit te proberen in een UNIX-shell. Maak de bestanden aan zoals genoemd en kijk of het lukt. Daarnaast kun je je antwoorden vergelijken met die van je buren.
