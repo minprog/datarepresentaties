@@ -27,7 +27,7 @@ Module 0 loopt dwars door de andere modules heen in de studieweken 2, 3 en 4. Hi
 
 ## Deadlines
 
-Opdrachten van de betreffende week kunnen na **vrijdag 17:00** niet meer ingeleverd worden voor punten.
+Opdrachten van de betreffende week kunnen vanaf **vrijdag 17:00** niet meer ingeleverd worden voor punten.
 
 
 ## Docenten en vragen stellen
