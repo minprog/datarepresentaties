@@ -21,10 +21,23 @@ Gebruik de website van [Software carpentry](https://swcarpentry.github.io/shell-
 
 4.  In sommige gevallen matcht de omgeving niet met de omgeving die jij op je computer hebt. Zorg dat je uitzoekt hoe je dan moet handelen en betrek de assistenten hierbij. Je zou elk commando in de workshop moeten kunnen uitproberen.
 
-5.  Beschrijf in een PDF welke opvallende dingen je hebt geleerd bij het doen van de workshop. Geef aan wat je eventueel moeilijk vond en welke bronnen je hebt gebruikt om verder uit te zoeken wat je moest begrijpen. Je kunt ook aangeven waarover je vragen hebt gesteld of waarover je discussies hebt gevoerd met medestudenten.
+## De reflectievraag
+
+Om te laten zien dat je deze opdracht met voldoende inspanning hebt gemaakt en daarvan hebt geleerd, vragen we je te reflecteren op het maken van de opdracht en het bestuderen van het materiaal. Dit doen we om een aantal redenen:
+
+* Je laat zien dat je actief aan de slag bent gegaan met de opdracht en daardoor leert.
+* Je laat zien wat je leert en hoe je dat doet. Hier zijn wij als docenten natuurlijk super benieuwd naar!
+* Je laat zien dat je niet alle antwoorden oppervlakkig googled of laat genereren met generatieve AI (chatGPT).
+
+Kort gezegd, met deze vraag toon je aan dat jij de punten voor de opdracht verdient. Dat doe je door in je antwoord concreet te noemen:
+
+* Wat je moeilijk vond bij de opdracht. Wat was er onverwachts of anders? Waar liep je tegenaan?
+    * Noem hier echte voorbeelden met genoeg detail. Dus niet: "onderwerp X is lastig". Noem juist wat er precies lastig was en hoe je daaruit kwam.
+* Welke bronnen je hebt gebruikt om verder te komen en uit te zoeken wat je moest begrijpen.
+    * Laat zien welke bronnen je gebruikt om een vraag te beantwoorden. Dat hoeven geen wetenschappelijke bronnen te zijn. Wees wel precies in hoe je de bronnen gebruikt. Bijvoorbeeld niet: "Heb ik opgezocht in het boek", maar liever:
+        * "De uitleg over hoe hexadecimaal rekenen werkt vond ik in hoofdstuk 4.1".
+        * "Ik begreep uit het boek niet wat floppy disks zijn. In dit filmpje (https://youtube.com/...) wordt het beter uitgelegd".
+
+Je snapt dat je zonder uitgebreid antwoord op deze vraag ook geen punten kan halen voor de opdracht.
 
     Tip: je kunt voor zo'n praktische opdracht als deze ook screenshots maken en opnemen in je PDF om te laten zien wat er bijvoorbeeld mis ging.
-
-## Nakijken
-
-Ook bij deze opdracht moet je weer dingen die je hebt geleerd bijhouden, zie de laatste stap hieronder. Bij deze opdracht geldt sterker dan voorheen dat je zelf verslag moet doen. Relateer je ervaringen tijdens de workshop aan wat je al wist (of wat je nog niet wist).
