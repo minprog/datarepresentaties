@@ -46,7 +46,7 @@
 
     Op welke manier is zo'n flipbook vergelijkbaar met een digitale video?
 
-6.  (Deze vraag is deze week optioneel omdat ie er niet op tijd bij stond.) Beschrijf welke opvallende dingen je hebt geleerd bij het lezen in het boek en het uitwerken van de vragen. Geef aan wat je eventueel moeilijk vond en welke bronnen je hebt gebruikt om verder uit te zoeken wat je moest begrijpen. Zonder uitgebreid antwoord op deze vraag kun je geen punten halen voor de opdracht.
+6.  **Dit is weer de belangrijkste vraag.** Beschrijf welke opvallende dingen je hebt geleerd bij het lezen in het boek en het uitwerken van de vragen. Geef aan wat je eventueel moeilijk vond en welke bronnen je hebt gebruikt om verder uit te zoeken wat je moest begrijpen. Zonder uitgebreid antwoord op deze vraag kun je geen punten halen voor de opdracht.
 
 ## Inleveren
 

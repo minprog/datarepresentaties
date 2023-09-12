@@ -90,6 +90,12 @@ Dan zie je dat er twee bestanden in staan: een databestand (formaat is kennelijk
 
 Geef in jouw uitwerking per bestand aan welk formaat het heeft en op basis waarvan je precies die conclusie kunt trekken. Geef ook een idee van de inhoud zodat we kunnen zien dat je het goed begrepen hebt (geen copy-paste van de inhoud, maar een beschrijving in jouw eigen woorden). In principe moet je voor elk bestand kunnen achterhalen wat het is, maar soms is het even lastig.
 
+## Terublik (de belangrijkste vraag)
+
+Beschrijf in je PDF ook weer wat je geleerd hebt en hoe. Je beschrijft alles van de opdrachten "Binaire representatie", "Textcodering" en "Bestandsformaten" in de PDF die je hier inlevert.
+
+Welke dingen vielen op in de stof, waar vond je het moeilijk of onduidelijk, welke bronnen heb je nog gebruikt om duidelijkheid te krijgen, wat werd er toen duidelijk of bleef onduidelijk per bron? Neem ons mee in je leerproces.
+
 ## Inleveren
 
 Lever hieronder een PDF in met je antwoorden. Gebruik géén titelpagina. Vermeld je naam en studentnummer, en de naam van de opdracht. Vermeld ook de vraag boven elk antwoord---dit mag een samengevatte versie van de vraag zijn. Als je informatie van buiten de aangeleverde tekst gebruikt moet je een bronvermelding doen; je mag gewoon de site/titel noemen in de tekst.

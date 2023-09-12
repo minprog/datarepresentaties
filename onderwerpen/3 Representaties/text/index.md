@@ -116,6 +116,10 @@ Het volgende is mis:
 
 Geef de commando's, liefst een one-liner, om het bestand te corrigeren voor verdere verwerking als CSV. Je kunt dit doen met hulp van de UNIX-tools die je eerder hebt leren kennen.
 
+## De belangrijkste vraag
+
+(De belangrijkste vraag is gewoon van toepassing, dus let goed op welke bronnen je gebruikt en waarvoor, maar deze keer beschrijf je alles wat je geleerd hebt bij de opdracht "Bestandsformaten".)
+
 ## Inleveren
 
 Lever hieronder een PDF in met je uitwerkingen. Gebruik géén titelpagina. Vermeld je naam en studentnummer, en de naam van de opdracht. Vermeld ook de vraag boven elk antwoord---dit mag een samengevatte versie van de vraag zijn. Als je informatie van buiten de aangeleverde tekst gebruikt moet je een bronvermelding doen; je mag gewoon de site/titel noemen in de tekst.
