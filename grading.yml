@@ -91,11 +91,11 @@ grades:
         <<: *aftekenen
         deadline: 20/10/23 17:00
 
-    tentamen-commands: *aftekenen
-    tentamen-oneliners: *aftekenen
-    tentamen-regexes: *aftekenen
-    tentamen-scraping: *aftekenen
-    tentamen-databases: *aftekenen
+    # tentamen-commands: *aftekenen
+    # tentamen-oneliners: *aftekenen
+    # tentamen-regexes: *aftekenen
+    # tentamen-scraping: *aftekenen
+    # tentamen-databases: *aftekenen
 
 calculation:
     eindcijfer:
@@ -131,7 +131,7 @@ module_1:
         big-picture: 1
         binary: 1
         carpentry-files: 3
-        tentamen-commands: 0
+        # tentamen-commands: 0
 
 module_2:
     show_progress: true
@@ -141,7 +141,7 @@ module_2:
         opsys: 1
         carpentry-pipelines: 3
         unix-tools: 1
-        tentamen-oneliners: 0
+        # tentamen-oneliners: 0
 
 module_3:
     show_progress: true
@@ -160,7 +160,7 @@ module_4:
         chatbots: 2
         carpentry-finding: 3
         grep: 1
-        tentamen-regexes: 0
+        # tentamen-regexes: 0
 
 module_5:
     show_progress: true
@@ -176,7 +176,7 @@ module_6:
         internet: 1
         json: 2
         scraping: 3
-        tentamen-scraping: 0
+        # tentamen-scraping: 0
 
 module_7:
     show_progress: true
@@ -184,4 +184,4 @@ module_7:
     submits:
         movies: 3
         fiftyville: 3
-        tentamen-databases: 0
+        # tentamen-databases: 0
