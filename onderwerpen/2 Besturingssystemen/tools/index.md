@@ -34,8 +34,6 @@ Let op: als je testbestanden maakt, doe dat dan niet in Windows met Notepad of A
 
 1.  Geef een commando om alle lowercase letters in een bestand om te zetten naar uppercase.
 
-1.  Wat is een *key field* voor het commando `sort`? Gebruik eventueel `man sort` om het uit te zoeken.
-
 1.  Schrijf een geheim bericht in een bestand genaamd `brief.txt`. Geef een commando om alle letters in het bestand met 13 posities op te schuiven (dus `a` wordt `n`, `b` wordt `o` en `n` wordt `a`).
 
 1.  Sorteer het volgende bestand (`desserts`) op type dessert (dus `pie`, `cake` enzovoort):
@@ -55,18 +53,29 @@ Let op: als je testbestanden maakt, doe dat dan niet in Windows met Notepad of A
 
     Welk commando moet je hiervoor geven?
 
-1.  Bij een ander vak geven we [deze opdracht](https://pyprog.proglab.nl/opdrachten/week5/eca2csv) voor het schrijven van een programma om een databestand om te zetten in een beter formaat. Die cursus is in Python maar je kunt deze opdracht véél korter in UNIX doen. Geef een commando (met pipes) om deze datafile om te zetten naar het in de opdracht beschreven formaat. Het originele bestand kun je daar downloaden. (Opschonen van missende waarden is niet verplicht maar zou kunnen met `awk`).
+1.  Download [deze datafile](climate.txt) met daarin temperatuurwaarden van het KNMI in de Bilt, vanaf 1 januari 1901. De temperatuurwaarden zijn vermenigvuldigd met 10 zodat er geen komma of punt gebruikt hoeft te worden (`-24` is dus eigenlijk -2,4 graden).
 
-1.  Geef een awk-script dat "Hello, World" naar het scherm print.
+    Ontwikkel een one-liner van UNIX-commando's die `climate.txt` neemt en daar de volgende operaties op uitvoert. Het resultaat moet worden opgeslagen in de file `climate-clean.txt`.
 
-1.  Geef een awk-script dat van elke regel van de file `passwd` de username print, en of de gebruiker speciale privileges heeft. Dat laatste is alleen het geval als de gebruiker een niet-negatief ID kleiner dan 10 heeft ([download `passwd.txt` hier](passwd.txt)). Dat moet er zo uitzien:
+    1. Verwijderen van de header-regels. Alles tot de regel `DATE;TX` moet verwijderd worden. Je mag hiervoor tellen hoeveel regels het zijn en dit aantal hardcoden in je opdracht, of je detecteert op een of andere manier de blanco regel of de `DATE;TX`-regel.
+
+    2. Verwijderen van de gegevens voor 2020. De data van 2020 zijn incompleet, lopen slechts tot maart. Om correcte gemiddelden voor een jaar uit te rekenen wil je geen incomplete data gebruiken. Je mag hier geen kennis van aantal regels gebruiken.
+
+    3. Omzetten van puntkomma (`;`) naar komma (`,`). Zo is het een valide CSV-bestand, gescheiden door komma's.
+
+    Geef in je uitwerking de oneliner.
+
+1.  Geef een awk-script dat van elke regel van de file `passwd` de username print, en of de gebruiker speciale privileges heeft. Dat laatste is alleen het geval als de gebruiker een niet-negatief ID kleiner dan 10 heeft ([download `passwd.txt` hier](passwd.txt)). Het uiteindelijke resultaat moet er zo uitzien:
 
         root    privileged
         daemon  privileged
+        uucp    privileged
         nobody  not privileged
         joedoe  not privileged
 
-1.  Geef een awk-script dat alle gebruikers op dezelfde manier print, maar in dit geval moeten de gebruikers `root` en `daemon` worden overgeslagen omdat deze op elk systeem bestaan. Alleen de overige gebruikers worden dus geprint, op dezelfde manier als bij de vorige vraag.
+    Je mag voor deze vraag alleen `awk` gebruiken. Om deze vraag te beantwoorden moet je even flink in `awk` duiken en specifiek hoe je bepaalde waarden kunt filteren en voorwaarden kunt gebruiken. Dit is opzoeken en informatie combineren van internet, waarschijnlijk. Zorg dat je je uiteindelijke antwoord zodanig begrijpt dat je een variant van de vraag relatief makkelijk kunt beantwoorden.
+
+1.  Geef een awk-script dat alle gebruikers op dezelfde manier print als hierboven, maar in dit geval moeten de gebruikers `root` en `daemon` worden *overgeslagen* omdat deze op elk systeem bestaan (zorg dat je filtert op deze namen en niet op een andere eigenschap zoals ID of status). Je print uiteindelijk dus dezelfde resultaten als hierboven, behalve `root` en `deamon`.
 
 ## Inleveren
 
