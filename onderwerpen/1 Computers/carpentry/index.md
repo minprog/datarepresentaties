@@ -50,7 +50,7 @@ Gebruik de website van [Software carpentry](https://swcarpentry.github.io/shell-
 
 5.  **Dit is de belangrijkste vraag over de workshop.** Beschrijf in dezelfde PDF als hierboven welke opvallende dingen je hebt geleerd bij het doen van de workshop. Geef aan wat je eventueel moeilijk vond en welke bronnen je hebt gebruikt om verder uit te zoeken wat je moest begrijpen. Je kunt ook aangeven waarover je vragen hebt gesteld of waarover je discussies hebt gevoerd met medestudenten.
 
-    Tip: je kunt voor zo'n praktische opdracht als deze ook screenshots maken en opnemen in je PDF om te laten zien wat er bijvoorbeeld mis ging.
+> Tip: je kunt voor zo'n praktische opdracht als deze ook screenshots maken en opnemen in je PDF om te laten zien wat er bijvoorbeeld mis ging.
 
 ## Nakijken
 

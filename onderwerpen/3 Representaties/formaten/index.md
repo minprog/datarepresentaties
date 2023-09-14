@@ -90,16 +90,27 @@ Dan zie je dat er twee bestanden in staan: een databestand (formaat is kennelijk
 
 Geef in jouw uitwerking per bestand aan welk formaat het heeft en op basis waarvan je precies die conclusie kunt trekken. Geef ook een idee van de inhoud zodat we kunnen zien dat je het goed begrepen hebt (geen copy-paste van de inhoud, maar een beschrijving in jouw eigen woorden). In principe moet je voor elk bestand kunnen achterhalen wat het is, maar soms is het even lastig.
 
-## Terublik (de belangrijkste vraag)
+## De reflectievraag
 
-Beschrijf in je PDF ook weer wat je geleerd hebt en hoe. Je beschrijft alles van de opdrachten "Binaire representatie", "Textcodering" en "Bestandsformaten" in de PDF die je hier inlevert.
+Om te laten zien dat je deze opdracht met voldoende inspanning hebt gemaakt en daarvan hebt geleerd, vragen we je te reflecteren op het maken van de opdracht en het bestuderen van het materiaal. Dit doen we om een aantal redenen:
 
-Welke dingen vielen op in de stof, waar vond je het moeilijk of onduidelijk, welke bronnen heb je nog gebruikt om duidelijkheid te krijgen, wat werd er toen duidelijk of bleef onduidelijk per bron? Neem ons mee in je leerproces.
+* Je laat zien dat je actief aan de slag bent gegaan met de opdracht en daardoor leert.
+* Je laat zien wat je leert en hoe je dat doet. Hier zijn wij als docenten natuurlijk super benieuwd naar!
+* Je laat zien dat je niet alle antwoorden oppervlakkig googled of laat genereren met generatieve AI (chatGPT).
+
+Kort gezegd, met deze vraag toon je aan dat jij de punten voor de opdracht verdient. Dat doe je door in je antwoord concreet te noemen:
+
+* Wat je moeilijk vond bij de opdracht. Wat was er onverwachts of anders? Waar liep je tegenaan?
+    * Noem hier echte voorbeelden met genoeg detail. Dus niet: "onderwerp X is lastig". Noem juist wat er precies lastig was en hoe je daaruit kwam.
+* Welke bronnen je hebt gebruikt om verder te komen en uit te zoeken wat je moest begrijpen.
+    * Laat zien welke bronnen je gebruikt om een vraag te beantwoorden. Dat hoeven geen wetenschappelijke bronnen te zijn. Wees wel precies in hoe je de bronnen gebruikt. Bijvoorbeeld niet: "Heb ik opgezocht in het boek", maar liever:
+        * "De uitleg over hoe hexadecimaal rekenen werkt vond ik in hoofdstuk 4.1".
+        * "Ik begreep uit het boek niet wat floppy disks zijn. In dit filmpje (https://youtube.com/...) wordt het beter uitgelegd".
+
+Je snapt dat je zonder uitgebreid antwoord op deze vraag ook geen punten kan halen voor de opdracht.
+
+> Tip: je kunt voor zo'n praktische opdracht als deze ook screenshots maken en opnemen in je PDF om te laten zien wat er bijvoorbeeld mis ging.
 
 ## Inleveren
 
-Lever hieronder een PDF in met je antwoorden. Gebruik géén titelpagina. Vermeld je naam en studentnummer, en de naam van de opdracht. Vermeld ook de vraag boven elk antwoord---dit mag een samengevatte versie van de vraag zijn. Als je informatie van buiten de aangeleverde tekst gebruikt moet je een bronvermelding doen; je mag gewoon de site/titel noemen in de tekst.
-
-## Nakijken
-
-De antwoorden worden kritisch nagekeken op zorgvuldige beantwoording. De bedoeling is dat je voor elk bestand wel kunt omschrijven wat het is. Mocht je er niet uitkomen, bespreek dan met medestudenten hoe ze het aanpakken of betrek een assistent erbij. Een foutje is geen probleem natuurlijk.
+Lever een PDF in met je antwoorden. Gebruik géén titelpagina. Vermeld je naam en studentnummer, en de naam van de opdracht. Vermeld ook de vraag boven elk antwoord---dit mag een samengevatte versie van de vraag zijn. Als je informatie van buiten de aangeleverde tekst gebruikt moet je een bronvermelding doen; je mag gewoon de site/titel noemen in de tekst.

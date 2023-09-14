@@ -41,14 +41,27 @@ In de volgende opgaven ga je op zoek naar **strings** die matchen. De input is e
 
 4.  Geef een compleet grep-commando waarmee je elk woord selecteert waarin een `o` staat gevolgd door één of meer `r`. Geef een aantal voorbeeldteksten met matchen en markeer duidelijk welke delen een match zijn. Kijk zoals altijd naar edge cases en geef ook teksten die geen matches bevatten.
 
-## Reflectie
+## De reflectievraag
 
-1.  Beschrijf welke opvallende dingen je hebt geleerd bij het lezen in het boek, doen van de tutorial en het uitwerken van de vragen. Geef aan wat je eventueel moeilijk vond en welke bronnen je hebt gebruikt om verder uit te zoeken wat je moest begrijpen. Zonder uitgebreid antwoord op deze vraag kun je geen punten halen voor de opdracht.
+Om te laten zien dat je deze opdracht met voldoende inspanning hebt gemaakt en daarvan hebt geleerd, vragen we je te reflecteren op het maken van de opdracht en het bestuderen van het materiaal. Dit doen we om een aantal redenen:
+
+* Je laat zien dat je actief aan de slag bent gegaan met de opdracht en daardoor leert.
+* Je laat zien wat je leert en hoe je dat doet. Hier zijn wij als docenten natuurlijk super benieuwd naar!
+* Je laat zien dat je niet alle antwoorden oppervlakkig googled of laat genereren met generatieve AI (chatGPT).
+
+Kort gezegd, met deze vraag toon je aan dat jij de punten voor de opdracht verdient. Dat doe je door in je antwoord concreet te noemen:
+
+* Wat je moeilijk vond bij de opdracht. Wat was er onverwachts of anders? Waar liep je tegenaan?
+    * Noem hier echte voorbeelden met genoeg detail. Dus niet: "onderwerp X is lastig". Noem juist wat er precies lastig was en hoe je daaruit kwam.
+* Welke bronnen je hebt gebruikt om verder te komen en uit te zoeken wat je moest begrijpen.
+    * Laat zien welke bronnen je gebruikt om een vraag te beantwoorden. Dat hoeven geen wetenschappelijke bronnen te zijn. Wees wel precies in hoe je de bronnen gebruikt. Bijvoorbeeld niet: "Heb ik opgezocht in het boek", maar liever:
+        * "De uitleg over hoe hexadecimaal rekenen werkt vond ik in hoofdstuk 4.1".
+        * "Ik begreep uit het boek niet wat floppy disks zijn. In dit filmpje (https://youtube.com/...) wordt het beter uitgelegd".
+
+Je snapt dat je zonder uitgebreid antwoord op deze vraag ook geen punten kan halen voor de opdracht.
+
+> Tip: je kunt voor zo'n praktische opdracht als deze ook screenshots maken en opnemen in je PDF om te laten zien wat er bijvoorbeeld mis ging.
 
 ## Inleveren
 
-Lever hieronder een PDF in met je uitwerkingen. Gebruik géén titelpagina. Vermeld je naam en studentnummer, en de naam van de opdracht. Vermeld ook de vraag boven elk antwoord---dit mag een samengevatte versie van de vraag zijn. Als je informatie van buiten de aangeleverde tekst gebruikt moet je een bronvermelding doen; je mag gewoon de site/titel noemen in de tekst.
-
-## Nakijken
-
-De antwoorden worden kritisch nagekeken op zorgvuldige beantwoording. Dat betekent dat de antwoorden gebaseerd moeten zijn op de lesstof, dat wat er staat goed is en logisch onderbouwd en dat er geen onware of irrelevante beweringen of informatie bij de antwoorden staan. Aan de andere kant: een klein foutje is geen probleem.
+Lever een PDF in met je uitwerkingen. Gebruik géén titelpagina. Vermeld je naam en studentnummer, en de naam van de opdracht. Vermeld ook de vraag boven elk antwoord---dit mag een samengevatte versie van de vraag zijn. Als je informatie van buiten de aangeleverde tekst gebruikt moet je een bronvermelding doen; je mag gewoon de site/titel noemen in de tekst.
