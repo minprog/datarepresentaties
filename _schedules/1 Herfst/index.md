@@ -75,9 +75,9 @@ Voor deze cursus kun je 48 punten halen.
 |                    | Tekstcodering         | lezen     | 1      |                |
 |                    | Bestandsformaten      | opdracht  | 3      |                |
 |--------------------|-----------------------|-----------|--------|----------------|
-| Text processing    | Reguliere expressies  | oefenen   | 1      | Regex + grep   |
+| Text processing    | Reguliere expressies  | oefenen   | 0 *)   | Regex + grep   |
 |                    | Chatbots              | oefenen   | 1      |                |
-|                    | Zoeken in bestanden   | oefenen   | 2      |                |
+|                    | Zoeken in bestanden   | oefenen   | 3      |                |
 |                    | Werken met grep       | oefenen   | 2      |                |
 |--------------------|-----------------------|-----------|--------|----------------|
 | Web Development    | Web development       | schrijven | 1      | -              |
@@ -90,6 +90,8 @@ Voor deze cursus kun je 48 punten halen.
 |--------------------|-----------------------|-----------|--------|----------------|
 | Databases          | Movies                | oefenen   | 3      | Databases      |
 |                    | Fiftyville            | oefenen   | 3      |                |
+
+*) Voor deze stof krijg je punten bij "Zoeken in bestanden".
 
 Voorwaarden voor de punten per module:
 

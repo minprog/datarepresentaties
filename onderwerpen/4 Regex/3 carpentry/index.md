@@ -14,24 +14,20 @@ Bij dit deel van de workshop ga je reguliere expressies gebruiken, maar specifie
 
 4.  In sommige gevallen matcht de omgeving niet met de omgeving die jij op je computer hebt. Zorg dat je uitzoekt hoe je dan moet handelen en betrek de assistenten hierbij. Je zou elk commando in de workshop moeten kunnen uitproberen.
 
-## De reflectievraag
+## Verslag, overzicht
 
-Om te laten zien dat je deze opdracht met voldoende inspanning hebt gemaakt en daarvan hebt geleerd, vragen we je te reflecteren op het maken van de opdracht en het bestuderen van het materiaal. Dit doen we om een aantal redenen:
+Voor dit onderwerp ga je zelf een overzicht maken in PDF formaat. Mik op een aantal pagina's waarin je de volgende onderdelen beschrijft:
 
-* Je laat zien dat je actief aan de slag bent gegaan met de opdracht en daardoor leert.
-* Je laat zien wat je leert en hoe je dat doet. Hier zijn wij als docenten natuurlijk super benieuwd naar!
-* Je laat zien dat je niet alle antwoorden oppervlakkig googled of laat genereren met generatieve AI (chatGPT).
+- Alle bijzondere tekens die je in reguliere expressies kunt tegenkomen die behandeld zijn in het boek, de website regexlearn.com, en de Carpentry-workshop.
 
-Kort gezegd, met deze vraag toon je aan dat jij de punten voor de opdracht verdient. Dat doe je door in je antwoord concreet te noemen:
+    - Bij elk teken een zelfgeschreven Nederlandse uitleg van wat dit betekent in een reguliere expressie.
 
-* Wat je moeilijk vond bij de opdracht. Wat was er onverwachts of anders? Waar liep je tegenaan?
-    * Noem hier echte voorbeelden met genoeg detail. Dus niet: "onderwerp X is lastig". Noem juist wat er precies lastig was en hoe je daaruit kwam.
-* Welke bronnen je hebt gebruikt om verder te komen en uit te zoeken wat je moest begrijpen.
-    * Laat zien welke bronnen je gebruikt om een vraag te beantwoorden. Dat hoeven geen wetenschappelijke bronnen te zijn. Wees wel precies in hoe je de bronnen gebruikt. Bijvoorbeeld niet: "Heb ik opgezocht in het boek", maar liever:
-        * "De uitleg over hoe hexadecimaal rekenen werkt vond ik in hoofdstuk 4.1".
-        * "Ik begreep uit het boek niet wat floppy disks zijn. In dit filmpje (https://youtube.com/...) wordt het beter uitgelegd".
+    - Bij elk teken een voorbeeld van een korte reguliere expressie waarin dit teken voorkomt (maar niet alleen dat teken) en een voorbeeldzin die matcht met de expressie en een voorbeeldzin die niet matcht met de expressie. Deze voorbeelden kopieer je niet maar verzin je zelf.
 
-Je snapt dat je zonder uitgebreid antwoord op deze vraag ook geen punten kan halen voor de opdracht.
+- Alle belangrijke manieren om `grep` te gebruiken die in de Carpentry-workshop zijn benoemd. Denk aan de opties zoals `-v`.
 
-> Tip: je kunt voor zo'n praktische opdracht als deze ook screenshots maken en opnemen in je PDF om te laten zien wat er bijvoorbeeld mis ging.
+    - Leg voor alle manieren uit, in eigen woorden in het Nederlands, waar ze voor zijn.
 
+    - Geef voor alle relevante manieren van werken een compleet voorbeeld van hoe je grep moet aanroepen en een voorbeeld van wat de uitvoer zal zijn bij een bepaalde invoer.
+
+Omdat je veel voorbeelden moet geven zal het vrij lang worden, dit is prima.

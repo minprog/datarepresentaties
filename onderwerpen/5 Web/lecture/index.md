@@ -15,7 +15,7 @@
 
 2. We hebben HTML en CSS behandeld in de context van web-development. Wat zijn de verschillen en relaties tussen HTML en CSS? Beantwoord in termen van doel en toepassing van beide.
 
-3. Beschrijf in enige diepte een onderwerp(je) uit het college dat je opviel omdat het nieuw voor je was, of waar je heel anders naar kijkt dan in het college beschreven. Je wordt aangemoedigd om er een extra bron bij te betrekkend. Mocht dit niet lukken, beschrijf dan een gerelateerde techniek of detail van HTML, CSS of JS die niet in het college zijn behandeld.
+3. Beschrijf in enige diepte een onderwerp uit het college dat je opviel omdat het nieuw voor je was, of waar je heel anders naar kijkt dan in het college beschreven. Je wordt aangemoedigd om er een extra bron bij te betrekkend. Mocht dit niet lukken, beschrijf dan een gerelateerde techniek of detail van HTML, CSS of JS die niet in het college zijn behandeld.
 
 ## Inleveren
 
