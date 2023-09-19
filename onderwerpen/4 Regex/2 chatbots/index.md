@@ -48,3 +48,9 @@ Als tweede stap ga je een eigen bot maken die op dezelfde manier werkt maar een 
 Het probleem is wel dat je geen "geheugen" hebt. Als je een antwoord formuleert dan is dat alleen gebaseerd op de huidige input, en niet op wat er eerder gezegd is. Maar dat geeft niet, het gaat vooral om het oefenen met reguliere expressies!
 
 Je hoeft niet meer dan 8 regels te gebruiken, het gaat uiteindelijk om nadenken over die regels en het oefenen met het schrijven van reguliere expressies.
+
+## Inleveren
+
+Lever de `.sed` files in met je bot-definities. Maak daarbij een PDF met uitleg over hoe je bots werken. Toon een aantal voorbeeld-interacties in de PDF, zodat we goed kunnen zien hoe het in de praktijk werkt.
+
+Gebruik géén titelpagina. Vermeld je naam en studentnummer, en de naam van de opdracht. Vermeld ook de vraag boven elk antwoord---dit mag een samengevatte versie van de vraag zijn. Als je informatie van buiten de aangeleverde tekst gebruikt moet je een bronvermelding doen; je mag gewoon de site/titel noemen in de tekst.
