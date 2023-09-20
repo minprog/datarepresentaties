@@ -139,8 +139,8 @@ module_2:
     submits:
         security: 1
         opsys: 1
-        carpentry-pipelines: 3
-        unix-tools: 1
+        carpentry-pipelines: 2
+        unix-tools: 2
         # tentamen-oneliners: 0
 
 module_3:
@@ -156,10 +156,10 @@ module_4:
     show_progress: true
     type: points
     submits:
-        regex-intro: 3
-        chatbots: 2
+        regex-intro: 0
+        chatbots: 1
         carpentry-finding: 3
-        grep: 1
+        grep: 2
         # tentamen-regexes: 0
 
 module_5:
@@ -174,7 +174,7 @@ module_6:
     type: points
     submits:
         internet: 1
-        json: 2
+        json: 1
         scraping: 3
         # tentamen-scraping: 0
 

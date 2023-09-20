@@ -1,3 +1,5 @@
+LEt op deze pagina is nog niet goed (zijn 2 pagina's samengevoegd), check ook de puntentelling
+
 # JSON
 
 1. Bestudeer onderstaande uitleg over JSON,
