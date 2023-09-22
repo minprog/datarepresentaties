@@ -77,8 +77,8 @@ Voor deze cursus kun je 48 punten halen.
 |--------------------|-----------------------|-----------|--------|----------------|
 | Text processing    | Reguliere expressies  | oefenen   | 0 *)   | Regex + grep   |
 |                    | Chatbots              | oefenen   | 1      |                |
-|                    | Zoeken in bestanden   | oefenen   | 3      |                |
-|                    | Werken met grep       | oefenen   | 2      |                |
+|                    | Zoeken in bestanden   | oefenen   | 2      |                |
+|                    | Werken met grep       | oefenen   | 3      |                |
 |--------------------|-----------------------|-----------|--------|----------------|
 | Web Development    | Web development       | schrijven | 1      | -              |
 |                    | Homepage              | opdracht  | 5      |                |
