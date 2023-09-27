@@ -2,3 +2,4 @@ name: homepage
 files:
     required:
         - homepage.zip
+        - verslag.pdf
