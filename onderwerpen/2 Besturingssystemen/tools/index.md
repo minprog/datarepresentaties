@@ -69,7 +69,7 @@ Let op: als je testbestanden maakt, doe dat dan niet in Windows met Notepad of A
 
         root    privileged
         daemon  privileged
-        uucp    privileged
+        _uucp   privileged
         nobody  not privileged
         joedoe  not privileged
 

@@ -3,4 +3,4 @@ files:
     required:
         - eliza.sed
         - mybot.sed
-        - verslag.pdf
+        - uitleg.pdf
