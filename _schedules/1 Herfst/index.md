@@ -85,8 +85,7 @@ Voor deze cursus kun je 48 punten halen.
 |--------------------|-----------------------|-----------|--------|----------------|
 | Scraping           | Internet              | schrijven | 1      | Scraping       |
 |                    | JSON                  | oefenen   | 1      |                |
-|                    | CSS                   | oefenen   | 1      |                |
-|                    | Scraping              | oefenen   | 3      |                |
+|                    | Scraping              | oefenen   | 4      |                |
 |--------------------|-----------------------|-----------|--------|----------------|
 | Databases          | Movies                | oefenen   | 3      | Databases      |
 |                    | Fiftyville            | oefenen   | 3      |                |

@@ -1,26 +1,41 @@
-LEt op deze pagina is nog niet goed (zijn 2 pagina's samengevoegd), check ook de puntentelling
+# JSON en cURL
 
-# JSON
-
-1. Bestudeer onderstaande uitleg over JSON,
+1. Bestudeer onderstaande uitleg over JSON en cURL,
 2. en de materialen die gelinkt zijn,
 3. en hou goed bij wat je opvalt en wat je leert.
 
 ## Het JSON tekst-formaat
 
-JSON is een formaat om hierarchische structuren uit te drukken in simpele tekst. Je kunt het in de praktijk gebruiken om data uit te wisselen. Sommige websites bieden dan ook de mogelijkheid om data op te vragen in JSON-formaat, vaak zodat je die data kunt gebruiken om een andere website mee te bouwen.
+JSON is een formaat om informatie uit te drukken in simpele tekst. Je kunt het in de praktijk gebruiken om data uit te wisselen. Sommige websites bieden dan ook de mogelijkheid om data op te vragen in JSON-formaat, vaak zodat je die data kunt gebruiken om een andere website mee te bouwen.
 
 JSON is een soort tegenhanger van een ouder formaat, XML. XML biedt ongeveer de zelfde mogelijkheden maar de syntax (manier van schrijven) is veel ingewikkelder. In de praktijk kunnen de meeste toepassingen prima gebruik maken van alleen maar JSON.
 
+## Structuren
+
+Er zijn twee soorten structuren in JSON, namelijk *objecten* en *arrays*. Een object ziet er misschien zo uit:
+
+    {
+        "eigenschap1": "waarde1",
+        "eigenschap2": "waarde2"
+    }
+
+En een array met daarin strings en getallen ziet er zo uit:
+
+    [
+        "informatie_in_een_string_1",
+        "informatie_in_een_string_2",
+        19291,
+        319,
+        "informatie_in_een_string_3"
+    ]
+
+Het gaat hier om de schrijfwijze, dus hoe je de haakjes en de aanhalingstekens moet plaatsen.
+
 ## Hiërarchie
 
-De basis van JSON is dat je twee soorten structuren hebt die weer andere structuren kunnen bevatten. Dit zijn *objecten* en *arrays*. Het feit dat structuren andere structuren bevatten maakt dat je hierarchiën kunt beschrijven in JSON.
+Belangrijk in JSON is dat structuren ook andere structuren kunnen bevatten. Dit maakt dat je *hierarchiën* kunt beschrijven in JSON. Zo kun je een rijtje van objecten vatten in een array. Denk aan een lijst van medewerkers, waar elke medewerker ook weer een aantal eigenschappen heeft, zoals een naam en een huisnummer.
 
-Zo kun je een rijtje van objecten vatten in een array (denk aan een lijst van medewerkers). En je kunt een object "eigenschappen" meegeven waarin je weer andere waarden stopt (denk aan een persoon die een naam heeft en een huisnummer). Die laatste lijkt wel op een dictionary in Python.
-
-Hieronder een *array* met daarin twee *objects*. Elk object heeft daarin twee attributes, `name` en `address`. De waarde van `address` is ook weer een object, met daarin twee attributes, `street` en `number`.
-
-Naast arrays en objects zijn er nog slechts twee soorten informatie in JSON (types), namelijk *numbers* en *strings*. In het voorbeeld hieronder zijn `name` en `street` allebei strings, en `number` is een... number.
+Hieronder vind je een *array* met daarin twee *objecten*. Elk object heeft daarin twee attributen (eigenschappen), namelijk `name` en `address`. De waarde van `address` is ook weer een object, met daarin twee attributes, `street` en `number`.
 
     [
         {
@@ -28,22 +43,24 @@ Naast arrays en objects zijn er nog slechts twee soorten informatie in JSON (typ
             "address": {
                 "street": "Science Park",
                 "number": 900
-            }
+            },
+            "phones": [ "0600822729", "0600187327" ]
         },
         {
             "name": "Arthur Dent",
             "address": {
                 "street": "Science Park",
                 "number": 900
-            }
+            },
+            "phones": [ "0600181456", "0600783102" ]
         }
     ]
 
-## Syntax
+Naast arrays en objects zijn er nog slechts twee soorten informatie in JSON (twee types), namelijk *numbers* en *strings*. In het voorbeeld hierboven zijn `name` en `street` allebei strings, en `number` is een number. Let op dat de telefoonnummers strings zijn in dit geval!
 
-Dit alles wordt gevat in een zeer eenvoudige syntax. Er is een [formele specificatie](https://www.ecma-international.org/wp-content/uploads/ECMA-404_2nd_edition_december_2017.pdf) van deze JSON-syntax. De paragrafen 4 t/m 9 zijn de complete specificatie van de taal.
+## Syntax en semantiek
 
-Een opmerking die wordt gemaakt in de specificatie is dat JSON weliswaar een **syntax** definieert maar dat de bijbehorende **semantiek** (betekenis van de inhoud) niet vastligt. Elke gebruiker van JSON moet afspraken maken of vastleggen over welke data precies gecommuniceerd wordt en wat je er mee kunt. Als je verwacht dat er een lijst van medewerkers wordt verstuurd dan zal de JSON wel een array zijn met daarin objecten. Als je informatie over één persoon opvraagt dan zal de JSON wel een object zijn.
+JSON heeft een vaste **syntax** zoals hierboven beschreven. De **semantiek**, ofwel de betekenis van de inhoud, ligt niet vast. Elke schrijver van een JSON-document moet afspraken maken of vastleggen over welke data precies gecommuniceerd wordt en wat je er mee kunt. Als je verwacht dat er een lijst van medewerkers wordt verstuurd dan zal de JSON wel een array zijn met daarin objecten. Als je informatie over één persoon opvraagt dan zal de JSON wel een object zijn met daarin diverse eigenschappen.
 
 Filmpjes om JSON beter te begrijpen:
 
@@ -72,19 +89,13 @@ Via [deze link](https://raw.githubusercontent.com/prust/wikipedia-movie-data/mas
 
 ## Opdrachten
 
-1.  Geef een complete UNIX one-liner om alleen de gegevens van de eerste film uit het bestand te laten zien.
+In de volgende opdrachten werkt je met het gedownloade bestand `movies.json`.
 
-2.  Geef een complete UNIX one-liner om alleen de titel van de eerste film uit het bestand te laten zien.
+1.  Geef een complete UNIX one-liner (met `cat` en `jq`) om alleen de gegevens van de eerste film uit het bestand te laten zien.
 
-3.  Geef een complete UNIX one-liner om de titels van alle films uit het bestand te laten zien.
+2.  Geef een complete UNIX one-liner (met `cat` en `jq`) om alleen de titel van de eerste film uit het bestand te laten zien.
 
-## Inleveren
-
-Lever hieronder een PDF in met je uitwerkingen. Gebruik géén titelpagina. Vermeld je naam en studentnummer, en de naam van de opdracht. Vermeld ook de vraag boven elk antwoord---dit mag een samengevatte versie van de vraag zijn.
-
-## Nakijken
-
-De antwoorden worden kritisch nagekeken op zorgvuldige beantwoording. Dat betekent dat de antwoorden gebaseerd moeten zijn op de lesstof, dat wat er staat goed is en logisch onderbouwd en dat er geen onware of irrelevante beweringen of informatie bij de antwoorden staan. Aan de andere kant: een klein foutje is geen probleem.
+3.  Geef een complete UNIX one-liner (met `cat` en `jq`) om de titels van alle films uit het bestand te laten zien.
 
 <!-- ## Links
 
@@ -93,26 +104,19 @@ De antwoorden worden kritisch nagekeken op zorgvuldige beantwoording. Dat beteke
 - https://data.rijksmuseum.nl/object-metadata/api/
 - https://data.mprog.nl/acquisition/scraping -->
 
-
-# cURL
-
-1. Bestudeer onderstaande uitleg over cURL,
-2. en de materialen die gelinkt zijn,
-3. en hou goed bij wat je opvalt en wat je leert.
-
-## Over cURL
+## cURL
 
 Gebruik `curl` om de HTML van een webpagina op te vragen. Zo kun je bijvoorbeeld de HTML van zoekmachine DuckDuckGo krijgen:
 
-    curl -L duckduckgo.com
+    curl -s https://duckduckgo.com/
 
-Dit commando stuurt standaard een verzoek naar de server http://duckduckgo.com, dus via het HTTP-protocol. Nu worden tegenwoordig bijna alle websites bij voorkeur via HTTPS gebruikt. Daarom stuurt de server in dat geval als antwoord dat de pagina te vinden is op https://duckduckgo.com/ en dat het verzoek dáárheen gestuurd moet worden. De optie `-L` zorgt ervoor dat bij zo'n antwoord alsnog de juiste pagina wordt opgevraagd (zolang de server maar zegt welke het moet zijn).
+We gebruiken `-s` ofwel "silent" om te zorgen dat `curl` geen download-indicator laat zien. Bij het ophalen van eenvoudige webpagina's hebben we die niet nodig.
 
 ## JSON via cURL
 
-In de volgende module gaan we aan de slag met HTML maar nu gaan we eerst JSON-data opvragen via `curl`. Vraag eens de locatie van het International Space Station op:
+We kunnen ook JSON-data opvragen via `curl`, als iemand deze data op een website beschikbaar stelt. Vraag eens de locatie van het International Space Station op:
 
-    curl https://api.wheretheiss.at/v1/satellites/25544
+    curl -s https://api.wheretheiss.at/v1/satellites/25544
 
 Je ziet dan meteen dat je JSON als antwoord krijgt in plaats van HTML.
 
@@ -120,7 +124,7 @@ Je ziet dan meteen dat je JSON als antwoord krijgt in plaats van HTML.
 
 Om de JSON een beetje leesbaar te krijgen kun je deze **doorsturen** van `curl` naar `jq`:
 
-    curl https://api.wheretheiss.at/v1/satellites/25544 | jq '.'
+    curl -s https://api.wheretheiss.at/v1/satellites/25544 | jq
 
 Dan wordt de JSON zo op het scherm geprint:
 
@@ -144,18 +148,28 @@ Dan wordt de JSON zo op het scherm geprint:
 
 Let op dat veel API's een **rate limit** hebben. Dat betekent dat je niet al te vaak een verzoek mag sturen (vanaf hetzelfde IP-adres), om misbruik te voorkomen. Zelfs als je met de hand, vanaf de terminal, aan het experimenteren bent kan dit gebeuren. Als je echt veel gaat experimenteren kun je de JSON ook even opslaan op je eigen computer:
 
-    curl https://api.wheretheiss.at/v1/satellites/25544 > iss.json
+    curl -s https://api.wheretheiss.at/v1/satellites/25544 > iss.json
 
 Dan kun je `jq` zo gebruiken:
 
     cat iss.json | jq '.'
 
-## Oefenvraag
+Deze omweg is niet altijd nodig.
 
-Geef een commando om alleen de latitude én longitude uit te printen. Het resultaat zou er zo uit moeten zien (met andere getallen natuurlijk!):
+## Opdrachten
+
+4.  Geef een commando met `curl` en `jq` om alleen de latitude én longitude uit te printen. Het resultaat zou er zo uit moeten zien (met andere getallen natuurlijk!):
 
         -41.536613527854
         -90.033171572304
 
-Zorg dat dit lukt voordat je verder gaat.
+    In de documentatie van `jq` die we hierboven hebben gelinkt moet je kunnen vinden hoe je twee van die waarden eruit filtert. Zorg dat dit lukt voordat je verder gaat.
+{:start="4"}
 
+## Inleveren
+
+Lever hieronder een PDF in met je uitwerkingen. Gebruik géén titelpagina. Vermeld je naam en studentnummer, en de naam van de opdracht. Vermeld ook de vraag boven elk antwoord---dit mag een samengevatte versie van de vraag zijn.
+
+## Nakijken
+
+De antwoorden worden kritisch nagekeken op zorgvuldige beantwoording. Dat betekent dat de antwoorden gebaseerd moeten zijn op de lesstof, dat wat er staat goed is en logisch onderbouwd en dat er geen onware of irrelevante beweringen of informatie bij de antwoorden staan. Aan de andere kant: een klein foutje is geen probleem.

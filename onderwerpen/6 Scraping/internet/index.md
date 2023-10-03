@@ -4,6 +4,8 @@
 2. hou goed bij wat je opvalt en wat je leert,
 3. en beantwoord dan de vragen hieronder.
 
+> Let op: de "belangrijkste vraag" is dit keer anders. Zie vraag 9 hieronder.
+
 ![embed](https://www.youtube.com/embed/n_KghQP86Sw)
 
 - [Open in CS50 video player](https://video.cs50.io/n_KghQP86Sw?screen=CBDtYHnW3gI)

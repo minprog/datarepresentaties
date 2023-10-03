@@ -4,9 +4,19 @@
 2. en de materialen die gelinkt zijn,
 3. en hou goed bij wat je opvalt en wat je leert.
 
+# CSS
+
+In een vorige module heb je kennis gemaakt met CSS, maar je hebt hier nog niet systematisch mee geoefend.
+
+1. Ga naar [deze website om extra te oefenen](https://flukeout.github.io/). Zorg dat je de belangrijkste CSS-selectors kent. In de balk staat uitleg! Let op dat in de oefening speciale HTML-elementen worden gebruik zoals `<bento>`. Deze bestaan normaal niet, maar de CSS werkt exact op dezelfde manier als bijvoorbeeld bij `<h1>`.
+
+2. Ga dan naar de [MDN-pagina over selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Selectors_Tasks) om nog meer te oefenen. Download hier de HTML-bestanden en pas de CSS zo aan dat het precies klopt met het gevraagde!
+
 ## Pup
 
-Lees de [README](https://github.com/EricChiang/pup) van de tool `pup`. Met deze tool kun je informatie scrapen uit HTML-pagina's. Zo kun je informatie van een website laten zien in je terminal, maar je kunt dit ook gebruiken voor bijvoorbeeld dataverzameling voor onderzoek.
+Lees de [README](https://github.com/EricChiang/pup) van de tool `pup`. Met deze tool kun je informatie "scrapen" uit HTML-pagina's. HTML-pagina's bevatten bijvoorbeeld interessante informatie zoals de prijs van een product, of beurskoersen, of het laatste bedrijfsnieuws. Door te "scrapen" filteren we deze relevante informatie uit HTML-pagina's. Deze informatie kun je laten zien in je terminal, maar je kunt dit ook gebruiken voor bijvoorbeeld dataverzameling voor onderzoek.
+
+Scraping met `pup` gaat op basis van de selectors die ook in CSS gebruikt worden. Hiermee kun je aangeven welk deel van de HTML je wilt hebben. Op de gelinkte GitHub-pagina van `pup` staat ook een lijstje van de ondersteunde CSS-selectors in deze tool.
 
 Installatie voor Ubuntu en WSL:
 
@@ -27,10 +37,6 @@ Om Pup uit te testen met websites kun je `curl` gebruiken voor het binnenhalen v
 
 Met de optie `-s` voor `curl` zorgen we ervoor dat het programma geen "downloading" indicator geeft. Die is ook niet echt interessant omdat het laden van de meeste HTML-pagina's maar heel kort duurt. Met de optie `-c` voor `pup` zorgen we ervoor dat de output in kleur wordt weergegeven. Die kun je weglaten als je wilt.
 
-## CSS
-
-Scraping met `pup` gaat op basis van de selectors die ook in CSS gebruikt worden. Hiermee kun je aangeven welk deel van de HTML je wilt hebben. Op de GitHub-pagina van `pup` staat ook een lijstje van de ondersteunde CSS-selectors in deze tool.
-
 ## Opdrachten
 
 Geef steeds de complete pipeline inclusief het gebruikte `curl`-commando, pipes en andere commando's.
@@ -39,7 +45,7 @@ Geef steeds de complete pipeline inclusief het gebruikte `curl`-commando, pipes 
 
 1.  Zoek uit hoe je <u>alleen de tekst</u> van bovenstaande `span`s kunt scrapen.
 
-1.  Zoek uit met welk commando (curl + pup) je alle URL's (links) naar het laatste nieuws van de NOS kunt scrapen. Gebruik hiervoor de pagina <https://nos.nl/nieuws>.
+1.  Zoek uit met welk commando (`curl` + `pup`) je alle URL's (links) naar het laatste nieuws van de NOS kunt scrapen. Gebruik hiervoor de pagina <https://nos.nl/nieuws>.
 
 1.  Zoek uit hoe je alle headlines kunt scrapen, dus de koppen van het nieuws.
 
