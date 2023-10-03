@@ -156,10 +156,10 @@ module_4:
     show_progress: true
     type: points
     submits:
-        regex-intro: 3
-        chatbots: 2
-        carpentry-finding: 3
-        grep: 1
+        # regex-intro: 3
+        chatbots: 1
+        carpentry-finding: 2
+        grep: 3
         # tentamen-regexes: 0
 
 module_5:
