@@ -1,7 +1,5 @@
 # Oefeningen
 
-> De tentamen-oefeningen zijn nog niet bijgewerkt voor het nieuwe studiejaar. Er ontbreken nog onderdelen of vragen gaan op een andere manier gesteld worden.
-
 Deze vragen zijn goede oefeningen voor het tentamen. De verwachting is dat je alle vragen op het tentamen correct beantwoordt, foutjes daargelaten. Je hebt dus parate kennis nodig van de regels die je nodig hebt om via `pup` informatie uit een HTML-pagina te extraheren.
 
 Je kunt onderstaande oefeningen niet inleveren en ze horen dus ook niet bij de deadline voor de Scraping-module.
@@ -14,47 +12,48 @@ Wat je moet weten voor het tentamen:
 - Hoe je selectors kunt combineren om op meerdere eigenschappen te selecteren.
 - Hoe je selectors kunt combineren om specifieke onderdelen van een document te selecteren.
 
-
 ## HTML
 
-Gegeven is dit HTML-document in een bestand `about.html`:
+Gegeven is het volgende HTML-document in `sample.html`:
 
+    <!DOCTYPE html>
     <html>
-      <head>
-        <title>Sample Document</title>
-      </head>
-      <body>
-        <div id="header">
-          <h1>Welcome to my website</h1>
-          <nav>
-            <ul>
-              <li><a href="/home">Home</a></li>
-              <li><a href="/about">About</a></li>
-              <li><a href="/contact">Contact</a></li>
-            </ul>
-          </nav>
+    <head>
+      <title>Sample HTML Document</title>
+    </head>
+    <body>
+      <h1>Welcome to my website</h1>
+      <div class="container">
+        <p>Here is some text in a paragraph.</p>
+        <ul>
+          <li>Item 1</li>
+          <li>Item 2</li>
+          <li>Item 3</li>
+        </ul>
+        <div class="highlight">
+            <p>Here is some highlighted text in a paragraph.</p>
+            <p>Here is some more highlighted text in a paragraph.</p>
         </div>
-        <div id="main-content">
-          <h2>About Us</h2>
-          <p>We are a company that specializes in web development.</p>
-          <p>We have been in business for 10 years.</p>
-        </div>
-        <div id="footer">
-          <p>Copyright © 2022 Sample Company</p>
-        </div>
-      </body>
+        <ul id="done">
+          <li>Item 4</li>
+          <li>Item 5</li>
+          <li>Item 6</li>
+        </ul>
+      </div>
+      <div class="footer">
+        <p>Copyright © 2021</p>
+      </div>
+    </body>
     </html>
 
-## Opdrachten
+Geef **complete pup-commando's** om de volgende vragen te beantwoorden. Gebruik altijd selectors die net zo specifiek zijn als de vraag zegt! Je selectors moeten ook op andere HTML-documenten werken.
 
-Geef complete `pup`-oneliners om het antwoord te geven op de volgende vragen. Start met `cat about.html`. Geef ook de uitkomst!
+4.1. Geef een commando om de eerste `<p>` tag in elke eerste `<div>` te selecteren. In het document hierboven matcht dan alleen de `<p>Here is some text in a paragraph.</p>`.
 
-Je antwoorden moeten zo specifiek mogelijk zijn. Als er wordt gevraagd naar de `h2` in de tweede `div`, dan moet je niet alleen de `h2` selecteren maar `div:nth-child(2) h2`.
+4.2. Geef een commando om de tweede `<li>` tag in elke `<ul>` te selecteren. Hierboven matchen dan `<li>Item 2</li>` en `<li>Item 5</li>`.
 
-1. What is the text of the `h1` element in the `#header` `div`?
-1. What is the href of the first `a` element within the `nav` element?
-1. What is the text of the second `p` element within the `#main-content` `div`?
-1. How many a elements are within the `nav` element? (deze kun je beantwoorden door te combineren met een ander UNIX-commando, want pup kan niet tellen)
-1. What is the text of the `p` element in the `#footer` div?
+4.3. Geef een commando om de `<p>` tags in elke `<div class="highlight">` te selecteren. Hierboven matchen dan `<p>Here is some highlighted text in a paragraph.</p>` en `<p>Here is some more highlighted text in a paragraph.</p>`.
 
-(Deze oefening is gegenereerd met ChatGPT.)
+4.4. Geef een commando om de laatste tag in de `<ul id="done">` te selecteren. Hierboven matcht dan `<li>Item 6</li>`.
+
+4.5. Geef een commando om elke `<title>` tag selecteren. Hierboven matcht dan `<title>Sample HTML Document</title>`.

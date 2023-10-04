@@ -1,7 +1,5 @@
 # Oefeningen
 
-> De tentamen-oefeningen zijn nog niet bijgewerkt voor het nieuwe studiejaar. Er ontbreken nog onderdelen of vragen gaan op een andere manier gesteld worden.
-
 Deze vragen zijn goede oefeningen voor het tentamen. Op het tentamen kun je ook vragen verwachten op basis van de jou al bekende Movies-database. De verwachting is dat je alle vragen op het tentamen correct beantwoordt, foutjes daargelaten. Je hebt dus parate kennis nodig van SQL en wat de verschillende clausules (JOIN, WHERE, enzovoort) doen. Als je merkt dat je deze kennis nog niet echt paraat hebt, dan kun je extra studeren met hulp van het videocollege of externe bronnen over SQL.
 
 Je kunt onderstaande oefeningen niet inleveren en ze horen dus ook niet bij de deadline voor de Databases-module.
@@ -51,14 +49,14 @@ Voor de vragen gebruiken we de movies-database die je al kent. Hier is het schem
 
 ## Vragen
 
-1. Schrijf een SQL-query die de titel en het jaar van elke film geeft.
+Voor de volgende vragen moet je SQL-queries schrijven. De queries moeten precies zo specifiek zijn als wordt gevraagd, dus je mag geen shortcuts nemen op basis van jouw kennis van films en antwoorden.
 
-2. Schrijf een SQL-query die de namen geeft van alle acteurs in de film "Titanic" uit 1997.
+Vergeet ook niet om te laten zien dat je een JOIN kunt schrijven.
 
-3. Schrijf een SQL-query die de gemiddelde rating van alle films uit 2005 geeft.
+3.1. Schrijf een SQL-query om de namen te selecteren van alle regisseurs die betrokken zijn bij de film 'The Matrix' uit 1999.
 
-4. Schrijf een SQL-query die de titels geeft van alle films gemaakt door een regisseur die geboren is in 1984.
+3.2. Schrijf een SQL-query die het aantal films selecteert die een rating hoger dan 8.5 hebben en meer dan 100 stemmen hebben ontvangen.
 
-5. Schrijf een SQL-query die het aantal films geeft waarin "Sandra Oh" speelt.
+3.3. Schrijf een SQL-query om naam en de rating te selecteren van alle films waarin 'Marouane Meftah' speelt (de rating is `ratings.rating`).
 
-(Deze oefening is gegenereerd met ChatGPT.)
+3.4. Schrijf een SQL-query om de namen van alle mensen te selecteren, gesorteerd op geboortejaar, die speelden in een film uit het jaar 2005.
