@@ -2,7 +2,12 @@
 
 Deze vragen zijn goede oefeningen voor het tentamen. Op het tentamen zelf zul je minder vragen krijgen over dit onderwerp, en de verwachting is dat je alle vragen op het tentamen correct beantwoordt, foutjes daargelaten. Je hebt dus parate kennis nodig van de commando's en wat ze doen. Als je merkt dat je deze kennis nog niet echt paraat hebt, dan kun je extra studeren met hulp van de Software Carpentry-workshop en de andere materialen.
 
-Wat je moet weten voor het tentamen:
+Je kunt onderstaande oefeningen niet inleveren en ze horen dus ook niet bij de deadline voor de Scraping-module.
+
+
+## Parate kennis
+
+Wat je zeker moet weten voor het tentamen:
 
 - Hoe je meerdere commando's kunt combineren met pipes (`|`). De commando's zelf moet je kennen uit de vorige module.
 - Hoe redirection werkt met (`<` en `>`).

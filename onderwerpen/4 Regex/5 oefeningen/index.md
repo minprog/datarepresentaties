@@ -2,17 +2,23 @@
 
 Deze vragen zijn goede oefeningen voor het tentamen. De verwachting is dat je alle vragen op het tentamen correct beantwoordt, foutjes daargelaten. Je hebt dus parate kennis nodig van reguliere expressies. Als je merkt dat je deze kennis nog niet echt paraat hebt, dan kun je extra studeren met hulp van het materiaal in deze module.
 
-Je kunt onderstaande oefeningen niet inleveren en ze horen dus ook niet bij de deadline voor de regex-module.
-
 Onderstaande vragen zijn *grotendeels* representatief voor de vragen die je op het tentamen tegen zou kunnen komen. De vraagstelling kan wat anders zijn maar je zult sowieso `grep`-commando's op basis van reguliere expressies moeten schrijven (in feite gewoon alle stof uit het boek). Alle vormen van reguliere expressies van [de opdrachten op deze pagina](/onderwerpen/regex/grep) kunnen voorkomen.
 
-Wat je moet weten voor het tentamen:
+Je kunt onderstaande oefeningen niet inleveren en ze horen dus ook niet bij de deadline voor de regex-module.
+
+
+## Parate kennis
+
+Wat je zeker moet weten voor het tentamen:
 
 - Verschil tussen selecteren van regels (ook wel zinnen), tekst (ook wel strings), of losse woorden.
 - Hoe je dingen aan begin/eind regel kunt selecteren.
 - Hoe je woorden met iets ervoor of erachter kunt selecteren.
 - Betekenis van speciale tekens zoals `()|[]^$` enz.
 - Alle andere dingen die je nodig had om de regex-opdrachten te doen.
+
+
+## Opgaven
 
 Gegeven is de volgende ChatGPT-poëzie:
 

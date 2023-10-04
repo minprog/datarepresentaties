@@ -2,10 +2,15 @@
 
 Deze vragen zijn goede oefeningen voor het tentamen. Op het tentamen zelf zul je minder vragen krijgen over dit onderwerp, en de verwachting is dat je alle vragen op het tentamen correct beantwoordt, foutjes daargelaten. Je hebt dus parate kennis nodig van de commando's en wat ze doen. Als je merkt dat je deze kennis nog niet echt paraat hebt, dan kun je extra studeren met hulp van de Software Carpentry-workshop en de andere materialen.
 
-Wat je moet weten voor het tentamen:
+Je kunt onderstaande oefeningen niet inleveren en ze horen dus ook niet bij de deadline voor de Scraping-module.
 
+
+## Parate kennis
+
+Wat je zeker moet weten voor het tentamen:
+
+- De werking van onderstaande commando's en een aantal specifieke opties.
 - Hoe paths werken als verwijzing naar bestanden en directories in het file system.
-- De globale werking van onderstaande commando's en een aantal specifieke opties.
 - Hoe wildcards werken om meerdere bestanden te "matchen".
 
 
