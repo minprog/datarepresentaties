@@ -4,7 +4,7 @@ Deze vragen zijn goede oefeningen voor het tentamen. De verwachting is dat je al
 
 Je kunt onderstaande oefeningen niet inleveren en ze horen dus ook niet bij de deadline voor de regex-module.
 
-Onderstaande vragen zijn *grotendeels* representatief voor de vragen die je op het tentamen tegen zou kunnen komen. De vraagstelling kan wat anders zijn maar je zult sowieso `grep`-commando's op basis van reguliere expressies moeten schrijven (in feite gewoon alle stof uit het boek). Alle vormen van reguliere expressies van [de opdrachten op deze pagina](/regex/opdrachten) kunnen voorkomen.
+Onderstaande vragen zijn *grotendeels* representatief voor de vragen die je op het tentamen tegen zou kunnen komen. De vraagstelling kan wat anders zijn maar je zult sowieso `grep`-commando's op basis van reguliere expressies moeten schrijven (in feite gewoon alle stof uit het boek). Alle vormen van reguliere expressies van [de opdrachten op deze pagina](/regex/grep) kunnen voorkomen.
 
 Wat je moet weten voor het tentamen:
 
@@ -29,24 +29,24 @@ Gegeven is de volgende ChatGPT-poëzie:
 
 Geef hieronder UNIX-onliners gebaseerd op een variant van `grep`.
 
-1. Geef een commando om alle **regels** te selecteren waarin de tekst "sneeuw" staat, onafhankelijk van hoofdlettergebruik. De uitvoer bestaat uit regels 0 en 9.
+1. Geef een commando om alle regels te selecteren waarin de string "sneeuw" staat, onafhankelijk van hoofdlettergebruik. De uitvoer bestaat uit regels 0 en 9.
 
-2. Geef een commando om alle **regels** te selecteren waarin het woord "de" staat, onafhankelijk van hoofdlettergebruik. Het woord "deze" mag niet gematcht worden. De uitvoer bestaat daarom uit regels 2, 4, 5, 7, 8, 9 maar niet regel 6.
+2. Geef een commando om alle regels te selecteren waarin het woord "de" staat, onafhankelijk van hoofdlettergebruik. Het woord "deze" mag niet gematcht worden. De uitvoer bestaat daarom uit regels 2, 4, 5, 7, 8, 9 maar niet regel 6.
 
-3. Geef een commando om alle **woorden** te selecteren die eindigen op een komma. De uitvoer begint met:
+3. Geef een commando om alle woorden te selecteren die eindigen op een komma. De uitvoer begint met:
 
-    Winter,
-    verdriet,
-    bomen,
+        Winter,
+        verdriet,
+        bomen,
 
-4. Geef een commando om alle **woorden** te selecteren die aan het begin van de regel staan (de regelnummers horen niet tot het bestand, dus die mag je negeren!). De uitvoer begint met:
+4. Geef een commando om alle woorden te selecteren die aan het begin van de regel staan (de regelnummers horen niet tot het bestand, dus die mag je negeren!). De uitvoer begint met:
 
-    Winter
-    Met
-    De
+        Winter
+        Met
+        De
 
-5. Geef een commando om alle **woorden** te selecteren die beginnen met een letter "v", daarna een klinker (a, e, i, o, u, y). De rest van het woord maakt niet uit. De uitvoer begint met:
+5. Geef een commando om alle woorden te selecteren die beginnen met een letter "v", daarna een klinker (a, e, i, o, u, y). De rest van het woord maakt niet uit. De uitvoer begint met:
 
-    van
-    verdriet
-    verstild
+        van
+        verdriet
+        verstild
