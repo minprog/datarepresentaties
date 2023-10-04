@@ -53,10 +53,10 @@ Voor de volgende vragen moet je SQL-queries schrijven. De queries moeten precies
 
 Vergeet ook niet om te laten zien dat je een JOIN kunt schrijven.
 
-3.1. Schrijf een SQL-query om de namen te selecteren van alle regisseurs die betrokken zijn bij de film 'The Matrix' uit 1999.
+1. Schrijf een SQL-query om de namen te selecteren van alle regisseurs die betrokken zijn bij de film 'The Matrix' uit 1999.
 
-3.2. Schrijf een SQL-query die het aantal films selecteert die een rating hoger dan 8.5 hebben en meer dan 100 stemmen hebben ontvangen.
+2. Schrijf een SQL-query die het aantal films selecteert die een rating hoger dan 8.5 hebben en meer dan 100 stemmen hebben ontvangen.
 
-3.3. Schrijf een SQL-query om naam en de rating te selecteren van alle films waarin 'Marouane Meftah' speelt (de rating is `ratings.rating`).
+3. Schrijf een SQL-query om naam en de rating te selecteren van alle films waarin 'Marouane Meftah' speelt (de rating is `ratings.rating`).
 
-3.4. Schrijf een SQL-query om de namen van alle mensen te selecteren, gesorteerd op geboortejaar, die speelden in een film uit het jaar 2005.
+4. Schrijf een SQL-query om de namen van alle mensen te selecteren, gesorteerd op geboortejaar, die speelden in een film uit het jaar 2005.

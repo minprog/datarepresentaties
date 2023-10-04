@@ -48,12 +48,12 @@ Gegeven is het volgende HTML-document in `sample.html`:
 
 Geef **complete pup-commando's** om de volgende vragen te beantwoorden. Gebruik altijd selectors die net zo specifiek zijn als de vraag zegt! Je selectors moeten ook op andere HTML-documenten werken.
 
-4.1. Geef een commando om de eerste `<p>` tag in elke eerste `<div>` te selecteren. In het document hierboven matcht dan alleen de `<p>Here is some text in a paragraph.</p>`.
+1. Geef een commando om de eerste `<p>` tag in elke eerste `<div>` te selecteren. In het document hierboven matcht dan alleen de `<p>Here is some text in a paragraph.</p>`.
 
-4.2. Geef een commando om de tweede `<li>` tag in elke `<ul>` te selecteren. Hierboven matchen dan `<li>Item 2</li>` en `<li>Item 5</li>`.
+2. Geef een commando om de tweede `<li>` tag in elke `<ul>` te selecteren. Hierboven matchen dan `<li>Item 2</li>` en `<li>Item 5</li>`.
 
-4.3. Geef een commando om de `<p>` tags in elke `<div class="highlight">` te selecteren. Hierboven matchen dan `<p>Here is some highlighted text in a paragraph.</p>` en `<p>Here is some more highlighted text in a paragraph.</p>`.
+3. Geef een commando om de `<p>` tags in elke `<div class="highlight">` te selecteren. Hierboven matchen dan `<p>Here is some highlighted text in a paragraph.</p>` en `<p>Here is some more highlighted text in a paragraph.</p>`.
 
-4.4. Geef een commando om de laatste tag in de `<ul id="done">` te selecteren. Hierboven matcht dan `<li>Item 6</li>`.
+4. Geef een commando om de laatste tag in de `<ul id="done">` te selecteren. Hierboven matcht dan `<li>Item 6</li>`.
 
-4.5. Geef een commando om elke `<title>` tag selecteren. Hierboven matcht dan `<title>Sample HTML Document</title>`.
+5. Geef een commando om elke `<title>` tag selecteren. Hierboven matcht dan `<title>Sample HTML Document</title>`.
