@@ -71,7 +71,7 @@ grades:
         <<: *aftekenen
         deadline: 6/10/23 17:00
     homepage:
-        <<: *punten
+        <<: *aftekenen
         deadline: 6/10/23 17:00
 
     internet:
