@@ -45,7 +45,7 @@ Geef steeds de complete pipeline inclusief het gebruikte `curl`-commando, pipes 
 
 1.  Zoek uit hoe je <u>alleen de tekst</u> van bovenstaande `span`s kunt scrapen.
 
-1.  Zoek uit met welk commando (`curl` + `pup`) je alle URL's (links) naar het laatste nieuws van de NOS kunt scrapen. Gebruik hiervoor de pagina <https://nos.nl/nieuws>.
+1.  Zoek uit met welk commando (`curl` + `pup`) je alle URL's (links) naar het laatste nieuws van de NOS kunt scrapen. Gebruik hiervoor de pagina <https://nos.nl/nieuws/laatste>.
 
 1.  Zoek uit hoe je alle headlines kunt scrapen, dus de koppen van het nieuws.
 
