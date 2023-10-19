@@ -52,6 +52,8 @@ Gegeven is het volgende HTML-document in `sample.html`:
 
 Geef **complete pup-commando's** om de volgende vragen te beantwoorden. Gebruik altijd selectors die net zo specifiek zijn als de vraag zegt! Je selectors moeten ook op andere HTML-documenten werken.
 
+Een commando om de `<h1>` tags in een document te selecteren kan zijn: `pup 'h1' < sample.html`.
+
 1. Geef een commando om de eerste `<p>` tag in elke eerste `<div>` te selecteren. In het document hierboven matcht dan alleen de `<p>Here is some text in a paragraph.</p>`.
 
 2. Geef een commando om de tweede `<li>` tag in elke `<ul>` te selecteren. Hierboven matchen dan `<li>Item 2</li>` en `<li>Item 5</li>`.
