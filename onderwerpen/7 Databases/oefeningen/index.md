@@ -54,7 +54,7 @@ Voor de vragen gebruiken we de movies-database die je al kent. Hier is het schem
 
 Voor de volgende vragen moet je SQL-queries schrijven. De queries moeten precies zo specifiek zijn als wordt gevraagd, dus je mag geen shortcuts nemen op basis van jouw kennis van films en antwoorden.
 
-Vergeet ook niet om te laten zien dat je een JOIN kunt schrijven.
+Vergeet ook niet om te laten zien dat je een JOIN kunt schrijven. Zonder JOIN kun je dit onderdeel van het tentamen niet halen.
 
 1. Schrijf een SQL-query om de namen te selecteren van alle regisseurs die betrokken zijn bij de film 'The Matrix' uit 1999.
 
