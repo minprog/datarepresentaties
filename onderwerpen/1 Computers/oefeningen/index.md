@@ -81,3 +81,5 @@ De opgaven:
 ## Nakijken
 
 Deze oefeningen kun je niet inleveren. Je kunt je uitwerkingen zelf controleren door alles uit te proberen in een UNIX-shell. Maak de bestanden aan zoals genoemd en kijk of het lukt. Daarnaast kun je je antwoorden vergelijken met die van je buren.
+
+Voorbeeldantwoord vraag 2: `cat ../martijn/kattennamen.txt`.
