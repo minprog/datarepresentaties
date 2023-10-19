@@ -18,6 +18,14 @@ Punten die je eerder niet gehaald hebt kun je ook niet meer krijgen via het tent
 
 ## Oefenen
 
+Dit zijn de oefenopdrachten:
+
+- [UNIX-commando's](/onderwerpen/besturingssystemen/oefeningen)
+- [UNIX-oneliners](/onderwerpen/computers/oefeningen)
+- [Reguliere expressies](/onderwerpen/regex/oefeningen)
+- [Scraping](/onderwerpen/scraping/oefeningen)
+- [Databases](/onderwerpen/databases/oefeningen)
+
 Zorg dat je de oefenopdrachten op een goede manier gebruikt. Als je een antwoord niet zelf kunt bedenken, ga dan **niet** meteen het antwoord opzoeken. Ga dan eerst terug naar de module om te oefenen en te leren. Daarna probeer je de oefenopdracht nogmaals te doen en daarna ga je, als het nodig is, hulp vragen.
 
 Neem geen shortcuts anders verspeel je de oefenvragen. Er zijn geen extra oefenvragen vanuit ons, hoewel je zeker met je medestudenten zelf oefenvragen kunt uitwisselen, ze zijn niet moeilijk om te bedenken.
