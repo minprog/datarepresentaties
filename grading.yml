@@ -175,7 +175,7 @@ module_6:
     submits:
         internet: 1
         json: 1
-        scraping: 3
+        scraping: 4
         # tentamen-scraping: 0
 
 module_7:
