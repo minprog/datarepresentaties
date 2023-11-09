@@ -17,7 +17,7 @@ templates:
             akkoord: boolean
         calculation: akkoord
         is_test: true
-        hide_subgrades: true
+        hide_calculated: true
 
 grades:
     pidac: *punten
