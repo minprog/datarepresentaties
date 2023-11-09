@@ -11,6 +11,13 @@ templates:
             punten: integer
         calculation: punten
         hide_subgrades: true
+    3: &tentamen
+        type: pass
+        subgrades:
+            akkoord: boolean
+        calculation: akkoord
+        is_test: true
+        hide_subgrades: true
 
 grades:
     pidac: *punten
@@ -91,37 +98,26 @@ grades:
         <<: *aftekenen
         deadline: 20/10/23 17:00
 
-    # tentamen-commands: *aftekenen
-    # tentamen-oneliners: *aftekenen
-    # tentamen-regexes: *aftekenen
-    # tentamen-scraping: *aftekenen
-    # tentamen-databases: *aftekenen
-
-calculation:
-    eindcijfer:
-        pidac: 1
-        module_1: 1
-        module_2: 1
-        module_3: 1
-        module_4: 1
-        module_5: 1
-        module_6: 1
-        module_7: 1
-    herkansing:
-        pidac: 1
-        module_1: 1
-        module_2: 1
-        module_3: 1
-        module_4: 1
-        module_5: 1
-        module_6: 1
-        module_7: 1
+    tentamen-commands: *tentamen
+    tentamen-oneliners: *tentamen
+    tentamen-regexes: *tentamen
+    tentamen-scraping: *tentamen
+    tentamen-databases: *tentamen
 
 pidac:
     show_progress: true
     type: points
     submits:
         pidac: 6
+
+tentamen:
+    show_progress: true
+    submits:
+        tentamen-commands: 0
+        tentamen-oneliners: 0
+        tentamen-regexes: 0
+        tentamen-scraping: 0
+        tentamen-databases: 0
 
 module_1:
     show_progress: true
@@ -131,7 +127,6 @@ module_1:
         big-picture: 1
         binary: 1
         carpentry-files: 3
-        # tentamen-commands: 0
 
 module_2:
     show_progress: true
@@ -141,7 +136,6 @@ module_2:
         opsys: 1
         carpentry-pipelines: 2
         unix-tools: 2
-        # tentamen-oneliners: 0
 
 module_3:
     show_progress: true
@@ -160,7 +154,6 @@ module_4:
         chatbots: 1
         carpentry-finding: 2
         grep: 3
-        # tentamen-regexes: 0
 
 module_5:
     show_progress: true
@@ -176,7 +169,6 @@ module_6:
         internet: 1
         json: 1
         scraping: 4
-        # tentamen-scraping: 0
 
 module_7:
     show_progress: true
@@ -184,4 +176,3 @@ module_7:
     submits:
         movies: 3
         fiftyville: 3
-        # tentamen-databases: 0
