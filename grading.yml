@@ -6,7 +6,7 @@ templates:
         calculation: akkoord
         hide_subgrades: true
     2: &punten
-        type: pass
+        type: points
         subgrades:
             punten: integer
         calculation: punten
