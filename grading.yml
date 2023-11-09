@@ -119,11 +119,11 @@ pidac:
 tentamen:
     show_progress: true
     submits:
-        tentamen-commands: 0
-        tentamen-oneliners: 0
-        tentamen-regexes: 0
-        tentamen-scraping: 0
-        tentamen-databases: 0
+        tentamen-commands: 1
+        tentamen-oneliners: 1
+        tentamen-regexes: 1
+        tentamen-scraping: 1
+        tentamen-databases: 1
 
 module_1:
     show_progress: true
