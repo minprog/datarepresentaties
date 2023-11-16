@@ -1,5 +1,6 @@
 templates:
     1: &aftekenen
+        type: points
         subgrades:
             akkoord: boolean
         calculation: akkoord
