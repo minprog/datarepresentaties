@@ -177,3 +177,12 @@ module_7:
         movies: 3
         fiftyville: 3
         tentamen-databases: 0
+
+tentamen:
+    show_progress: true
+    submits:
+        tentamen-commands: 1
+        tentamen-oneliners: 1
+        tentamen-regexes: 1
+        tentamen-scraping: 1
+        tentamen-databases: 1
