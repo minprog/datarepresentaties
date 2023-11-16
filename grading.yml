@@ -123,7 +123,7 @@ module_1:
         big-picture: 1
         binary: 1
         carpentry-files: 3
-        tentamen-commands: 1
+        tentamen-commands: 0
 
 module_2:
     show_progress: true
@@ -133,7 +133,7 @@ module_2:
         opsys: 1
         carpentry-pipelines: 2
         unix-tools: 2
-        tentamen-oneliners: 1
+        tentamen-oneliners: 0
 
 module_3:
     show_progress: true
@@ -152,7 +152,7 @@ module_4:
         chatbots: 1
         carpentry-finding: 2
         grep: 3
-        tentamen-regexes: 1
+        tentamen-regexes: 0
 
 module_5:
     show_progress: true
@@ -168,7 +168,7 @@ module_6:
         internet: 1
         json: 1
         scraping: 4
-        tentamen-scraping: 1
+        tentamen-scraping: 0
 
 module_7:
     show_progress: true
@@ -176,4 +176,4 @@ module_7:
     submits:
         movies: 3
         fiftyville: 3
-        tentamen-databases: 1
+        tentamen-databases: 0
