@@ -1,24 +1,10 @@
 # Bestandssysteem in UNIX
 
-1. Lees het hoofdstuk en doe het eerste deel van de workshop hieronder,
-2. hou goed bij wat je opvalt en wat je leert,
-3. en schrijf een verslag van wat je hebt gedaan en geleerd.
+Deze pagina bevat oefenmaterialen om je voor te bereiden voor het tentamenonderdeel "UNIX-commando's en bestandssysteem".
 
-## Literatuur
+## Voorbereiding
 
-Hoofdstuk "File systems" uit het boek van Dale & Lewis, *Computer Science Illuminated*. (Let op: in de reader staat eerst nog een ander hoofdstuk "Operating Systems", maar dat komt later.)
-
-## Vragen
-
-Beantwoord de volgende vragen weer in een PDF. Je voegt later ook nog een verslag toe van het doen van de workshop (zie onder).
-
-2.  Wat is de minimale informatie die een directory over elke file moet bevatten? Waarom is dit minimaal, ofwel waarom zou het anders niet kunnen werken als opslag?
-
-3.  Geef het absolute pad van het bestand `access.old` uit figuur 11.5 van het boek.
-
-4.  Stel dat de "current working directory" (huidige directory) is `C:\Windows\System`. Geef het relatieve pad naar het bestand `proj3.java` zoals in figuur 11.4 van het boek.
-
-5.  **Dit is de belangrijkste vraag over het leeswerk.** Beschrijf welke opvallende dingen je hebt geleerd bij het lezen in het boek en het uitwerken van de vragen. Geef aan wat je eventueel moeilijk vond en welke bronnen je hebt gebruikt om verder uit te zoeken wat je moest begrijpen.
+Lees het hoofdstuk "File systems" uit het boek van Dale & Lewis, *Computer Science Illuminated*. (Let op: in de reader staat eerst nog een ander hoofdstuk "Operating Systems", maar dat komt later.)
 
 ## Workshop
 
@@ -37,10 +23,12 @@ Gebruik de website van [Software carpentry](https://swcarpentry.github.io/shell-
 
 4.  In sommige gevallen matcht de omgeving niet met de omgeving die jij op je computer hebt. Zorg dat je uitzoekt hoe je dan moet handelen en betrek de assistenten hierbij. Je zou elk commando in de workshop moeten kunnen uitproberen.
 
-5.  **Dit is de belangrijkste vraag over de workshop.** Beschrijf in dezelfde PDF als hierboven welke opvallende dingen je hebt geleerd bij het doen van de workshop. Geef aan wat je eventueel moeilijk vond en welke bronnen je hebt gebruikt om verder uit te zoeken wat je moest begrijpen. Je kunt ook aangeven waarover je vragen hebt gesteld of waarover je discussies hebt gevoerd met medestudenten.
+## Uitzoekvragen
 
-> Tip: je kunt voor zo'n praktische opdracht als deze ook screenshots maken en opnemen in je PDF om te laten zien wat er bijvoorbeeld mis ging.
+Deze vragen helpen je nadenken over bestandssystemen.
 
-## Nakijken
+2.  Wat is de minimale informatie die een directory over elke file moet bevatten? Waarom is dit minimaal, ofwel waarom zou het anders niet kunnen werken als opslag?
 
-Ook bij deze opdracht moet je weer dingen die je hebt geleerd bijhouden. Bij deze opdracht geldt (naast het beantwoorden van de specifieke vragen) sterker dan voorheen dat je zelf verslag moet doen van jouw leerproces, dus bij vraag 5 hierboven. Relateer je ervaringen tijdens de workshop aan wat je al wist (of wat je nog niet wist).
+3.  Geef het absolute pad van het bestand `access.old` uit figuur 11.5 van het boek.
+
+4.  Stel dat de "current working directory" (huidige directory) is `C:\Windows\System`. Geef het relatieve pad naar het bestand `proj3.java` zoals in figuur 11.4 van het boek.
