@@ -6,15 +6,15 @@ Computers:
     Schrijfopdracht:
         Introduction to computing: /onderwerpen/computers/intro
     UNIX-commando's:
-        Software Carpentry UNIX [tutorial]: /onderwerpen/computers/carpentry
+        Software Carpentry UNIX: /onderwerpen/computers/carpentry
         Oefeningen tentamen: /onderwerpen/computers/oefeningen
 
 Besturingssystemen:
     Schrijfopdracht:
         Besturingssystemen: /onderwerpen/besturingssystemen/intro
     UNIX-pipelines:
-        Software Carpentry UNIX 2 [tutorial]: /onderwerpen/besturingssystemen/carpentry
-        Oefeningen tentamen: /onderwerpen/xxx/oefeningen
+        Software Carpentry UNIX deel 2: /onderwerpen/besturingssystemen/carpentry
+        Oefeningen tentamen: /onderwerpen/besturingssystemen/oefeningen
 
 Representaties:
     Schrijfopdracht:

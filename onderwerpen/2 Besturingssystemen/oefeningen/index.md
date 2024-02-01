@@ -1,9 +1,6 @@
 # Oefeningen
 
-Deze vragen zijn goede oefeningen voor het tentamen. Op het tentamen zelf zul je minder vragen krijgen over dit onderwerp, en de verwachting is dat je alle vragen op het tentamen correct beantwoordt, foutjes daargelaten. Je hebt dus parate kennis nodig van de commando's en wat ze doen. Als je merkt dat je deze kennis nog niet echt paraat hebt, dan kun je extra studeren met hulp van de Software Carpentry-workshop en de andere materialen.
-
-Je kunt onderstaande oefeningen niet inleveren en ze horen dus ook niet bij de deadline voor de Scraping-module.
-
+Deze vragen zijn goede oefeningen voor het tentamen. De verwachting is dat je alle vragen op het tentamen correct beantwoordt, foutjes daargelaten. Je hebt dus parate kennis nodig van de commando's en wat ze doen. Als je merkt dat je deze kennis nog niet echt paraat hebt, dan kun je extra studeren met hulp van de Software Carpentry-workshop en de andere materialen.
 
 ## Parate kennis
 
@@ -11,7 +8,6 @@ Wat je zeker moet weten voor het tentamen:
 
 - Hoe je meerdere commando's kunt combineren met pipes (`|`). De commando's zelf moet je kennen uit de vorige module.
 - Hoe redirection werkt met (`<` en `>`).
-
 
 ## One-liners met fruit
 
@@ -40,7 +36,6 @@ Geef one-liners voor de volgende opdrachten:
 8. Display the 3 most common words in the file.
 9. Display the 3 least common words in the file.
 
-
 ## One-liners met mensen
 
 Gegeven dit bestand:
@@ -60,3 +55,7 @@ Geef one-liners voor de volgende opdrachten:
 5. Show the second column of the file (ages) in numerical order.
 
 (Deze oefeningen zijn gegenereerd met ChatGPT.)
+
+## Nakijken
+
+Deze oefeningen kun je niet inleveren. Je kunt je uitwerkingen zelf controleren door alles uit te proberen in een UNIX-shell. Maak de bestanden aan zoals genoemd en kijk of het lukt. Daarnaast kun je je antwoorden vergelijken met die van je buren.

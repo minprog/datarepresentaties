@@ -1,9 +1,6 @@
 # Oefeningen
 
-Deze vragen zijn goede oefeningen voor het tentamen. Op het tentamen zelf zul je minder vragen krijgen over dit onderwerp, en de verwachting is dat je alle vragen op het tentamen correct beantwoordt, foutjes daargelaten. Je hebt dus parate kennis nodig van de commando's en wat ze doen. Als je merkt dat je deze kennis nog niet echt paraat hebt, dan kun je extra studeren met hulp van de Software Carpentry-workshop en de andere materialen.
-
-Je kunt onderstaande oefeningen niet inleveren en ze horen dus ook niet bij de deadline voor de Scraping-module.
-
+Deze vragen zijn goede oefeningen voor het tentamen. De verwachting is dat je alle vragen op het tentamen correct beantwoordt, foutjes daargelaten. Je hebt dus parate kennis nodig van de commando's en wat ze doen. Als je merkt dat je deze kennis nog niet echt paraat hebt, dan kun je extra studeren met hulp van de Software Carpentry-workshop en de andere materialen.
 
 ## Parate kennis
 
@@ -13,8 +10,7 @@ Wat je zeker moet weten voor het tentamen:
 - Hoe paths werken als verwijzing naar bestanden en directories in het file system.
 - Hoe wildcards werken om meerdere bestanden te "matchen".
 
-
-## Overzicht behandelde commando's
+<!-- ## Overzicht behandelde commando's
 
 Algemeen:
 
@@ -43,10 +39,9 @@ Data processing:
 - tail, tail -n
 - cut, cut -d, cut -f
 - uniq, uniq -c
-- cat
+- cat -->
 
-
-## Vragen over commando's
+## Opgaven over commando's
 
 Beantwoord de volgende vragen. Geef altijd een concreet en compleet commando. Als er geen file- of directorynaam is opgegeven moet je zelf een naam verzinnen.
 
@@ -60,10 +55,11 @@ Beantwoord de volgende vragen. Geef altijd een concreet en compleet commando. Al
 1. Wat is het commando om hele map te kopiëren naar een andere locatie?
 1. Hoe verwijder je een bestand?
 
+Er zijn nog veel meer vragen mogelijk. Je kunt de Software Carpentry-workshop uitpluizen om goed voorbereid te zijn.
 
 ## Opgaven met paths
 
-Geef commando's om een bestand te `cat`ten, dus de inhoud op het scherm te printen. Twee notities:
+Geef commando's om een bestand te `cat`ten, dus de inhoud op het scherm te printen. Twee notities over de vragen:
 
 - Als je `cd` gebruikt om naar een directory te "gaan" dan "ben je in de directory", of eigenlijk is de shell in die directory.
 - Een relatief pad begint nooit met een `/`. Dat is het hele idee. Begrijp je dit nog niet, lees dan het hoofdstuk, de uitleg van Software Carpentry, of bespreek met je medestudenten.
@@ -76,7 +72,6 @@ De opgaven:
 1. Hoe `cat` je een file `/Users/martijn/kattennamen.txt` als je in de directory `/` bent met hulp van een zo kort mogelijk *relatief* pad?
 1. Hoe `cat` je een file `kattennamen.txt` in de directory `/Users/martijn` met hulp van een absoluut pad?
 1. Hoe `cat` je een file `kattennamen.txt` in de directory `/root` met hulp van een absoluut pad?
-
 
 ## Nakijken
 
