@@ -1,0 +1,4 @@
+name: opsys
+files:
+    required:
+        - operating-systems.pdf

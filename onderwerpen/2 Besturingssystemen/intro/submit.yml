@@ -1,4 +1,4 @@
-name: opsys
+name: besturingssystemen
 files:
     required:
-        - operating-systems.pdf
+        - besturingssystemen.pdf

@@ -54,12 +54,12 @@ De docenten bij dit vak zijn Simon Pauw, Edwin Steffens en Martijn Stegeman. Je 
 
 Er zijn vier schrijfopdrachten die je verplicht moet doen:
 
-| Achtergrond        | Vorm      |
-|--------------------|-----------|
-| Hardware           | schrijven |
-| Besturingssystemen | schrijven |
-| Multimedia         | schrijven |
-| Internet           | schrijven |
+| Achtergrond               | Vorm      |
+|---------------------------|-----------|
+| Introduction to Computing | schrijven |
+| Besturingssystemen        | schrijven |
+| Representaties            | schrijven |
+| Internet                  | schrijven |
 
 Daarnaast kun je 48 punten halen, die uiteindelijk je eindcijfer bepalen:
 
