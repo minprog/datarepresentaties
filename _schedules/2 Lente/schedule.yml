@@ -5,7 +5,6 @@ Welkom:
 Computers:
     Hardware [college]: /onderwerpen/computers/hardware
     Introduction to computing [boek]: /onderwerpen/computers/intro
-    Binair tellen [boek]: /onderwerpen/computers/binary
     Software Carpentry UNIX [tutorial]: /onderwerpen/computers/carpentry
     Tentamen:
         Oefeningen UNIX: /onderwerpen/computers/oefeningen
@@ -18,6 +17,7 @@ Besturingssystemen:
 
 Representaties:
     Multimedia [college]: /onderwerpen/representaties/multimedia
+    Binair tellen [boek]: /onderwerpen/computers/binary
     Binaire representatie [boek]: /onderwerpen/representaties/binary
     Textcodering [achtergrond]: /onderwerpen/representaties/text
     Bestandsformaten [opdracht]: /onderwerpen/representaties/formaten

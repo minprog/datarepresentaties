@@ -10,7 +10,7 @@ Je kunt dit vak parallel aan Programmeren 1 volgen, of nadat je Programmeren 1 h
 
 ## Onderwerpen en aanpak
 
-Het vak is opgedeeld in acht modules die onafhankelijk van elkaar worden getoetst. Je kunt binnen elke module punten verzamelen. Om het vak te halen zul je dus de verschillende opdrachten maken, en voor de meeste modules moet je het bijbehorende deel van het tentamen halen om de punten definitief te krijgen. Voor het halen van de PIDAC-module is aanwezigheid noodzakelijk.
+Het vak is opgedeeld in acht modules.
 
 0. **Schakelingen met PIDAC.** Kennismaken met elektronische schakelingen waarop computers gebaseerd zijn en oefenen met het maken van schakelingen om berekeningen te doen.
 1. **Computers.** Kennismaken met standaard computerhardware en software, en de geschiedenis van het vakgebied. Een eerste start met gebruik van de command line.
@@ -22,18 +22,12 @@ Het vak is opgedeeld in acht modules die onafhankelijk van elkaar worden getoets
 7. **Databases.** Kennismaken met de relationele manier om data vast te leggen. Oefenen met het schrijven van SQL-queries om interessante data uit een database te halen.
 {: start="0"}
 
-Module 0 loopt dwars door de andere modules heen in de studieweken 2, 3 en 4. Hiervoor word je ingedeeld in een vaste practicumgroep met een vaste tijd.
+Module 0 loopt dwars door de andere modules heen in de tweede helft van het vak. Hiervoor word je ingedeeld in een vaste practicumgroep met een vaste tijd.
 
 
 ## Deadlines
 
-**Voor studenten die tegelijk Programmeren 1 volgen:**
-
-Deze studenten doen de fulltime Minor Programmeren. In principe hou je het dagschema aan zoals dat in het lokaal hangt. Een beetje schuiven is geen probleem. Opdrachten kunnen na **zondag om 16:59** niet meer ingeleverd worden voor punten.
-
-**Voor studenten die alleen Datarepresentaties volgen:**
-
-De harde deadline is op **zondag om 16:59**. Na die tijd kun je geen punten meer krijgen voor het inleveren van opdrachten. Je kunt het dagschema van de fulltime-studenten bekijken om een indicatie te krijgen van de verwachte studielast per opdracht, maar plan het vooral zelf.
+De harde deadline is op **vrijdag om 16:59**. Na die tijd kun je geen punten meer krijgen voor het inleveren van opdrachten.
 
 
 ## Docenten en vragen stellen
@@ -58,54 +52,39 @@ De docenten bij dit vak zijn Simon Pauw, Edwin Steffens en Martijn Stegeman. Je 
 
 ## Eindcijfer
 
-Voor deze cursus kun je 48 punten halen.
+Er zijn vier schrijfopdrachten die je verplicht moet doen:
 
-| Module             | Opdracht              | Vorm      | Punten | Tentamen-onderwerp |
-|--------------------|-----------------------|-----------|--------|----------------|
-| PIDAC              | Deel 1                | practicum | 2      | -              |
-|                    | Deel 2                | practicum | 2      |                |
-|                    | Deel 3                | practicum | 2      |                |
-|--------------------|-----------------------|-----------|--------|----------------|
-| Computers          | Hardware              | schrijven | 1      | UNIX-commandos |
-|                    | Computing             | schrijven | 1      |                |
-|                    | Binair tellen         | oefenen   | 1      |                |
-|                    | UNIX deel 1           | oefenen   | 3      |                |
-|--------------------|-----------------------|-----------|--------|----------------|
-| Besturingssystemen | Beveiliging           | schrijven | 1      | UNIX-oneliners |
-|                    | Besturingssystemen    | schrijven | 1      |                |
-|                    | Bestandssystemen      | schrijven | 1      |                |
-|                    | UNIX deel 2           | oefenen   | 3      |                |
-|--------------------|-----------------------|-----------|--------|----------------|
-| Representaties     | Multimedia            | schrijven | 1      | -              |
-|                    | Binaire representatie | oefenen   | 1      |                |
-|                    | Tekstcodering         | oefenen   | 1      |                |
-|                    | Bestandsformaten      | opdracht  | 3      |                |
-|--------------------|-----------------------|-----------|--------|----------------|
-| Text processing    | Reguliere expressies  | oefenen   | 3      | Regex + grep   |
-|                    | UNIX tools            | oefenen   | 2      |                |
-|                    | CSV                   | oefenen   | 1      |                |
-|--------------------|-----------------------|-----------|--------|----------------|
-| Web Development    | Web development       | schrijven | 1      | -              |
-|                    | Homepage              | opdracht  | 5      |                |
-|--------------------|-----------------------|-----------|--------|----------------|
-| Web Tools          | Internet              | schrijven | 1      | Scraping       |
-|                    | JSON + cURL           | oefenen   | 2      |                |
-|                    | Scraping              | oefenen   | 3      |                |
-|--------------------|-----------------------|-----------|--------|----------------|
-| Databases          | Movies                | oefenen   | 3      | Databases      |
-|                    | Fiftyville            | oefenen   | 3      |                |
+| Achtergrond        | Vorm      |
+|--------------------|-----------|
+| Hardware           | schrijven |
+| Besturingssystemen | schrijven |
+| Multimedia         | schrijven |
+| Internet           | schrijven |
+
+Daarnaast kun je 48 punten halen, die uiteindelijk je eindcijfer bepalen:
+
+| Onderdeel                          | Vorm      | Punten |
+|------------------------------------|-----------|--------|
+| UNIX-commando's en bestandssysteem | tentamen  | 6      |
+| UNIX-pipelines                     | tentamen  | 6      |
+| Tekstcodering en bestandsformaten  | project   | 6      |
+| Reguliere expressies               | tentamen  | 6      |
+| Webtechnologie en Homepage         | project   | 6      |
+| Scraping                           | tentamen  | 6      |
+| Databases en SQL                   | tentamen  | 6      |
+| PIDAC                              | practicum | 6      |
 
 Voorwaarden voor de punten per module:
 
-- Bij elke opdracht staat vermeld hoe deze beoordeeld wordt. Soms zijn deelpunten mogelijk, soms moet de hele opdracht goed zijn om alle punten te krijgen.
+- Bij opdrachten staat vermeld hoe deze beoordeeld worden. Soms zijn deelpunten mogelijk, soms moet de hele opdracht goed zijn om alle punten te krijgen.
 
-- Je krijgt alleen punten voor de opdrachten van een module als je het bijbehorende tentamen-onderdeel <u>voldoende</u> maakt. Als in de tabel geen tentamen-onderwerp vermeld is dan geldt de eis niet voor die module.
+- Je krijgt alleen punten voor de projecten die je op tijd hebt ingeleverd. Voor PIDAC geldt dat je alleen punten krijgt als je aanwezig was en de opdrachten af hebt.
 
-- Je krijgt alleen punten voor de opdrachten die je op tijd hebt ingeleverd, volgens de deadline die hierboven is vermeld. Voor PIDAC geldt dat je alleen punten krijgt als je aanwezig was en de bijbehorende opdracht af hebt.
+Je eindcijfer kun je berekenen met `totaal_punten / 48 * 9 + 1`. Als je dus de helft van de punten haalt is dat een 5,5 als cijfer, en dat betekent een voldoende voor het vak.
 
-Je eindcijfer kun je vervolgens berekenen met `totaal_punten / 48 * 9 + 1`. Als je dus de helft van de punten haalt is dat een 5,5 als cijfer, en dat betekent een voldoende voor het vak.
+### Herkansing
 
-De opdrachten kunnen niet "herkanst" worden na de deadline. Voor het tentamen wordt een normale herkansing gepland. Hier hoef je alleen de onderdelen te herkansen die nog onvoldoende zijn. Het heeft geen zin om een module op het tentamen te herkansen waarvan je de opdrachten uiteindelijk niet op tijd had ingeleverd.
+De schrijfopdrachten projecten kunnen niet "herkanst" worden na de deadline. Voor het tentamen wordt een normale herkansing gepland. Alle onderwerpen moeten bij het tentamen herkanst worden.
 
 
 ## Samenwerken
