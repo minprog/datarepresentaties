@@ -3,49 +3,56 @@ Welkom:
     En lees dit stuk als je het vak al eens eerder hebt gevolgd en komt herkansen: /herkansen
 
 Computers:
-    Hardware [college]: /onderwerpen/computers/hardware
-    Introduction to computing [boek]: /onderwerpen/computers/intro
-    Software Carpentry UNIX [tutorial]: /onderwerpen/computers/carpentry
-    Tentamen:
-        Oefeningen UNIX: /onderwerpen/computers/oefeningen
+    Schrijfopdracht:
+        Hardware [college]: /onderwerpen/computers/hardware
+        Introduction to computing [boek]: /onderwerpen/computers/intro
+    UNIX-commando's:
+        Bestandssystemen [boek]: /onderwerpen/besturingssystemen/fs
+        Software Carpentry UNIX [tutorial]: /onderwerpen/computers/carpentry
+        Oefeningen tentamen: /onderwerpen/computers/oefeningen
 
 Besturingssystemen:
-    Beveiliging [college]: /onderwerpen/besturingssystemen/security
-    Besturingssystemen [boek]: /onderwerpen/besturingssystemen/os
-    Bestandssystemen [boek]: /onderwerpen/besturingssystemen/fs
-    Software Carpentry UNIX 2 [tutorial]: /onderwerpen/besturingssystemen/carpentry
+    Schrijfopdracht:
+        Beveiliging [college]: /onderwerpen/besturingssystemen/security
+        Besturingssystemen [boek]: /onderwerpen/besturingssystemen/os
+    UNIX-pipelines:
+        Software Carpentry UNIX 2 [tutorial]: /onderwerpen/besturingssystemen/carpentry
+        Oefeningen tentamen: /onderwerpen/xxx/oefeningen
 
 Representaties:
-    Multimedia [college]: /onderwerpen/representaties/multimedia
-    Binair tellen [boek]: /onderwerpen/computers/binary
-    Binaire representatie [boek]: /onderwerpen/representaties/binary
-    Textcodering [achtergrond]: /onderwerpen/representaties/text
-    Bestandsformaten [opdracht]: /onderwerpen/representaties/formaten
+    Schrijfopdracht:
+        Multimedia [college]: /onderwerpen/representaties/multimedia
+        Binair tellen [boek]: /onderwerpen/computers/binary
+        Binaire representatie [boek]: /onderwerpen/representaties/binary
+    Tekstcodering:
+        Textcodering [achtergrond]: /onderwerpen/representaties/text
+        Bestandsformaten [opdracht]: /onderwerpen/representaties/formaten
 
 Text processing:
-    Theorie reguliere expressies [boek]: /onderwerpen/text/regex/uitleg
-    Reguliere expressies [opdracht]: /onderwerpen/text/regex/opdrachten
-    UNIX-commando's [boek]: /onderwerpen/text/tools
-    CSV [opdracht]: /onderwerpen/text/csv
-    Tentamen:
-        Oefeningen Regex: /onderwerpen/text/regex/oefeningen
-        # Oefeningen Tools: ''
+    Reguliere expressies:
+        Theorie reguliere expressies [boek]: /onderwerpen/text/regex/uitleg
+        Reguliere expressies [opdracht]: /onderwerpen/text/regex/opdrachten
+        UNIX-commando's [boek]: /onderwerpen/text/tools
+        CSV [opdracht]: /onderwerpen/text/csv
+        Oefeningen tentamen: /onderwerpen/text/regex/oefeningen
 
 Web development:
-    Web [college]: /onderwerpen/web/lecture
-    Homepage [opdracht]: /onderwerpen/web/homepage
+    Project:
+        Web [college]: /onderwerpen/web/lecture
+        Homepage [opdracht]: /onderwerpen/web/homepage
 
 Web tools:
-    Internet [college]: /onderwerpen/tools/internet
-    JSON [opdracht]: /onderwerpen/tools/json
-    Curl [oefening]: /onderwerpen/tools/curl
-    Scraping [opdracht]: /onderwerpen/tools/scraping
-    Tentamen:
-        Oefeningen Scraping: /onderwerpen/tools/oefeningen
+    Schrijfopdracht:
+        Internet [college]: /onderwerpen/tools/internet
+    Scraping:
+        # JSON [opdracht]: /onderwerpen/tools/json
+        Curl [oefening]: /onderwerpen/tools/curl
+        Scraping [opdracht]: /onderwerpen/tools/scraping
+        Oefeningen tentamen: /onderwerpen/tools/oefeningen
 
 Databases:
-    Databases [college]: /onderwerpen/databases/lecture
-    Movies [opdracht]: /onderwerpen/databases/movies
-    Fiftyville [opdracht]: /onderwerpen/databases/fiftyville
-    Tentamen:
-        Oefeningen Databases: /onderwerpen/databases/oefeningen
+    SQL:
+        Databases [college]: /onderwerpen/databases/lecture
+        Movies [opdracht]: /onderwerpen/databases/movies
+        Fiftyville [opdracht]: /onderwerpen/databases/fiftyville
+        Oefeningen tentamen: /onderwerpen/databases/oefeningen
