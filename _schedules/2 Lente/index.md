@@ -84,7 +84,7 @@ De schrijfopdrachten projecten kunnen niet "herkanst" worden na de deadline. Voo
 
 ## Deadlines
 
-De harde deadline voor de hierboven genoemde projecten en schrijfopdrachten is op **vrijdag om 16:59**. Na die tijd kun je geen punten meer krijgen voor de projecten. Bij het missen van schrijfopdrachten kun je het vak niet halen.
+Na de genoemde deadlines kun je geen punten meer krijgen voor de projecten. Bij het missen van schrijfopdrachten kun je het vak niet halen.
 
 
 ## Samenwerken
