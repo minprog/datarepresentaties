@@ -49,12 +49,12 @@ De docenten bij dit vak zijn Simon Pauw, Edwin Steffens en Martijn Stegeman. Je 
 
 Er zijn vier schrijfopdrachten die je verplicht moet doen:
 
-| Achtergrond               | Vorm      |
-|---------------------------|-----------|
-| Introduction to Computing | schrijven |
-| Besturingssystemen        | schrijven |
-| Representaties            | schrijven |
-| Internet                  | schrijven |
+| Achtergrond               | Vorm      | Deadline                  |
+|---------------------------|-----------|---------------------------|
+| Introduction to Computing | schrijven | vrijdag 9 februari 16:00  |
+| Besturingssystemen        | schrijven | vrijdag 16 februari 16:00 |
+| Representaties            | schrijven | vrijdag 23 februari 16:00 |
+| Internet                  | schrijven | vrijdag 15 maart 16:00    |
 
 Daarnaast kun je 48 punten halen, die uiteindelijk je eindcijfer bepalen:
 
