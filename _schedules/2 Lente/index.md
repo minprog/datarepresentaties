@@ -49,25 +49,25 @@ De docenten bij dit vak zijn Simon Pauw, Edwin Steffens en Martijn Stegeman. Je 
 
 Er zijn vier schrijfopdrachten die je verplicht moet doen:
 
-| Achtergrond               | Vorm      | Deadline                  |
-|---------------------------|-----------|---------------------------|
-| Introduction to Computing | schrijven | vrijdag 9 februari 16:00  |
-| Besturingssystemen        | schrijven | vrijdag 16 februari 16:00 |
-| Representaties            | schrijven | vrijdag 23 februari 16:00 |
-| Internet                  | schrijven | vrijdag 15 maart 16:00    |
+| Achtergrond               | Vorm      | Deadline        |
+|---------------------------|-----------|-----------------|
+| Introduction to Computing | schrijven | vr 9 feb 16:00  |
+| Besturingssystemen        | schrijven | vr 16 feb 16:00 |
+| Representaties            | schrijven | vr 23 feb 16:00 |
+| Internet                  | schrijven | vr 15 maa 16:00 |
 
 Daarnaast kun je 48 punten halen, die uiteindelijk je eindcijfer bepalen:
 
-| Onderdeel                          | Vorm      | Punten | Deadline                  |
-|------------------------------------|-----------|--------|---------------------------|
-| UNIX-commando's en bestandssysteem | tentamen  | 6      |                           |
-| UNIX-pipelines                     | tentamen  | 6      |                           |
-| Tekstcodering en bestandsformaten  | project   | 6      | vrijdag 23 februari 16:00 |
-| Reguliere expressies               | tentamen  | 6      |                           |
-| Webtechnologie en Homepage         | project   | 6      | vrijdag 8 maart 16:00     |
-| Scraping                           | tentamen  | 6      |                           |
-| Databases en SQL                   | tentamen  | 6      |                           |
-| PIDAC                              | practicum | 6      |                           |
+| Onderdeel                          | Vorm      | Punten | Deadline         |
+|------------------------------------|-----------|--------|------------------|
+| UNIX-commando's en bestandssysteem | tentamen  | 6      |                  |
+| UNIX-pipelines                     | tentamen  | 6      |                  |
+| Tekstcodering en bestandsformaten  | project   | 6      | vri 23 feb 16:00 |
+| Reguliere expressies               | tentamen  | 6      |                  |
+| Webtechnologie en Homepage         | project   | 6      | vri 8 maa 16:00  |
+| Scraping                           | tentamen  | 6      |                  |
+| Databases en SQL                   | tentamen  | 6      |                  |
+| PIDAC                              | practicum | 6      |                  |
 
 Voorwaarden voor de punten per module:
 
