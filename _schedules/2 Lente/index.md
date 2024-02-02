@@ -71,20 +71,21 @@ Daarnaast kun je 48 punten halen, die uiteindelijk je eindcijfer bepalen:
 
 Voorwaarden voor de punten per module:
 
-- Bij opdrachten staat vermeld hoe deze beoordeeld worden. Soms zijn deelpunten mogelijk, soms moet de hele opdracht goed zijn om alle punten te krijgen.
+- De meeste onderwerpen worden in het tentamen getoetst. Hier maak je op papier opgaven die vergelijkbaar zijn met de oefenopgaven in de cursus.
 
-- Je krijgt alleen punten voor de projecten die je op tijd hebt ingeleverd. Voor PIDAC geldt dat je alleen punten krijgt als je aanwezig was en de opdrachten af hebt.
+- Bij projecten staat in de opdracht vermeld hoe deze beoordeeld wordt. Soms zijn deelpunten mogelijk, soms moet de hele opdracht goed zijn om alle punten te krijgen.
+
+- Voor PIDAC geldt dat je alleen punten krijgt als je aanwezig bij de practica en de opdrachten af hebt gekregen en af laten tekenen.
 
 Je eindcijfer kun je berekenen met `totaal_punten / 48 * 9 + 1`. Als je dus de helft van de punten haalt is dat een 5,5 als cijfer, en dat betekent een voldoende voor het vak.
 
-### Herkansing
-
-De schrijfopdrachten projecten kunnen niet "herkanst" worden na de deadline. Voor het tentamen wordt een normale herkansing gepland. Alle onderwerpen moeten bij het tentamen herkanst worden.
-
-
-## Deadlines
+### Deadlines
 
 Na de genoemde deadlines kun je geen punten meer krijgen voor de projecten. Bij het missen van schrijfopdrachten kun je het vak niet halen.
+
+### Herkansing
+
+De schrijfopdrachten en projecten kunnen niet "herkanst" worden na de deadline. Schrijfopdrachten die redelijk volledig zijn maar niet van voldoende niveau worden in overleg met de docent verbeterd en opnieuw ingeleverd, in de regel binnen één week na aangeven. Voor het tentamen wordt een normale herkansing gepland. Alle onderwerpen moeten bij het tentamen herkanst worden.
 
 
 ## Samenwerken
