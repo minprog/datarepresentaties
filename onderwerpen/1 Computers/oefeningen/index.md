@@ -55,7 +55,7 @@ Beantwoord de volgende vragen. Geef altijd een concreet en compleet commando. Al
 1. Wat is het commando om hele map te kopiëren naar een andere locatie?
 1. Hoe verwijder je een bestand?
 
-Er zijn nog veel meer vragen mogelijk. Je kunt de Software Carpentry-workshop uitpluizen om goed voorbereid te zijn.
+Er zijn nog veel meer vragen mogelijk. Je kunt de Software Carpentry-workshop uitpluizen om goed voorbereid te zijn. Maak zelf een overzicht van behandelde commando's en opties.
 
 ## Opgaven met paths
 

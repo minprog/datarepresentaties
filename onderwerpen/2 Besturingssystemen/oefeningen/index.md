@@ -26,15 +26,15 @@ Gegeven dit bestand:
 
 Geef one-liners voor de volgende opdrachten:
 
-1. Count the number of occurrences of each unique word in the file.
-2. Display the last 5 lines of the file.
-3. Display the first 3 lines of the file.
-4. Display the unique words in the file in alphabetical order.
-5. Display the number of lines in the file.
-6. Count the number of occurrences of each unique word in the file, ignoring any spaces.
-7. Display the unique words in the file in order of most to least common.
-8. Display the 3 most common words in the file.
-9. Display the 3 least common words in the file.
+1. Tel het aantal keren dat elk uniek woord in het bestand voorkomt.
+2. Toon de laatste 5 regels van het bestand.
+3. Toon de eerste 3 regels van het bestand.
+4. Toon de unieke woorden in het bestand in alfabetische volgorde.
+5. Toon het aantal regels in het bestand.
+6. Tel het aantal keren dat elk uniek woord in het bestand voorkomt, zonder spaties mee te tellen.
+7. Toon de unieke woorden in het bestand van meest naar minst voorkomend.
+8. Toon de 3 meest voorkomende woorden in het bestand.
+9. Toon de 3 minst voorkomende woorden in het bestand.
 
 ## One-liners met mensen
 
@@ -48,11 +48,11 @@ Gegeven dit bestand:
 
 Geef one-liners voor de volgende opdrachten:
 
-1. Sort the contents of the file alphabetically by the first column.
-2. Display only the first column of the file (the names).
-3. Display only the third column of the file (cities) and show only unique values.
-4. Create a new file with the first 3 lines of `example.txt`.
-5. Show the second column of the file (ages) in numerical order.
+1. Sorteer de inhoud van het bestand alfabetisch op de eerste kolom.
+2. Toon alleen de eerste kolom van het bestand (de namen).
+3. Toon alleen de derde kolom van het bestand (steden) maar laat alleen unieke waarden zien.
+4. Maak een nieuw bestand met de eerste 3 regels van `example.txt`.
+5. Laat de tweede kolom van het bestand (leeftijden) zien in numerieke volgorde.
 
 (Deze oefeningen zijn gegenereerd met ChatGPT.)
 
