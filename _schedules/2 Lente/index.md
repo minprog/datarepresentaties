@@ -58,16 +58,16 @@ Er zijn vier schrijfopdrachten die je verplicht moet doen:
 
 Daarnaast kun je 48 punten halen, die uiteindelijk je eindcijfer bepalen:
 
-| Onderdeel                          | Vorm      | Punten |
-|------------------------------------|-----------|--------|
-| UNIX-commando's en bestandssysteem | tentamen  | 6      |
-| UNIX-pipelines                     | tentamen  | 6      |
-| Tekstcodering en bestandsformaten  | project   | 6      |
-| Reguliere expressies               | tentamen  | 6      |
-| Webtechnologie en Homepage         | project   | 6      |
-| Scraping                           | tentamen  | 6      |
-| Databases en SQL                   | tentamen  | 6      |
-| PIDAC                              | practicum | 6      |
+| Onderdeel                          | Vorm      | Punten | Deadline                  |
+|------------------------------------|-----------|--------|---------------------------|
+| UNIX-commando's en bestandssysteem | tentamen  | 6      |                           |
+| UNIX-pipelines                     | tentamen  | 6      |                           |
+| Tekstcodering en bestandsformaten  | project   | 6      | vrijdag 23 februari 16:00 |
+| Reguliere expressies               | tentamen  | 6      |                           |
+| Webtechnologie en Homepage         | project   | 6      | vrijdag 8 maart 16:00     |
+| Scraping                           | tentamen  | 6      |                           |
+| Databases en SQL                   | tentamen  | 6      |                           |
+| PIDAC                              | practicum | 6      |                           |
 
 Voorwaarden voor de punten per module:
 
