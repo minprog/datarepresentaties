@@ -59,7 +59,7 @@ Er zijn vier schrijfopdrachten die je verplicht moet doen:
 Daarnaast kun je 48 punten halen, die uiteindelijk je eindcijfer bepalen:
 
 | Onderdeel                          | Vorm      | Punten | Deadline         |
-|------------------------------------|-----------|--------|------------------|
+|------------------------------------|-----------|:------:|------------------|
 | UNIX-commando's en bestandssysteem | tentamen  | 6      |                  |
 | UNIX-pipelines                     | tentamen  | 6      |                  |
 | Tekstcodering en bestandsformaten  | project   | 6      | vri 23 feb 16:00 |
