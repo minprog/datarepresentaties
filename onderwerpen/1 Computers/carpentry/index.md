@@ -4,7 +4,7 @@ Deze pagina bevat oefenmaterialen om je voor te bereiden voor het tentamenonderd
 
 ## Voorbereiding
 
-Lees het hoofdstuk "File systems" uit het boek van Dale & Lewis, *Computer Science Illuminated*. (Let op: in de reader staat eerst nog een ander hoofdstuk "Operating Systems", maar dat komt later.)
+Lees het hoofdstuk 5 "File systems" uit het boek van Dale & Lewis, *Computer Science Illuminated*. (Let op: in de reader staat eerst nog diverse andere hoofdstukken, maar die komen later.)
 
 ## Workshop
 
