@@ -1,6 +1,6 @@
 # Datarepresentaties, tools en technieken<br><small>Studiewijzer, Lente 2024</small>
 
-In dit vak maak je kennis met verschillende platforms om programmeerproblemen aan te pakken. Dit is een breed vak met een focus op het gebruiken tools en technieken uit de professionele software-wereld. De platforms zijn geschikt om uiteenlopende problemen te benaderen, van dataverwerking tot aan webprogrammeren. Soms gebruik je één platform voor een probleem en soms kun je er meerdere samen gebruiken. Daarnaast raak je bekend met Unix en allerlei verschillende command-line tools zodat je steeds beter grip hebt op jouw ontwikkelomgeving.
+In dit vak maak je kennis met verschillende platforms om programmeerproblemen aan te pakken. Dit is een breed vak met een focus op het gebruiken tools en technieken uit de professionele software-wereld. De platforms zijn geschikt om uiteenlopende problemen te benaderen, van dataverwerking tot aan webprogrammeren. Soms gebruik je één platform voor een probleem en soms kun je er meerdere samen gebruiken. Daarnaast raak je bekend met UNIX en allerlei verschillende command-line tools zodat je steeds beter grip hebt op jouw ontwikkelomgeving.
 
 
 ## Voorkennis
@@ -23,11 +23,6 @@ Het vak is opgedeeld in acht modules.
 {: start="0"}
 
 Module 0 loopt dwars door de andere modules heen in de tweede helft van het vak. Hiervoor word je ingedeeld in een vaste practicumgroep met een vaste tijd.
-
-
-## Deadlines
-
-De harde deadline is op **vrijdag om 16:59**. Na die tijd kun je geen punten meer krijgen voor het inleveren van opdrachten.
 
 
 ## Docenten en vragen stellen
@@ -87,6 +82,11 @@ Je eindcijfer kun je berekenen met `totaal_punten / 48 * 9 + 1`. Als je dus de h
 De schrijfopdrachten projecten kunnen niet "herkanst" worden na de deadline. Voor het tentamen wordt een normale herkansing gepland. Alle onderwerpen moeten bij het tentamen herkanst worden.
 
 
+## Deadlines
+
+De harde deadline voor de hierboven genoemde projecten en schrijfopdrachten is op **vrijdag om 16:59**. Na die tijd kun je geen punten meer krijgen voor de projecten. Bij het missen van schrijfopdrachten kun je het vak niet halen.
+
+
 ## Samenwerken
 
 Je mag met je medestudenten (en anderen) communiceren in het Nederlands of Engels over je werk in deze cursus, maar niet in de vorm van meer dan een paar regels JavaScript, HTML en dergelijke talen. Als je twijfelt of je manier van werken in deze correct is, neem gerust contact op met de docenten.
@@ -108,10 +108,3 @@ Als je een kort tekst- of codefragment overneemt als onderdeel van jouw zelfbeda
 Wat betreft fraude en plagiaat volgen we in deze cursus de richtlijnen van de Universiteit van Amsterdam en de werkwijze van de bachelor Informatica. De richtlijnen kun je [hier vinden].
 
 [hier vinden]: https://student.uva.nl/onderwerpen/plagiaat-en-fraude
-
-
-## Herkansen
-
-Bij dit vak gaat herkansen vooral over de situatie waarin je stopt met opdrachten maken of erg gaat achterlopen. Het is ook als herkansing namelijk niet mogelijk opdrachten nog in te leveren na de deadlines die genoemd zijn in deze studiewijzer.
-
-Herkansen kan daarom de eerstvolgende keer dat het vak wordt gegeven in het **volgende semester**. Als opdrachten aangepast worden dan moet je die altijd opnieuw maken en inleveren. Opdrachten die niet veranderen en al nagekeken zijn mag je niet opnieuw inleveren. Wel kan het zijn dat de puntenverdeling is aangepast; in dat geval wordt de nieuwe puntenverdeling aangehouden.
