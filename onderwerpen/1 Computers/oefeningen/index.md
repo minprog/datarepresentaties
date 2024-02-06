@@ -59,7 +59,7 @@ Er zijn nog veel meer vragen mogelijk. Je kunt de Software Carpentry-workshop ui
 
 ## Opgaven met paths
 
-Geef commando's om een bestand te `cat`ten, dus de inhoud op het scherm te printen. Twee notities over de vragen:
+Het commando `cat` is een van de simpelste: het kan de inhoud van een tekstbestand weergeven. Je gebruikt bijvoorbeeld `cat bestandsnaam.txt`. Geef hieronder commando's om een bestand te `cat`ten, dus de inhoud op het scherm te printen. Enkele notities om de vraagstelling goed te begrijpen:
 
 - Als je `cd` gebruikt om naar een directory te "gaan" dan "ben je in de directory", of eigenlijk is de shell in die directory.
 - Een relatief pad begint nooit met een `/`. Dat is het hele idee. Begrijp je dit nog niet, lees dan het hoofdstuk, de uitleg van Software Carpentry, of bespreek met je medestudenten.
