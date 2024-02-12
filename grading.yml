@@ -24,6 +24,11 @@ grades:
     hardware:
         <<: *aftekenen
         deadline: 8/9/23 17:00
+
+    computing:
+        <<: *aftekenen
+        deadline: 9/2/24 16:00
+
     big-picture:
         <<: *aftekenen
         deadline: 8/9/23 17:00
@@ -115,8 +120,16 @@ pidac:
     submits:
         pidac: 6
 
+schrijfopdrachten:
+    show_progress: ture
+    submits:
+        computing: 1
+        security: 1
+        multimedia: 1
+        internet: 1
+
 module_1:
-    show_progress: true
+    show_overview: true
     type: points
     submits:
         hardware: 1
@@ -126,7 +139,7 @@ module_1:
         tentamen-commands: 0
 
 module_2:
-    show_progress: true
+    show_overview: true
     type: points
     submits:
         security: 1
@@ -136,7 +149,7 @@ module_2:
         tentamen-oneliners: 0
 
 module_3:
-    show_progress: true
+    show_overview: true
     type: points
     submits:
         multimedia: 1
@@ -145,7 +158,7 @@ module_3:
         formaten: 3
 
 module_4:
-    show_progress: true
+    show_overview: true
     type: points
     submits:
         # regex-intro: 3
@@ -155,14 +168,14 @@ module_4:
         tentamen-regexes: 0
 
 module_5:
-    show_progress: true
+    show_overview: true
     type: points
     submits:
         web-lecture: 1
         homepage: 5
 
 module_6:
-    show_progress: true
+    show_overview: true
     type: points
     submits:
         internet: 1
@@ -171,7 +184,7 @@ module_6:
         tentamen-scraping: 0
 
 module_7:
-    show_progress: true
+    show_overview: true
     type: points
     submits:
         movies: 3
