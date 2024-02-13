@@ -6,6 +6,8 @@
 
 ## Specificatie
 
+Bekijk eerst [deze Youtube-video](https://www.youtube.com/watch?v=yFRSpPwrJzQ) waarin de basis van reguliere expressies wordt toegepast met het commando `grep` op de command line.
+
 Gebruik de website van [Software carpentry](https://swcarpentry.github.io/shell-novice/) om de workshop te doen.
 
 Bij dit deel van de workshop ga je reguliere expressies gebruiken, maar specifiek met het commando `grep`. De syntax van de reguliere expressies is grotendeels gelijk, behalve dat hier geen `/.../` wordt gebruikt.
