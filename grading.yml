@@ -120,6 +120,13 @@ pidac:
     submits:
         pidac: 6
 
+opdrachten:
+    show_progress: true
+    type: points
+    submits:
+        formaten: 6
+        homepage: 6
+
 schrijfopdrachten:
     show_progress: ture
     submits:
@@ -193,9 +200,10 @@ module_7:
 
 tentamen:
     show_progress: true
+    type: points
     submits:
-        tentamen-commands: 1
-        tentamen-oneliners: 1
-        tentamen-regexes: 1
-        tentamen-scraping: 1
-        tentamen-databases: 1
+        tentamen-commands: 6
+        tentamen-oneliners: 6
+        tentamen-regexes: 6
+        tentamen-scraping: 6
+        tentamen-databases: 6
