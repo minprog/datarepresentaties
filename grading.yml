@@ -3,7 +3,7 @@ templates:
         subgrades:
             akkoord: boolean
         calculation: akkoord
-        hide_subgrades: true
+        hide_calculated: true
     2: &punten
         type: points
         subgrades:
