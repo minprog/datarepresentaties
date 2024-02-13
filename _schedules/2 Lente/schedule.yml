@@ -20,9 +20,9 @@ Representaties:
     Schrijfopdracht:
         Representaties: /onderwerpen/representaties/intro
     Tekstcodering:
-        CSV [achtergrond]: /onderwerpen/representaties/csv
-        Textcodering [achtergrond]: /onderwerpen/representaties/text
-        Bestandsformaten [opdracht]: /onderwerpen/representaties/formaten
+        CSV: /onderwerpen/representaties/csv
+        Textcodering: /onderwerpen/representaties/text
+        Bestandsformaten: /onderwerpen/representaties/formaten
 
 Text processing:
     Achtergronden:
