@@ -1,5 +1,0 @@
-nobody:*:-2:-2:Unprivileged User:/var/empty:/usr/bin/false
-root:*:0:0:System Administrator:/var/root:/bin/sh
-_uucp:*:4:4:Unix to Unix Copy Protocol:/var/spool/uucp:/usr/sbin/uucico
-daemon:*:1:1:System Services:/var/root:/usr/bin/false
-joedoe:*:1000:1000:Joe Dough:/Users/joe:/bin/zsh

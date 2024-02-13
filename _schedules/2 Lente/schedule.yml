@@ -20,16 +20,14 @@ Representaties:
     Schrijfopdracht:
         Representaties: /onderwerpen/representaties/intro
     Tekstcodering:
+        CSV [achtergrond]: /onderwerpen/representaties/csv
         Textcodering [achtergrond]: /onderwerpen/representaties/text
         Bestandsformaten [opdracht]: /onderwerpen/representaties/formaten
 
 Text processing:
-    Reguliere expressies:
-        Theorie reguliere expressies [boek]: /onderwerpen/regex/uitleg
-        Reguliere expressies [opdracht]: /onderwerpen/regex/opdrachten
-        UNIX-commando's [boek]: /onderwerpen/tools
-        CSV [opdracht]: /onderwerpen/csv
-        Oefeningen tentamen: /onderwerpen/text/oefeningen
+    Theorie reguliere expressies [boek]: /onderwerpen/regex/intro
+    Reguliere expressies [opdracht]: /onderwerpen/regex/opdrachten
+    Oefeningen tentamen: /onderwerpen/text/oefeningen
 
 Web development:
     Project:
