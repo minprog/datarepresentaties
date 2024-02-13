@@ -120,7 +120,7 @@ pidac:
     submits:
         pidac: 6
 
-opdrachten:
+projecten:
     show_progress: true
     type: points
     submits:
