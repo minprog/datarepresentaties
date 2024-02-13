@@ -8,7 +8,7 @@
 
 Reguliere expressies worden veel gebruikt voor het automatisch verwerken van teksten. Vaak gaat het dan niet om het inlezen van gestructureerde data (zoals uit een CSV-bestand) maar teksten die vrij ingevoerd kunnen worden door een gebruiker.
 
-Het is onder andere gebruikelijk om met reguliere expressies het *format* van een mailadres te controleren. Een mailadres moet uit een aantal vaste componenten bestaan die je heel handig met een reguliere expressies kunt beschrijven. Als iemand een adres opgeeft dat niet aan de regels voldoet is het snel gespot.
+Het is bijvoorbeeld gebruikelijk om met reguliere expressies het *format* van een mailadres te controleren. Een mailadres moet uit een aantal vaste componenten bestaan die je heel handig met een reguliere expressies kunt beschrijven. Als iemand een adres opgeeft dat niet aan de regels voldoet is het snel gespot.
 
     hwaziz@yahoo.com -> geldig mailadres
     d.malan@cs.harvard.edu -> geldig mailadres
@@ -28,20 +28,18 @@ Je kunt proberen de geldige en ongeldige patronen te vatten in een reguliere exp
 
 Overigens kan je ook in de problemen komen met simpelere regels. Zo zijn er mensen op de wereld [die maar één naam hebben](https://scholar.google.com/citations?user=eGOkAUMAAAAJ&hl=nl&oi=ao), dus niet per se een voornaam én een achternaam. Als je in je systeem vastlegt dat er een foutmelding komt als iemand geen spatie in de naam invoert, dan kan deze persoon zich alleen met omwegen registreren. Heel irritant!
 
-Dat klinkt niet als een goed reclamepraatje voor reguliere expressies maar in de praktijk zijn ze dus erg handig om stukjes tekst automatisch te controleren of te ontleden. Bovendien kun je er heel handig mee zoeken in langere teksten.
+Dat klinkt niet als een goed reclamepraatje voor reguliere expressies maar in de praktijk zijn ze dus erg handig om stukjes tekst automatisch te controleren of te ontleden. Bovendien kun je er goed mee zoeken in grote verzamelingen van tekst.
 
 ## Studiemateriaal
 
 1.  Lees het hoofdstuk "Regular expressions, text normalization" uit het boek _Speech and Language Processing_ van Jurafsky en Martin. Dit geeft een basisbegrip van de manier van werken met reguliere expressies.
 
-    - Hou tijdens het lezen bij wat je opvalt en wat je moeilijk vond, en waar je vragen over hebt gesteld of extra informatie opgezocht. Op de volgende pagina ga je dit weer inleveren samen met de opdracht.
+    - Hou tijdens het lezen bij wat je welke technische zaken belangrijk zijn en wat de betekenis is van de verschillende symbolen. Noteer ook vragen die opkomen.
 
 2.  Webbrowsers kunnen ook reguliere expressies verwerken. Daarvan wordt gebruik gemaakt in de tutorial op [regexlearn.com](https://regexlearn.com/learn/regex101). Hier kun je je eerste praktische ervaring opdoen met reguliere expressies. Volg de tutorial.
 
-    - Hou hier ook je leerproces bij zodat je dit kunt documenteren bij de volgende opdracht.
+    - Hou hier ook je leerproces bij en vul je eerdere notities aan met extra beschrijvingen van de kennis uit deze tutorial.
 
-    - Let op dat reguliere expressies voor een groot deel standaard zijn, maar dat ze soms ook een klein beetje anders kunnen werken op verschillende platforms. Zo krijg je in de tutorial hierboven wat extra syntax (manier van schrijven) die niet ondersteund wordt door `grep`.
-
-    - Onthou dat het om de basis gaat van `*`, `.`, `+`, `?`, `()`, `[]` enzovoort. Die basis is overal gelijk en kun je steeds toepassen om teksten heel precies te filteren.
+    - Onthoud dat reguliere expressies voor een groot deel standaard zijn, maar dat ze soms ook een klein beetje anders kunnen werken op verschillende platforms. Uiteindelijk gaat het om de basis van symbolen als `*`, `.`, `+`, `?`, `()`, `[]` enzovoort. Die basis is overal gelijk en kun je steeds toepassen om teksten heel precies te filteren.
 
 Na deze oefeningen kun je naar de volgende pagina om te oefenen met reguliere expressies.

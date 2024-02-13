@@ -25,9 +25,9 @@ Representaties:
         Bestandsformaten [opdracht]: /onderwerpen/representaties/formaten
 
 Text processing:
-    Reguliere expressies [boek]: /onderwerpen/regex/intro
+    Reguliere expressies: /onderwerpen/regex/intro
     Software Carpentry deel 3: /onderwerpen/regex/carpentry
-    Werken met grep [opdracht]: /onderwerpen/regex/grep
+    Werken met grep: /onderwerpen/regex/grep
     Oefeningen tentamen: /onderwerpen/regex/oefeningen
 
 Web development:
