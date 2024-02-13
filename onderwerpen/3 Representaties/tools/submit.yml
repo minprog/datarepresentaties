@@ -1,0 +1,4 @@
+name: unix-tools
+files:
+    required:
+        - unix-tools.pdf
