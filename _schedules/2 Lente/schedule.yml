@@ -25,13 +25,15 @@ Representaties:
         Bestandsformaten [opdracht]: /onderwerpen/representaties/formaten
 
 Text processing:
-    Reguliere expressies: /onderwerpen/regex/intro
-    Software Carpentry deel 3: /onderwerpen/regex/carpentry
-    Werken met grep: /onderwerpen/regex/grep
-    Regels matchen: /onderwerpen/regex/regels
-    Strings matchen: /onderwerpen/regex/strings
-    Woorden matchen: /onderwerpen/regex/woorden
-    Oefeningen tentamen: /onderwerpen/regex/oefeningen
+    Achtergronden:
+        Reguliere expressies: /onderwerpen/regex/intro
+        Software Carpentry deel 3: /onderwerpen/regex/carpentry
+        Werken met grep: /onderwerpen/regex/grep
+    Oefenen:
+        Regels matchen: /onderwerpen/regex/regels
+        Strings matchen: /onderwerpen/regex/strings
+        Woorden matchen: /onderwerpen/regex/woorden
+        Oefeningen tentamen: /onderwerpen/regex/oefeningen
 
 Web development:
     Project:
