@@ -16,7 +16,7 @@ Let even op de terminologie. Een rij wordt ook wel een **record** genoemd. Elk r
 
 Let op dat er ook nog andere formaten zijn zoals "tab separated values", die op een andere manier worden opgemaakt. Het idee is hetzelfde, maar je moet er rekening mee houden dat je zelf moet controleren of je commando's nog kloppen.
 
-🌵 **Vraag 0.** Hieronder vind je de tekst van een CSV-bestand. Gebruik het `sort`-commando om het te sorteren op kamernummer. Standaard sorteert het commando alle regels op alfabet. Gebruik `man sort` om te achterhalen hoe je moet sorteren met velden (fields) en hoe je zorgt dat de komma wordt gebruikt om de twee velden te onderscheiden.
+**Vraag 0.** Hieronder vind je de tekst van een CSV-bestand. Gebruik het `sort`-commando om het te sorteren op kamernummer. Standaard sorteert het commando alle regels op alfabet. Gebruik `man sort` om te achterhalen hoe je moet sorteren met velden (fields) en hoe je zorgt dat de komma wordt gebruikt om de twee velden te onderscheiden.
 
     Stegeman,L0.11
     van Assema,L0.09
@@ -59,7 +59,7 @@ Let op: als je testbestanden maakt, doe dat dan niet in Windows met Notepad of A
 
     1. Verwijderen van de header-regels. Alles tot de regel `DATE;TX` moet verwijderd worden. Je mag hiervoor tellen hoeveel regels het zijn en dit aantal hardcoden in je opdracht, of je detecteert op een of andere manier de blanco regel of de `DATE;TX`-regel.
 
-    2. Verwijderen van de gegevens voor 2020. De data van 2020 zijn incompleet, lopen slechts tot maart. Om correcte gemiddelden voor een jaar uit te rekenen wil je geen incomplete data gebruiken. Je mag hier geen kennis van aantal regels gebruiken.
+    2. Verwijderen van de gegevens voor 2020. De data van 2020 zijn incompleet, lopen slechts tot maart. Om correcte gemiddelden voor een jaar uit te rekenen wil je geen incomplete data gebruiken. Je mag hier geen kennis van aantal regels gebruiken, zorg dat je op inhoud filtert.
 
     3. Omzetten van puntkomma (`;`) naar komma (`,`). Zo is het een valide CSV-bestand, gescheiden door komma's.
 
@@ -76,7 +76,3 @@ Let op: als je testbestanden maakt, doe dat dan niet in Windows met Notepad of A
     Je mag voor deze vraag alleen `awk` gebruiken. Om deze vraag te beantwoorden moet je even flink in `awk` duiken en specifiek hoe je bepaalde waarden kunt filteren en voorwaarden kunt gebruiken. Dit is opzoeken en informatie combineren van internet, waarschijnlijk. Zorg dat je je uiteindelijke antwoord zodanig begrijpt dat je een variant van de vraag relatief makkelijk kunt beantwoorden.
 
 1.  Geef een awk-script dat alle gebruikers op dezelfde manier print als hierboven, maar in dit geval moeten de gebruikers `root` en `daemon` worden *overgeslagen* omdat deze op elk systeem bestaan (zorg dat je filtert op deze namen en niet op een andere eigenschap zoals ID of status). Je print uiteindelijk dus dezelfde resultaten als hierboven, behalve `root` en `deamon`.
-
-## Inleveren
-
-Lever een PDF in met je antwoorden. Gebruik géén titelpagina. Vermeld je naam en studentnummer, en de naam van de opdracht. Vermeld ook de vraag boven elk antwoord---dit mag een samengevatte versie van de vraag zijn. Als je informatie van buiten de aangeleverde tekst gebruikt moet je een bronvermelding doen; je mag gewoon de site/titel noemen in de tekst.
