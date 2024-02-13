@@ -25,11 +25,11 @@ Representaties:
 
 Text processing:
     Reguliere expressies:
-        Theorie reguliere expressies [boek]: /onderwerpen/text/regex/uitleg
-        Reguliere expressies [opdracht]: /onderwerpen/text/regex/opdrachten
-        UNIX-commando's [boek]: /onderwerpen/text/tools
-        CSV [opdracht]: /onderwerpen/text/csv
-        Oefeningen tentamen: /onderwerpen/text/regex/oefeningen
+        Theorie reguliere expressies [boek]: /onderwerpen/regex/uitleg
+        Reguliere expressies [opdracht]: /onderwerpen/regex/opdrachten
+        UNIX-commando's [boek]: /onderwerpen/tools
+        CSV [opdracht]: /onderwerpen/csv
+        Oefeningen tentamen: /onderwerpen/text/oefeningen
 
 Web development:
     Project:

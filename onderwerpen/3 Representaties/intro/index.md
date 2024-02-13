@@ -21,7 +21,7 @@ Zorg dat je op een zinvolle manier gebruik maakt van internet en ChatGPT, zoals 
 
 ## Vragen
 
-Beantwoord de volgende vragen. Beschrijf zorgvuldig hoe je aan je antwoord komt, inclusief specifieke verwijzingen naar bovenstaande materialen.
+Beantwoord de volgende vragen. Beschrijf zorgvuldig hoe je aan je antwoord komt, inclusief alle benodigde berekeningen en basisinformatie, met specifieke verwijzingen naar bovenstaande materialen.
 
 Je moet de vragen beantwoorden in een simpele PDF. Onderaan vind je instructies over het maken van de PDF en het inleveren.
 
