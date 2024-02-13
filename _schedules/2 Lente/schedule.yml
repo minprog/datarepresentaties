@@ -25,8 +25,8 @@ Representaties:
         Bestandsformaten [opdracht]: /onderwerpen/representaties/formaten
 
 Text processing:
-    Theorie reguliere expressies [boek]: /onderwerpen/regex/intro
-    Reguliere expressies [opdracht]: /onderwerpen/regex/opdrachten
+    Reguliere expressies [boek]: /onderwerpen/regex/intro
+    Werken met grep [opdracht]: /onderwerpen/regex/grep
     Oefeningen tentamen: /onderwerpen/text/oefeningen
 
 Web development:
