@@ -88,9 +88,19 @@ Dan zie je dat er twee bestanden in staan: een databestand (formaat is kennelijk
 
 [Download een ZIP-bestand](files.zip) met daarin 10 andere bestanden (het wachtwoord is `secret`). Deze bestanden hebben geen duidelijke naam die weggeeft wat voor soort bestand het is. Is het een document, een audio-file? Je kunt natuurlijk de extensies aanpassen en het bestand proberen te openen in Word of in een audioplayer. Maar in dit geval gaat `xxd` ons helpen om te analyseren wat er in de bestanden staat.
 
-Geef in jouw uitwerking per bestand aan welk formaat het heeft en op basis waarvan je precies die conclusie kunt trekken. Geef ook een idee van de inhoud zodat we kunnen zien dat je het goed begrepen hebt (geen copy-paste van de inhoud, maar een beschrijving in jouw eigen woorden). In principe moet je voor elk bestand kunnen achterhalen wat het is, maar soms is het even lastig.
+Geef in jouw uitwerking per bestand aan:
 
-Je krijgt geen punten als niet van begin tot eind beredeneerd is welk formaat het is en hoe je dat kunt weten.
+- welk formaat het heeft;
+- op basis waarvan je precies die conclusie kunt trekken;
+- welke extensie het zou moeten hebben;
+- met welk programma je het document uiteindelijk geopend hebt toen je wist wat voor formaat het had;
+- geef ook een idee van de inhoud zodat we kunnen zien dat je het goed begrepen hebt (geen copy-paste van de inhoud, maar een beschrijving in jouw eigen woorden)
+
+In principe moet je voor elk bestand kunnen achterhalen wat het is, maar soms is het even lastig.
+
+## Beoordeling
+
+Je krijgt gelijke deelpunten per bestand waarvan je achterhaalt wat het precies voor formaat is (zo gedetailleerd mogelijk) en wat er in staat. Belangrijker is dat je per bestand heel precies documenteert hoe het in elkaar zit, voor zover dat nodig is om uit te leggen welk formaat het betreft. Soms is het zo simpel als een paar magic bytes, soms moet je meer uitleggen. Als je stappen in je redenatie overslaat krijg je geen punt.
 
 ## Inleveren
 
