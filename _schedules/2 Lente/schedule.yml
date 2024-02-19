@@ -19,9 +19,10 @@ Besturingssystemen:
 Representaties:
     Schrijfopdracht:
         Representaties: /onderwerpen/representaties/intro
-    Tekstcodering:
+    Oefenen:
         CSV: /onderwerpen/representaties/csv
         Textcodering: /onderwerpen/representaties/text
+    Inleveren:
         Bestandsformaten: /onderwerpen/representaties/formaten
 
 Text processing:
@@ -36,8 +37,9 @@ Text processing:
         Oefeningen tentamen: /onderwerpen/regex/oefeningen
 
 Web development:
-    Project:
+    Achtegronden:
         Web [college]: /onderwerpen/web/lecture
+    Inleveren:
         Homepage [opdracht]: /onderwerpen/web/homepage
 
 Web tools:
