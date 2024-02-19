@@ -29,6 +29,10 @@ grades:
         <<: *aftekenen
         deadline: 9/2/24 16:00
 
+    besturingssystemen:
+        <<: *aftekenen
+        deadline: 16/2/24 16:00
+
     big-picture:
         <<: *aftekenen
         deadline: 8/9/23 17:00
@@ -41,7 +45,7 @@ grades:
 
     security:
         <<: *aftekenen
-        # deadline: 15/9/23 17:00
+        deadline: 15/9/23 17:00
     opsys:
         <<: *aftekenen
         deadline: 15/9/23 17:00
@@ -51,6 +55,11 @@ grades:
     unix-tools:
         <<: *aftekenen
         deadline: 15/9/23 17:00
+
+    representaties:
+        <<: *aftekenen
+        deadline: 23/2/24 16:00
+
 
     multimedia:
         <<: *aftekenen
@@ -63,7 +72,7 @@ grades:
         deadline: 22/9/23 17:00
     formaten:
         <<: *aftekenen
-        deadline: 22/9/23 17:00
+        deadline: 23/2/24 16:00
 
     regex-intro:
         <<: *aftekenen
@@ -131,8 +140,8 @@ schrijfopdrachten:
     show_progress: ture
     submits:
         computing: 1
-        security: 1
-        multimedia: 1
+        besturingssystemen: 1
+        representaties: 1
         internet: 1
 
 module_1:
