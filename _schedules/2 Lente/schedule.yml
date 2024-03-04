@@ -42,14 +42,14 @@ Web development:
     Inleveren:
         Homepage [opdracht]: /onderwerpen/web/homepage
 
-Web tools:
+Scraping:
     Schrijfopdracht:
-        Internet [college]: /onderwerpen/tools/internet
+        Internet [college]: /onderwerpen/scraping/internet
     Scraping:
-        # JSON [opdracht]: /onderwerpen/tools/json
-        Curl [oefening]: /onderwerpen/tools/curl
-        Scraping [opdracht]: /onderwerpen/tools/scraping
-        Oefeningen tentamen: /onderwerpen/tools/oefeningen
+        JSON [opdracht]: /onderwerpen/scraping/json
+        Curl [oefening]: /onderwerpen/scraping/curl
+        Scraping [opdracht]: /onderwerpen/scraping/scraping
+        Oefeningen tentamen: /onderwerpen/scraping/oefeningen
 
 Databases:
     SQL:
