@@ -17,11 +17,4 @@
 
 3. Beschrijf in enige diepte een onderwerp uit het college dat je opviel omdat het nieuw voor je was, of waar je heel anders naar kijkt dan in het college beschreven. Je wordt aangemoedigd om er een extra bron bij te betrekkend. Mocht dit niet lukken, beschrijf dan een gerelateerde techniek of detail van HTML, CSS of JS die niet in het college zijn behandeld.
 
-## Inleveren
-
-Lever hieronder een PDF in met je uitwerkingen. Gebruik géén titelpagina. Vermeld je naam en studentnummer, en de naam van de opdracht. Vermeld ook de vraag boven elk antwoord---dit mag een samengevatte versie van de vraag zijn. Als je informatie van buiten het college gebruikt moet je een bronvermelding doen; je mag gewoon de site/titel noemen in de tekst.
-
-## Nakijken
-
-De antwoorden worden kritisch nagekeken op zorgvuldige beantwoording. Dat betekent dat de antwoorden gebaseerd moeten zijn op de lesstof (het videocollege), dat wat er staat goed is en logisch onderbouwd en dat er geen onware of irrelevante beweringen of informatie bij de antwoorden staan. Aan de andere kant: een klein foutje is geen probleem.
-
+Deze vragen zijn niet om in te leveren.
