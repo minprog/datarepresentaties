@@ -88,3 +88,7 @@ Voor uitgebreide details over HTML, CSS en JS kun je kijken op de volgende pagin
 
 Beschrijf uitgebreid twee problemen die je bent tegengekomen tijdens het maken van je Homepage en hoe je die problemen toen hebt opgelost. Dit is dus een beschrijving van je ontwikkelproces, met verwijzingen naar inhoud van de stof; het gaat daarbij niet om problemen met het begrijpen van bedoeling van de opdracht zelf, maar met de stof, dus hoe HTML, CSS en JS precies werken of juist niet werken.
 
+## Checkup
+
+- Controleer of je voldoet aan de minimumeisen zoals het aantal pagina's, verschillende gebruikte tags, enzovoort.
+- Controleer of alle HTML-pagina's zonder foutmeldingen door de HTML validator komen. Ook "waarschuwingen" kunnen en moeten opgelost zijn vóór inleveren.
