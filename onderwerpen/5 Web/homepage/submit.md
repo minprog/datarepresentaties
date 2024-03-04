@@ -6,4 +6,6 @@ Net als bij de Scratch-opdracht kom je hier makkelijk boven als je veel plaatjes
 
 Als je een te groot bestand probeert in te leveren dan mislukt het! Controleer dus of er een melding komt te staan dat je zojuist hebt ingeleverd (met de tijd erbij).
 
-Je mag niet insturen via e-mail.
+Plaatjes verkleinen is meestal een zinvolle optie om het allemaal binnen de perken te krijgen. Gebruik eventueel een dienst als [img2go](https://www.img2go.com/compress-image).
+
+Je mag niet insturen via e-mail!

@@ -4,6 +4,10 @@
 2. hou goed bij wat je opvalt en wat je leert,
 3. en leg in detail van twee problemen uit hoe je ze hebt opgelost.
 
+## Let op!
+
+Bij deze opdracht ga je een homepage maken met daarin ongetwijfeld leuke plaatjes. Maar je inzending mag maximaal 9,5 MB groot zijn. Reserveer tijd om vóór het inzenden nog problemen hiermee op te kunnen lossen, want de deadline is hard.
+
 ## Achtergrond
 
 Het internet heeft ongelooflijke dingen mogelijk gemaakt: we kunnen met zoekmachines onderzoek doen naar alles wat we maar kunnen bedenken, we kunnen communiceren met vrienden en familieleden die waar ook ter wereld zijn, games spelen, cursussen volgen en nog veel meer. Toch zijn de websites die we bezoeken gebouwd op slechts drie talen, die elk een specifiek doel dienen:
