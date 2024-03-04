@@ -65,7 +65,7 @@ Let op: als je testbestanden maakt, doe dat dan niet in Windows met Notepad of A
 
     Geef in je uitwerking de oneliner.
 
-1.  Geef een awk-script dat van elke regel van de file `passwd` de username print, en of de gebruiker speciale privileges heeft. Dat laatste is alleen het geval als de gebruiker een niet-negatief ID kleiner dan 10 heeft ([download `passwd.txt` hier](passwd.txt)). Het uiteindelijke resultaat moet er zo uitzien:
+1.  Geef een awk-script dat van elke regel van de file `passwd` de username print, en of de gebruiker speciale privileges heeft. Dat laatste is alleen het geval als de gebruiker een niet-negatief ID kleiner dan 10 heeft ([download `passwd.txt` hier](passwd.txt)). Het uiteindelijke resultaat moet er zo uitzien (volgorde maakt niet uit):
 
         root    privileged
         daemon  privileged
