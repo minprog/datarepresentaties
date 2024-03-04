@@ -47,7 +47,7 @@ Scraping:
         Internet [college]: /onderwerpen/scraping/internet
     Scraping:
         JSON [opdracht]: /onderwerpen/scraping/json
-        Curl [oefening]: /onderwerpen/scraping/curl
+        # Curl [oefening]: /onderwerpen/scraping/curl
         Scraping [opdracht]: /onderwerpen/scraping/scraping
         Oefeningen tentamen: /onderwerpen/scraping/oefeningen
 
