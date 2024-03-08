@@ -96,7 +96,7 @@ module_2:
 module_3:
     show_progress: true
     type: points
-        deadline: 22/9/23 17:00
+    deadline: 22/9/23 17:00
     submits:
         multimedia: 1
         binaire-representatie: 1
@@ -106,7 +106,7 @@ module_3:
 module_4:
     show_progress: true
     type: points
-        deadline: 29/9/23 17:00
+    deadline: 29/9/23 17:00
     submits:
         # regex-intro: 3
         chatbots: 1
@@ -117,7 +117,7 @@ module_4:
 module_5:
     show_progress: true
     type: points
-        deadline: 6/10/23 17:00
+    deadline: 6/10/23 17:00
     submits:
         web-lecture: 1
         homepage: 5
@@ -125,7 +125,7 @@ module_5:
 module_6:
     show_progress: true
     type: points
-        deadline: 13/10/23 17:00
+    deadline: 13/10/23 17:00
     submits:
         internet: 1
         json: 1
@@ -135,7 +135,7 @@ module_6:
 module_7:
     show_progress: true
     type: points
-        deadline: 20/10/23 17:00
+    deadline: 20/10/23 17:00
     submits:
         movies: 3
         fiftyville: 3
