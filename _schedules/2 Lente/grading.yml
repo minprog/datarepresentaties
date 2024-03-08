@@ -1,0 +1,108 @@
+templates:
+    1: &aftekenen
+        subgrades:
+            akkoord: boolean
+        calculation: akkoord
+        hide_calculated: true
+    2: &punten
+        type: points
+        subgrades:
+            punten: integer
+        calculation: punten
+        hide_subgrades: true
+    3: &tentamen
+        type: pass
+        subgrades:
+            akkoord: boolean
+        calculation: akkoord
+        is_test: true
+        hide_calculated: true
+    4: &automatisch
+        subgrades:
+            akkoord: boolean
+        calculation: akkoord
+        hide_subgrades: true
+        automatic:
+            akkoord: -(correctness_score.floor)
+        auto_publish: true
+
+grades:
+
+    # -- PIDAC --
+
+    pidac: *punten
+
+    # -- schrijfopdrachten --
+
+    hardware:
+        <<: *aftekenen
+        deadline: 8/9/23 17:00
+    computing:
+        <<: *aftekenen
+        deadline: 9/2/24 16:00
+    besturingssystemen:
+        <<: *aftekenen
+        deadline: 16/2/24 16:00
+    internet:
+        <<: *aftekenen
+        deadline: 8/3/24 16:00
+
+    # -- projecten --
+
+    formaten:
+        <<: *aftekenen
+        deadline: 23/2/24 16:00
+    homepage:
+        <<: *aftekenen
+        deadline: 8/3/24 16:00
+
+    # -- databases autograde --
+
+    movies: *automatisch
+    fiftyville: *automatisch
+
+    # -- tentamen --
+
+    tentamen-commands: *tentamen
+    tentamen-oneliners: *tentamen
+    tentamen-regexes: *tentamen
+    tentamen-scraping: *tentamen
+    tentamen-databases: *tentamen
+
+pidac:
+    show_progress: true
+    type: points
+    submits:
+        pidac: 6
+
+projecten:
+    show_progress: true
+    type: points
+    submits:
+        formaten: 6
+        homepage: 6
+
+schrijfopdrachten:
+    show_progress: ture
+    submits:
+        computing: 1
+        besturingssystemen: 1
+        representaties: 1
+        internet: 1
+
+tentamen:
+    show_progress: true
+    type: points
+    submits:
+        tentamen-commands: 6
+        tentamen-oneliners: 6
+        tentamen-regexes: 6
+        tentamen-scraping: 6
+        tentamen-databases: 6
+
+calculation:
+    eindcijfer:
+        pidac: 6
+        projecten: 12
+        schrijfopdrachten: 0
+        tentamen: 30

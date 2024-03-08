@@ -1,0 +1,162 @@
+templates:
+    1: &aftekenen
+        subgrades:
+            akkoord: boolean
+        calculation: akkoord
+        hide_subgrades: true
+    2: &punten
+        type: points
+        subgrades:
+            punten: integer
+        calculation: punten
+        hide_subgrades: true
+    3: &tentamen
+        type: pass
+        subgrades:
+            akkoord: boolean
+        calculation: akkoord
+        is_test: true
+        hide_calculated: true
+    4: &automatisch
+        subgrades:
+            akkoord: boolean
+        calculation: akkoord
+        hide_subgrades: true
+        automatic:
+            akkoord: -(correctness_score.floor)
+        auto_publish: true
+
+grades:
+    pidac: *punten
+
+    hardware: *aftekenen
+    big-picture: *aftekenen
+    binary: *aftekenen
+    carpentry-files: *aftekenen
+
+    security: *aftekenen
+    opsys: *aftekenen
+    carpentry-pipelines: *aftekenen
+    unix-tools: *aftekenen
+
+    multimedia: *aftekenen
+    binaire-representatie: *aftekenen
+    text: *aftekenen
+    formaten: *aftekenen
+
+    regex-intro: *aftekenen
+    chatbots: *aftekenen
+    carpentry-finding: *aftekenen
+    grep: *aftekenen
+
+    web-lecture: *aftekenen
+    homepage: *aftekenen
+
+    internet: *aftekenen
+    json: *aftekenen
+    scraping: *aftekenen
+
+    movies: *aftekenen
+    fiftyville: *aftekenen
+
+    tentamen-commands: *tentamen
+    tentamen-oneliners: *tentamen
+    tentamen-regexes: *tentamen
+    tentamen-scraping: *tentamen
+    tentamen-databases: *tentamen
+
+pidac:
+    show_progress: true
+    type: points
+    submits:
+        pidac: 6
+
+module_1:
+    show_progress: true
+    type: points
+    deadline: 8/9/23 17:00
+    submits:
+        hardware: 1
+        big-picture: 1
+        binary: 1
+        carpentry-files: 3
+        tentamen-commands: 0
+
+module_2:
+    show_progress: true
+    type: points
+    deadline: 15/9/23 17:00
+    submits:
+        security: 1
+        opsys: 1
+        carpentry-pipelines: 2
+        unix-tools: 2
+        tentamen-oneliners: 0
+
+module_3:
+    show_progress: true
+    type: points
+        deadline: 22/9/23 17:00
+    submits:
+        multimedia: 1
+        binaire-representatie: 1
+        text: 1
+        formaten: 3
+
+module_4:
+    show_progress: true
+    type: points
+        deadline: 29/9/23 17:00
+    submits:
+        # regex-intro: 3
+        chatbots: 1
+        carpentry-finding: 2
+        grep: 3
+        tentamen-regexes: 0
+
+module_5:
+    show_progress: true
+    type: points
+        deadline: 6/10/23 17:00
+    submits:
+        web-lecture: 1
+        homepage: 5
+
+module_6:
+    show_progress: true
+    type: points
+        deadline: 13/10/23 17:00
+    submits:
+        internet: 1
+        json: 1
+        scraping: 4
+        tentamen-scraping: 0
+
+module_7:
+    show_progress: true
+    type: points
+        deadline: 20/10/23 17:00
+    submits:
+        movies: 3
+        fiftyville: 3
+        tentamen-databases: 0
+
+tentamen:
+    show_progress: true
+    submits:
+        tentamen-commands: 1
+        tentamen-oneliners: 1
+        tentamen-regexes: 1
+        tentamen-scraping: 1
+        tentamen-databases: 1
+
+calculation:
+    eindcijfer:
+        pidac: 1
+        module_1: 1
+        module_2: 1
+        module_3: 1
+        module_4: 1
+        module_5: 1
+        module_6: 1
+        module_7: 1
