@@ -1,0 +1,66 @@
+templates:
+    1: &aftekenen
+        subgrades:
+            akkoord: boolean
+        calculation: akkoord
+        hide_subgrades: true
+    2: &punten
+        type: points
+        subgrades:
+            punten: integer
+        calculation: punten
+        hide_subgrades: true
+    3: &tentamen
+        type: pass
+        subgrades:
+            akkoord: boolean
+        calculation: akkoord
+        is_test: true
+        hide_calculated: true
+    4: &automatisch
+        subgrades:
+            akkoord: boolean
+        calculation: akkoord
+        hide_subgrades: true
+        automatic:
+            akkoord: -(correctness_score.floor)
+        auto_publish: true
+
+grades:
+    pidac: *punten
+
+    hardware: *aftekenen
+    big-picture: *aftekenen
+    binary: *aftekenen
+    carpentry-files: *aftekenen
+
+    security: *aftekenen
+    opsys: *aftekenen
+    carpentry-pipelines: *aftekenen
+    unix-tools: *aftekenen
+
+    multimedia: *aftekenen
+    binaire-representatie: *aftekenen
+    text: *aftekenen
+    formaten: *aftekenen
+
+    regex-intro: *aftekenen
+    chatbots: *aftekenen
+    carpentry-finding: *aftekenen
+    grep: *aftekenen
+
+    web-lecture: *aftekenen
+    homepage: *aftekenen
+
+    internet: *aftekenen
+    json: *aftekenen
+    scraping: *aftekenen
+
+    movies: *aftekenen
+    fiftyville: *aftekenen
+
+    tentamen-commands: *tentamen
+    tentamen-oneliners: *tentamen
+    tentamen-regexes: *tentamen
+    tentamen-scraping: *tentamen
+    tentamen-databases: *tentamen
