@@ -34,15 +34,15 @@ grades:
 
     # -- schrijfopdrachten --
 
-    hardware:
-        <<: *aftekenen
-        deadline: 8/9/23 17:00
     computing:
         <<: *aftekenen
         deadline: 9/2/24 16:00
     besturingssystemen:
         <<: *aftekenen
         deadline: 16/2/24 16:00
+    representaties:
+        <<: *aftekenen
+        deadline: 23/2/24 16:00
     internet:
         <<: *aftekenen
         deadline: 8/3/24 16:00
