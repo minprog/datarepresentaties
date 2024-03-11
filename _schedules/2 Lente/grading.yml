@@ -45,7 +45,7 @@ grades:
         deadline: 23/2/24 16:00
     internet:
         <<: *aftekenen
-        deadline: 8/3/24 16:00
+        deadline: 15/3/24 16:00
 
     # -- projecten --
 
