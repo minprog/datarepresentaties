@@ -4,8 +4,6 @@
 2. hou goed bij wat je opvalt en wat je leert,
 3. en beantwoord dan de vragen hieronder.
 
-> Let op: de "belangrijkste vraag" is dit keer anders. Zie vraag 9 hieronder.
-
 ![embed](https://www.youtube.com/embed/n_KghQP86Sw)
 
 - [Open in CS50 video player](https://video.cs50.io/n_KghQP86Sw?screen=CBDtYHnW3gI)
@@ -31,7 +29,7 @@ Beantwoord de vragen in je eigen woorden, je daarbij baserend op informatie uit 
 
 8. Zoek op internet naar een internetprovider (ISP) die internetservice levert aan jouw buurt (of een ander adres). Wat is de ISP die je hebt gevonden? Welke snelheden biedt de ISP die je hebt gevonden? Tegen welke prijs? En bieden ze symmetrische (d.w.z. identieke) upload- en downloadsnelheden, of verschillen ze?
 
-9. Beschrijf in enige diepte een onderwerp uit het college dat je opviel omdat het nieuw voor je was, of waar je heel anders naar kijkt dan in het college beschreven. Je wordt aangemoedigd om er een extra bron bij te betrekkend. Mocht dit niet lukken, beschrijf dan een gerelateerde techniek of detail van HTML, CSS of JS die niet in het college zijn behandeld.
+9. Beschrijf in enige diepte een onderwerp uit het college dat je opviel omdat het nieuw voor je was, of waar je heel anders naar kijkt dan in het college beschreven. Je wordt aangemoedigd om er een extra bron bij te betrekken. Mocht dit niet lukken, beschrijf dan een gerelateerde techniek of detail van HTML, CSS of JS die niet in het college zijn behandeld.
 
 ## Inleveren
 
