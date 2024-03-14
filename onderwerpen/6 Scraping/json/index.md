@@ -4,6 +4,8 @@
 2. en de materialen die gelinkt zijn,
 3. en hou goed bij wat je opvalt en wat je leert.
 
+> Deze opdracht kan niet (meer) ingestuurd worden. Het is niet nodig om deze in te sturen. Wel is het nodig om de opdrachten te maken, zodat je voldoende voorbereid bent voor het tentamen.
+
 ## Het JSON tekst-formaat
 
 JSON is een formaat om *gestructureerde* informatie uit te drukken in simpele tekstbestanden. Je kunt het in de praktijk gebruiken om data uit te wisselen. Sommige websites bieden dan ook de mogelijkheid om data op te vragen in JSON-formaat, vaak zodat je die data kunt gebruiken om een andere website mee te bouwen.
