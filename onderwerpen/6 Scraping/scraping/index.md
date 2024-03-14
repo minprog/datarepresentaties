@@ -4,6 +4,8 @@
 2. en de materialen die gelinkt zijn,
 3. en hou goed bij wat je opvalt en wat je leert.
 
+> Deze opdracht kan niet (meer) ingestuurd worden. Het is niet nodig om deze in te sturen. Wel is het nodig om de opdrachten te maken, zodat je voldoende voorbereid bent voor het tentamen.
+
 # CSS
 
 In een vorige module heb je kennis gemaakt met CSS, maar je hebt hier nog niet systematisch mee geoefend.
