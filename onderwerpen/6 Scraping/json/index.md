@@ -6,7 +6,7 @@
 
 ## Het JSON tekst-formaat
 
-JSON is een formaat om informatie uit te drukken in simpele tekst. Je kunt het in de praktijk gebruiken om data uit te wisselen. Sommige websites bieden dan ook de mogelijkheid om data op te vragen in JSON-formaat, vaak zodat je die data kunt gebruiken om een andere website mee te bouwen.
+JSON is een formaat om *gestructureerde* informatie uit te drukken in simpele tekstbestanden. Je kunt het in de praktijk gebruiken om data uit te wisselen. Sommige websites bieden dan ook de mogelijkheid om data op te vragen in JSON-formaat, vaak zodat je die data kunt gebruiken om een andere website mee te bouwen.
 
 JSON is een soort tegenhanger van een ouder formaat, XML. XML biedt ongeveer de zelfde mogelijkheden maar de syntax (manier van schrijven) is veel ingewikkelder. In de praktijk kunnen de meeste toepassingen prima gebruik maken van alleen maar JSON.
 
@@ -57,6 +57,8 @@ Hieronder vind je een *array* met daarin twee *objecten*. Elk object heeft daari
     ]
 
 Naast arrays en objects zijn er nog slechts twee soorten informatie in JSON (twee types), namelijk *numbers* en *strings*. In het voorbeeld hierboven zijn `name` en `street` allebei strings, en `number` is een number. Let op dat de telefoonnummers strings zijn in dit geval!
+
+Met objecten, arrays, strings en numbers kun je in principe elke vorm van gestructureerde informatie overdragen via een tekstbestand.
 
 ## Syntax en semantiek
 
@@ -165,11 +167,3 @@ Deze omweg is niet altijd nodig.
 
     In de documentatie van `jq` die we hierboven hebben gelinkt moet je kunnen vinden hoe je twee van die waarden eruit filtert. Zorg dat dit lukt voordat je verder gaat.
 {:start="4"}
-
-## Inleveren
-
-Lever hieronder een PDF in met je uitwerkingen. Gebruik géén titelpagina. Vermeld je naam en studentnummer, en de naam van de opdracht. Vermeld ook de vraag boven elk antwoord---dit mag een samengevatte versie van de vraag zijn.
-
-## Nakijken
-
-De antwoorden worden kritisch nagekeken op zorgvuldige beantwoording. Dat betekent dat de antwoorden gebaseerd moeten zijn op de lesstof, dat wat er staat goed is en logisch onderbouwd en dat er geen onware of irrelevante beweringen of informatie bij de antwoorden staan. Aan de andere kant: een klein foutje is geen probleem.

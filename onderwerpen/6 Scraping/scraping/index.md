@@ -61,11 +61,3 @@ Geef steeds de complete pipeline inclusief het gebruikte `curl`-commando, pipes 
         }
 
     Omdat het een lijst van paren is verwachten we dat hele de JSON een array is, dus begint met `[` en eindigt met `]`.
-
-## Inleveren
-
-Lever hieronder een PDF in met je uitwerkingen. Gebruik géén titelpagina. Vermeld je naam en studentnummer, en de naam van de opdracht. Vermeld ook de vraag boven elk antwoord---dit mag een samengevatte versie van de vraag zijn.
-
-## Nakijken
-
-De antwoorden worden kritisch nagekeken op zorgvuldige beantwoording. Dat betekent dat de antwoorden gebaseerd moeten zijn op de lesstof, dat wat er staat goed is en logisch onderbouwd en dat er geen onware of irrelevante beweringen of informatie bij de antwoorden staan. Aan de andere kant: een klein foutje is geen probleem.
