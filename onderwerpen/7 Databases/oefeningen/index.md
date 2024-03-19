@@ -4,7 +4,7 @@ Deze vragen zijn goede oefeningen voor het tentamen. Op het tentamen kun je ook 
 
 Onderstaande vragen zijn *grotendeels* representatief voor de vragen die je op het tentamen tegen zou kunnen komen, maar je zou ook vragen tegen kunnen komen die meer lijken op de vragen bij de [Movies-opdracht](/databases/movies). 
 
-Je kunt onderstaande oefeningen niet inleveren en ze horen dus ook niet bij de deadline voor de Databases-module.
+Je kunt onderstaande oefeningen niet inleveren. Controleer ze met je medestudenten en check bij de docent als je twijfelt.
 
 
 ## Parate kennis

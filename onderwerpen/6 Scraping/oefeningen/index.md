@@ -4,7 +4,7 @@ Deze vragen zijn goede oefeningen voor het tentamen. De verwachting is dat je al
 
 Onderstaande vragen zijn *grotendeels* representatief voor de vragen die je op het tentamen tegen zou kunnen komen, maar je zou ook vragen tegen kunnen komen die meer lijken op de vragen bij de [Scraping-opdracht](/tools/scraping). Er zullen geen vragen zijn over `jq` en JSON.
 
-Je kunt onderstaande oefeningen niet inleveren en ze horen dus ook niet bij de deadline voor de Scraping-module.
+Je kunt onderstaande oefeningen niet inleveren. Controleer ze met je medestudenten en check bij de docent als je twijfelt.
 
 
 ## Parate kennis
