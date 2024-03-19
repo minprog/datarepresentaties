@@ -74,6 +74,70 @@ module_7:
         fiftyville: 3
         tentamen-databases: 0
 
+
+module_1_her:
+    type: points
+    deadline: 8/9/23 17:00
+    submits:
+        hardware: 1
+        big-picture: 1
+        binary: 1
+        carpentry-files: 3
+        hertentamen-commands: 0
+
+module_2_her:
+    type: points
+    deadline: 15/9/23 17:00
+    submits:
+        security: 1
+        opsys: 1
+        carpentry-pipelines: 2
+        unix-tools: 2
+        hertentamen-oneliners: 0
+
+module_3_her:
+    type: points
+    deadline: 22/9/23 17:00
+    submits:
+        multimedia: 1
+        binaire-representatie: 1
+        text: 1
+        formaten: 3
+
+module_4_her:
+    type: points
+    deadline: 29/9/23 17:00
+    submits:
+        # regex-intro: 3
+        chatbots: 1
+        carpentry-finding: 2
+        grep: 3
+        hertentamen-regexes: 0
+
+module_5_her:
+    type: points
+    deadline: 6/10/23 17:00
+    submits:
+        web-lecture: 1
+        homepage: 5
+
+module_6_her:
+    type: points
+    deadline: 13/10/23 17:00
+    submits:
+        internet: 1
+        json: 1
+        scraping: 4
+        hertentamen-scraping: 0
+
+module_7_her:
+    type: points
+    deadline: 20/10/23 17:00
+    submits:
+        movies: 3
+        fiftyville: 3
+        hertentamen-databases: 0
+
 tentamen:
     show_progress: true
     submits:
@@ -82,6 +146,15 @@ tentamen:
         tentamen-regexes: 1
         tentamen-scraping: 1
         tentamen-databases: 1
+
+hertentamen:
+    show_progress: true
+    submits:
+        hertentamen-commands: 1
+        hertentamen-oneliners: 1
+        hertentamen-regexes: 1
+        hertentamen-scraping: 1
+        hertentamen-databases: 1
 
 calculation:
     eindcijfer:

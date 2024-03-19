@@ -61,20 +61,6 @@ grades:
     movies: *automatisch
     fiftyville: *automatisch
 
-    # -- tentamen --
-
-    tentamen-commands: *tentamen
-    tentamen-oneliners: *tentamen
-    tentamen-regexes: *tentamen
-    tentamen-scraping: *tentamen
-    tentamen-databases: *tentamen
-
-    hertentamen-commands: *tentamen
-    hertentamen-oneliners: *tentamen
-    hertentamen-regexes: *tentamen
-    hertentamen-scraping: *tentamen
-    hertentamen-databases: *tentamen
-
 pidac:
     show_progress: true
     type: points
