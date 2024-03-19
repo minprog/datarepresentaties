@@ -69,6 +69,12 @@ grades:
     tentamen-scraping: *tentamen
     tentamen-databases: *tentamen
 
+    hertentamen-commands: *tentamen
+    hertentamen-oneliners: *tentamen
+    hertentamen-regexes: *tentamen
+    hertentamen-scraping: *tentamen
+    hertentamen-databases: *tentamen
+
 pidac:
     show_progress: true
     type: points
@@ -100,9 +106,24 @@ tentamen:
         tentamen-scraping: 6
         tentamen-databases: 6
 
+hertentamen:
+    show_progress: true
+    type: points
+    submits:
+        hertentamen-commands: 6
+        hertentamen-oneliners: 6
+        hertentamen-regexes: 6
+        hertentamen-scraping: 6
+        hertentamen-databases: 6
+
 calculation:
     eindcijfer:
         pidac: 6
         projecten: 12
         schrijfopdrachten: 0
         tentamen: 30
+    herkansingscijfer:
+        pidac: 6
+        projecten: 12
+        schrijfopdrachten: 0
+        hertentamen: 30
