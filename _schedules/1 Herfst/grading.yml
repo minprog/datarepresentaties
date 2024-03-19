@@ -166,3 +166,12 @@ calculation:
         module_5: 1
         module_6: 1
         module_7: 1
+    herkansingscijfer:
+        pidac: 1
+        module_1_her: 1
+        module_2_her: 1
+        module_3_her: 1
+        module_4_her: 1
+        module_5_her: 1
+        module_6_her: 1
+        module_7_her: 1
