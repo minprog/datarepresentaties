@@ -25,6 +25,12 @@ templates:
         automatic:
             akkoord: -(correctness_score.floor)
         auto_publish: true
+    5: &float_punten
+        type: float
+        subgrades:
+            punten: float
+        calculation: punten
+        hide_calculated: true
 
 grades:
 
@@ -50,7 +56,7 @@ grades:
     # -- projecten --
 
     formaten:
-        <<: *aftekenen
+        <<: *float_punten
         deadline: 23/2/24 16:00
     homepage:
         <<: *aftekenen
@@ -75,7 +81,7 @@ projecten:
         homepage: 6
 
 schrijfopdrachten:
-    show_progress: ture
+    show_progress: true
     submits:
         computing: 1
         besturingssystemen: 1
