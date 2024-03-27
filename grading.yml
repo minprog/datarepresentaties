@@ -15,7 +15,7 @@ templates:
         subgrades:
             akkoord: boolean
             punten: float
-        calculation: akkoord || punten
+        calculation: punten
         is_test: true
         hide_calculated: true
     4: &automatisch
