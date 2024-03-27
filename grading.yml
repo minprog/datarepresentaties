@@ -11,10 +11,11 @@ templates:
         calculation: punten
         hide_subgrades: true
     3: &tentamen
-        type: pass
+        type: float
         subgrades:
             akkoord: boolean
-        calculation: akkoord
+            punten: float
+        calculation: punten
         is_test: true
         hide_calculated: true
     4: &automatisch
