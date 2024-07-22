@@ -1,121 +1,62 @@
-templates:
-    1: &aftekenen
-        subgrades:
-            akkoord: boolean
-        calculation: akkoord
-        hide_calculated: true
-    2: &punten
-        type: points
-        subgrades:
-            punten: integer
-        calculation: punten
-        hide_subgrades: true
-    3: &tentamen
-        type: pass
-        subgrades:
-            akkoord: boolean
-        calculation: akkoord
-        is_test: true
-        hide_calculated: true
-    4: &automatisch
-        subgrades:
-            akkoord: boolean
-        calculation: akkoord
-        hide_subgrades: true
-        automatic:
-            akkoord: -(correctness_score.floor)
-        auto_publish: true
-    5: &float_punten
-        type: float
-        subgrades:
-            punten: float
-        calculation: punten
-        hide_calculated: true
-
 grades:
-
-    # -- PIDAC --
-
-    pidac: *punten
-
-    # -- schrijfopdrachten --
-
+    # -- portfolio deadlines --
     computing:
-        <<: *aftekenen
-        deadline: 9/2/24 16:00
+        deadline: 4/9/24 21:00
     besturingssystemen:
-        <<: *aftekenen
-        deadline: 16/2/24 16:00
+        deadline: 11/9/24 21:00
     representaties:
-        <<: *aftekenen
-        deadline: 23/2/24 16:00
+        deadline: 18/2/24 21:00
     internet:
-        <<: *aftekenen
-        deadline: 15/3/24 16:00
-
-    # -- projecten --
-
-    formaten:
-        <<: *float_punten
-        deadline: 23/2/24 16:00
+        deadline: 25/3/24 21:00
     homepage:
-        <<: *aftekenen
-        deadline: 8/3/24 16:00
+        deadline: 4/10/24 21:00
 
-    # -- databases autograde --
-
-    movies: *automatisch
-    fiftyville: *automatisch
-
-pidac:
+practicum:
     show_progress: true
     type: points
     submits:
-        pidac: 6
+        pidac_1: 2
+        pidac_2: 2
+        pidac_3: 2
 
-projecten:
+portfolio:
     show_progress: true
     type: points
     submits:
-        formaten: 6
-        homepage: 6
-
-schrijfopdrachten:
-    show_progress: true
-    submits:
-        computing: 1
-        besturingssystemen: 1
-        representaties: 1
-        internet: 1
+        computing: 2
+        besturingssystemen: 2
+        representaties: 2
+        internet: 2
+        homepage: 2
 
 tentamen:
     show_progress: true
     type: points
     submits:
-        tentamen-commands: 6
-        tentamen-oneliners: 6
-        tentamen-regexes: 6
-        tentamen-scraping: 6
-        tentamen-databases: 6
+        commands: 6
+        oneliners: 6
+        binary: 6
+        regexes: 6
+        scraping: 6
+        databases: 6
 
 hertentamen:
     show_progress: true
     type: points
     submits:
-        hertentamen-commands: 6
-        hertentamen-oneliners: 6
-        hertentamen-regexes: 6
-        hertentamen-scraping: 6
-        hertentamen-databases: 6
+        commands-her: 6
+        oneliners-her: 6
+        binary-her: 6
+        regexes-her: 6
+        scraping-her: 6
+        databases-her: 6
 
 calculation:
     eindcijfer:
-        pidac: 6
-        projecten: 12
-        schrijfopdrachten: 0
-        tentamen: 30
+        practicum: 6
+        portfolio: 10
+        tentamen: 36
     herkansingscijfer:
-        pidac: 6
-        projecten: 12
-        schrijfopdrachten: 0
-        hertentamen: 30
+        practicum: 6
+        portfolio: 10
+        hertentamen: 36

@@ -5,55 +5,53 @@ Welkom:
 Computers:
     Schrijfopdracht:
         Introduction to computing: /onderwerpen/computers/intro
-    UNIX-commando's:
+    Tentamen UNIX-commando's:
         Software Carpentry deel 1: /onderwerpen/computers/carpentry
-        UNIX-oefeningen (tentamen): /onderwerpen/computers/oefeningen
+        Tentamenoefeningen: /onderwerpen/computers/oefeningen
 
 Besturingssystemen:
     Schrijfopdracht:
         Besturingssystemen: /onderwerpen/besturingssystemen/intro
-    UNIX-pipelines:
+    Tentamen UNIX-pipelines:
         Software Carpentry deel 2: /onderwerpen/besturingssystemen/carpentry
-        Oefeningen tentamen: /onderwerpen/besturingssystemen/oefeningen
+        Tentamenoefeningen: /onderwerpen/besturingssystemen/oefeningen
 
 Representaties:
     Schrijfopdracht:
-        Representaties: /onderwerpen/representaties/intro
-    Oefenen:
+        Representaties en multimedia: /onderwerpen/representaties/intro
+        Bestandsformaten: /onderwerpen/representaties/formaten
+    Tentamen Binaire codering:
+        Binaire codering: /onderwerpen/representaties/binary
+        Binaire representaties: /onderwerpen/representaties/binair-tellen
         CSV: /onderwerpen/representaties/csv
         Textcodering: /onderwerpen/representaties/text
-    Inleveren:
-        Bestandsformaten: /onderwerpen/representaties/formaten
+        Tentamenoefeningen TODO: /onderwerpen/representaties/oefeningen
 
 Text processing:
-    Achtergronden:
+    Schrijfopdracht:
+        Internet: /onderwerpen/scraping/internet
+    Tentamen Regexes:
         Reguliere expressies: /onderwerpen/regex/intro
         Software Carpentry deel 3: /onderwerpen/regex/carpentry
-        Werken met grep: /onderwerpen/regex/grep
-    Oefenen:
         Regels matchen: /onderwerpen/regex/regels
         Strings matchen: /onderwerpen/regex/strings
         Woorden matchen: /onderwerpen/regex/woorden
-        Oefeningen tentamen: /onderwerpen/regex/oefeningen
+        Tentamenoefeningen: /onderwerpen/regex/oefeningen
 
 Web development:
-    Achtegronden:
-        Web [college]: /onderwerpen/web/lecture
-    Inleveren:
-        Homepage [opdracht]: /onderwerpen/web/homepage
+    Portfolio:
+        Videocollege Web: /onderwerpen/web/lecture
+        Homepage: /onderwerpen/web/homepage
 
 Scraping:
-    Schrijfopdracht:
-        Internet [college]: /onderwerpen/scraping/internet
-    Scraping:
-        JSON [opdracht]: /onderwerpen/scraping/json
-        # Curl [oefening]: /onderwerpen/scraping/curl
-        Scraping [opdracht]: /onderwerpen/scraping/scraping
-        Oefeningen tentamen: /onderwerpen/scraping/oefeningen
+    Tentamen Scraping:
+        JSON: /onderwerpen/scraping/json
+        Scraping: /onderwerpen/scraping/scraping
+        Tentamenoefeningen: /onderwerpen/scraping/oefeningen
 
 Databases:
-    SQL:
-        Databases [college]: /onderwerpen/databases/lecture
-        Movies [opdracht]: /onderwerpen/databases/movies
-        Fiftyville [opdracht]: /onderwerpen/databases/fiftyville
-        Oefeningen tentamen: /onderwerpen/databases/oefeningen
+    Tentamen SQL:
+        Videocollege Databases: /onderwerpen/databases/lecture
+        Movies: /onderwerpen/databases/movies
+        Fiftyville: /onderwerpen/databases/fiftyville
+        Tentamenoefeningen: /onderwerpen/databases/oefeningen

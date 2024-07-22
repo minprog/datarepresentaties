@@ -1,4 +1,4 @@
-# Datarepresentaties, tools en technieken<br><small>Studiewijzer, Lente 2024</small>
+# Datarepresentaties, tools en technieken<br><small>Studiewijzer, Lente 2025</small>
 
 In dit vak maak je kennis met verschillende platforms om programmeerproblemen aan te pakken. Dit is een breed vak met een focus op het gebruiken tools en technieken uit de professionele software-wereld. De platforms zijn geschikt om uiteenlopende problemen te benaderen, van dataverwerking tot aan webprogrammeren. Soms gebruik je één platform voor een probleem en soms kun je er meerdere samen gebruiken. Daarnaast raak je bekend met UNIX en allerlei verschillende command-line tools zodat je steeds beter grip hebt op jouw ontwikkelomgeving.
 
@@ -15,9 +15,9 @@ Het vak is opgedeeld in acht modules.
 0. **Schakelingen met PIDAC.** Kennismaken met elektronische schakelingen waarop computers gebaseerd zijn en oefenen met het maken van schakelingen om berekeningen te doen.
 1. **Computers.** Kennismaken met standaard computerhardware en software, en de geschiedenis van het vakgebied. Een eerste start met gebruik van de command line.
 2. **Besturingssystemen.** Kennismaken met de onderdelen van besturingssystemen, bestandssystemen en security-aspecten. Een uitgebreide verkenning van de UNIX-shell.
-3. **Representaties.** Een overzicht van allerlei soorten informatie die in een computer kunnen worden gerepresenteerd. Oefenen met binaire bestanden en bestandsformaten.
-4. **Text processing.** Kennismaken met reguliere expressies en zoeken in teksten. Kennismaking met het CSV-dataformaat en gebruik van UNIX-tools om deze te filteren en te manipuleren.
-5. **Web development.** Leren schrijven van HTML en het toepassen van stijlen via CSS. Je maakt een eigen homepage als project.
+3. **Web development.** Leren schrijven van HTML en het toepassen van stijlen via CSS. Je maakt een eigen portfolio als project.
+4. **Representaties.** Een overzicht van allerlei soorten informatie die in een computer kunnen worden gerepresenteerd. Oefenen met binaire bestanden en bestandsformaten.
+5. **Text processing.** Kennismaken met reguliere expressies en zoeken in teksten. Kennismaking met het CSV-dataformaat en gebruik van UNIX-tools om deze te filteren en te manipuleren.
 6. **Internet.** Studie van de werking van internet. Kennismaking met het JSON-formaat. Oefenen met het verkrijgen van data uit semi-gestructureerde websites.
 7. **Databases.** Kennismaken met de relationele manier om data vast te leggen. Oefenen met het schrijven van SQL-queries om interessante data uit een database te halen.
 {: start="0"}
@@ -31,61 +31,65 @@ De docenten bij dit vak zijn Simon Pauw, Edwin Steffens en Martijn Stegeman. Je 
 
 **Assistentie:** direct contact met een assistent.
 
-* hulp op locatie (lokaal L0.09)
+* hulp op locatie (lokaal L0.09 of L0.10)
 * je weet niet waar te beginnen of een onvindbare bug, of alles loopt vast
-* moeite met verzinnen oplossing of juist begrijpen van de vraag
+* moeite met verzinnen van een oplossing of met het begrijpen van de vraag
 * dagelijks beschikbaar: je kunt gewoon binnenlopen
 
 **Spreekuur en e-mail:** contact met de docenten.
 
 * alle vragen over de regels en over dubbelzinnigheden in opdrachten
+    * wat assistenten hierover zeggen is helaas niet geldig
 * bespreken van persoonlijke omstandigheden
 * meedenken over grote problemen met het vak
 * officiële zaken zoals deadlines en cijfers
 * mail <help@mprog.nl> of kom langs tijdens het spreekuur
 
 
-## Eindcijfer
+## Onderdelen
 
-Er zijn vier schrijfopdrachten die je verplicht moet doen:
+**Tentamen.** Elke week ga je oefenen met praktische technieken, en met achtergronden uit de informatica. Je vaardigheid met deze onderwerpen wordt getoetst op het schriftelijk tentamen. Je punten hiervoor worden dan ook volledig bepaald door de uitslag van het tentamen. De tentamenopgaven zijn vergelijkbaar met de oefenopgaven die je wekelijks gaat maken.
 
-| Achtergrond               | Vorm      | Deadline        |
-|---------------------------|-----------|-----------------|
-| Introduction to Computing | schrijven | vr 9 feb 16:00  |
-| Besturingssystemen        | schrijven | vr 16 feb 16:00 |
-| Representaties            | schrijven | vr 23 feb 16:00 |
-| Internet                  | schrijven | vr 15 maa 16:00 |
+| onderdeel                          | vorm      | punten | week |
+|------------------------------------|-----------|:------:|:----:|
+| UNIX-commando's en bestandssysteem | tentamen  | 6      | 1    |
+| UNIX-pipelines                     | tentamen  | 6      | 2    |
+| Binaire representaties             | tentamen  | 6      | 3    |
+| Reguliere expressies               | tentamen  | 6      | 4    |
+| Scraping                           | tentamen  | 6      | 6    |
+| Databases en SQL                   | tentamen  | 6      | 7    |
 
-Daarnaast kun je 48 punten halen, die uiteindelijk je eindcijfer bepalen:
+Voor elk onderdeel kun je deelpunten ontvangen op basis van het aantal goede antwoorden op het tentamen.
 
-| Onderdeel                          | Vorm      | Punten | Deadline         |
-|------------------------------------|-----------|:------:|------------------|
-| UNIX-commando's en bestandssysteem | tentamen  | 6      |                  |
-| UNIX-pipelines                     | tentamen  | 6      |                  |
-| Tekstcodering en bestandsformaten  | project   | 6      | vri 23 feb 16:00 |
-| Reguliere expressies               | tentamen  | 6      |                  |
-| Webtechnologie en Homepage         | project   | 6      | vri 8 maa 16:00  |
-| Scraping                           | tentamen  | 6      |                  |
-| Databases en SQL                   | tentamen  | 6      |                  |
-| PIDAC                              | practicum | 6      |                  |
+Voor dit tentamen wordt een normale herkansing gepland. Het cijfer voor de herkansing komt in de plaats van het cijfer van het volledige schriftelijke tentamen. De uitslagen van de overige onderdelen hieronder blijven daarbij staan.
 
-Voorwaarden voor de punten per module:
+**Portfolio.** Daarnaast zijn er ter verdieping vier schrijfopdrachten die je moet doen. De uitwerkingen hiervan integreer je op de portfolio-website die je vanaf week 3 gaat maken. Het portfolio en de schrijfopdrachten zijn verplichte onderdelen. Je krijgt geen punten maar als je ze niet doet kun je het vak niet halen.
 
-- De meeste onderwerpen worden in het tentamen getoetst. Hier maak je op papier opgaven die vergelijkbaar zijn met de oefenopgaven in de cursus.
+| onderdeel                  | vorm      | punten | week | deadline        |
+|----------------------------|-----------|:------:|:----:|----------------:|
+| Computing                  | schrijven | 2      | 1    | vr  6 sep 16:00 |
+| Besturingssystemen         | schrijven | 2      | 2    | vr 13 sep 16:00 |
+| Representaties en formaten | schrijven | 2      | 3    | vr 20 sep 16:00 |
+| Internet                   | schrijven | 2      | 4    | vr 27 sep 16:00 |
+| Homepage met portfolio     | website   | 2      | 5    | vr  4 okt 16:00 |
 
-- Bij projecten staat in de opdracht vermeld hoe deze beoordeeld wordt. Soms zijn deelpunten mogelijk, soms moet de hele opdracht goed zijn om alle punten te krijgen.
+In het rooster staan bijeenkomsten voor het in groepjes bespreken van de schrijfopdrachten. Het deelnemen aan deze bijeenkomsten is verplicht voor het verkrijgen van de punten.
 
-- Voor PIDAC geldt dat je alleen punten krijgt als je aanwezig bij de practica en de opdrachten af hebt gekregen en af laten tekenen.
+In week 5 ga je een website maken over jouw persoonlijke interesses (een "homepage"). In deze website verwerk je ook de antwoorden van alle schrijfopdrachten.
 
-Je eindcijfer kun je berekenen met `totaal_punten / 48 * 9 + 1`. Als je dus de helft van de punten haalt is dat een 5,5 als cijfer, en dat betekent een voldoende voor het vak.
+Schrijfopdrachten die redelijk volledig zijn, maar niet van voldoende niveau, worden in overleg met de docent verbeterd en opnieuw ingeleverd. Als je een schrijfopdracht nog moet verbeteren dan kun je dit inleveren bij je portfolio.
 
-### Deadlines
+**Practicum.** Tot slot is er het practicum, waar we ingaan op de elektrotechniek en logica die verscholen zit in de hardware van een computer. Dit is een kwestie van doen, dus je werkt in het lokaal aan praktische opdrachten. Voor PIDAC geldt dat je alleen punten krijgt als je aanwezig bent bij deze practica, en de opdrachten af hebt gekregen en af laten tekenen.
 
-Na de genoemde deadlines kun je geen punten meer krijgen voor de projecten. Bij het missen van schrijfopdrachten kun je het vak niet halen.
+| onderdeel                          | vorm      | punten | week |
+|------------------------------------|-----------|:------:|:----:|
+| PIDAC 1                            | practicum | 6      | 5    |
+| PIDAC 2                            | practicum | 6      | 6    |
+| PIDAC 3                            | practicum | 6      | 7    |
 
-### Herkansing
+Het practicum is niet herkansbaar.
 
-De schrijfopdrachten en projecten kunnen niet "herkanst" worden na de deadline. Schrijfopdrachten die redelijk volledig zijn maar niet van voldoende niveau worden in overleg met de docent verbeterd en opnieuw ingeleverd, in de regel binnen één week na aangeven. Voor het tentamen wordt een normale herkansing gepland. Alle onderwerpen moeten bij het tentamen herkanst worden.
+**Eindcijfer.** De punten van de bovenstaande onderdelen tellen op tot een totaal. Je eindcijfer kun je berekenen met `totaal_punten / 52 * 9 + 1`. Als je dus de helft van de punten haalt is dat een 5,5 als cijfer, en dat betekent een voldoende voor het vak.
 
 
 ## Samenwerken
@@ -101,7 +105,7 @@ Je mag niet op zoek naar daadwerkelijke **antwoorden en oplossingen** voor opdra
 
 Spreek je docent of assistent aan en zeg "ik weet niet hoe ik nu verder moet". Je docent vraagt dan "wat heb je al gelezen of gedaan?". Vanuit daar ga je kijken wat je nog nodig hebt om de opdracht goed te kunnen doen.
 
-Als je een kort tekst- of codefragment overneemt als onderdeel van jouw zelfbedachte oplossing, dan moet je altijd een precieze bronvermelding doen. Het moet exact duidelijk zijn welk idee je overneemt en van welke bron het komt.
+Als je een kort tekst- of codefragment overneemt als onderdeel van jouw zelfbedachte oplossing, dan moet je altijd een precieze bronvermelding doen. Het moet exact duidelijk zijn welk idee je overneemt en van welke bron het komt. Tegelijk moet niet het volledige antwoord zijn overgenomen, anders is het onvoldoende.
 
 
 ### Officiële regels

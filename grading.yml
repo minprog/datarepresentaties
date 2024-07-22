@@ -3,71 +3,44 @@ templates:
         subgrades:
             akkoord: boolean
         calculation: akkoord
-        hide_subgrades: true
     2: &punten
         type: points
         subgrades:
             punten: integer
         calculation: punten
-        hide_subgrades: true
-    3: &tentamen
-        type: float
-        subgrades:
-            akkoord: boolean
-            punten: float
-        calculation: punten
-        is_test: true
-        hide_calculated: true
     4: &automatisch
         subgrades:
-            akkoord: boolean
-        calculation: akkoord
+            checks: boolean
+        calculation: checks
         hide_subgrades: true
         automatic:
-            akkoord: -(correctness_score.floor)
+            checks: -(correctness_score.floor)
         auto_publish: true
 
 grades:
-    pidac: *punten
+    computing: *punten
+    besturingssystemen: *punten
+    representaties: *punten
+    internet: *punten
+    homepage: *punten
 
-    hardware: *aftekenen
-    big-picture: *aftekenen
-    binary: *aftekenen
-    carpentry-files: *aftekenen
+    pidac_1: *aftekenen
+    pidac_2: *aftekenen
+    pidac_3: *aftekenen
 
-    security: *aftekenen
-    opsys: *aftekenen
-    carpentry-pipelines: *aftekenen
-    unix-tools: *aftekenen
+    movies: *automatisch
+    fiftyville: *automatisch
 
-    multimedia: *aftekenen
-    binaire-representatie: *aftekenen
-    text: *aftekenen
-    formaten: *aftekenen
+    commands: *punten
+    oneliners: *punten
+    binary: *punten
+    regexes: *punten
+    scraping: *punten
+    databases: *punten
 
-    regex-intro: *aftekenen
-    chatbots: *aftekenen
-    carpentry-finding: *aftekenen
-    grep: *aftekenen
-
-    web-lecture: *aftekenen
-    homepage: *aftekenen
-
-    internet: *aftekenen
-    json: *aftekenen
-    scraping: *aftekenen
-
-    movies: *aftekenen
-    fiftyville: *aftekenen
-
-    tentamen-commands: *tentamen
-    tentamen-oneliners: *tentamen
-    tentamen-regexes: *tentamen
-    tentamen-scraping: *tentamen
-    tentamen-databases: *tentamen
-
-    hertentamen-commands: *tentamen
-    hertentamen-oneliners: *tentamen
-    hertentamen-regexes: *tentamen
-    hertentamen-scraping: *tentamen
-    hertentamen-databases: *tentamen
+    commands-her: *punten
+    oneliners-her: *punten
+    binary-her: *punten
+    regexes-her: *punten
+    scraping-her: *punten
+    databases-her: *punten

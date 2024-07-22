@@ -1,177 +1,62 @@
-pidac:
+grades:
+    # -- portfolio deadlines --
+    computing:
+        deadline: 4/9/24 21:00
+    besturingssystemen:
+        deadline: 11/9/24 21:00
+    representaties:
+        deadline: 18/2/24 21:00
+    internet:
+        deadline: 25/3/24 21:00
+    homepage:
+        deadline: 4/10/24 21:00
+
+practicum:
     show_progress: true
     type: points
     submits:
-        pidac: 6
+        pidac_1: 2
+        pidac_2: 2
+        pidac_3: 2
 
-module_1:
+portfolio:
     show_progress: true
     type: points
-    deadline: 8/9/23 17:00
     submits:
-        hardware: 1
-        big-picture: 1
-        binary: 1
-        carpentry-files: 3
-        tentamen-commands: 0
-
-module_2:
-    show_progress: true
-    type: points
-    deadline: 15/9/23 17:00
-    submits:
-        security: 1
-        opsys: 1
-        carpentry-pipelines: 2
-        unix-tools: 2
-        tentamen-oneliners: 0
-
-module_3:
-    show_progress: true
-    type: points
-    deadline: 22/9/23 17:00
-    submits:
-        multimedia: 1
-        binaire-representatie: 1
-        text: 1
-        formaten: 3
-
-module_4:
-    show_progress: true
-    type: points
-    deadline: 29/9/23 17:00
-    submits:
-        # regex-intro: 3
-        chatbots: 1
-        carpentry-finding: 2
-        grep: 3
-        tentamen-regexes: 0
-
-module_5:
-    show_progress: true
-    type: points
-    deadline: 6/10/23 17:00
-    submits:
-        web-lecture: 1
-        homepage: 5
-
-module_6:
-    show_progress: true
-    type: points
-    deadline: 13/10/23 17:00
-    submits:
-        internet: 1
-        json: 1
-        scraping: 4
-        tentamen-scraping: 0
-
-module_7:
-    show_progress: true
-    type: points
-    deadline: 20/10/23 17:00
-    submits:
-        movies: 3
-        fiftyville: 3
-        tentamen-databases: 0
-
-
-module_1_her:
-    type: points
-    deadline: 8/9/23 17:00
-    submits:
-        hardware: 1
-        big-picture: 1
-        binary: 1
-        carpentry-files: 3
-        hertentamen-commands: 0
-
-module_2_her:
-    type: points
-    deadline: 15/9/23 17:00
-    submits:
-        security: 1
-        opsys: 1
-        carpentry-pipelines: 2
-        unix-tools: 2
-        hertentamen-oneliners: 0
-
-module_3_her:
-    type: points
-    deadline: 22/9/23 17:00
-    submits:
-        multimedia: 1
-        binaire-representatie: 1
-        text: 1
-        formaten: 3
-
-module_4_her:
-    type: points
-    deadline: 29/9/23 17:00
-    submits:
-        # regex-intro: 3
-        chatbots: 1
-        carpentry-finding: 2
-        grep: 3
-        hertentamen-regexes: 0
-
-module_5_her:
-    type: points
-    deadline: 6/10/23 17:00
-    submits:
-        web-lecture: 1
-        homepage: 5
-
-module_6_her:
-    type: points
-    deadline: 13/10/23 17:00
-    submits:
-        internet: 1
-        json: 1
-        scraping: 4
-        hertentamen-scraping: 0
-
-module_7_her:
-    type: points
-    deadline: 20/10/23 17:00
-    submits:
-        movies: 3
-        fiftyville: 3
-        hertentamen-databases: 0
+        computing: 2
+        besturingssystemen: 2
+        representaties: 2
+        internet: 2
+        homepage: 2
 
 tentamen:
     show_progress: true
+    type: points
     submits:
-        tentamen-commands: 1
-        tentamen-oneliners: 1
-        tentamen-regexes: 1
-        tentamen-scraping: 1
-        tentamen-databases: 1
+        commands: 6
+        oneliners: 6
+        binary: 6
+        regexes: 6
+        scraping: 6
+        databases: 6
 
 hertentamen:
     show_progress: true
+    type: points
     submits:
-        hertentamen-commands: 1
-        hertentamen-oneliners: 1
-        hertentamen-regexes: 1
-        hertentamen-scraping: 1
-        hertentamen-databases: 1
+        commands-her: 6
+        oneliners-her: 6
+        binary-her: 6
+        regexes-her: 6
+        scraping-her: 6
+        databases-her: 6
 
 calculation:
     eindcijfer:
-        pidac: 1
-        module_1: 1
-        module_2: 1
-        module_3: 1
-        module_4: 1
-        module_5: 1
-        module_6: 1
-        module_7: 1
+        practicum: 6
+        portfolio: 10
+        tentamen: 36
     herkansingscijfer:
-        pidac: 1
-        module_1_her: 1
-        module_2_her: 1
-        module_3_her: 1
-        module_4_her: 1
-        module_5_her: 1
-        module_6_her: 1
-        module_7_her: 1
+        practicum: 6
+        portfolio: 10
+        hertentamen: 36

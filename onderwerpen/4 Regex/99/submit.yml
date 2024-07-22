@@ -1,6 +1,0 @@
-name: chatbots
-files:
-    required:
-        - eliza.sed
-        - mybot.sed
-        - uitleg.pdf
