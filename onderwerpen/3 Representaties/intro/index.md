@@ -58,7 +58,7 @@ Je moet de vragen beantwoorden in een simpele PDF. Onderaan vind je instructies 
 
 ## Formaten
 
-Je krijgt van ons 10 bestanden van een onbekend formaat. Is het een document, een audio-file, of iets heel anders? Lees eerst de [uitleg over het achterhalen van het formaat van een bestand](../formaten/).
+Je krijgt van ons 10 bestanden van een onbekend formaat. Is het een document, een audio-file, of iets heel anders? Lees eerst de [uitleg over het achterhalen van het formaat van een bestand](/onderwerpen/representaties/formaten).
 
 [Download een ZIP-bestand](../formaten/files.zip) met daarin 10 andere bestanden (het wachtwoord is `secret`). Deze bestanden hebben geen duidelijke naam die weggeeft wat voor soort bestand het is. Je kunt natuurlijk de extensies aanpassen en het bestand proberen te openen in Word of in een audioplayer. Maar dat is hier niet de bedoeling! In dit geval gaat `xxd` ons helpen om te analyseren wat er in de bestanden staat.
 
