@@ -85,7 +85,7 @@ De schrijfopdrachten zijn verplichte onderdelen. Je krijgt geen punten maar als 
 
 Het practicum is niet herkansbaar.
 
-**Eindcijfer.** De punten van de bovenstaande onderdelen tellen op tot een totaal. Je eindcijfer kun je berekenen met `totaal_punten / 52 * 9 + 1`. Als je dus de helft van de punten haalt is dat een 5,5 als cijfer, en dat betekent een voldoende voor het vak.
+**Eindcijfer.** De punten van de bovenstaande onderdelen tellen op tot een totaal. Je eindcijfer kun je berekenen met `totaal_punten / 48 * 9 + 1`. Als je dus de helft van de punten haalt is dat een 5,5 als cijfer, en dat betekent een voldoende voor het vak.
 
 
 ## Samenwerken
