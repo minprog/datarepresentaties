@@ -32,7 +32,7 @@ Dat klinkt niet als een goed reclamepraatje voor reguliere expressies maar in de
 
 ## Studiemateriaal
 
-1.  Bekijk eerst [deze Youtube-video](https://www.youtube.com/watch?v=yFRSpPwrJzQ) waarin de basis van reguliere expressies wordt toegepast met het commando `grep` op de command line.
+1.  Bekijk eerst [deze Youtube-video](https://www.youtube.com/watch?v=yFRSpPwrJzQ) waarin de basis van reguliere expressies wordt toegepast met het commando `grep` op de command line. Dit is een korte introductie, de details hoef je niet allemaal te begrijpen. Dat komt bij de volgende stappen!
 
 1.  Lees het hoofdstuk "Regular expressions, text normalization" uit het boek _Speech and Language Processing_ van Jurafsky en Martin. Dit geeft een basisbegrip van de manier van werken met reguliere expressies.
 

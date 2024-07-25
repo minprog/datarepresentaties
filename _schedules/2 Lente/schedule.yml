@@ -18,21 +18,17 @@ Besturingssystemen:
 
 Representaties:
     Schrijfopdracht:
-        Representaties en multimedia: /onderwerpen/representaties/intro
-        Bestandsformaten: /onderwerpen/representaties/formaten
+        Representaties en formaten: /onderwerpen/representaties/intro
     Tentamen Binaire codering:
-        Binaire codering: /onderwerpen/representaties/binary
-        Binaire representaties: /onderwerpen/representaties/binair-tellen
-        CSV: /onderwerpen/representaties/csv
-        Textcodering: /onderwerpen/representaties/text
+        Getallenstelsels: /onderwerpen/representaties/getallen
+        Binaire representaties: /onderwerpen/representaties/binair
         Tentamenoefeningen TODO: /onderwerpen/representaties/oefeningen
 
 Text processing:
     Schrijfopdracht:
-        Internet: /onderwerpen/scraping/internet
+        Internet: /onderwerpen/regex/internet
     Tentamen Regexes:
-        Reguliere expressies: /onderwerpen/regex/intro
-        Software Carpentry deel 3: /onderwerpen/regex/carpentry
+        Reguliere expressies: /onderwerpen/regex/studiemateriaal
         Regels matchen: /onderwerpen/regex/regels
         Strings matchen: /onderwerpen/regex/strings
         Woorden matchen: /onderwerpen/regex/woorden

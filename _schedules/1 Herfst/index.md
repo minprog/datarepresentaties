@@ -63,21 +63,17 @@ Voor elk onderdeel kun je deelpunten ontvangen op basis van het aantal goede ant
 
 Voor dit tentamen wordt een normale herkansing gepland. Het cijfer voor de herkansing komt in de plaats van het cijfer van het volledige schriftelijke tentamen. De uitslagen van de overige onderdelen hieronder blijven daarbij staan.
 
-**Portfolio.** Daarnaast zijn er ter verdieping vier schrijfopdrachten die je moet doen. De uitwerkingen hiervan integreer je op de portfolio-website die je vanaf week 3 gaat maken. Het portfolio en de schrijfopdrachten zijn verplichte onderdelen. Je krijgt geen punten maar als je ze niet doet kun je het vak niet halen.
+**Portfolio.** Daarnaast zijn er ter verdieping vier schrijfopdrachten die je moet doen. In het rooster staan bijeenkomsten voor het in groepjes bespreken van de schrijfopdrachten. Het deelnemen aan deze bijeenkomsten is verplicht voor het aftekenen van deze opdrachten. In week 5 ga je een website maken over jouw persoonlijke interesses (een "homepage"). In deze website verwerk je ook de antwoorden van alle schrijfopdrachten, die je dan ook nog mag verbeteren.
+
+De schrijfopdrachten zijn verplichte onderdelen. Je krijgt geen punten maar als je ze niet doet kun je het vak niet halen. Voor je website krijg je punten, waarbij we kijken in hoeverre het is gelukt aan alle eisen van de opdracht te voldoen.
 
 | onderdeel                  | vorm      | punten | week | deadline        |
 |----------------------------|-----------|:------:|:----:|----------------:|
-| Computing                  | schrijven | 2      | 1    | wo  4 sep 21:00 |
-| Besturingssystemen         | schrijven | 2      | 2    | wo 11 sep 21:00 |
-| Representaties en formaten | schrijven | 2      | 3    | wo 18 sep 21:00 |
-| Internet                   | schrijven | 2      | 4    | wo 25 sep 21:00 |
-| Homepage met portfolio     | website   | 2      | 5    | vr  4 okt 21:00 |
-
-In het rooster staan bijeenkomsten voor het in groepjes bespreken van de schrijfopdrachten. Het deelnemen aan deze bijeenkomsten is verplicht voor het verkrijgen van de punten.
-
-In week 5 ga je een website maken over jouw persoonlijke interesses (een "homepage"). In deze website verwerk je ook de antwoorden van alle schrijfopdrachten.
-
-Schrijfopdrachten die redelijk volledig zijn, maar niet van voldoende niveau, worden in overleg met de docent verbeterd en opnieuw ingeleverd. Als je een schrijfopdracht nog moet verbeteren dan kun je dit inleveren bij je portfolio.
+| Computing                  | schrijven | V      | 1    | wo  4 sep 21:00 |
+| Besturingssystemen         | schrijven | V      | 2    | wo 11 sep 21:00 |
+| Representaties en formaten | schrijven | V      | 3    | wo 18 sep 21:00 |
+| Internet                   | schrijven | V      | 4    | wo 25 sep 21:00 |
+| Homepage met portfolio     | website   | 6      | 5    | vr  4 okt 21:00 |
 
 **Practicum.** Tot slot is er het practicum, waar we ingaan op de elektrotechniek en logica die verscholen zit in de hardware van een computer. Dit is een kwestie van doen, dus je werkt in het lokaal aan praktische opdrachten. Voor PIDAC geldt dat je alleen punten krijgt als je aanwezig bent bij deze practica, en de opdrachten af hebt gekregen en af laten tekenen.
 

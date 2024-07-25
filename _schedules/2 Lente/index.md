@@ -1,4 +1,4 @@
-# Datarepresentaties, tools en technieken<br><small>Studiewijzer, Lente 2025</small>
+# Datarepresentaties, tools en technieken<br><small>Studiewijzer, Herfst 2024</small>
 
 In dit vak maak je kennis met verschillende platforms om programmeerproblemen aan te pakken. Dit is een breed vak met een focus op het gebruiken tools en technieken uit de professionele software-wereld. De platforms zijn geschikt om uiteenlopende problemen te benaderen, van dataverwerking tot aan webprogrammeren. Soms gebruik je één platform voor een probleem en soms kun je er meerdere samen gebruiken. Daarnaast raak je bekend met UNIX en allerlei verschillende command-line tools zodat je steeds beter grip hebt op jouw ontwikkelomgeving.
 
@@ -53,7 +53,7 @@ De docenten bij dit vak zijn Simon Pauw, Edwin Steffens en Martijn Stegeman. Je 
 | onderdeel                          | vorm      | punten | week |
 |------------------------------------|-----------|:------:|:----:|
 | UNIX-commando's en bestandssysteem | tentamen  | 6      | 1    |
-| UNIX-pipelines                     | tentamen  | 6      | 2    |
+| UNIX-oneliners                     | tentamen  | 6      | 2    |
 | Binaire representaties             | tentamen  | 6      | 3    |
 | Reguliere expressies               | tentamen  | 6      | 4    |
 | Scraping                           | tentamen  | 6      | 6    |
@@ -63,29 +63,25 @@ Voor elk onderdeel kun je deelpunten ontvangen op basis van het aantal goede ant
 
 Voor dit tentamen wordt een normale herkansing gepland. Het cijfer voor de herkansing komt in de plaats van het cijfer van het volledige schriftelijke tentamen. De uitslagen van de overige onderdelen hieronder blijven daarbij staan.
 
-**Portfolio.** Daarnaast zijn er ter verdieping vier schrijfopdrachten die je moet doen. De uitwerkingen hiervan integreer je op de portfolio-website die je vanaf week 3 gaat maken. Het portfolio en de schrijfopdrachten zijn verplichte onderdelen. Je krijgt geen punten maar als je ze niet doet kun je het vak niet halen.
+**Portfolio.** Daarnaast zijn er ter verdieping vier schrijfopdrachten die je moet doen. In het rooster staan bijeenkomsten voor het in groepjes bespreken van de schrijfopdrachten. Het deelnemen aan deze bijeenkomsten is verplicht voor het aftekenen van deze opdrachten. In week 5 ga je een website maken over jouw persoonlijke interesses (een "homepage"). In deze website verwerk je ook de antwoorden van alle schrijfopdrachten, die je dan ook nog mag verbeteren.
+
+De schrijfopdrachten zijn verplichte onderdelen. Je krijgt geen punten maar als je ze niet doet kun je het vak niet halen. Voor je website krijg je punten, waarbij we kijken in hoeverre het is gelukt aan alle eisen van de opdracht te voldoen.
 
 | onderdeel                  | vorm      | punten | week | deadline        |
 |----------------------------|-----------|:------:|:----:|----------------:|
-| Computing                  | schrijven | 2      | 1    | vr  6 sep 16:00 |
-| Besturingssystemen         | schrijven | 2      | 2    | vr 13 sep 16:00 |
-| Representaties en formaten | schrijven | 2      | 3    | vr 20 sep 16:00 |
-| Internet                   | schrijven | 2      | 4    | vr 27 sep 16:00 |
-| Homepage met portfolio     | website   | 2      | 5    | vr  4 okt 16:00 |
-
-In het rooster staan bijeenkomsten voor het in groepjes bespreken van de schrijfopdrachten. Het deelnemen aan deze bijeenkomsten is verplicht voor het verkrijgen van de punten.
-
-In week 5 ga je een website maken over jouw persoonlijke interesses (een "homepage"). In deze website verwerk je ook de antwoorden van alle schrijfopdrachten.
-
-Schrijfopdrachten die redelijk volledig zijn, maar niet van voldoende niveau, worden in overleg met de docent verbeterd en opnieuw ingeleverd. Als je een schrijfopdracht nog moet verbeteren dan kun je dit inleveren bij je portfolio.
+| Computing                  | schrijven | V      | 1    | wo  4 sep 21:00 |
+| Besturingssystemen         | schrijven | V      | 2    | wo 11 sep 21:00 |
+| Representaties en formaten | schrijven | V      | 3    | wo 18 sep 21:00 |
+| Internet                   | schrijven | V      | 4    | wo 25 sep 21:00 |
+| Homepage met portfolio     | website   | 6      | 5    | vr  4 okt 21:00 |
 
 **Practicum.** Tot slot is er het practicum, waar we ingaan op de elektrotechniek en logica die verscholen zit in de hardware van een computer. Dit is een kwestie van doen, dus je werkt in het lokaal aan praktische opdrachten. Voor PIDAC geldt dat je alleen punten krijgt als je aanwezig bent bij deze practica, en de opdrachten af hebt gekregen en af laten tekenen.
 
 | onderdeel                          | vorm      | punten | week |
 |------------------------------------|-----------|:------:|:----:|
-| PIDAC 1                            | practicum | 6      | 5    |
-| PIDAC 2                            | practicum | 6      | 6    |
-| PIDAC 3                            | practicum | 6      | 7    |
+| PIDAC 1                            | practicum | 2      | 5    |
+| PIDAC 2                            | practicum | 2      | 6    |
+| PIDAC 3                            | practicum | 2      | 7    |
 
 Het practicum is niet herkansbaar.
 
