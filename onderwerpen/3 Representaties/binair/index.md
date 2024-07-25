@@ -1,14 +1,10 @@
 # Binaire representaties
 
-1. Studeer in het hieronder genoemde hoofdstuk,
-2. hou goed bij wat je opvalt en wat je leert,
-3. en beantwoord dan de vragen hieronder.
-
-## Literatuur
-
-Hoofdstuk "Binary representation" uit het boek van Schneider & Gersting, *Invitation to Computer Science*. Het hoofdstuk begint met wat herhaling maar gaat al snel verder dan wat je eerder hebt gelezen.
+Lees het hoofdstuk "Binary representation" uit het boek van Schneider & Gersting, *Invitation to Computer Science*. Het hoofdstuk begint met wat herhaling maar gaat al snel verder dan wat je eerder hebt gelezen.
 
 ## Vragen
+
+Dit zijn oefenvragen voor het tentamen.
 
 1.  Geef de binaire representatie van de volgende string (gebruik makend van de ASCII-manier van encoden): `$25.00`.
 
