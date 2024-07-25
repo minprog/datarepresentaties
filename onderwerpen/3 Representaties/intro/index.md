@@ -81,10 +81,3 @@ Lever hieronder een PDF in met je uitwerkingen. Gebruik géén titelpagina. Verw
 De antwoorden worden kritisch nagekeken op zorgvuldige beantwoording. Dat betekent dat de antwoorden gebaseerd moeten zijn op de lesstof (het videocollege), dat wat er staat goed is en logisch onderbouwd en dat er geen onware of irrelevante beweringen of informatie bij de antwoorden staan. Aan de andere kant: een klein foutje is geen probleem.
 
 Als de antwoorden ondermaats zijn naar inschatting van de docent (te kortaf, te uitgebreid, te ChatGPT-achtig), dan krijg je de gelegenheid om binnen korte tijd nog een verbeterde versie in te leveren, zodat je kunt voldoen aan de voorwaarden om het vak te halen.
-
-## Beoordeling Formaten
-
-Je krijgt gelijke deelpunten per bestand waarvan je achterhaalt wat het precies voor formaat is (zo gedetailleerd mogelijk) en wat er in staat. Belangrijker is dat je per bestand heel precies documenteert hoe het in elkaar zit, voor zover dat nodig is om uit te leggen welk formaat het betreft. Soms is het zo simpel als een paar magic bytes, soms moet je meer uitleggen. Als je stappen in je redenatie overslaat krijg je geen punt.
-
-
-

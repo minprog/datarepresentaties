@@ -33,8 +33,10 @@ Beantwoord de vragen in je eigen woorden, je daarbij baserend op informatie uit 
 
 ## Inleveren
 
-Lever hieronder een PDF in met je uitwerkingen. Gebruik géén titelpagina. Vermeld je naam en studentnummer, en de naam van de opdracht. Vermeld ook de vraag boven elk antwoord---dit mag een samengevatte versie van de vraag zijn. Als je informatie van buiten het college gebruikt moet je een bronvermelding doen; je mag gewoon de site/titel noemen in de tekst.
+Lever hieronder een PDF in met je uitwerkingen. Gebruik géén titelpagina. Verwerk de vraag kort in het antwoord. Vermeld je naam en studentnummer, en de naam van de opdracht. Als je informatie van buiten het college gebruikt moet je een bronvermelding doen door een link netjes in de tekst te maken of via een voetnoot. Het is zeker niet wenselijk om volledige referenties in APA- of andere stijl te doen. Aan elk van deze eisen moet voldaan zijn.
 
 ## Nakijken
 
 De antwoorden worden kritisch nagekeken op zorgvuldige beantwoording. Dat betekent dat de antwoorden gebaseerd moeten zijn op de lesstof (het videocollege), dat wat er staat goed is en logisch onderbouwd en dat er geen onware of irrelevante beweringen of informatie bij de antwoorden staan. Aan de andere kant: een klein foutje is geen probleem.
+
+Als de antwoorden ondermaats zijn naar inschatting van de docent (te kortaf, te uitgebreid, te ChatGPT-achtig), dan krijg je de gelegenheid om binnen korte tijd nog een verbeterde versie in te leveren, zodat je kunt voldoen aan de voorwaarden om het vak te halen.
