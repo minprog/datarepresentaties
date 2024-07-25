@@ -32,6 +32,8 @@ Dat klinkt niet als een goed reclamepraatje voor reguliere expressies maar in de
 
 ## Studiemateriaal
 
+1.  Bekijk eerst [deze Youtube-video](https://www.youtube.com/watch?v=yFRSpPwrJzQ) waarin de basis van reguliere expressies wordt toegepast met het commando `grep` op de command line.
+
 1.  Lees het hoofdstuk "Regular expressions, text normalization" uit het boek _Speech and Language Processing_ van Jurafsky en Martin. Dit geeft een basisbegrip van de manier van werken met reguliere expressies.
 
     - Hou tijdens het lezen bij wat je welke technische zaken belangrijk zijn en wat de betekenis is van de verschillende symbolen. Noteer ook vragen die opkomen.
@@ -41,5 +43,14 @@ Dat klinkt niet als een goed reclamepraatje voor reguliere expressies maar in de
     - Hou hier ook je leerproces bij en vul je eerdere notities aan met extra beschrijvingen van de kennis uit deze tutorial.
 
     - Onthoud dat reguliere expressies voor een groot deel standaard zijn, maar dat ze soms ook een klein beetje anders kunnen werken op verschillende platforms. Uiteindelijk gaat het om de basis van symbolen als `*`, `.`, `+`, `?`, `()`, `[]` enzovoort. Die basis is overal gelijk en kun je steeds toepassen om teksten heel precies te filteren.
+
+Gebruik de website van [Software carpentry](https://swcarpentry.github.io/shell-novice/) om de workshop te doen.
+
+Bij dit deel van de workshop ga je reguliere expressies gebruiken, maar specifiek met het commando `grep`. De syntax van de reguliere expressies is grotendeels gelijk, behalve dat hier geen `/.../` wordt gebruikt.
+
+1.  Doe alle oefeningen van **hoofdstuk 7** (Finding Things). Het doel is om goed voorbereid te zijn voor de komende weken. Je doet dit door goed te oefenen en commando's **over te tikken** en de resultaten te bestuderen. Als je mazzel hebt maak je ook nog een paar tikfouten waardoor je moet achterhalen wat er fout ging: dan leer je het meest.
+
+1.  In sommige gevallen matcht de omgeving niet met de omgeving die jij op je computer hebt. Zorg dat je uitzoekt hoe je dan moet handelen en betrek de assistenten hierbij. Je zou elk commando in de workshop moeten kunnen uitproberen.
+
 
 Na deze oefeningen kun je naar de volgende pagina om te oefenen met reguliere expressies.

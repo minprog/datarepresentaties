@@ -30,11 +30,13 @@ Unzip het bestand, en open dan de uitgepakte `index.html` in je webbrowser om te
 
 Implementeer in de `profile`-directory een website die:
 
-*   Ten minste vier verschillende `.html`-pagina's bevat, waarvan er ten minste één `index.html` is (de hoofdpagina van je website). Het moet mogelijk zijn om van elke pagina op jouw website naar elke andere pagina te gaan door door één of meer hyperlinks te volgen.
+*   Ten minste vijf verschillende `.html`-pagina's bevat, waarvan er ten minste één `index.html` is (de hoofdpagina van je website). Het moet mogelijk zijn om van elke pagina op jouw website naar elke andere pagina te gaan door door één of meer hyperlinks te volgen.
 
 *   `index.html` moet een profielfoto, je naam en een korte beschrijving van jezelf en je interesses bevatten. Als je je niet helemaal op je gemak voelt bij het delen van persoonlijke afbeeldingen of details, je in plaats daarvan bijvoorbeeld een avatarafbeelding kunt gebruiken.
 
-*   De andere pagina's moeten informatie over jou bevatten of iets waarin je geïnteresseerd zou kunnen zijn. Overdrijf het niet, een paar alinea's met een afbeelding is hartstikke goed, of een pagina waar je door een aantal afbeeldingen kunt bladeren, of een soort Javascript-demo (door jezelf aangepast).
+*   De andere vier pagina's moeten jouw uitwerkingen van de schrijfopdrachten van de afgelopen weken bevatten. Zorg dat de opmaak netjes wordt met logische HTML-tags.
+
+*   Je mag ook nog pagina's toevoegen met meer informatie over je hobby's of andere interessante zaken.
 
 *   Gebruik naast `<html>`, `<head>`, `<body>` en `<title>` ten minste tien (10) verschillende HTML-tags. Het meerdere keren gebruiken van een tag (bijv. `<p>`) telt nog steeds als slechts één (1) van die tien!
 
