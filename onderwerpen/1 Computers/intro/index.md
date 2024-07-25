@@ -1,6 +1,6 @@
 # Introduction to Computing
 
-Bij deze opdracht ga je kennismaken met de achtergronden van de informatica, en ook heel specifiek kijken hoe moderne computers samengesteld zijn en wat de verschillende onderdelen voor functie hebben. Met "modern" bedoelen we computers die niet 50 jaar oud zijn!
+Bij deze opdracht ga je kennismaken met de achtergronden van de informatica, en ook heel concreet kijken hoe moderne computers samengesteld zijn en wat de verschillende onderdelen voor functie hebben. Met "modern" bedoelen we computers die niet 50 jaar oud zijn!
 
 ## Studiemateriaal
 
@@ -39,22 +39,24 @@ Je moet de vragen beantwoorden in een simpele PDF. Onderaan vind je instructies 
 
 7.  Wi-Fi en Bluetooth zijn allebei draadloze technologiën. Wat zijn de verschillen in techniek en toepassing? Ook bij deze vraag kun je gerust op internet zoeken, maar zorg dat je een duidelijk antwoord in eigen woorden formuleert.
 
-1.  In welke periode vallen de volgende hardware- of softwarebegrippen? Assemblers, FORTRAN, Operating systems, Structured programming, Time sharing, HTML (for the Web), Loaders, Spreadsheets, Word processors, Lisp, PC-DOS, Loaders/linkers bundled into an operating system, Java, SPSS, C++.
+8.  In welke periode vallen de volgende hardware- of softwarebegrippen? Assemblers, FORTRAN, Operating systems, Structured programming, Time sharing, HTML (for the Web), Loaders, Spreadsheets, Word processors, Lisp, PC-DOS, Loaders/linkers bundled into an operating system, Java, SPSS, C++.
 
     Maak een overzicht, geordend op eerste generatie, tweede generatie, derde generatie, vierde generatie en vijfde generatie.
 
-2.  Abstracties spelen een belangrijke rol bij het programmeren. De definitie in het boek is "A mental model that removes complex details." In elk vakgebied en elke studie spelen zulke abstracties een rol. Ze bieden een *manier van kijken* waarin de werkelijkheid een beetje simpel wordt gehouden zodat deze beter te begrijpen is. De details komen later wel. Beschrijf zo'n abstractie uit je eigen vakgebied.
+9.  Er valt te beargumenteren dat we nu een zesde generatie hebben, namelijk die van "online services voor alles". Beschrijf een online dienst, definieer wat het doel is van die dienst, en bedenk, of vraag rond, hoe het doel bereikt werd vóór dit soort diensten massaal online kwam.
 
-3.  Wat is het Grote Idee waar jij het meest geïnteresseerd in bent uit het domein van computers en programmeren? Zie ook tabel 1.1 uit het boek, maar voel je vrij om af te wijken van het lijstje. Leg in enig detail uit waar die interesse ligt, welke vragen je daarbij hebt.
+10. Leg uit wat "machine language", "assembly language" en "higher-level languages" zijn, waarbij je ingaat op de verschillen. Geef een (heel kort) voorbeeld van hoe elk er uit kan zien.
 
-4.  Leg uit wat "machine language", "assembly language" en "higher-level languages" zijn, waarbij je ingaat op de verschillen. Geef een (heel kort) voorbeeld van hoe elk er uit kan zien.
+11. Abstracties spelen een belangrijke rol bij het programmeren. De definitie in het boek is "A mental model that removes complex details." In elk vakgebied en elke studie spelen zulke abstracties een rol. Ze bieden een *manier van kijken* waarin de werkelijkheid een beetje simpel wordt gehouden zodat deze beter te begrijpen is. De details komen later wel. Beschrijf zo'n abstractie uit je eigen vakgebied/studie, bijvoorbeeld een theorie uit een belangrijk vak uit het eerste jaar. Schrijf zodat een leek kan begrijpen waar je het over hebt, maar je hoeft niet de volledige theorie tot in de puntjes uit te leggen.
+
+12. Wat is het Grote Idee waar jij het meest geïnteresseerd in bent uit het domein van computers en programmeren? Zie ook tabel 1.1 uit het boek, maar voel je vrij om af te wijken van het lijstje. Leg in enig detail uit waar die interesse ligt, welke vragen je daarbij hebt.
 
 ## Inleveren
 
-Lever hieronder een PDF in met je uitwerkingen. Gebruik géén titelpagina. Vermeld je naam en studentnummer, en de naam van de opdracht. Vermeld ook de vraag boven elk antwoord---dit mag een samengevatte versie van de vraag zijn. Als je informatie van buiten het college gebruikt moet je een bronvermelding doen. Je mag gewoon de site/titel noemen in de tekst: het is niet wenselijk om volledige referenties in APA- of andere stijl te doen.
+Lever hieronder een PDF in met je uitwerkingen. Gebruik géén titelpagina. Verwerk de vraag kort in het antwoord. Vermeld je naam en studentnummer, en de naam van de opdracht. Als je informatie van buiten het college gebruikt moet je een bronvermelding doen door een link netjes in de tekst te maken of via een voetnoot. Het is zeker niet wenselijk om volledige referenties in APA- of andere stijl te doen. Aan elk van deze eisen moet voldaan zijn.
 
 ## Nakijken
 
 De antwoorden worden kritisch nagekeken op zorgvuldige beantwoording. Dat betekent dat de antwoorden gebaseerd moeten zijn op de lesstof (het videocollege), dat wat er staat goed is en logisch onderbouwd en dat er geen onware of irrelevante beweringen of informatie bij de antwoorden staan. Aan de andere kant: een klein foutje is geen probleem.
 
-Als de antwoorden ondermaats zijn naar inschatting van de docent dan krijg je de gelegenheid om binnen korte tijd nog een verbeterde versie in te leveren, zodat je kunt voldoen aan de voorwaarden om het vak te halen.
+Als de antwoorden ondermaats zijn naar inschatting van de docent (te kortaf, te uitgebreid, te ChatGPT-achtig), dan krijg je de gelegenheid om binnen korte tijd nog een verbeterde versie in te leveren, zodat je kunt voldoen aan de voorwaarden om het vak te halen.

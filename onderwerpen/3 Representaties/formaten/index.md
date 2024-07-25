@@ -1,9 +1,5 @@
 # Bestandsformaten
 
-1. Bestudeer onderstaande uitleg over gebruik van `xxd`
-2. hou goed bij wat je opvalt en wat je leert,
-3. en doe dan de opdracht.
-
 ## xxd
 
 Bestanden bevatten data die met hulp van programma's zijn opgeslagen. Als je een tekst-editor gebruikt kun je heel direct ASCII-tekens intikken en dan opslaan. Elk ASCII-teken dat je hebt ingetikt is een byte in dat bestand. Maar er zijn nog veel meer bestandsformaten.
@@ -83,25 +79,3 @@ Wat je vervolgens kunt doen is het bestand **hernoemen** naar `minoren.zip` en d
       inflating: uitgepakt/preview.jpeg        
 
 Dan zie je dat er twee bestanden in staan: een databestand (formaat is kennelijk `.plist`) en een preview-plaatje. Het programma OmniGraffle weet dat deze bestanden er in moeten staan en zorgt ervoor dat elk bestand dit formaat heeft.
-
-## Opdracht
-
-[Download een ZIP-bestand](files.zip) met daarin 10 andere bestanden (het wachtwoord is `secret`). Deze bestanden hebben geen duidelijke naam die weggeeft wat voor soort bestand het is. Is het een document, een audio-file? Je kunt natuurlijk de extensies aanpassen en het bestand proberen te openen in Word of in een audioplayer. Maar dat is hier niet de bedoeling! In dit geval gaat `xxd` ons helpen om te analyseren wat er in de bestanden staat.
-
-Geef in jouw uitwerking per bestand aan:
-
-- welk formaat het heeft;
-- op basis waarvan je precies die conclusie kunt trekken;
-- welke extensie het zou moeten hebben;
-- met welk programma je het document uiteindelijk geopend hebt toen je wist wat voor formaat het had;
-- geef ook een idee van de inhoud zodat we kunnen zien dat je het goed begrepen hebt (geen copy-paste van de inhoud, maar een beschrijving in jouw eigen woorden)
-
-In principe moet je voor elk bestand kunnen achterhalen wat het is, maar soms is het even lastig.
-
-## Beoordeling
-
-Je krijgt gelijke deelpunten per bestand waarvan je achterhaalt wat het precies voor formaat is (zo gedetailleerd mogelijk) en wat er in staat. Belangrijker is dat je per bestand heel precies documenteert hoe het in elkaar zit, voor zover dat nodig is om uit te leggen welk formaat het betreft. Soms is het zo simpel als een paar magic bytes, soms moet je meer uitleggen. Als je stappen in je redenatie overslaat krijg je geen punt.
-
-## Inleveren
-
-Lever een PDF in met je antwoorden. Gebruik géén titelpagina. Vermeld je naam en studentnummer, en de naam van de opdracht. Vermeld ook de vraag boven elk antwoord---dit mag een samengevatte versie van de vraag zijn. Als je informatie van buiten de aangeleverde tekst gebruikt moet je een bronvermelding doen; je mag gewoon de site/titel noemen in de tekst.

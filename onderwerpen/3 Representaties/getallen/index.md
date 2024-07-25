@@ -1,4 +1,4 @@
-# Binair tellen
+# Getallenstelsels
 
 1. Studeer in de hieronder genoemde hoofdstukken,
 2. hou goed bij wat je opvalt en wat je leert,
@@ -38,13 +38,3 @@ Beantwoord de vragen hieronder. Je antwoorden worden beoordeeld op inzet en corr
     1. 43
 
 4.  Bij hexadecimaal gebruiken we de cijfers 0-9 en de letters A-F om getallen op te schrijven. Zonder die letters hebben we niet genoeg symbolen om 16 verschillende cijfers weer te geven. Stel dat je een 18-tallig stelsel ontwerpt voor het representeren van getallen. Welke symbolen zou je kunnen gebruiken voor de 18 verschillende cijfers, als je géén letters mag gebruiken? Bedenk een concreet alternatief.
-
-5.  Beschrijf welke opvallende dingen je hebt geleerd bij het studeren op het college en het uitwerken van de vragen. Geef aan wat je eventueel moeilijk vond en welke bronnen je hebt gebruikt om verder uit te zoeken wat je moest begrijpen. Als je het makkelijk vond had je waarschijnlijk voorkennis. In dat geval kun je die voorkennis vergelijken met het college: wat was er anders of zelfs in tegenspraak? Zonder uitgebreid antwoord op deze vraag kun je geen punten halen voor de opdracht.
-
-## Inleveren
-
-Lever hieronder een PDF in met je uitwerkingen. Gebruik géén titelpagina. Vermeld je naam en studentnummer, en de naam van de opdracht. Vermeld ook de vraag boven elk antwoord---dit mag een samengevatte versie van de vraag zijn. Als je informatie van buiten de aangeleverde tekst gebruikt moet je een bronvermelding doen; je mag gewoon de site/titel noemen in de tekst.
-
-## Nakijken
-
-De antwoorden worden kritisch nagekeken op zorgvuldige beantwoording. Dat betekent dat de antwoorden gebaseerd moeten zijn op de lesstof (het videocollege), dat wat er staat goed is en logisch onderbouwd en dat er geen onware of irrelevante beweringen of informatie bij de antwoorden staan. Aan de andere kant: een klein foutje is geen probleem.
