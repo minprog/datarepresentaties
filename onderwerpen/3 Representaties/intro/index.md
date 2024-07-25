@@ -9,7 +9,7 @@ Bij deze opdracht ga je kennismaken met representaties. Fundamenteel gebruiken c
     - [Open in CS50 video player](https://video.cs50.io/kccUxGDsMAQ?screen=d9eb5UAlvWc)
     - [Open lecture notes](https://cs50.harvard.edu/ap/2021/curriculum/technology/notes/multimedia/)
 
-2.  Lees [deze pagina over tekstformaten](../text/).
+2.  Lees [deze pagina over tekstformaten](/onderwerpen/representaties/formaten).
 
 ## Werkwijze
 
