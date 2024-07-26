@@ -59,9 +59,7 @@ De docenten bij dit vak zijn Simon Pauw, Edwin Steffens en Martijn Stegeman. Je 
 | Scraping                           | tentamen  | 6      | 6    |
 | Databases en SQL                   | tentamen  | 6      | 7    |
 
-Voor elk onderdeel kun je deelpunten ontvangen op basis van het aantal goede antwoorden op het tentamen.
-
-Voor dit tentamen wordt een normale herkansing gepland. Het cijfer voor de herkansing komt in de plaats van het cijfer van het volledige schriftelijke tentamen. De uitslagen van de overige onderdelen hieronder blijven daarbij staan.
+Voor elk onderdeel krijg je punten op basis van het aantal goede antwoorden op het tentamen. Voor dit tentamen is er een herkansing enkele weken na afloop van het vak (zie rooster). Het cijfer voor de herkansing komt dan in de plaats van het cijfer van het volledige schriftelijke tentamen. De uitslagen van de overige onderdelen hieronder blijven daarbij staan.
 
 **Portfolio.** Dan zijn er vier schrijfopdrachten die je allemaal moet doen. Je gaat deze eerst zelfstandig uitwerken en inleveren als PDF. In het rooster staan verplichte bijeenkomsten voor het in groepjes bespreken van de antwoorden.
 
