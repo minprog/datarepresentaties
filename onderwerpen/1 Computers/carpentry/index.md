@@ -33,9 +33,7 @@ Deze vragen helpen je nadenken over bestandssystemen.
 
 1.  Stel dat de "current working directory" (huidige directory) is `C:\Windows\System`. Geef het relatieve pad naar het bestand `proj3.java` zoals in figuur 11.4 van het boek.
 
-<details markdown="1"><summary markdown="span">Tips</summary>
-Juist even niet aan de opdracht werken kan je verder helpen!
-
+<details markdown="1"><summary markdown="span">Antwoorden</summary>
 1.  Een bestandssysteem heeft als doel de inhoud van een harddisk te beheren. Een harddisk is een rij binaire data zonder structuur. Om "files" bij te houden is minimaal nodig de naam van elke file plus de startpositie en eindpositie. Anders raken files kwijt of overschrijven ze elkaar. Alle andere informatie zoals tijd, toegangsrechten en type zijn niet essentieel in deze zin.
 
 2.  `/etc/mail/access.old`. Dit is een UNIX-systeem dus de "root" wordt aangegeven door met een `/` (slash) te starten.
