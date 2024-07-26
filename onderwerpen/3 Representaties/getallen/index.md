@@ -6,7 +6,7 @@
 
 ## Vragen
 
-Dit zijn oefenvragen voor het tentamen.
+Oefen met het omzetten van getallen van het ene stelsel naar het andere. Laat altijd zien hoe je de conversie hebt gedaan. Als je bijvoorbeeld van binair naar hexadecimaal omzet `01011001` dan groepeer je per 4 bits (`0101` en `1001`) die je afzonderlijk omzet naar een hex-cijfer (`5` en `9`), waarmee het antwoord `59` is.
 
 1.  Zet de volgende binaire getallen om naar hexadecimale representatie:
 
