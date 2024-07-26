@@ -5,7 +5,7 @@ Welkom:
 Computers:
     Schrijfopdracht:
         Introduction to computing: /onderwerpen/computers/intro
-    Oefenen:
+    Oefening:
         Software Carpentry deel 1: /onderwerpen/computers/carpentry
     Tentamen UNIX-commando's:
         Tentamenoefeningen: /onderwerpen/computers/oefeningen
@@ -13,7 +13,7 @@ Computers:
 Besturingssystemen:
     Schrijfopdracht:
         Besturingssystemen: /onderwerpen/besturingssystemen/intro
-    Oefenen:
+    Oefening:
         Software Carpentry deel 2: /onderwerpen/besturingssystemen/carpentry
     Tentamen UNIX-pipelines:
         Tentamenoefeningen: /onderwerpen/besturingssystemen/oefeningen
@@ -21,7 +21,7 @@ Besturingssystemen:
 Representaties:
     Schrijfopdracht:
         Representaties en formaten: /onderwerpen/representaties/intro
-    Uitleg:
+    Uitleg en oefening:
         Getallenstelsels: /onderwerpen/representaties/getallen
         Binaire representaties: /onderwerpen/representaties/binair
     Tentamen Binaire codering:
@@ -46,14 +46,17 @@ Web development:
         Homepage: /onderwerpen/web/homepage
 
 Scraping:
-    Tentamen Scraping:
+    Uitleg en oefening:
         JSON: /onderwerpen/scraping/json
         Scraping: /onderwerpen/scraping/scraping
+    Tentamen Scraping:
         Tentamenoefeningen: /onderwerpen/scraping/oefeningen
 
 Databases:
-    Tentamen SQL:
+    Theorie:
         Videocollege Databases: /onderwerpen/databases/lecture
+    Oefening:
         Movies: /onderwerpen/databases/movies
         Fiftyville: /onderwerpen/databases/fiftyville
+    Tentamen SQL:
         Tentamenoefeningen: /onderwerpen/databases/oefeningen
