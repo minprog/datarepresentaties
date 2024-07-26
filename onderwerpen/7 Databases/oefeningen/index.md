@@ -1,6 +1,6 @@
 # Oefeningen
 
-Bij het toetsje en het tentamen kun je vragen verwachten op basis van de jou al bekende Movies-database. Je schrijft je antwoorden op papier en hebt verder geen toegang tot naslagwerken.
+Bij het tentamen kun je vragen verwachten op basis van de jou al bekende Movies-database. Je schrijft je antwoorden op papier en hebt verder geen toegang tot naslagwerken.
 
 Je hebt dus kennis nodig van SQL en wat de verschillende clausules (JOIN, WHERE, enzovoort) betekenen en waarvoor je ze gebruikt. Als je merkt dat je deze kennis nog niet echt paraat hebt, dan kun je extra studeren met hulp van het videocollege of externe bronnen over SQL.
 
