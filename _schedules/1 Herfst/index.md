@@ -63,9 +63,11 @@ Voor elk onderdeel kun je deelpunten ontvangen op basis van het aantal goede ant
 
 Voor dit tentamen wordt een normale herkansing gepland. Het cijfer voor de herkansing komt in de plaats van het cijfer van het volledige schriftelijke tentamen. De uitslagen van de overige onderdelen hieronder blijven daarbij staan.
 
-**Portfolio.** Daarnaast zijn er ter verdieping vier schrijfopdrachten die je moet doen. In het rooster staan bijeenkomsten voor het in groepjes bespreken van de schrijfopdrachten. Het deelnemen aan deze bijeenkomsten is verplicht voor het aftekenen van deze opdrachten. In week 5 ga je een website maken over jouw persoonlijke interesses (een "homepage"). In deze website verwerk je ook de antwoorden van alle schrijfopdrachten, die je dan ook nog mag verbeteren.
+**Portfolio.** Dan zijn er vier schrijfopdrachten die je allemaal moet doen. Je gaat deze eerst zelfstandig uitwerken en inleveren als PDF. In het rooster staan verplichte bijeenkomsten voor het in groepjes bespreken van de antwoorden.
 
-De schrijfopdrachten zijn verplichte onderdelen. Je krijgt geen punten maar als je ze niet doet kun je het vak niet halen. Voor je website krijg je punten, waarbij we kijken in hoeverre het is gelukt aan alle eisen van de opdracht te voldoen.
+In week 5 ga je daarnaast een website maken over jouw persoonlijke interesses (een "homepage"). In deze website verwerk je ook de antwoorden van alle schrijfopdrachten. Die uitwerkingen kun je op dat moment nog verbeteren, waarna ze definitief afgetekend worden.
+
+De schrijfopdrachten en de bijeenkomsten zijn verplicht. Als je ze niet serieus inlevert (dus zeker geen ChatGPT!) bij de eerste deadline, dan kun je het vak niet halen in het huidige semester. Voor je website krijg je punten, waarbij we kijken in hoeverre het is gelukt aan alle eisen van de opdracht te voldoen.
 
 | onderdeel                  | vorm      | punten | week | deadline        |
 |----------------------------|-----------|:------:|:----:|----------------:|
