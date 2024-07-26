@@ -27,8 +27,18 @@ Gebruik de website van [Software carpentry](https://swcarpentry.github.io/shell-
 
 Deze vragen helpen je nadenken over bestandssystemen.
 
-2.  Wat is de minimale informatie die een directory over elke file moet bevatten? Waarom is dit minimaal, ofwel waarom zou het anders niet kunnen werken als opslag?
+1.  Wat is de minimale informatie die een directory over elke file moet bevatten? Waarom is dit minimaal, ofwel waarom zou het anders niet kunnen werken als opslag?
 
-3.  Geef het absolute pad van het bestand `access.old` uit figuur 11.5 van het boek.
+1.  Geef het absolute pad van het bestand `access.old` uit figuur 11.5 van het boek.
 
-4.  Stel dat de "current working directory" (huidige directory) is `C:\Windows\System`. Geef het relatieve pad naar het bestand `proj3.java` zoals in figuur 11.4 van het boek.
+1.  Stel dat de "current working directory" (huidige directory) is `C:\Windows\System`. Geef het relatieve pad naar het bestand `proj3.java` zoals in figuur 11.4 van het boek.
+
+<details markdown="1"><summary markdown="span">Tips</summary>
+Juist even niet aan de opdracht werken kan je verder helpen!
+
+1.  Een bestandssysteem heeft als doel de inhoud van een harddisk te beheren. Een harddisk is een rij binaire data zonder structuur. Om "files" bij te houden is minimaal nodig de naam van elke file plus de startpositie en eindpositie. Anders raken files kwijt of overschrijven ze elkaar. Alle andere informatie zoals tijd, toegangsrechten en type zijn niet essentieel in deze zin.
+
+2.  `/etc/mail/access.old`. Dit is een UNIX-systeem dus de "root" wordt aangegeven door met een `/` (slash) te starten.
+
+3.  `..\..\My Documents\csc101\proj3.java`. In een Windows-systeem gebruiken we `\` (backslash) om de componenten in een pad te onderscheiden. Omdat `My Documents` in de root staat moeten we vanuit `C:\Windows\System` helemaal terug met hulp van `..\..\`
+</details>
