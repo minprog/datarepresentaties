@@ -1,10 +1,10 @@
 # Oefeningen
 
-Deze vragen zijn goede oefeningen voor het tentamen. Op het tentamen kun je ook vragen verwachten op basis van de jou al bekende Movies-database. De verwachting is dat je alle vragen op het tentamen correct beantwoordt, foutjes daargelaten. Je hebt dus parate kennis nodig van SQL en wat de verschillende clausules (JOIN, WHERE, enzovoort) doen. Als je merkt dat je deze kennis nog niet echt paraat hebt, dan kun je extra studeren met hulp van het videocollege of externe bronnen over SQL.
+Bij het toetsje en het tentamen kun je vragen verwachten op basis van de jou al bekende Movies-database. Je schrijft je antwoorden op papier en hebt verder geen toegang tot naslagwerken.
 
-Onderstaande vragen zijn *grotendeels* representatief voor de vragen die je op het tentamen tegen zou kunnen komen, maar je zou ook vragen tegen kunnen komen die meer lijken op de vragen bij de [Movies-opdracht](/databases/movies). 
+Je hebt dus kennis nodig van SQL en wat de verschillende clausules (JOIN, WHERE, enzovoort) betekenen en waarvoor je ze gebruikt. Als je merkt dat je deze kennis nog niet echt paraat hebt, dan kun je extra studeren met hulp van het videocollege of externe bronnen over SQL.
 
-Je kunt onderstaande oefeningen niet inleveren. Controleer ze met je medestudenten en check bij de docent als je twijfelt.
+Onderstaande vragen zijn *grotendeels* representatief voor de vragen die je op het tentamen tegen zou kunnen komen, maar je zou ook vragen tegen kunnen komen die meer lijken op de vragen bij de [Movies-opdracht](/databases/movies) of varianten.
 
 
 ## Parate kennis
@@ -52,14 +52,22 @@ Voor de vragen gebruiken we de movies-database die je al kent. Hier is het schem
 
 ## Vragen
 
-Voor de volgende vragen moet je SQL-queries schrijven. De queries moeten precies zo specifiek zijn als wordt gevraagd, dus je mag geen shortcuts nemen op basis van jouw kennis van films en antwoorden.
+Voor de volgende vragen moet je SQL-queries schrijven. De queries moeten precies zo specifiek zijn als wordt gevraagd, dus je mag geen shortcuts nemen op basis van jouw kennis van films en antwoorden. Soms wordt een specifiek SQL-element genoemd dat je moet gebruiken.
 
-Vergeet ook niet om te laten zien dat je een JOIN kunt schrijven. Zonder JOIN kun je dit onderdeel van het tentamen niet halen.
+1. Schrijf een SQL-query die de titel en het jaar van elke film geeft.
 
-1. Schrijf een SQL-query om de namen te selecteren van alle regisseurs die betrokken zijn bij de film 'The Matrix' uit 1999.
+2. Schrijf een SQL-query die de namen geeft van alle acteurs in de film "Titanic" uit 1997.
 
-2. Schrijf een SQL-query die het aantal films selecteert die een rating hoger dan 8.5 hebben en meer dan 100 stemmen hebben ontvangen.
+3. Schrijf een SQL-query die de gemiddelde rating van alle films uit 2005 geeft. Gebruik JOINs en geen subquery.
 
-3. Schrijf een SQL-query om naam en de rating te selecteren van alle films waarin 'Marouane Meftah' speelt (de rating is `ratings.rating`).
+4. Schrijf een SQL-query die de titels geeft van alle films gemaakt door een regisseur die geboren is in 1984.
 
-4. Schrijf een SQL-query om de namen van alle mensen te selecteren, gesorteerd op geboortejaar, die speelden in een film uit het jaar 2005.
+5. Schrijf een SQL-query die het aantal films geeft waarin "Sandra Oh" speelt. Gebruik een subquery en geen JOINs.
+
+6. Schrijf een SQL-query om de namen te selecteren van alle regisseurs die betrokken zijn bij de film "The Matrix" uit 1999. Gebruik een subquery en geen joins.
+
+7. Schrijf een SQL-query die het aantal films selecteert die een rating hoger dan 8.5 hebben en meer dan 100 stemmen hebben ontvangen.
+
+8. Schrijf een SQL-query om naam en de rating te selecteren van alle films waarin "Marouane Meftah" speelt (de rating is `ratings.rating`).
+
+9. Schrijf een SQL-query om de namen van alle mensen te selecteren, gesorteerd op geboortejaar, die speelden in een film uit het jaar 2005. Gebruik JOINs en geen subquery.
