@@ -10,9 +10,9 @@ De precieze definitie van het **Comma Separated Values** CSV-formaat is te vinde
 
 <https://datatracker.ietf.org/doc/html/rfc4180>
 
-Let even op de terminologie. Een rij wordt ook wel een **record** genoemd. Elk record bevat alle gegevens van één ding. Een kolom wordt ook wel een **field** genoemd. Elk field is één soort gegeven, bijvoorbeeld een naam of een telefoonnummer.
+Let even op de terminologie. Een rij wordt ook wel een **record** genoemd. Elk record bevat alle gegevens van één ding. De gegevens zijn gescheiden door een **separator**, een komma. In principe heeft elke regel precies evenveel kolommen aan informatie, gescheiden door komma's. Een kolom wordt ook wel een **field** genoemd. Elk field is één soort gegeven, bijvoorbeeld een naam of een telefoonnummer.
 
-Let op dat er ook nog andere formaten zijn zoals "tab separated values", die op een andere manier worden opgemaakt. Het idee is hetzelfde, maar je moet er rekening mee houden dat je zelf moet controleren of je commando's nog kloppen.
+Let op dat er ook nog andere formaten zijn zoals "tab separated values" (met tabs in plaats van komma's). Het idee is vaak hetzelfde, maar als je UNIX-tools gebruikt met andere soorten bestanden moet je vaak extra opties meegeven om de tool uit te leggen wat deze kan verwachten.
 
 ## Workshop
 

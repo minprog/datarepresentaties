@@ -5,33 +5,39 @@ Welkom:
 Computers:
     Schrijfopdracht:
         Introduction to computing: /onderwerpen/computers/intro
-    Tentamen UNIX-commando's:
+    Oefenen:
         Software Carpentry deel 1: /onderwerpen/computers/carpentry
+    Tentamen UNIX-commando's:
         Tentamenoefeningen: /onderwerpen/computers/oefeningen
 
 Besturingssystemen:
     Schrijfopdracht:
         Besturingssystemen: /onderwerpen/besturingssystemen/intro
-    Tentamen UNIX-pipelines:
+    Oefenen:
         Software Carpentry deel 2: /onderwerpen/besturingssystemen/carpentry
+    Tentamen UNIX-pipelines:
         Tentamenoefeningen: /onderwerpen/besturingssystemen/oefeningen
 
 Representaties:
     Schrijfopdracht:
         Representaties en formaten: /onderwerpen/representaties/intro
-    Tentamen Binaire codering:
+    Uitleg:
         Getallenstelsels: /onderwerpen/representaties/getallen
         Binaire representaties: /onderwerpen/representaties/binair
+    Tentamen Binaire codering:
         Tentamenoefeningen TODO: /onderwerpen/representaties/oefeningen
 
 Text processing:
     Schrijfopdracht:
         Internet: /onderwerpen/regex/internet
-    Tentamen Regexes:
+    Uitleg:
         Reguliere expressies: /onderwerpen/regex/studiemateriaal
+        Grep: /onderwerpen/regex/grep
+    Technieken:
         Regels matchen: /onderwerpen/regex/regels
         Strings matchen: /onderwerpen/regex/strings
         Woorden matchen: /onderwerpen/regex/woorden
+    Tentamen Regexes:
         Tentamenoefeningen: /onderwerpen/regex/oefeningen
 
 Web development:
