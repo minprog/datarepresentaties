@@ -12,7 +12,7 @@ Je kunt dit vak parallel aan Programmeren 1 volgen, of nadat je Programmeren 1 h
 
 Het vak is opgedeeld in acht modules.
 
-0. **Schakelingen met PIDAC.** Kennismaken met elektronische schakelingen waarop computers gebaseerd zijn en oefenen met het maken van schakelingen om berekeningen te doen.
+0. **Schakelingen met PIDAC.** Kennismaken met elektronische schakelingen waarop computers gebaseerd zijn en oefenen met het maken van schakelingen om berekeningen te doen. Deze module loopt dwars door de andere modules heen in de tweede helft van het vak. Hiervoor word je ingedeeld in een vaste practicumgroep met een vaste tijd.
 1. **Computers.** Kennismaken met standaard computerhardware en software, en de geschiedenis van het vakgebied. Een eerste start met gebruik van de command line.
 2. **Besturingssystemen.** Kennismaken met de onderdelen van besturingssystemen, bestandssystemen en security-aspecten. Een uitgebreide verkenning van de UNIX-shell.
 3. **Web development.** Leren schrijven van HTML en het toepassen van stijlen via CSS. Je maakt een eigen portfolio als project.
@@ -21,8 +21,6 @@ Het vak is opgedeeld in acht modules.
 6. **Internet.** Studie van de werking van internet. Kennismaking met het JSON-formaat. Oefenen met het verkrijgen van data uit semi-gestructureerde websites.
 7. **Databases.** Kennismaken met de relationele manier om data vast te leggen. Oefenen met het schrijven van SQL-queries om interessante data uit een database te halen.
 {: start="0"}
-
-Module 0 loopt dwars door de andere modules heen in de tweede helft van het vak. Hiervoor word je ingedeeld in een vaste practicumgroep met een vaste tijd.
 
 
 ## Docenten en vragen stellen
