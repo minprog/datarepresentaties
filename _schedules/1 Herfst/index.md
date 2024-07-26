@@ -13,12 +13,12 @@ Je kunt dit vak parallel aan Programmeren 1 volgen, of nadat je Programmeren 1 h
 Het vak is opgedeeld in acht modules.
 
 0. **Schakelingen met PIDAC.** Kennismaken met elektronische schakelingen waarop computers gebaseerd zijn en oefenen met het maken van schakelingen om berekeningen te doen. Deze module loopt dwars door de andere modules heen in de tweede helft van het vak. Hiervoor word je ingedeeld in een vaste practicumgroep met een vaste tijd.
-1. **Computers.** Kennismaken met standaard computerhardware en software, en de geschiedenis van het vakgebied. Een eerste start met gebruik van de command line.
-2. **Besturingssystemen.** Kennismaken met de onderdelen van besturingssystemen, bestandssystemen en security-aspecten. Een uitgebreide verkenning van de UNIX-shell.
-3. **Web development.** Leren schrijven van HTML en het toepassen van stijlen via CSS. Je maakt een eigen portfolio als project.
-4. **Representaties.** Een overzicht van allerlei soorten informatie die in een computer kunnen worden gerepresenteerd. Oefenen met binaire bestanden en bestandsformaten.
-5. **Text processing.** Kennismaken met reguliere expressies en zoeken in teksten. Kennismaking met het CSV-dataformaat en gebruik van UNIX-tools om deze te filteren en te manipuleren.
-6. **Internet.** Studie van de werking van internet. Kennismaking met het JSON-formaat. Oefenen met het verkrijgen van data uit semi-gestructureerde websites.
+1. **Computers.** Kennismaken met standaard computerhardware en software, en de geschiedenis van het vakgebied. Een eerste start met gebruik van de command line en kennismaking met de verschillende commando's die beschikbaar zijn om (data-)bestanden te manipuleren.
+2. **Besturingssystemen.** Kennismaken met de onderdelen van besturingssystemen, bestandssystemen en security-aspecten. Een uitgebreide verkenning van de UNIX-shell. Kennismaking met het CSV-dataformaat en gebruik van UNIX-tools om deze te filteren en te manipuleren.
+3. **Representaties.** Een overzicht van de verschillende soorten informatie die in een computer kunnen worden gerepresenteerd en hoe deze uiteindelijk allemaal in binaire code worden uitgedrukt. Oefenen met binaire representaties, ASCII, en bestandsformaten.
+4. **Text processing.** Studie van de werking van internet. Kennismaken met reguliere expressies waarmee je kunt zoeken naar patronen in teksten en waarmee je databestanden kunt filteren.
+5. **Web development.** Leren schrijven van HTML en het toepassen van stijlen via CSS. Je maakt een eigen portfolio als project.
+6. **Scraping.** Kennismaking met het JSON-formaat. Oefenen met het verkrijgen van data uit semi-gestructureerde websites.
 7. **Databases.** Kennismaken met de relationele manier om data vast te leggen. Oefenen met het schrijven van SQL-queries om interessante data uit een database te halen.
 {: start="0"}
 
