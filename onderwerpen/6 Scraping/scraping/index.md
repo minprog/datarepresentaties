@@ -1,13 +1,5 @@
 # Scraping
 
-1. Bestudeer onderstaande uitleg over Scraping,
-2. en de materialen die gelinkt zijn,
-3. en hou goed bij wat je opvalt en wat je leert.
-
-> Deze opdracht kan niet (meer) ingestuurd worden. Het is niet nodig om deze in te sturen. Wel is het nodig om de opdrachten te maken, zodat je voldoende voorbereid bent voor het tentamen.
-
-# CSS
-
 In een vorige module heb je kennis gemaakt met CSS, maar je hebt hier nog niet systematisch mee geoefend.
 
 1. Ga naar [deze website om extra te oefenen](https://flukeout.github.io/). Zorg dat je de belangrijkste CSS-selectors kent. In de balk staat uitleg! Let op dat in de oefening speciale HTML-elementen worden gebruik zoals `<bento>`. Deze bestaan normaal niet, maar de CSS werkt exact op dezelfde manier als bijvoorbeeld bij `<h1>`.
