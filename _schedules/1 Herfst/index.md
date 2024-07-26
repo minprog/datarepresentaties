@@ -18,7 +18,7 @@ Het vak is opgedeeld in acht modules.
 3. **Representaties.** Een overzicht van de verschillende soorten informatie die in een computer kunnen worden gerepresenteerd en hoe deze uiteindelijk allemaal in binaire code worden uitgedrukt. Oefenen met binaire representaties, ASCII, en bestandsformaten.
 4. **Text processing.** Studie van de werking van internet. Kennismaken met reguliere expressies waarmee je kunt zoeken naar patronen in teksten en waarmee je databestanden kunt filteren.
 5. **Web development.** Leren schrijven van HTML en het toepassen van stijlen via CSS. Je maakt een eigen portfolio als project.
-6. **Scraping.** Kennismaking met het JSON-formaat. Oefenen met het verkrijgen van data uit semi-gestructureerde websites.
+6. **Scraping.** Kennismaking met het verwerken van gestructureerde informatie in tekstbestanden, specifiek met JSON en HTML. Oefenen met het verkrijgen van data uit HTML-bestanden door middel van scraping-technieken.
 7. **Databases.** Kennismaken met de relationele manier om data vast te leggen. Oefenen met het schrijven van SQL-queries om interessante data uit een database te halen.
 {: start="0"}
 
