@@ -2,7 +2,7 @@
 
 Deze vragen zijn goede oefeningen voor het tentamen. De verwachting is dat je alle vragen op het tentamen correct beantwoordt, foutjes daargelaten. Je hebt dus parate kennis nodig van reguliere expressies. Als je merkt dat je deze kennis nog niet echt paraat hebt, dan kun je extra studeren met hulp van het materiaal in deze module.
 
-Onderstaande vragen zijn *grotendeels* representatief voor de vragen die je op het tentamen tegen zou kunnen komen. De vraagstelling kan wat anders zijn maar je zult sowieso `grep`-commando's op basis van reguliere expressies moeten schrijven (in feite gewoon alle stof uit het boek). Alle vormen van reguliere expressies van [de opdrachten op deze pagina](/onderwerpen/regex/grep) kunnen voorkomen.
+Onderstaande vragen zijn *grotendeels* representatief voor de vragen die je op het tentamen tegen zou kunnen komen. De vraagstelling kan wat anders zijn maar je zult sowieso `grep`-commando's op basis van reguliere expressies moeten schrijven (in feite gewoon alle stof uit het boek). Alle vormen van reguliere expressies uit deze module kunnen gebruikt worden.
 
 Je kunt onderstaande oefeningen niet inleveren. Controleer ze met je medestudenten en check bij de docent als je twijfelt.
 
