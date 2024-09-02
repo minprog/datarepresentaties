@@ -1,13 +1,13 @@
 grades:
     # -- portfolio deadlines --
     computing:
-        deadline: 4/9/24 21:00
+        deadline: 3/9/24 21:00
     besturingssystemen:
-        deadline: 11/9/24 21:00
+        deadline: 10/9/24 21:00
     representaties:
-        deadline: 18/2/24 21:00
+        deadline: 17/2/24 21:00
     internet:
-        deadline: 25/3/24 21:00
+        deadline: 24/3/24 21:00
     homepage:
         deadline: 4/10/24 21:00
 
