@@ -67,10 +67,10 @@ De schrijfopdrachten en de bijeenkomsten zijn verplicht. Als je ze niet serieus 
 
 | onderdeel                  | vorm      | punten | week | deadline        |
 |----------------------------|-----------|:------:|:----:|----------------:|
-| Computing                  | schrijven | V      | 1    | wo  4 sep 21:00 |
-| Besturingssystemen         | schrijven | V      | 2    | wo 11 sep 21:00 |
-| Representaties en formaten | schrijven | V      | 3    | wo 18 sep 21:00 |
-| Internet                   | schrijven | V      | 4    | wo 25 sep 21:00 |
+| Computing                  | schrijven | V      | 1    | di  3 sep 21:00 |
+| Besturingssystemen         | schrijven | V      | 2    | di 10 sep 21:00 |
+| Representaties en formaten | schrijven | V      | 3    | di 17 sep 21:00 |
+| Internet                   | schrijven | V      | 4    | di 24 sep 21:00 |
 | Homepage met portfolio     | website   | 6      | 5    | vr  4 okt 21:00 |
 
 **Practicum.** Tot slot is er het practicum, waar we ingaan op de elektrotechniek en logica die verscholen zit in de hardware van een computer. Dit is een kwestie van doen, dus je werkt in het lokaal aan praktische opdrachten. Voor PIDAC geldt dat je alleen punten krijgt als je aanwezig bent bij deze practica, en de opdrachten af hebt gekregen en af laten tekenen.
