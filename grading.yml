@@ -18,10 +18,10 @@ templates:
         auto_publish: true
 
 grades:
-    computing: *punten
-    besturingssystemen: *punten
-    representaties: *punten
-    internet: *punten
+    computing: *aftekenen
+    besturingssystemen: *aftekenen
+    representaties: *aftekenen
+    internet: *aftekenen
     homepage: *punten
 
     pidac_1: *aftekenen
