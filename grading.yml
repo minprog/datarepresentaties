@@ -18,7 +18,7 @@ templates:
         auto_publish: true
 
 grades:
-    computing: *aftekenens
+    computing: *aftekenen
     besturingssystemen: *aftekenen
     representaties: *aftekenen
     internet: *aftekenen
