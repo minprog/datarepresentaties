@@ -1,12 +1,24 @@
 grades:
     # -- portfolio deadlines --
     computing:
+        subgrades:
+            akkoord: boolean
+        calculation: akkoord
         deadline: 3/9/24 21:00
     besturingssystemen:
+        subgrades:
+            akkoord: boolean
+        calculation: akkoord
         deadline: 10/9/24 21:00
     representaties:
+        subgrades:
+            akkoord: boolean
+        calculation: akkoord
         deadline: 17/2/24 21:00
     internet:
+        subgrades:
+            akkoord: boolean
+        calculation: akkoord
         deadline: 24/3/24 21:00
     homepage:
         deadline: 4/10/24 21:00
