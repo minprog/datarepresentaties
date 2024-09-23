@@ -28,8 +28,8 @@ Representaties:
         Tentamenoefeningen TODO: /onderwerpen/representaties/oefeningen
 
 Text processing:
-    Schrijfopdracht:
-        Internet: /onderwerpen/regex/internet
+    # Schrijfopdracht:
+    #     Internet: /onderwerpen/regex/internet
     Uitleg:
         Reguliere expressies: /onderwerpen/regex/studiemateriaal
         Grep: /onderwerpen/regex/grep
