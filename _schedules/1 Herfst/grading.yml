@@ -38,8 +38,8 @@ portfolio:
         computing: 2
         besturingssystemen: 2
         representaties: 2
-        internet: 2
-        homepage: 2
+        # internet: 2
+        homepage: 4
 
 tentamen:
     show_progress: true
