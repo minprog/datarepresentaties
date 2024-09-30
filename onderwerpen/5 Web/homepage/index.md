@@ -34,7 +34,9 @@ Implementeer in de `profile`-directory een website die:
 
 *   `index.html` moet een profielfoto, je naam en een korte beschrijving van jezelf en je interesses bevatten. Als je je niet helemaal op je gemak voelt bij het delen van persoonlijke afbeeldingen of details, je in plaats daarvan bijvoorbeeld een avatarafbeelding kunt gebruiken.
 
-*   De andere vier pagina's moeten jouw uitwerkingen van de schrijfopdrachten van de afgelopen weken bevatten. Zorg dat de opmaak netjes wordt met logische HTML-tags.
+*   De andere vier pagina's moeten jouw uitwerkingen van de schrijfopdrachten van de afgelopen weken bevatten. Zorg dat de opmaak netjes wordt met logische HTML-tags. Zorg ook dat afbeeldingen op de juiste manier worden opgenomen in het document.
+
+    * Als je minder dan vier schrijfopdrachten hebt gehad of gedaan, moet je nog een alternatieve invulling voor een pagina maken. Deze pagina moet dan gaan over een hobby van je of iets anders interessant, en het moet een mix zijn van tekst en plaatjes.
 
 *   Je mag ook nog pagina's toevoegen met meer informatie over je hobby's of andere interessante zaken.
 
