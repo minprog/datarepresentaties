@@ -31,6 +31,15 @@ grades:
             scraping: points
             database: points
         calculation: commands + oneliners + binair + regex + scraping + database
+    hertentamen:
+        subgrades:
+            commands: points
+            oneliners: points
+            binair: points
+            regex: points
+            scraping: points
+            database: points
+        calculation: commands + oneliners + binair + regex + scraping + database
 
 practicum:
     show_progress: true
