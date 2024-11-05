@@ -24,12 +24,12 @@ grades:
         deadline: 4/10/24 21:00
     tentamen:
         subgrades:
-            commands: points
-            oneliners: points
-            binair: points
-            regex: points
-            scraping: points
-            database: points
+            commands: integer
+            oneliners: integer
+            binair: integer
+            regex: integer
+            scraping: integer
+            database: integer
         calculation: commands + oneliners + binair + regex + scraping + database
     hertentamen:
         subgrades:
