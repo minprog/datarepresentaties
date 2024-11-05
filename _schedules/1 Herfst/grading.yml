@@ -86,9 +86,9 @@ hertentamen:
 calculation:
     eindcijfer:
         practicum: 6
-        portfolio: 10
+        portfolio: 6
         tentamen: 36
     herkansingscijfer:
         practicum: 6
-        portfolio: 10
+        portfolio: 6
         hertentamen: 36
