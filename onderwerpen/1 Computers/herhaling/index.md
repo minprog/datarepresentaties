@@ -1,59 +1,57 @@
-# Exercises: Working with Files and Directories
+# Oefeningen: werken met bestanden en mappen
 
-## Level 1: Basic Commands
+## Niveau 1: basiscommando's
 
-1. **Where am I?**  
-   - Open a terminal and check your current location using a command.
-   - Navigate to your home directory if you are not already there.
+1. **Waar ben ik?**  
+   - Open een terminal en controleer je huidige locatie met een commando.
+   - Navigeer naar je home-map als je daar nog niet bent.
 
-2. **List Files and Directories**  
-   - Use a command to list all files and directories in your current location.
-   - Try listing files including hidden ones.
+2. **Bestanden en mappen weergeven**  
+   - Gebruik een commando om alle bestanden en mappen in je huidige locatie weer te geven.
+   - Probeer ook verborgen bestanden weer te geven.
 
-3. **Create a Directory**  
-   - Create a new directory called `my_project`.
-   - Move into the `my_project` directory and confirm you are inside it.
+3. **Maak een map**  
+   - Maak een nieuwe map genaamd `mijn_project`.
+   - Ga de `mijn_project` map in en controleer of je erin zit.
 
-## Level 2: File and Directory Operations
+## Niveau 2: bestanden en mappen beheren
 
-4. **Create and Move Files**  
-   - Inside `my_project`, create an empty file called `notes.txt`.
-   - Use a text editor to add the line `My first project notes` to `notes.txt`.
+4. **Maak en verplaats bestanden**  
+   - Maak binnen `mijn_project` een leeg bestand genaamd `notities.txt`.
+   - Gebruik een teksteditor om de regel `Mijn eerste projectnotities` toe te voegen aan `notities.txt`.
 
-5. **Copy and Rename**  
-   - Copy `notes.txt` to a new file called `backup_notes.txt`.
-   - Rename `backup_notes.txt` to `notes_backup.txt`.
+5. **Kopiëren en hernoemen**  
+   - Kopieer `notities.txt` naar een nieuw bestand genaamd `backup_notities.txt`.
+   - Hernoem `backup_notities.txt` naar `notities_backup.txt`.
 
-6. **Create a Subdirectory and Move Files**  
-   - Inside `my_project`, create a new directory called `docs`.
-   - Move `notes_backup.txt` into `docs/`.
+6. **Maak een submap en verplaats bestanden**  
+   - Maak binnen `mijn_project` een nieuwe map genaamd `docs`.
+   - Verplaats `notities_backup.txt` naar `docs/`.
 
-## Level 3: Advanced Operations
+## Niveau 3: geavanceerde bewerkingen
 
-7. **Remove Files and Directories**  
-   - Create a new directory called `temp_files` and inside it, create three empty files: `file1.txt`, `file2.txt`, and `file3.txt`.
-   - Delete `file2.txt`.
-   - Remove the entire `temp_files` directory (be careful!).
+7. **Verwijderen van bestanden en mappen**  
+   - Maak een nieuwe map genaamd `tijdelijke_bestanden` en maak daarin drie lege bestanden: `bestand1.txt`, `bestand2.txt` en `bestand3.txt`.
+   - Verwijder `bestand2.txt`.
+   - Verwijder de hele map `tijdelijke_bestanden` (wees voorzichtig!).
 
-8. **Challenge: Organizing a Project**  
-   - In `my_project`, create the following directory structure:
+8. **Een project organiseren**  
+   - Maak binnen `mijn_project` de volgende mappenstructuur:
      ```
-     my_project/
+     mijn_project/
      ├── docs/
-     │   ├── notes_backup.txt
+     │   ├── notities_backup.txt
      ├── src/
      ├── tests/
      ```
-   - Move `notes.txt` into the `docs/` folder.
-   - Create a new empty file in `src/` called `main.py`.
+   - Verplaats `notities.txt` naar de `docs/` map.
+   - Maak een nieuw leeg bestand in `src/` genaamd `main.py`.
 
-9. **Super Challenge: Script Automation**  
-   - Write a simple shell script that:
-     - Creates a directory named `new_project`.
-     - Moves into `new_project`.
-     - Creates three subdirectories: `code/`, `data/`, and `results/`.
-     - Creates an empty file `README.md` inside `new_project`.
-   - Run your script and verify the structure was created correctly.
-
-These exercises build in complexity and reinforce key shell commands for file and directory management. Happy coding!
-
+9. **Script-automatisering**  
+   - Schrijf een eenvoudig shellscript (een tekstbestand met UNIX-commando's erin) dat:
+     - Een map genaamd `nieuw_project` maakt.
+     - Naar `nieuw_project` navigeert.
+     - Drie submappen maakt: `code/`, `data/` en `resultaten/`.
+     - Een leeg bestand `README.md` maakt in `nieuw_project`.
+   - Vraag je docent hoe je het script kunt uitvoeren.
+   - Voer je script uit en controleer of de structuur correct is aangemaakt.
