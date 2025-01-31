@@ -1,4 +1,4 @@
-# Datarepresentaties, tools en technieken<br><small>Studiewijzer, Herfst 2024</small>
+# Datarepresentaties, tools en technieken<br><small>Studiewijzer, Lente 2025</small>
 
 In dit vak maak je kennis met verschillende platforms om programmeerproblemen aan te pakken. Dit is een breed vak met een focus op het gebruiken tools en technieken uit de professionele software-wereld. De platforms zijn geschikt om uiteenlopende problemen te benaderen, van dataverwerking tot aan webprogrammeren. Soms gebruik je één platform voor een probleem en soms kun je er meerdere samen gebruiken. Daarnaast raak je bekend met UNIX en allerlei verschillende command-line tools zodat je steeds beter grip hebt op jouw ontwikkelomgeving.
 
@@ -31,7 +31,7 @@ De docenten bij dit vak zijn Simon Pauw, Edwin Steffens en Martijn Stegeman. Je 
 
 **Assistentie:** direct contact met een assistent.
 
-* hulp op locatie (lokaal L0.09 of L0.10)
+* hulp op locatie (lokaal L0.09)
 * je weet niet waar te beginnen of een onvindbare bug, of alles loopt vast
 * moeite met verzinnen van een oplossing of met het begrijpen van de vraag
 * dagelijks beschikbaar: je kunt gewoon binnenlopen
@@ -47,6 +47,8 @@ De docenten bij dit vak zijn Simon Pauw, Edwin Steffens en Martijn Stegeman. Je 
 
 
 ## Onderdelen
+
+![](schema.png)
 
 **Tentamen.** Elke week ga je oefenen met praktische technieken, en met achtergronden uit de informatica. Je vaardigheid met deze onderwerpen wordt getoetst op het schriftelijk tentamen. Je punten hiervoor worden dan ook volledig bepaald door de uitslag van het tentamen. De tentamenopgaven zijn vergelijkbaar met de oefenopgaven die je wekelijks gaat maken.
 
@@ -67,19 +69,19 @@ Voor dit tentamen wordt een normale herkansing gepland. Het cijfer voor de herka
 
 De schrijfopdrachten zijn verplichte onderdelen. Je krijgt geen punten maar als je ze niet doet kun je het vak niet halen. Voor je website krijg je punten, waarbij we kijken in hoeverre het is gelukt aan alle eisen van de opdracht te voldoen.
 
-| onderdeel                  | vorm      | punten | week | deadline        |
-|----------------------------|-----------|:------:|:----:|----------------:|
-| Computing                  | schrijven | V      | 1    | wo  4 sep 21:00 |
-| Besturingssystemen         | schrijven | V      | 2    | wo 11 sep 21:00 |
-| Representaties en formaten | schrijven | V      | 3    | wo 18 sep 21:00 |
-| Internet                   | schrijven | V      | 4    | wo 25 sep 21:00 |
-| Homepage met portfolio     | website   | 6      | 5    | vr  4 okt 21:00 |
+| onderdeel                  | vorm      | punten | week | vrijgegeven | deadline ft | deadline pt |
+|----------------------------|-----------|:------:|:----:|------------:|------------:|------------:|
+| Computing                  | schrijven | V      | 1    | wo  5 feb   |    do 12:00 |    zo 15:00 |
+| Besturingssystemen         | schrijven | V      | 2    | wo 12 feb   |    do 12:00 |    zo 15:00 |
+| Representaties en formaten | schrijven | V      | 3    | wo 19 feb   |    do 12:00 |    zo 15:00 |
+| Internet                   | schrijven | V      | 4    | wo 26 feb   |    do 12:00 |    zo 15:00 |
+| Homepage met portfolio     | website   | 6      | 5    | wo  5 mrt   |    vr 16:00 |    zo 15:00 |
 
 **Practicum.** Tot slot is er het practicum, waar we ingaan op de elektrotechniek en logica die verscholen zit in de hardware van een computer. Dit is een kwestie van doen, dus je werkt in het lokaal aan praktische opdrachten. Voor PIDAC geldt dat je alleen punten krijgt als je aanwezig bent bij deze practica, en de opdrachten af hebt gekregen en af laten tekenen.
 
 | onderdeel                          | vorm      | punten | week |
 |------------------------------------|-----------|:------:|:----:|
-| PIDAC 1                            | practicum | 2      | 5    |
+| PIDAC 1                            | practicum | 2      | 4    |
 | PIDAC 2                            | practicum | 2      | 6    |
 | PIDAC 3                            | practicum | 2      | 7    |
 
