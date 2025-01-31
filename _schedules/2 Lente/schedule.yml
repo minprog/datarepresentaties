@@ -2,13 +2,15 @@ Welkom:
     Lees hier even rustig door de studiewijzer om te ontdekken hoe het vak in elkaar zit: /syllabus
     En lees dit stuk als je het vak al eens eerder hebt gevolgd en komt herkansen: /herkansen
 
-Computers:
-    Schrijfopdracht:
+Computers dag 1:
+    Installatie: /installatie
+    Software Carpentry deel 1: /onderwerpen/computers/carpentry
+    Huiswerk:
         Introduction to computing: /onderwerpen/computers/intro
-    Oefening:
-        Software Carpentry deel 1: /onderwerpen/computers/carpentry
-    Tentamen UNIX-commando's:
-        Tentamenoefeningen: /onderwerpen/computers/oefeningen
+
+Computers dag 2:
+    Herhaling UNIX: /onderwerpen/computers/herhaling
+    Tentamenoefeningen UNIX: /onderwerpen/computers/oefeningen
 
 Besturingssystemen:
     Schrijfopdracht:
