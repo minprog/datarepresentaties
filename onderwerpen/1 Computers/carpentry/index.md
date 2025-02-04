@@ -10,7 +10,7 @@ Lees het hoofdstuk 5 "File systems" uit het boek van Dale & Lewis, *Computer Sci
 
 Gebruik de website van [Software carpentry](https://swcarpentry.github.io/shell-novice/) om de workshop te doen.
 
-1.  Zorg dat je een UNIX-omgeving klaar hebt staan op je computer. Je hebt deze bij Programmeren 1 geinstalleerd. (Gebruik *niet* de installatie-instructies van Software Carpentry.)
+1.  Zorg dat je een UNIX-omgeving klaar hebt staan op je computer, zoals gelink in de vorige stap.
 
     - Op een Mac gebruik je de terminal-applicatie om de workshop te volgen.
     - Op Windows gebruik je Ubuntu om de workshop te volgen.
