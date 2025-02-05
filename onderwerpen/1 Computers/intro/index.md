@@ -49,7 +49,15 @@ Je moet de vragen beantwoorden in een simpele PDF. Onderaan vind je instructies 
 
 11. Abstracties spelen een belangrijke rol bij het programmeren. De definitie in het boek is "A mental model that removes complex details." In elk vakgebied en elke studie spelen zulke abstracties een rol. Ze bieden een *manier van kijken* waarin de werkelijkheid een beetje simpel wordt gehouden zodat deze beter te begrijpen is. De details komen later wel. Beschrijf zo'n abstractie uit je eigen vakgebied/studie, bijvoorbeeld een theorie uit een belangrijk vak uit het eerste jaar. Schrijf zodat een leek kan begrijpen waar je het over hebt, maar je hoeft niet de volledige theorie tot in de puntjes uit te leggen.
 
-12. Wat is het Grote Idee waar jij het meest geïnteresseerd in bent uit het domein van computers en programmeren? Zie ook tabel 1.1 uit het boek, maar voel je vrij om af te wijken van het lijstje. Leg in enig detail uit waar die interesse ligt, welke vragen je daarbij hebt.
+## Huidige ontwikkelingen
+
+- Bestudeer de pagina [current developments] over technologieën die **nu** een grote rol spelen. 
+
+- Beantwoord deze twee vragen:
+
+    1. Wat is het Grote Idee waar jij het meest geïnteresseerd in bent uit het domein van computers en programmeren? Zie de current developments, maar ook tabel 1.1 uit het boek, en voel je vrij om af te wijken van het lijstje. Leg in enig detail uit waar die interesse ligt, welke **vragen** je daarbij hebt. Wat zou je willen leren, of waar ben je nieuwsgierig naar?
+
+    2. Los van de grote ontwikkelingen willen we jou in de minor ruimte geven om een project te doen. Is er een project dat je al in je hoofd hebt, dat je zou willen aanpakken? Of zijn er technologieën die je interessant vindt en zou willen leren gebruiken? Apps of websites waar je gecharmeerd van bent en zou willen weten hoe het werkt? Som eens op wat jou triggert. Als je iets heel concreets hebt mag je dat ook beschrijven, maar misschien wel je wel niks, probeer het dan niet te forceren.
 
 ## Inleveren
 
