@@ -1,15 +1,15 @@
 grades:
     # -- portfolio deadlines --
     computing:
-        deadline: 4/9/24 21:00
+        deadline: 9/2/25 15:00
     besturingssystemen:
-        deadline: 11/9/24 21:00
+        deadline: 16/2/25 15:00
     representaties:
-        deadline: 18/2/24 21:00
+        deadline: 23/2/25 15:00
     internet:
-        deadline: 25/3/24 21:00
+        deadline: 2/3/25 15:00
     homepage:
-        deadline: 4/10/24 21:00
+        deadline: 9/3/25 15:00
 
 practicum:
     show_progress: true
