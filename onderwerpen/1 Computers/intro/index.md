@@ -51,7 +51,7 @@ Je moet de vragen beantwoorden in een simpele PDF. Onderaan vind je instructies 
 
 ## Huidige ontwikkelingen
 
-- Bestudeer de pagina [current developments] over technologieën die **nu** een grote rol spelen. 
+- Bestudeer de pagina [current developments](/onderwerpen/computers/intro/developments) over technologieën die **nu** een grote rol spelen. 
 
 - Beantwoord deze twee vragen:
 
