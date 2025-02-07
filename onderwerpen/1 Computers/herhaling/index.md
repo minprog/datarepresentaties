@@ -37,13 +37,13 @@
 
 8. **Een project organiseren**  
    - Maak binnen `mijn_project` de volgende mappenstructuur:
-     ```
-     mijn_project/
-     ├── docs/
-     │   ├── notities_backup.txt
-     ├── src/
-     ├── tests/
-     ```
+
+         mijn_project/
+         ├── docs/
+         │   ├── notities_backup.txt
+         ├── src/
+         ├── tests/
+
    - Verplaats `notities.txt` naar de `docs/` map.
    - Maak een nieuw leeg bestand in `src/` genaamd `main.py`.
 
