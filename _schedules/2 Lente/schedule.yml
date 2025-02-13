@@ -49,8 +49,9 @@ Regex dag 2:
         Tentamenoefeningen: /onderwerpen/regex/oefeningen
 
 Web development:
-    Videocollege Web: /onderwerpen/web/lecture
-    Portfolio Homepage: /onderwerpen/web/homepage
+    # Videocollege Web: /onderwerpen/web/lecture
+    # Portfolio Homepage: /onderwerpen/web/homepage
+    HTML for People: /onderwerpen/web/html
 
 Scraping dag 1:
     Uitleg en oefening:
