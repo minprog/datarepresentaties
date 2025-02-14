@@ -20,3 +20,11 @@
     - Welke rijen bevatten een specifieke waarde in een bepaalde kolom?
 
 3. Extra uitdaging: schrijf een shell-scriptje dat de basis-statistieken van een CSV toont op basis van een bestandsnaam.
+
+
+---
+
+Maak een tekstbestand (.txt) met daarin: je naam, link naar dataset op Kaggle, welke commando's gebruikt, wat kwam er uit.
+
+Zorg dat je het een beetje netjes opmaakt.
+

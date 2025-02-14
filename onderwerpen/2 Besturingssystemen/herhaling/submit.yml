@@ -1,0 +1,4 @@
+name: pipelines-herhaling
+files:
+    required:
+        - pipelines.txt
