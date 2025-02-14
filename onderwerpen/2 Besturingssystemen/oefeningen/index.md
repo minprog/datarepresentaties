@@ -54,8 +54,6 @@ Geef one-liners voor de volgende opdrachten:
 4. Maak een nieuw bestand met de eerste 3 regels van `example.txt`.
 5. Laat de tweede kolom van het bestand (leeftijden) zien in numerieke volgorde.
 
-(Deze oefeningen zijn gegenereerd met ChatGPT.)
-
 ## Nakijken
 
 Deze oefeningen kun je niet inleveren. Je kunt je uitwerkingen zelf controleren door alles uit te proberen in een UNIX-shell. Maak de bestanden aan zoals genoemd en kijk of het lukt. Daarnaast kun je je antwoorden vergelijken met die van je buren.
