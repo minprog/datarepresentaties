@@ -94,6 +94,77 @@ Voor dataverwerking is de relevante vraag: wat wordt gezien als witruimte en wat
 
 Als je "zinnen" wil onderscheiden in dit bestand dan doet de CR/LF aan het eind van de regel niet ter zake. De zin eindigt bij een punt. Maar "two" en "words" zijn wel twee *verschillende* woorden. Toch staat géén spatie tussen, maar alleen een CR/LF. Een CR/LF kunnen we dus als relevante witruimte zien als we individuele woorden in een tekst willen herkennen. Bijvoorbeeld als je simpelweg het aantal woorden in een tekst wil tellen.
 
+## Oefening
+
+Voor welk besturingssysteem zijn de volgende files gemaakt?
+Eén van de bestanden gebruikt ook speciale ("mooie") quotes met hulp van Unicode. Welke is dat? Welke codes hebben de speciale quotes?
+
+**Bestand 1**
+
+    00000000: 45 65 6e 20 62 65 6b 20 61 6c 73 20 64 69 65 20  Een bek als die 
+    00000010: 76 61 6e 20 65 65 6e 20 64 69 63 74 61 74 6f 72  van een dictator
+    00000020: 0a 67 69 6e 67 20 6f 70 65 6e 20 62 69 6a 20 65  .ging open bij e
+    00000030: 65 6e 20 61 6c 6c 69 67 61 74 6f 72 0a 64 69 65  en alligator.die
+    00000040: 20 6d 69 6e 7a 61 61 6d 20 73 70 72 61 6b 20 74   minzaam sprak t
+    00000050: 6f 74 20 7a 69 6a 6e 20 70 75 62 6c 69 65 6b 3a  ot zijn publiek:
+    00000060: 0a 27 5a 6f 20 6f 70 65 6e 20 73 74 61 20 69 6b  .'Zo open sta ik
+    00000070: 20 76 6f 6f 72 20 6b 72 69 74 69 65 6b 0a 76 61   voor kritiek.va
+    00000080: 6e 20 61 6c 6c 65 6e 20 64 69 65 20 6d 69 6a 20  n allen die mij 
+    00000090: 6e 69 65 74 20 62 65 6d 69 6e 6e 65 6e 2e 0a 44  niet beminnen..D
+    000000a0: 75 73 20 68 65 62 20 6a 65 20 6b 6c 61 63 68 74  us heb je klacht
+    000000b0: 65 6e 2c 20 6b 6f 6d 20 6d 61 61 72 20 62 69 6e  en, kom maar bin
+    000000c0: 6e 65 6e 2e 27 0a                                nen.'.
+
+**Bestand 2**
+
+    00000000: 45 65 6e 20 62 65 6b 20 61 6c 73 20 64 69 65 20  Een bek als die 
+    00000010: 76 61 6e 20 65 65 6e 20 64 69 63 74 61 74 6f 72  van een dictator
+    00000020: 0a 67 69 6e 67 20 6f 70 65 6e 20 62 69 6a 20 65  .ging open bij e
+    00000030: 65 6e 20 61 6c 6c 69 67 61 74 6f 72 0a 64 69 65  en alligator.die
+    00000040: 20 6d 69 6e 7a 61 61 6d 20 73 70 72 61 6b 20 74   minzaam sprak t
+    00000050: 6f 74 20 7a 69 6a 6e 20 70 75 62 6c 69 65 6b 3a  ot zijn publiek:
+    00000060: 0a e2 80 98 5a 6f 20 6f 70 65 6e 20 73 74 61 20  ....Zo open sta 
+    00000070: 69 6b 20 76 6f 6f 72 20 6b 72 69 74 69 65 6b 0a  ik voor kritiek.
+    00000080: 76 61 6e 20 61 6c 6c 65 6e 20 64 69 65 20 6d 69  van allen die mi
+    00000090: 6a 20 6e 69 65 74 20 62 65 6d 69 6e 6e 65 6e 2e  j niet beminnen.
+    000000a0: 0a 44 75 73 20 68 65 62 20 6a 65 20 6b 6c 61 63  .Dus heb je klac
+    000000b0: 68 74 65 6e 2c 20 6b 6f 6d 20 6d 61 61 72 20 62  hten, kom maar b
+    000000c0: 69 6e 6e 65 6e 2e e2 80 99 0a                    innen.....
+
+**Bestand 3**
+
+    00000000: 45 65 6e 20 62 65 6b 20 61 6c 73 20 64 69 65 20  Een bek als die 
+    00000010: 76 61 6e 20 65 65 6e 20 64 69 63 74 61 74 6f 72  van een dictator
+    00000020: 0d 67 69 6e 67 20 6f 70 65 6e 20 62 69 6a 20 65  .ging open bij e
+    00000030: 65 6e 20 61 6c 6c 69 67 61 74 6f 72 0d 64 69 65  en alligator.die
+    00000040: 20 6d 69 6e 7a 61 61 6d 20 73 70 72 61 6b 20 74   minzaam sprak t
+    00000050: 6f 74 20 7a 69 6a 6e 20 70 75 62 6c 69 65 6b 3a  ot zijn publiek:
+    00000060: 0d 27 5a 6f 20 6f 70 65 6e 20 73 74 61 20 69 6b  .'Zo open sta ik
+    00000070: 20 76 6f 6f 72 20 6b 72 69 74 69 65 6b 0d 76 61   voor kritiek.va
+    00000080: 6e 20 61 6c 6c 65 6e 20 64 69 65 20 6d 69 6a 20  n allen die mij 
+    00000090: 6e 69 65 74 20 62 65 6d 69 6e 6e 65 6e 2e 0d 44  niet beminnen..D
+    000000a0: 75 73 20 68 65 62 20 6a 65 20 6b 6c 61 63 68 74  us heb je klacht
+    000000b0: 65 6e 2c 20 6b 6f 6d 20 6d 61 61 72 20 62 69 6e  en, kom maar bin
+    000000c0: 6e 65 6e 2e 27 0d                                nen.'.
+
+**Bestand 4**
+
+    00000000: 45 65 6e 20 62 65 6b 20 61 6c 73 20 64 69 65 20  Een bek als die 
+    00000010: 76 61 6e 20 65 65 6e 20 64 69 63 74 61 74 6f 72  van een dictator
+    00000020: 0d 0a 67 69 6e 67 20 6f 70 65 6e 20 62 69 6a 20  ..ging open bij 
+    00000030: 65 65 6e 20 61 6c 6c 69 67 61 74 6f 72 0d 0a 64  een alligator..d
+    00000040: 69 65 20 6d 69 6e 7a 61 61 6d 20 73 70 72 61 6b  ie minzaam sprak
+    00000050: 20 74 6f 74 20 7a 69 6a 6e 20 70 75 62 6c 69 65   tot zijn publie
+    00000060: 6b 3a 0d 0a 27 5a 6f 20 6f 70 65 6e 20 73 74 61  k:..'Zo open sta
+    00000070: 20 69 6b 20 76 6f 6f 72 20 6b 72 69 74 69 65 6b   ik voor kritiek
+    00000080: 0d 0a 76 61 6e 20 61 6c 6c 65 6e 20 64 69 65 20  ..van allen die 
+    00000090: 6d 69 6a 20 6e 69 65 74 20 62 65 6d 69 6e 6e 65  mij niet beminne
+    000000a0: 6e 2e 0d 0a 44 75 73 20 68 65 62 20 6a 65 20 6b  n...Dus heb je k
+    000000b0: 6c 61 63 68 74 65 6e 2c 20 6b 6f 6d 20 6d 61 61  lachten, kom maa
+    000000c0: 72 20 62 69 6e 6e 65 6e 2e 27 0d 0a              r binnen.'..
+
+(Gedicht van Kees Stip)
+
 ## Conclusie
 
 Wat we maar willen zeggen: alles op de computer is kunstmatig. Iemand heeft een beslissing genomen (waarschijnlijk een heel comité) en vanaf dat moment wordt op een bepaald systeem, of in een bepaald deel van de wereld die beslissing gevolgd (dit heet ook wel een **conventie**). Daarnaast kan in bepaalde toepassingen een bepaalde conventie gevolgd worden. Als programmeur moet je altijd in je achterhoofd houden dat files verschillende herkomsten kunnen hebben en op een andere manier in elkaar zitten. Of je moet juist files schrijven die voor een bepaalde doelgroep zijn.
