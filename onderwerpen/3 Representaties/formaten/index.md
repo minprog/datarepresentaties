@@ -79,3 +79,20 @@ Wat je vervolgens kunt doen is het bestand **hernoemen** naar `minoren.zip` en d
       inflating: uitgepakt/preview.jpeg        
 
 Dan zie je dat er twee bestanden in staan: een databestand (formaat is kennelijk `.plist`) en een preview-plaatje. Het programma OmniGraffle weet dat deze bestanden er in moeten staan en zorgt ervoor dat elk bestand dit formaat heeft.
+
+## Formaten
+
+Je krijgt van ons 10 bestanden van een onbekend formaat. Is het een document, een audio-file, of iets heel anders? Lees eerst de [uitleg over het achterhalen van het formaat van een bestand](/onderwerpen/representaties/formaten).
+
+[Download een ZIP-bestand](../formaten/files.zip) met daarin 10 andere bestanden (het wachtwoord is `secret`). Deze bestanden hebben geen duidelijke naam die weggeeft wat voor soort bestand het is. Je kunt natuurlijk de extensies aanpassen en het bestand proberen te openen in Word of in een audioplayer. Maar dat is hier niet de bedoeling! In dit geval gaat `xxd` ons helpen om te analyseren wat er in de bestanden staat.
+
+Geef in jouw uitwerking per bestand aan:
+
+- welk formaat het heeft;
+- op basis van welke bytes of andere informatie uit het bestand je precies die conclusie kunt trekken;
+- welke extensie het normaal zou moeten hebben;
+- met welk programma je het document uiteindelijk geopend hebt toen je wist wat voor formaat het had;
+- geef ook een idee van de inhoud zodat we kunnen zien dat je het goed begrepen hebt (geen copy-paste van de inhoud, maar een korte, duidelijke beschrijving in jouw eigen woorden)
+
+In principe moet je voor elk bestand kunnen achterhalen wat het is, maar soms is het even lastig.
+

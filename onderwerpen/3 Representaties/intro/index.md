@@ -56,22 +56,6 @@ Je moet de vragen beantwoorden in een simpele PDF. Onderaan vind je instructies 
 
     Op welke manier is zo'n flipbook vergelijkbaar met een digitale video?
 
-## Formaten
-
-Je krijgt van ons 10 bestanden van een onbekend formaat. Is het een document, een audio-file, of iets heel anders? Lees eerst de [uitleg over het achterhalen van het formaat van een bestand](/onderwerpen/representaties/formaten).
-
-[Download een ZIP-bestand](../formaten/files.zip) met daarin 10 andere bestanden (het wachtwoord is `secret`). Deze bestanden hebben geen duidelijke naam die weggeeft wat voor soort bestand het is. Je kunt natuurlijk de extensies aanpassen en het bestand proberen te openen in Word of in een audioplayer. Maar dat is hier niet de bedoeling! In dit geval gaat `xxd` ons helpen om te analyseren wat er in de bestanden staat.
-
-Geef in jouw uitwerking per bestand aan:
-
-- welk formaat het heeft;
-- op basis van welke bytes of andere informatie uit het bestand je precies die conclusie kunt trekken;
-- welke extensie het normaal zou moeten hebben;
-- met welk programma je het document uiteindelijk geopend hebt toen je wist wat voor formaat het had;
-- geef ook een idee van de inhoud zodat we kunnen zien dat je het goed begrepen hebt (geen copy-paste van de inhoud, maar een korte, duidelijke beschrijving in jouw eigen woorden)
-
-In principe moet je voor elk bestand kunnen achterhalen wat het is, maar soms is het even lastig.
-
 ## Inleveren
 
 Lever hieronder een PDF in met je uitwerkingen. Gebruik géén titelpagina. Verwerk de vraag kort in het antwoord. Vermeld je naam en studentnummer, en de naam van de opdracht. Als je informatie van buiten het college gebruikt moet je een bronvermelding doen door een link netjes in de tekst te maken of via een voetnoot. Het is zeker niet wenselijk om volledige referenties in APA- of andere stijl te doen. Aan elk van deze eisen moet voldaan zijn.

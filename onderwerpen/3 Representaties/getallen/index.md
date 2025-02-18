@@ -4,11 +4,11 @@
 
 - Lees daarna ook *Binary hardware* uit het boek van Schneider & Gersting, *Invitation to Computer Science* (op de laatste pagina begint paragraaf 4.3, die geen onderdeel is van de stof).
 
-## Vragen
+## Conversie
 
-Oefen met het omzetten van getallen van het ene stelsel naar het andere. Laat altijd zien hoe je de conversie hebt gedaan. Als je bijvoorbeeld van binair naar hexadecimaal omzet `01011001` dan groepeer je per 4 bits (`0101` en `1001`) die je afzonderlijk omzet naar een hex-cijfer (`5` en `9`), waarmee het antwoord `59` is.
+Oefen met het omzetten van getallen van het ene stelsel naar het andere.
 
-1.  Zet de volgende binaire getallen om naar hexadecimale representatie:
+1.  Zet de volgende binaire getallen om naar hexadecimale representatie. Voorbeeld: groepeer het getal `01011001` per 4 bits (`0101` en `1001`) en zet die afzonderlijk om naar een hex-cijfer (`5` en `9`). Dat maakt het antwoord `59`.
 
     1. 10101001
     1. 11100111
@@ -16,7 +16,7 @@ Oefen met het omzetten van getallen van het ene stelsel naar het andere. Laat al
     1. 01111111
     {: type="a"}
 
-1.  Zet de volgende hexadecimale getallen om naar decimale representatie:
+1.  Zet de volgende hexadecimale getallen om naar decimale representatie. Tip: bereken per cijfer hoeveel het waard is in decimaal (bv. 3e plaats van rechts is 256 waard). 
 
     1. 1066
     1. 1939
@@ -25,10 +25,16 @@ Oefen met het omzetten van getallen van het ene stelsel naar het andere. Laat al
     1. 43
     {: type="a"}
 
-1.  Zet de volgende binaire getallen om naar octale representatie (mogelijk moet je opzoeken wat dat precies is):
+1.  Zet de volgende binaire getallen om naar octale representatie. Tip: zoek op wat octale representatie is en hoe je dit handig kunt doen.
 
     1. 111110110
     1. 1000001
     1. 10000010
     1. 1100010
     {: type="a"}
+
+## Magic trick
+
+Bekijk met een paar mensen de eerste helft van het onderstaande filmpje. Bespreek dan hoe de truc zou kunnen werken. In de tweede helft wordt uitleg gegeven.
+
+[Binary Magic Trick on Youtube](https://youtu.be/5t5jK2NXCFY)
