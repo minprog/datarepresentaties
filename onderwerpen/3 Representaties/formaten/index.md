@@ -1,12 +1,22 @@
 # Bestandsformaten
 
+In deze opdracht krijg je 10 bestanden van een onbekend formaat. Toch moet je kunnen achterhalen wat voor formaat het is, en als je dat weet, wat er in het bestand staat.
+
+## Formaten
+
+Bestanden bevatten gegevens (data) die met hulp van programma's worden opgeslagen. Veel programma's hebben hun "eigen" formaat, zoals bijvoorbeeld PowerPoint. In het programma zit dan code die het bestand kan opslaan en natuurlijk ook weer inlezen.
+
+We maken onderscheid tussen binaire formaten en tekstformaten. Als je een tekst-editor gebruikt kun je heel direct ASCII-tekens intikken en dan opslaan. Elk ASCII-teken dat je hebt ingetikt is een byte in dat bestand. Dit is een **tekstformaat**. Als gebruiker bepaal jij helemaal zelf welke tekens in het bestand terecht komen.
+
+Daarnaast is het ook mogelijk dat je te maken hebt met een **gestructureerd tekstformaat**. Hierin worden alleen ASCII of Unicode-tekens gebruikt, maar het is geen vrije tekst. Denk aan een programma geschreven in C, dat aan allerlei eisen moet voldoen om te kunnen compilen. Maar er zijn ook dataformaten zoals JSON die op tekst gebaseerd zijn. Al zulke bestanden kun je openen in je code-editor en de inhoud bekijken, maar begrijpelijk zijn ze niet altijd zonder te weten hoe de structurering werkt.
+
+En dan zijn er de **binaire formaten** waar elke byte niet per se een letter is, maar vrij ingevuld wordt. Zo is er vaak sprake van een *header*, bijvoorbeeld de eerste 24 bytes zijn gereserveerd voor interne informatie over het bestand.
+
 ## xxd
 
-Bestanden bevatten data die met hulp van programma's zijn opgeslagen. Als je een tekst-editor gebruikt kun je heel direct ASCII-tekens intikken en dan opslaan. Elk ASCII-teken dat je hebt ingetikt is een byte in dat bestand. Maar er zijn nog veel meer bestandsformaten.
+Met de tool `xxd` kun je de inhoud van bestanden bekijken, en speciaal kan het je helpen om binaire bestanden te begrijpen. Als er tekst in staat (in ASCII) dan wordt deze getoond, maar daarnaast staan ook de hexadecimale codes, waardoor het mogelijk wordt om te begrijpen hoe een bestand in elkaar zit dat geen tekst bevat.
 
-Met de tool `xxd` kun je de inhoud van bestanden bekijken. Als er tekst in staat (in ASCII) dan wordt deze getoond, maar daarnaast staan ook de hexadecimale codes, waardoor het mogelijk wordt om te begrijpen hoe een bestand in elkaar zit dat geen tekst bevat.
-
-Hieronder roepen we `xxd` aan met het bestand `course.yml`. YAML is een tekstformaat, maar het wordt gebruikt voor het opslaan van *gestructureerde* data. De bestanden bestaan grotendeels uit leesbare tekens uit de ASCII-tabel. Daarom zie je rechts ook bijna alleen maar leesbare tekst.
+Hieronder roepen we `xxd` aan met het bestand `course.yml`. YAML is een tekstformaat dat wordt gebruikt voor het opslaan van gestructureerde data. De bestanden bestaan grotendeels uit leesbare tekens uit de ASCII-tabel. Daarom zie je rechts ook bijna alleen maar leesbare tekst.
 
     % xxd -g 1 course.yml
     00000000: 6c 6f 6e 67 5f 6e 61 6d 65 3a 20 44 61 74 61 72  long_name: Datar
@@ -14,12 +24,18 @@ Hieronder roepen we `xxd` aan met het bestand `course.yml`. YAML is een tekstfor
     00000020: 6f 72 74 5f 6e 61 6d 65 3a 20 44 61 74 61 0a 6c  ort_name: Data.l
     00000030: 61 6e 67 75 61 67 65 3a 20 6e 6c 0a              anguage: nl.
 
+Dit is hoe het bestand eruit ziet in een code-editor:
+
+    long_name: Datarepresentaties
+    short_name: Data
+    language: nl
+
 Elk ASCII-teken wordt weergegeven door middel van een hexadecimaal getal dat bestaat uit 2 tekens.
 Je ziet dat het getal `0a` drie keer voorkomt. Welk teken uit de ASCII-tabel is dit? Waarom wordt het weergegeven als een `.` in de rechterkolom? Bespreek je ideeën met medestudenten en de assistenten, zodat je goed begrijpt wat `xxd` jou laat zien (voordat je verder gaat!).
 
-De optie `-g 1` hebben we hier gebruikt om de hexadecimale getallen apart neer te zetten. Als je deze optie weglaat worden de hexadecimale getallen gegroepeerd per 2 tekens. Dat ziet er dus bijna hetzelfde uit:
+De optie `-g 1` hebben we hier gebruikt om de hexadecimale getallen apart neer te zetten (1 getal per byte). Als je deze optie weglaat worden de hexadecimale getallen gegroepeerd per 2 bytes. Dat ziet er dus bijna hetzelfde uit:
 
-    % xxd course.yml           
+    % xxd course.yml
     00000000: 6c6f 6e67 5f6e 616d 653a 2044 6174 6172  long_name: Datar
     00000010: 6570 7265 7365 6e74 6174 6965 730a 7368  epresentaties.sh
     00000020: 6f72 745f 6e61 6d65 3a20 4461 7461 0a6c  ort_name: Data.l
@@ -41,15 +57,19 @@ Nu bekijken we met hulp van de flag `-l` de eerste 128 bytes van een MP4-bestand
 
 Voor het opslaan van video worden allerlei formaten gebruikt waarmee beeld en geluid op een efficiënte manier binair kunnen worden gecodeerd. ASCII speelt daar dus geen rol meer, omdat de waarden van bijvoorbeeld kleuren direct binair worden opgeslagen. Je ziet hierboven dan ook dat het grootste deel van de data geen geldige ASCII-tekens bevat: `xxd` toont veel puntjes en schijnbaar willekeurige letters. Dat is een indicatie dat het niet om een tekstbestand gaat.
 
-Toch staan er wel degelijk een paar reeksen letters in de bovenstaande data, waardoor we vermoeden dat die kleine stukjes daadwerkelijk bedoeld zijn als een stukje ASCII. Specifiek zien we twee keer de string `mp4` staan, wat niet geheel toevallig ook de naam van het bestandsformaat is. Dat is dus niet de video zelf maar kennelijk een beschrijving van het bestand. Hiervoor is ASCII gebruikt.
+Toch staan er wel degelijk een paar reeksen letters in de bovenstaande data, waardoor we vermoeden dat die kleine stukjes daadwerkelijk bedoeld zijn als een stukje ASCII. Specifiek zien we twee keer de string `mp4` staan, wat niet geheel toevallig ook de naam van het bestandsformaat is. Dat is dus niet de video zelf maar kennelijk een beschrijving van het bestand. Hiervoor is ASCII gebruikt. Dit maakt het overigens nog geen tekstbestand, het is een keuze van de organisatie die het formaat "MP4" heeft bedacht.
 
 ## Magic bytes
 
-Die letters `mp4` die we in het bestand hebben gevonden zijn wel ergens voor bedoeld. Als je naar een rijtje bestanden kijkt kun je in heel veel gevallen via de bestands-**extensie** achterhalen wat voor bestand het betreft. Zo zijn bestanden die eindigen op `.mp4` bijna altijd audiobestanden in het MP4-formaat. En bestanden die eindigen op `.doc` zijn bijna altijd bestanden die gemaakt zijn in een oude versie van Microsoft Word (nieuwere versies gebruiken `.docx`). Daarom kun je in Windows en macOS ook dubbelklikken om een bestand direct in het juiste programma te openen.
+Die letters `mp4` die we in het bestand hebben gevonden zijn wel ergens voor bedoeld.
 
-Maar de inhoud van het bestand zelf kan ook een clou geven over het formaat. Je kunt makkelijk zelf inspecteren of een bestand een tekst-bestand is (dan zou je reeksen herkenbare tekst vinden en weinig anders, zoals hierboven in `course.yml`). Bij bestanden met een eigen indeling worden vaak **herkennigstekens** gebruikt om vast te leggen welk formaat het is, of welke versie van een formaat. Zo zijn bestanden gemaakt in Word 2.0 van een ander formaat dan die van Word 4.1. Toch maken ze beide bestanden die eindigen op de extensie `.doc`.
+Als je naar een bestandsnaam kijkt kun je in heel veel gevallen via de bestands-**extensie** achterhalen wat voor bestand het betreft. Zo zijn bestanden die eindigen op `.mp4` bijna altijd videobestanden in het MP4-formaat. En bestanden die eindigen op `.doc` zijn bijna altijd bestanden die gemaakt zijn in een oude versie van Microsoft Word (nieuwere versies gebruiken `.docx`). Daarom kun je in Windows en macOS ook dubbelklikken om een bestand direct in het juiste programma te openen.
 
-Een onderdeel van de herkenningstekens zijn de **magic bytes**. Dit zijn de tekens of getallen die helemaal aan het begin of eind van een bestand staan en een clou geven over het programma waarin het geopend kan worden. Heb je een 3D-model gemaakt in het programma Blender, dan wordt dit opgeslagen in een bestand met de extensie `.blend`. Maar het bestand begint ook *altijd* met de ASCII-tekens `BLEND`. Dat betekent overigens niet dat elk bestand dat begint met `BLEND` ook een Blender-bestand is. Je kunt immers een tekstbestand maken dat precies met dezelfde letters begint.
+Maar de inhoud van het bestand zelf kan ook een clou geven over het formaat. Bij (binaire) bestanden met een eigen indeling worden vaak herkennigstekens gebruikt om vast te leggen welk formaat het is, of welke versie van een formaat.
+
+> Zo zijn bestanden gemaakt in Word 2.0 van een ander formaat dan die van Word 4.1. Beide programma's werken met de extensie `.doc` maar de formaten verschillen wel. Hoe kan een moderne versie van Word dan weten welk formaat het echt is?
+
+De belangrijkste herkenningstekens zijn **magic bytes** die bij veel formaten horen. Dit zijn de tekens of getallen die helemaal aan het begin of eind van een bestand staan en een clou geven over het programma waarin het geopend kan worden. Heb je een 3D-model gemaakt in het programma Blender dan begint het bestand *altijd* met de ASCII-tekens `BLEND`. (Dat betekent overigens niet dat elk bestand dat begint met `BLEND` ook een Blender-bestand is. Je kunt immers een tekstbestand maken dat precies met dezelfde letters begint.)
 
 Zie [Wikipedia](https://en.wikipedia.org/wiki/List_of_file_signatures) voor een lijstje met voorbeelden van zulke magic bytes. De lijst zal niet compleet zijn, maar geeft een idee van enkele belangrijke formaten waarin magic bytes gebruikt worden.
 
@@ -82,7 +102,7 @@ Dan zie je dat er twee bestanden in staan: een databestand (formaat is kennelijk
 
 ## Formaten
 
-Je krijgt van ons 10 bestanden van een onbekend formaat. Is het een document, een audio-file, of iets heel anders? Lees eerst de [uitleg over het achterhalen van het formaat van een bestand](/onderwerpen/representaties/formaten).
+Je krijgt van ons 10 bestanden van een onbekend formaat. Is het een document, een audio-file, of iets heel anders?
 
 [Download een ZIP-bestand](../formaten/files.zip) met daarin 10 andere bestanden (het wachtwoord is `secret`). Deze bestanden hebben geen duidelijke naam die weggeeft wat voor soort bestand het is. Je kunt natuurlijk de extensies aanpassen en het bestand proberen te openen in Word of in een audioplayer. Maar dat is hier niet de bedoeling! In dit geval gaat `xxd` ons helpen om te analyseren wat er in de bestanden staat.
 
@@ -95,4 +115,3 @@ Geef in jouw uitwerking per bestand aan:
 - geef ook een idee van de inhoud zodat we kunnen zien dat je het goed begrepen hebt (geen copy-paste van de inhoud, maar een korte, duidelijke beschrijving in jouw eigen woorden)
 
 In principe moet je voor elk bestand kunnen achterhalen wat het is, maar soms is het even lastig.
-
