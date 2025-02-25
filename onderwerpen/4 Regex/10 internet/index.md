@@ -4,7 +4,9 @@
 2. hou goed bij wat je opvalt en wat je leert,
 3. en beantwoord dan de vragen hieronder.
 
-![embed](https://www.youtube.com/embed/n_KghQP86Sw)
+## Studiemateriaal
+
+Kijk het college van CS50 over Internet:
 
 - [Open in CS50 video player](https://video.cs50.io/n_KghQP86Sw?screen=CBDtYHnW3gI)
 - [Open lecture notes](https://cs50.harvard.edu/ap/2021/curriculum/technology/notes/internet/)
@@ -22,8 +24,6 @@ Beantwoord de vragen in je eigen woorden, je daarbij baserend op informatie uit 
 4. Waarom duurt het niet altijd even lang voordat TCP/IP-pakketten van de ene computer naar de andere op hun bestemming aankomen?
 
 5. De "thuisrouters" van tegenwoordig zijn vaak veel meer dan alleen routers. Het zijn ook "access points" (ook wel AP's genoemd) en ook "firewalls". Wat is een toegangspunt (AP)? En wat is een firewall?
-
-6. Zowel Wi-Fi als Bluetooth zijn draadloze technologieën, maar ze worden allemaal anders gebruikt. Maak in een of meer zinnen onderscheid tussen de twee technologieën en noem voor elk een of meer "use cases" (bijv. apparaten waarbij ze gebruikt worden en waarom).
 
 7. Stel dat je je computer aanzet en <https://www.harvard.edu/> bezoekt in een browser. Leg in één alinea uit hoe de homepage van Harvard op uw scherm verschijnt, daarbij gebruik makend van de volgende termen, zodanig dat je begrip van de termen goed duidelijk wordt: DHCP-server, DNS-server, IP-adres, pakket, TCP-poort, webserver.
 
