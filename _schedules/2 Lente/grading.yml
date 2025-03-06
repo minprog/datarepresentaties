@@ -27,7 +27,7 @@ portfolio:
         besturingssystemen: 2
         representaties: 2
         internet: 2
-        homepage: 2
+        html_for_people: 2
 
 tentamen:
     show_progress: true

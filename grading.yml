@@ -23,6 +23,7 @@ grades:
     representaties: *aftekenen
     internet: *aftekenen
     homepage: *punten
+    html_for_people: *punten
 
     pidac_1: *aftekenen
     pidac_2: *aftekenen
