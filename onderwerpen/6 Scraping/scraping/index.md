@@ -47,7 +47,9 @@ Geef steeds de complete pipeline inclusief het gebruikte `curl`-commando, pipes 
 
 1.  Zoek uit hoe je alle `tr` elementen uit de tabel op <https://pythonscraping.com/pages/page3.html> kunt scrapen, maar met uitzondering van het eerste `tr`-element (deze bevat de tabelkopjes en die hebben we niet nodig). In de README van Pup staan de selectors die je kunt gebruiken. Volg de link naar MDN om uit te zoeken hoe ze werken.
 
-1.  Extra opdracht (optioneel): zoek uit hoe je een JSON kunt genereren met daarin alle links en headlines als paren. Zo'n paar ziet er dan zo uit:
+1.  Extra opdracht (optioneel). Hiervoor heb je de tool `jq` nodig (<https://jqlang.org>). Je kunt deze tool downloaden in dezelfde map als je bestanden, en dan gebruiken met `./jq`.
+
+    Zoek uit hoe je een JSON kunt genereren met `pup` en dan verwerken met `jq`. In de JSON willen we alle links en headlines als paren hebben. Zo'n paar ziet er dan zo uit:
 
         {
           "href": "/artikel/2441789-vogelspin-ontsnapt-op-kinderdagverblijf-velp",
