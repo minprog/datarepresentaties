@@ -12,6 +12,11 @@ Lees de [README](https://github.com/EricChiang/pup) van de tool `pup`. Met deze 
 
 Scraping met `pup` gaat op basis van de selectors die ook in CSS gebruikt worden. Hiermee kun je aangeven welk deel van de HTML je wilt hebben. Op de gelinkte GitHub-pagina van `pup` staat ook een lijstje van de ondersteunde CSS-selectors in deze tool.
 
+## Installatie
+
+De tool `pup` zou al geïnstalleerd moeten zijn bij de [eerste installatie](/installatie) voor dit vak.
+
+<!--
 Installatie voor Ubuntu en WSL:
 
     curl -LO https://github.com/ericchiang/pup/releases/download/v0.4.0/pup_v0.4.0_linux_amd64.zip
@@ -24,8 +29,9 @@ Installatie voor Mac:
     brew install pup
 
 Dit installeert een commando `pup` dat je kunt aanroepen met `pup` (anders dan op Windows dus!).
+-->
 
-Om Pup uit te testen met websites kun je `curl` gebruiken voor het binnenhalen van de pagina en het resultaat via een pipe doorsturen naar pup. Als voorbeeld kun je op deze pagina de pagina van het KNMI binnen halen en "netjes" uitprinten:
+Om `pup` uit te testen met websites kun je `curl` gebruiken voor het binnenhalen van de pagina en het resultaat via een pipe doorsturen naar pup. Als voorbeeld kun je op deze pagina de pagina van het KNMI binnen halen en "netjes" uitprinten:
 
     curl -s 'https://www.knmi.nl/home' | pup -c
 
