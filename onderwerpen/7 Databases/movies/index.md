@@ -123,14 +123,6 @@ If you're using the `movies.db` database provided in this problem set's distribu
 
 Note that row counts do not include header rows that only show column names.
 
-Execute the below to evaluate the correctness of your code using `check50`.
-
-```
-check50 -l minprog/checks/2022/movies
-```
-
-> If you have not used check50 before, you might need to install it. You can do so by running `python3 -m pip install check50` and then call check50 like so: `python3 -m check50 -l check50 -l minprog/checks/2022/movies`. If you run in into any problems installing, don't hesitate to ask a student assistant for help!
-
 ## Acknowledgements
 
 Information courtesy of
