@@ -1,14 +1,25 @@
+templates:
+    1: &aftekenen
+        subgrades:
+            akkoord: boolean
+        calculation: akkoord
+
 grades:
     # -- portfolio deadlines --
     computing:
+        <<: *aftekenen
         deadline: 9/2/25 15:00
     besturingssystemen:
+        <<: *aftekenen
         deadline: 16/2/25 15:00
     representaties:
+        <<: *aftekenen
         deadline: 23/2/25 15:00
     internet:
+        <<: *aftekenen
         deadline: 2/3/25 15:00
     homepage:
+        <<: *aftekenen
         deadline: 9/3/25 15:00
 
 practicum:
@@ -23,10 +34,10 @@ portfolio:
     show_progress: true
     type: points
     submits:
-        computing: 2
-        besturingssystemen: 2
-        representaties: 2
-        internet: 2
+        computing: 1
+        besturingssystemen: 1
+        representaties: 1
+        internet: 1
         html_for_people: 2
 
 tentamen:
@@ -54,9 +65,9 @@ hertentamen:
 calculation:
     eindcijfer:
         practicum: 6
-        portfolio: 10
+        portfolio: 6
         tentamen: 36
     herkansingscijfer:
         practicum: 6
-        portfolio: 10
+        portfolio: 6
         hertentamen: 36
