@@ -21,6 +21,24 @@ grades:
     homepage:
         <<: *aftekenen
         deadline: 9/3/25 15:00
+    tentamen:
+        subgrades:
+            commands: integer
+            oneliners: integer
+            binair: integer
+            regex: integer
+            scraping: integer
+            database: integer
+        calculation: commands + oneliners + binair + regex + scraping + database
+    hertentamen:
+        subgrades:
+            commands: points
+            oneliners: points
+            binair: points
+            regex: points
+            scraping: points
+            database: points
+        calculation: commands + oneliners + binair + regex + scraping + database
 
 practicum:
     show_progress: true
@@ -44,23 +62,25 @@ tentamen:
     show_progress: true
     type: points
     submits:
-        commands: 6
-        oneliners: 6
-        binary: 6
-        regexes: 6
-        scraping: 6
-        databases: 6
+        tentamen: 36
+        # commands: 6
+        # oneliners: 6
+        # binary: 6
+        # regexes: 6
+        # scraping: 6
+        # databases: 6
 
 hertentamen:
     show_progress: true
     type: points
     submits:
-        commands-her: 6
-        oneliners-her: 6
-        binary-her: 6
-        regexes-her: 6
-        scraping-her: 6
-        databases-her: 6
+        hertentamen: 36
+        # commands-her: 6
+        # oneliners-her: 6
+        # binary-her: 6
+        # regexes-her: 6
+        # scraping-her: 6
+        # databases-her: 6
 
 calculation:
     eindcijfer:
