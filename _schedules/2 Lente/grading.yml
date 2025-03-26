@@ -61,6 +61,7 @@ portfolio:
 tentamen:
     show_progress: true
     type: points
+    attempt_required: true
     submits:
         tentamen: 36
         # commands: 6
@@ -73,6 +74,7 @@ tentamen:
 hertentamen:
     show_progress: true
     type: points
+    attempt_required: true
     submits:
         hertentamen: 36
         # commands-her: 6
