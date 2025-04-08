@@ -32,12 +32,12 @@ grades:
         calculation: commands + oneliners + binair + regex + scraping + database
     hertentamen:
         subgrades:
-            commands: points
-            oneliners: points
-            binair: points
-            regex: points
-            scraping: points
-            database: points
+            commands: integer
+            oneliners: integer
+            binair: integer
+            regex: integer
+            scraping: integer
+            database: integer
         calculation: commands + oneliners + binair + regex + scraping + database
 
 practicum:
