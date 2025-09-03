@@ -3,33 +3,36 @@ Welkom:
     En lees dit stuk als je het vak al eens eerder hebt gevolgd en komt herkansen: /herkansen
 
 Computers:
-    Schrijfopdracht:
-        Introduction to computing: /onderwerpen/computers/intro
-    Oefening:
+    Woensdag:
+        Installatie: /installatie
         Software Carpentry deel 1: /onderwerpen/computers/carpentry
-    Tentamen UNIX-commando's:
-        Tentamenoefeningen: /onderwerpen/computers/oefeningen
+        Huiswerk:
+            Introduction to computing: /onderwerpen/computers/intro
+    Vrijdag:
+        Herhaling UNIX: /onderwerpen/computers/herhaling
+        Tentamenoefeningen UNIX: /onderwerpen/computers/oefeningen
 
-Besturingssystemen:
-    Schrijfopdracht:
+Besturing dag 1:
+    Software Carpentry deel 2: /onderwerpen/besturingssystemen/carpentry
+    Huiswerk:
         Besturingssystemen: /onderwerpen/besturingssystemen/intro
-    Oefening:
-        Software Carpentry deel 2: /onderwerpen/besturingssystemen/carpentry
-    Tentamen UNIX-pipelines:
-        Tentamenoefeningen: /onderwerpen/besturingssystemen/oefeningen
 
-Representaties:
-    Schrijfopdracht:
-        Representaties en formaten: /onderwerpen/representaties/intro
-    Uitleg en oefening:
-        Getallenstelsels: /onderwerpen/representaties/getallen
-        Binaire representaties: /onderwerpen/representaties/binair
-    Tentamen Binaire codering:
-        Tentamenoefeningen: /onderwerpen/representaties/oefeningen
+Besturing dag 2:
+    Herhaling Pipelines: /onderwerpen/besturingssystemen/herhaling
+    Tentamenoefeningen Pipelines: /onderwerpen/besturingssystemen/oefeningen
 
-Text processing:
-    # Schrijfopdracht:
-    #     Internet: /onderwerpen/regex/internet
+Representaties dag 1:
+    Getallenstelsels: /onderwerpen/representaties/getallen
+    Binaire representaties: /onderwerpen/representaties/binair
+    Tekstformaten: /onderwerpen/representaties/text
+    Huiswerk:
+        Representaties: /onderwerpen/representaties/intro
+
+Representaties dag 2:
+    Formaten: /onderwerpen/representaties/formaten
+    Tentamenoefeningen binair: /onderwerpen/representaties/oefeningen
+
+Regex dag 1:
     Uitleg:
         Reguliere expressies: /onderwerpen/regex/studiemateriaal
         Grep: /onderwerpen/regex/grep
@@ -37,26 +40,30 @@ Text processing:
         Regels matchen: /onderwerpen/regex/regels
         Strings matchen: /onderwerpen/regex/strings
         Woorden matchen: /onderwerpen/regex/woorden
+    Huiswerk:
+        Internet: /onderwerpen/regex/internet
+
+Regex dag 2:
     Tentamen Regexes:
         Tentamenoefeningen: /onderwerpen/regex/oefeningen
 
 Web development:
-    Portfolio:
-        Videocollege Web: /onderwerpen/web/lecture
-        Homepage: /onderwerpen/web/homepage
+    # Videocollege Web: /onderwerpen/web/lecture
+    # Portfolio Homepage: /onderwerpen/web/homepage
+    HTML for People: /onderwerpen/web/html
 
-Scraping:
+Scraping dag 1:
     Uitleg en oefening:
-        JSON: /onderwerpen/scraping/json
         Scraping: /onderwerpen/scraping/scraping
+
+Scraping dag 2:
     Tentamen Scraping:
         Tentamenoefeningen: /onderwerpen/scraping/oefeningen
 
-Databases:
-    Theorie:
-        Videocollege Databases: /onderwerpen/databases/lecture
-    Oefening:
-        Movies: /onderwerpen/databases/movies
-        Fiftyville: /onderwerpen/databases/fiftyville
-    Tentamen SQL:
-        Tentamenoefeningen: /onderwerpen/databases/oefeningen
+Databases dag 1:
+    Videocollege Databases: /onderwerpen/databases/lecture
+    Movies: /onderwerpen/databases/movies
+
+Databases dag 2:
+    Fiftyville: /onderwerpen/databases/fiftyville
+    Tentamenoefeningen: /onderwerpen/databases/oefeningen

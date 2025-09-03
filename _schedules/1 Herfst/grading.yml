@@ -2,33 +2,29 @@ _settings:
     start_date: 1/9/25
     end_date: 24/10/25
 
+templates:
+    1: &aftekenen
+        subgrades:
+            akkoord: boolean
+        calculation: akkoord
+
 grades:
     # -- portfolio deadlines --
     computing:
-        subgrades:
-            akkoord: boolean
-        calculation: akkoord
-        deadline: 3/9/24 21:00
+        <<: *aftekenen
+        deadline: 9/2/25 15:00
     besturingssystemen:
-        subgrades:
-            akkoord: boolean
-        calculation: akkoord
-        deadline: 10/9/24 21:00
+        <<: *aftekenen
+        deadline: 16/2/25 15:00
     representaties:
-        subgrades:
-            akkoord: boolean
-        calculation: akkoord
-        deadline: 17/9/24 21:00
+        <<: *aftekenen
+        deadline: 23/2/25 15:00
     internet:
-        subgrades:
-            akkoord: boolean
-        calculation: akkoord
-        deadline: 24/9/24 21:00
+        <<: *aftekenen
+        deadline: 2/3/25 15:00
     homepage:
-        subgrades:
-            punten: integer
-        calculation: punten
-        deadline: 4/10/24 21:00
+        <<: *aftekenen
+        deadline: 9/3/25 15:00
     tentamen:
         subgrades:
             commands: integer
@@ -40,12 +36,12 @@ grades:
         calculation: commands + oneliners + binair + regex + scraping + database
     hertentamen:
         subgrades:
-            commands: points
-            oneliners: points
-            binair: points
-            regex: points
-            scraping: points
-            database: points
+            commands: integer
+            oneliners: integer
+            binair: integer
+            regex: integer
+            scraping: integer
+            database: integer
         calculation: commands + oneliners + binair + regex + scraping + database
 
 practicum:
@@ -60,15 +56,16 @@ portfolio:
     show_progress: true
     type: points
     submits:
-        # computing: 0
-        # besturingssystemen: 0
-        # representaties: 0
-        # internet: 2
-        homepage: 6
+        computing: 1
+        besturingssystemen: 1
+        representaties: 1
+        internet: 1
+        html_for_people: 2
 
 tentamen:
     show_progress: true
     type: points
+    attempt_required: true
     submits:
         tentamen: 36
         # commands: 6
@@ -81,6 +78,7 @@ tentamen:
 hertentamen:
     show_progress: true
     type: points
+    attempt_required: true
     submits:
         hertentamen: 36
         # commands-her: 6

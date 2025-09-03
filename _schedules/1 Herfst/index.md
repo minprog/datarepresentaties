@@ -12,15 +12,17 @@ Je kunt dit vak parallel aan Programmeren 1 volgen, of nadat je Programmeren 1 h
 
 Het vak is opgedeeld in acht modules.
 
-0. **Schakelingen met PIDAC.** Kennismaken met elektronische schakelingen waarop computers gebaseerd zijn en oefenen met het maken van schakelingen om berekeningen te doen. Deze module loopt dwars door de andere modules heen in de tweede helft van het vak. Hiervoor word je ingedeeld in een vaste practicumgroep met een vaste tijd.
-1. **Computers.** Kennismaken met standaard computerhardware en software, en de geschiedenis van het vakgebied. Een eerste start met gebruik van de command line en kennismaking met de verschillende commando's die beschikbaar zijn om databestanden te manipuleren.
-2. **Besturingssystemen.** Kennismaken met de onderdelen van besturingssystemen, bestandssystemen en security-aspecten. Een uitgebreide verkenning van de UNIX-shell. Kennismaking met het CSV-dataformaat en gebruik van UNIX-tools om deze te filteren en te manipuleren.
-3. **Representaties.** Een overzicht van de verschillende soorten informatie die in een computer kunnen worden gerepresenteerd en hoe deze uiteindelijk allemaal in binaire code worden uitgedrukt. Oefenen met binaire representaties, ASCII, en bestandsformaten.
-4. **Text processing.** Studie van de werking van internet. Kennismaken met reguliere expressies waarmee je kunt zoeken naar patronen in teksten en waarmee je databestanden kunt filteren.
-5. **Web development.** Leren schrijven van HTML en het toepassen van stijlen via CSS. Je maakt een eigen portfolio als project.
-6. **Scraping.** Kennismaking met het verwerken van gestructureerde informatie in tekstbestanden, specifiek met JSON en HTML. Oefenen met het verkrijgen van data uit HTML-bestanden door middel van scraping-technieken.
+0. **Schakelingen met PIDAC.** Kennismaken met elektronische schakelingen waarop computers gebaseerd zijn en oefenen met het maken van schakelingen om berekeningen te doen.
+1. **Computers.** Kennismaken met standaard computerhardware en software, en de geschiedenis van het vakgebied. Een eerste start met gebruik van de command line.
+2. **Besturingssystemen.** Kennismaken met de onderdelen van besturingssystemen, bestandssystemen en security-aspecten. Een uitgebreide verkenning van de UNIX-shell.
+3. **Web development.** Leren schrijven van HTML en het toepassen van stijlen via CSS. Je maakt een eigen portfolio als project.
+4. **Representaties.** Een overzicht van allerlei soorten informatie die in een computer kunnen worden gerepresenteerd. Oefenen met binaire bestanden en bestandsformaten.
+5. **Text processing.** Kennismaken met reguliere expressies en zoeken in teksten. Kennismaking met het CSV-dataformaat en gebruik van UNIX-tools om deze te filteren en te manipuleren.
+6. **Internet.** Studie van de werking van internet. Kennismaking met het JSON-formaat. Oefenen met het verkrijgen van data uit semi-gestructureerde websites.
 7. **Databases.** Kennismaken met de relationele manier om data vast te leggen. Oefenen met het schrijven van SQL-queries om interessante data uit een database te halen.
 {: start="0"}
+
+Module 0 loopt dwars door de andere modules heen in de tweede helft van het vak. Hiervoor word je ingedeeld in een vaste practicumgroep met een vaste tijd.
 
 
 ## Docenten en vragen stellen
@@ -29,7 +31,7 @@ De docenten bij dit vak zijn Simon Pauw, Edwin Steffens en Martijn Stegeman. Je 
 
 **Assistentie:** direct contact met een assistent.
 
-* hulp op locatie (lokaal L0.09 of L0.10)
+* hulp op locatie (lokaal L0.09)
 * je weet niet waar te beginnen of een onvindbare bug, of alles loopt vast
 * moeite met verzinnen van een oplossing of met het begrijpen van de vraag
 * dagelijks beschikbaar: je kunt gewoon binnenlopen
@@ -46,6 +48,8 @@ De docenten bij dit vak zijn Simon Pauw, Edwin Steffens en Martijn Stegeman. Je 
 
 ## Onderdelen
 
+![](schema.png)
+
 **Tentamen.** Elke week ga je oefenen met praktische technieken, en met achtergronden uit de informatica. Je vaardigheid met deze onderwerpen wordt getoetst op het schriftelijk tentamen. Je punten hiervoor worden dan ook volledig bepaald door de uitslag van het tentamen. De tentamenopgaven zijn vergelijkbaar met de oefenopgaven die je wekelijks gaat maken.
 
 | onderdeel                          | vorm      | punten | week |
@@ -57,21 +61,21 @@ De docenten bij dit vak zijn Simon Pauw, Edwin Steffens en Martijn Stegeman. Je 
 | Scraping                           | tentamen  | 6      | 6    |
 | Databases en SQL                   | tentamen  | 6      | 7    |
 
-Voor elk onderdeel krijg je punten op basis van het aantal goede antwoorden op het tentamen. Voor dit tentamen is er een herkansing enkele weken na afloop van het vak (zie rooster). Het cijfer voor de herkansing komt dan in de plaats van het cijfer van het volledige schriftelijke tentamen. De uitslagen van de overige onderdelen hieronder blijven daarbij staan.
+Voor elk onderdeel kun je deelpunten ontvangen op basis van het aantal goede antwoorden op het tentamen.
 
-**Portfolio.** Dan zijn er vier schrijfopdrachten die je allemaal moet doen. Je gaat deze eerst zelfstandig uitwerken en inleveren als PDF. In het rooster staan verplichte bijeenkomsten voor het in groepjes bespreken van de antwoorden.
+Voor dit tentamen wordt een normale herkansing gepland. Het cijfer voor de herkansing komt in de plaats van het cijfer van het volledige schriftelijke tentamen. De uitslagen van de overige onderdelen hieronder blijven daarbij staan.
 
-In week 5 ga je daarnaast een website maken over jouw persoonlijke interesses (een "homepage"). In deze website verwerk je ook de antwoorden van alle schrijfopdrachten. Die uitwerkingen kun je op dat moment nog verbeteren, waarna ze definitief afgetekend worden.
+**Portfolio.** Daarnaast zijn er ter verdieping vier schrijfopdrachten die je moet doen. In het rooster staan bijeenkomsten voor het in groepjes bespreken van de schrijfopdrachten. Het deelnemen aan deze bijeenkomsten is verplicht voor het aftekenen van deze opdrachten. In week 5 ga je een website maken over jouw persoonlijke interesses (een "homepage"). In deze website verwerk je ook de antwoorden van alle schrijfopdrachten, die je dan ook nog mag verbeteren.
 
-De schrijfopdrachten en de bijeenkomsten zijn verplicht. Als je ze niet serieus inlevert (dus zeker geen ChatGPT!) bij de eerste deadline, dan kun je het vak niet halen in het huidige semester. Voor je website krijg je punten, waarbij we kijken in hoeverre het is gelukt aan alle eisen van de opdracht te voldoen.
+De schrijfopdrachten zijn verplichte onderdelen. Je krijgt geen punten maar als je ze niet doet kun je het vak niet halen. Voor je website krijg je punten, waarbij we kijken in hoeverre het is gelukt aan alle eisen van de opdracht te voldoen.
 
-| onderdeel                  | vorm      | punten | week | deadline        |
-|----------------------------|-----------|:------:|:----:|----------------:|
-| Computing                  | schrijven | V      | 1    | di  3 sep 21:00 |
-| Besturingssystemen         | schrijven | V      | 2    | di 10 sep 21:00 |
-| Representaties en formaten | schrijven | V      | 3    | di 17 sep 21:00 |
-| Internet                   | schrijven | V      | 4    | di 24 sep 21:00 |
-| Homepage met portfolio     | website   | 6      | 5    | vr  4 okt 21:00 |
+| onderdeel                  | vorm      | punten | week | vrijgegeven | deadline ft | deadline pt |
+|----------------------------|-----------|:------:|:----:|------------:|------------:|------------:|
+| Computing                  | schrijven | V      | 1    | wo  3 sep   |    do 12:00 |    zo 15:00 |
+| Besturingssystemen         | schrijven | V      | 2    | wo 10 sep   |    do 12:00 |    zo 15:00 |
+| Representaties en formaten | schrijven | V      | 3    | wo 17 sep   |    do 12:00 |    zo 15:00 |
+| Internet                   | schrijven | V      | 4    | wo 24 sep   |    do 12:00 |    zo 15:00 |
+| Homepage met portfolio     | website   | 6      | 5    | wo  1 okt   |    vr 16:00 |    zo 15:00 |
 
 **Practicum.** Tot slot is er het practicum, waar we ingaan op de elektrotechniek en logica die verscholen zit in de hardware van een computer. Dit is een kwestie van doen, dus je werkt in het lokaal aan praktische opdrachten. Voor PIDAC geldt dat je alleen punten krijgt als je aanwezig bent bij deze practica, en de opdrachten af hebt gekregen en af laten tekenen.
 
