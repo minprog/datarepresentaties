@@ -49,7 +49,7 @@ ASCII en Unicode bevatten naast letters ook een aantal veelgebruikte control-cod
 | 10   | 0a  | line feed       | LF      | \n     |
 | 13   | 0d  | carriage return | CR      | \r     |
 
-Historisch gezien hebben de twee tekens een totaal verschillend doel: line feed gaat naar de **volgende** regel, en carriage return gaat naar het **begin** van de (huidige) regel. Dit verschil maakt uit bij zoiets als een "[matrix printer](https://en.wikipedia.org/wiki/Dot_matrix_printing#/media/File:Printer_dot_matrix_EPSON_VP-500.jpg)" maar niet in moderne toepassingen.
+Historisch gezien hebben de twee tekens een totaal verschillend doel: line feed gaat naar de **volgende** regel, en carriage return gaat naar het **begin** van de (huidige) regel. Zie [The day Return became Enter](https://aresluna.org/the-day-return-became-enter/) voor meer achtergrond.
 
 In tekstbestanden die we op het scherm tonen, of bewerken, is het nog steeds nodig om aan te geven als een regel "eindigt", want hoe hebben we anders een paragraaf? Ook hiervoor worden CR en LF gebruikt, maar op verschillende systemen gaat het wel om verschillende combinaties van beide. Dit is wel iets makkelijker te detecteren dan het gebruik van UTF-8, maar toch is het erg onhandig.
 
@@ -72,7 +72,7 @@ Je kunt al deze combinaties tegenkomen als je een tekstbestand hebt met onbekend
 
 Stel dat je op macOS werkt, en via `xxd` de bytes van het bestand bekijkt, dan ziet het er zo uit:
 
-    % xxd -g1 bla 
+    % xxd -g1 bla
     00000000: 68 6f 65 0a 64 61 6e 0a                          hoe.dan.
 
 Met `xxd` krijg je toegang tot de hexadecimale representatie van de bytes in het bestand. Het getal 68 (hex) is het teken `h` in ASCII. Vaak zie je ook hexadecimale versies in de ASCII-tabel staan, dus dan kun je het makkelijk opzoeken. Hierboven zie je voor CR en LF ook de hexadecimale representatie.
@@ -101,7 +101,7 @@ Eén van de bestanden gebruikt ook speciale ("mooie") quotes met hulp van Unicod
 
 **Bestand 1**
 
-    00000000: 45 65 6e 20 62 65 6b 20 61 6c 73 20 64 69 65 20  Een bek als die 
+    00000000: 45 65 6e 20 62 65 6b 20 61 6c 73 20 64 69 65 20  Een bek als die
     00000010: 76 61 6e 20 65 65 6e 20 64 69 63 74 61 74 6f 72  van een dictator
     00000020: 0a 67 69 6e 67 20 6f 70 65 6e 20 62 69 6a 20 65  .ging open bij e
     00000030: 65 6e 20 61 6c 6c 69 67 61 74 6f 72 0a 64 69 65  en alligator.die
@@ -109,7 +109,7 @@ Eén van de bestanden gebruikt ook speciale ("mooie") quotes met hulp van Unicod
     00000050: 6f 74 20 7a 69 6a 6e 20 70 75 62 6c 69 65 6b 3a  ot zijn publiek:
     00000060: 0a 27 5a 6f 20 6f 70 65 6e 20 73 74 61 20 69 6b  .'Zo open sta ik
     00000070: 20 76 6f 6f 72 20 6b 72 69 74 69 65 6b 0a 76 61   voor kritiek.va
-    00000080: 6e 20 61 6c 6c 65 6e 20 64 69 65 20 6d 69 6a 20  n allen die mij 
+    00000080: 6e 20 61 6c 6c 65 6e 20 64 69 65 20 6d 69 6a 20  n allen die mij
     00000090: 6e 69 65 74 20 62 65 6d 69 6e 6e 65 6e 2e 0a 44  niet beminnen..D
     000000a0: 75 73 20 68 65 62 20 6a 65 20 6b 6c 61 63 68 74  us heb je klacht
     000000b0: 65 6e 2c 20 6b 6f 6d 20 6d 61 61 72 20 62 69 6e  en, kom maar bin
@@ -117,13 +117,13 @@ Eén van de bestanden gebruikt ook speciale ("mooie") quotes met hulp van Unicod
 
 **Bestand 2**
 
-    00000000: 45 65 6e 20 62 65 6b 20 61 6c 73 20 64 69 65 20  Een bek als die 
+    00000000: 45 65 6e 20 62 65 6b 20 61 6c 73 20 64 69 65 20  Een bek als die
     00000010: 76 61 6e 20 65 65 6e 20 64 69 63 74 61 74 6f 72  van een dictator
     00000020: 0a 67 69 6e 67 20 6f 70 65 6e 20 62 69 6a 20 65  .ging open bij e
     00000030: 65 6e 20 61 6c 6c 69 67 61 74 6f 72 0a 64 69 65  en alligator.die
     00000040: 20 6d 69 6e 7a 61 61 6d 20 73 70 72 61 6b 20 74   minzaam sprak t
     00000050: 6f 74 20 7a 69 6a 6e 20 70 75 62 6c 69 65 6b 3a  ot zijn publiek:
-    00000060: 0a e2 80 98 5a 6f 20 6f 70 65 6e 20 73 74 61 20  ....Zo open sta 
+    00000060: 0a e2 80 98 5a 6f 20 6f 70 65 6e 20 73 74 61 20  ....Zo open sta
     00000070: 69 6b 20 76 6f 6f 72 20 6b 72 69 74 69 65 6b 0a  ik voor kritiek.
     00000080: 76 61 6e 20 61 6c 6c 65 6e 20 64 69 65 20 6d 69  van allen die mi
     00000090: 6a 20 6e 69 65 74 20 62 65 6d 69 6e 6e 65 6e 2e  j niet beminnen.
@@ -133,7 +133,7 @@ Eén van de bestanden gebruikt ook speciale ("mooie") quotes met hulp van Unicod
 
 **Bestand 3**
 
-    00000000: 45 65 6e 20 62 65 6b 20 61 6c 73 20 64 69 65 20  Een bek als die 
+    00000000: 45 65 6e 20 62 65 6b 20 61 6c 73 20 64 69 65 20  Een bek als die
     00000010: 76 61 6e 20 65 65 6e 20 64 69 63 74 61 74 6f 72  van een dictator
     00000020: 0d 67 69 6e 67 20 6f 70 65 6e 20 62 69 6a 20 65  .ging open bij e
     00000030: 65 6e 20 61 6c 6c 69 67 61 74 6f 72 0d 64 69 65  en alligator.die
@@ -141,7 +141,7 @@ Eén van de bestanden gebruikt ook speciale ("mooie") quotes met hulp van Unicod
     00000050: 6f 74 20 7a 69 6a 6e 20 70 75 62 6c 69 65 6b 3a  ot zijn publiek:
     00000060: 0d 27 5a 6f 20 6f 70 65 6e 20 73 74 61 20 69 6b  .'Zo open sta ik
     00000070: 20 76 6f 6f 72 20 6b 72 69 74 69 65 6b 0d 76 61   voor kritiek.va
-    00000080: 6e 20 61 6c 6c 65 6e 20 64 69 65 20 6d 69 6a 20  n allen die mij 
+    00000080: 6e 20 61 6c 6c 65 6e 20 64 69 65 20 6d 69 6a 20  n allen die mij
     00000090: 6e 69 65 74 20 62 65 6d 69 6e 6e 65 6e 2e 0d 44  niet beminnen..D
     000000a0: 75 73 20 68 65 62 20 6a 65 20 6b 6c 61 63 68 74  us heb je klacht
     000000b0: 65 6e 2c 20 6b 6f 6d 20 6d 61 61 72 20 62 69 6e  en, kom maar bin
@@ -149,15 +149,15 @@ Eén van de bestanden gebruikt ook speciale ("mooie") quotes met hulp van Unicod
 
 **Bestand 4**
 
-    00000000: 45 65 6e 20 62 65 6b 20 61 6c 73 20 64 69 65 20  Een bek als die 
+    00000000: 45 65 6e 20 62 65 6b 20 61 6c 73 20 64 69 65 20  Een bek als die
     00000010: 76 61 6e 20 65 65 6e 20 64 69 63 74 61 74 6f 72  van een dictator
-    00000020: 0d 0a 67 69 6e 67 20 6f 70 65 6e 20 62 69 6a 20  ..ging open bij 
+    00000020: 0d 0a 67 69 6e 67 20 6f 70 65 6e 20 62 69 6a 20  ..ging open bij
     00000030: 65 65 6e 20 61 6c 6c 69 67 61 74 6f 72 0d 0a 64  een alligator..d
     00000040: 69 65 20 6d 69 6e 7a 61 61 6d 20 73 70 72 61 6b  ie minzaam sprak
     00000050: 20 74 6f 74 20 7a 69 6a 6e 20 70 75 62 6c 69 65   tot zijn publie
     00000060: 6b 3a 0d 0a 27 5a 6f 20 6f 70 65 6e 20 73 74 61  k:..'Zo open sta
     00000070: 20 69 6b 20 76 6f 6f 72 20 6b 72 69 74 69 65 6b   ik voor kritiek
-    00000080: 0d 0a 76 61 6e 20 61 6c 6c 65 6e 20 64 69 65 20  ..van allen die 
+    00000080: 0d 0a 76 61 6e 20 61 6c 6c 65 6e 20 64 69 65 20  ..van allen die
     00000090: 6d 69 6a 20 6e 69 65 74 20 62 65 6d 69 6e 6e 65  mij niet beminne
     000000a0: 6e 2e 0d 0a 44 75 73 20 68 65 62 20 6a 65 20 6b  n...Dus heb je k
     000000b0: 6c 61 63 68 74 65 6e 2c 20 6b 6f 6d 20 6d 61 61  lachten, kom maa
