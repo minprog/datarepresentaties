@@ -20,16 +20,16 @@ Besturingssystemen:
         Herhaling Pipelines: /onderwerpen/besturingssystemen/herhaling
         Tentamenoefeningen Pipelines: /onderwerpen/besturingssystemen/oefeningen
 
-Representaties dag 1:
-    Getallenstelsels: /onderwerpen/representaties/getallen
-    Binaire representaties: /onderwerpen/representaties/binair
-    Tekstformaten: /onderwerpen/representaties/text
+Representaties:
+    Theorie en oefenen:
+        Getallenstelsels: /onderwerpen/representaties/getallen
+        Binaire representaties: /onderwerpen/representaties/binair
+        Tekstformaten: /onderwerpen/representaties/text
     Huiswerk:
         Representaties: /onderwerpen/representaties/intro
-
-Representaties dag 2:
-    Formaten: /onderwerpen/representaties/formaten
-    Tentamenoefeningen binair: /onderwerpen/representaties/oefeningen
+    Vrijdag:
+        Formaten: /onderwerpen/representaties/formaten
+        Tentamenoefeningen binair: /onderwerpen/representaties/oefeningen
 
 Regex dag 1:
     Uitleg:
