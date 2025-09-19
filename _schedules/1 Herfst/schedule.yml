@@ -28,11 +28,8 @@ Representaties:
     Huiswerk:
         Representaties: /onderwerpen/representaties/intro
     Vrijdag:
+        Formaten: /onderwerpen/representaties/formaten
         Tentamenoefeningen binair: /onderwerpen/representaties/oefeningen
-
-Bingo:
-    Formaten: /onderwerpen/representaties/formaten
-
 
 Regex dag 1:
     Uitleg:
