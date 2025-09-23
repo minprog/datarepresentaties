@@ -31,8 +31,8 @@ Representaties:
         Formaten: /onderwerpen/representaties/formaten
         Tentamenoefeningen binair: /onderwerpen/representaties/oefeningen
 
-Regex dag 1:
-    Uitleg:
+Regex:
+    Theorie en oefenen:
         Reguliere expressies: /onderwerpen/regex/studiemateriaal
         Grep: /onderwerpen/regex/grep
     Technieken:
@@ -41,9 +41,7 @@ Regex dag 1:
         Woorden matchen: /onderwerpen/regex/woorden
     Huiswerk:
         Internet: /onderwerpen/regex/internet
-
-Regex dag 2:
-    Tentamen Regexes:
+    Vrijdag:
         Tentamenoefeningen: /onderwerpen/regex/oefeningen
 
 Web development:
@@ -51,18 +49,16 @@ Web development:
     # Portfolio Homepage: /onderwerpen/web/homepage
     HTML for People: /onderwerpen/web/html
 
-Scraping dag 1:
-    Uitleg en oefening:
+Scraping:
+    Theorie en oefenen:
         Scraping: /onderwerpen/scraping/scraping
-
-Scraping dag 2:
-    Tentamen Scraping:
+    Vrijdag:
         Tentamenoefeningen: /onderwerpen/scraping/oefeningen
 
-Databases dag 1:
-    Videocollege Databases: /onderwerpen/databases/lecture
-    Movies: /onderwerpen/databases/movies
-
-Databases dag 2:
-    Fiftyville: /onderwerpen/databases/fiftyville
-    Tentamenoefeningen: /onderwerpen/databases/oefeningen
+Databases:
+    Theorie en oefenen (veel!):
+        Videocollege Databases: /onderwerpen/databases/lecture
+        Movies: /onderwerpen/databases/movies
+        Fiftyville: /onderwerpen/databases/fiftyville
+    Vrijdag:
+        Tentamenoefeningen: /onderwerpen/databases/oefeningen
