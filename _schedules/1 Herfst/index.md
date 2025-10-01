@@ -67,7 +67,7 @@ Voor dit tentamen wordt een normale herkansing gepland. Het cijfer voor de herka
 
 **Portfolio.** Daarnaast zijn er ter verdieping vier schrijfopdrachten die je moet doen. In het rooster staan bijeenkomsten voor het in groepjes bespreken van de schrijfopdrachten. Het deelnemen aan deze bijeenkomsten is verplicht voor het aftekenen van deze opdrachten. In week 5 ga je een website maken over jouw persoonlijke interesses (een "homepage").
 
-De schrijfopdrachten zijn verplichte onderdelen. Je krijgt geen punten maar als je ze niet doet kun je het vak niet halen. Voor je website krijg je punten, waarbij we kijken in hoeverre het is gelukt aan alle eisen van de opdracht te voldoen.
+De schrijfopdrachten zijn verplichte onderdelen. Je krijgt geen punten maar als je ze niet doet kun je het vak niet halen. Voor je website krijg je punten, waarbij we kijken in hoeverre het is gelukt aan alle eisen van de opdracht te voldoen (hopelijk heb je alle stappen gevolgd en krijg je gewoon de volle punten).
 
 | onderdeel                  | vorm      | punten | week | vrijgegeven | deadline ft | deadline pt |
 |----------------------------|-----------|:------:|:----:|------------:|------------:|------------:|
