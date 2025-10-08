@@ -64,10 +64,10 @@ Een selector om de `<h1>` tags in een document te selecteren is bijvoorbeeld: `<
 
 5. Geef een commando om elke `<title>` tag selecteren. Hierboven matcht dan `<title>Sample HTML Document</title>`.
 
-<details markdown="1"><summary markdown="span">Hints (niet meteen gebruiken)</summary>
+<details markdown="1"><summary markdown="span">Hints</summary>
 1.  Geef alleen de selector als antwoord, niet het `pup`-commando en dergelijke.
 
-2.  Let heel erg op het verschil tussen `nth-of-type` en `nth-child`. Als we vragen om de 1e `<p>` dan is het dus die eerste. Vragen we om het eerste element in een `<body>` dan gaat het om de tweede. Je begrip van Nederlandse taal is hier belangrijk om de bepalen welke het moet zijn.
+2.  Let heel erg op het verschil tussen `nth-of-type` en `nth-child`. Als we vragen om de tweede `<p>` dan is het dus die eerste. Vragen we om het tweede element in een `<body>` dan gaat het om de tweede. Je begrip van Nederlandse taal is hier belangrijk om de bepalen welke het moet zijn.
 
 2.  Versimpel niet. Stel: de opdracht wil "de tweede `<li>` tag in elke `<ul>`". Je kunt het document hierboven gebruiken als voorbeeld, maar de opdracht is dat je de taal van de opdracht omzet in een selector.
 
