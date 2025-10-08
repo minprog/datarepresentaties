@@ -64,14 +64,14 @@ Een selector om alle `<h1>` tags in een `<body>` te selecteren is bijvoorbeeld: 
 
 5. Geef een commando om elke `<title>` tag selecteren. Hierboven matcht dan `<title>Sample HTML Document</title>`.
 
-<details markdown="1"><summary markdown="span">Hints</summary>
+## Let op!
+
 1.  Geef alleen de selector als antwoord, niet het `pup`-commando en dergelijke.
 
 2.  Let heel erg op het verschil tussen `nth-of-type` en `nth-child`. Als we vragen om de tweede `<p>` dan is het dus die eerste. Vragen we om het tweede element in een `<body>` dan gaat het om de tweede. Je begrip van Nederlandse taal is hier belangrijk om de bepalen welke het moet zijn.
 
-2.  Versimpel niet. Stel: de opdracht wil "de tweede `<li>` tag in elke `<ul>`". Je kunt het document hierboven gebruiken als voorbeeld, maar de opdracht is dat je de taal van de opdracht omzet in een selector.
+3.  Versimpel niet. Stel: de opdracht wil "de tweede `<li>` tag in elke `<ul>`". Je kunt het document hierboven gebruiken als voorbeeld, maar de opdracht is dat je de taal van de opdracht omzet in een selector.
 
     Voor het document hierboven staan alle `<li>` tags in een `<ul>`. Dus je zou de opdracht *onterecht* simpeler kunnen maken door alleen `li:nth-of-type(2)` te gebruiken als antwoord. Maar dan mis je de hele `<ul>` uit de opgave. Het moet dus minimaal zijn `ul li:nth-of-type(2)`.
 
     Er staat bovendien *de* tweede tag *in* elke `<ul>`. Dat impliceert dat de `<li>` een direct child van de `<ul>` moet zijn. Het verwachte antwoord is dus `ul > li:nth-of-type(2)`.
-</details>
