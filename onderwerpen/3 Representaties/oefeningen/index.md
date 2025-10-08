@@ -1,6 +1,6 @@
 # Oefeningen
 
-Deze vragen zijn goede oefeningen voor het tentamen. De verwachting is dat je alle vragen op het tentamen correct beantwoordt, foutjes daargelaten. Als je merkt dat je deze kennis nog niet echt paraat hebt, dan kun je extra studeren met hulp van het materiaal in deze module.
+Deze vragen zijn goede oefeningen voor het tentamen. De verwachting is dat je alle vragen op het tentamen correct beantwoordt, foutjes daargelaten. Je hebt dus parate kennis nodig van manieren van rekenen met getallen in verschillende stelsels (en ASCII-representatie). Als je merkt dat je deze kennis nog niet echt paraat hebt, dan kun je extra studeren met hulp van het materiaal in deze module.
 
 Onderstaande vragen zijn *grotendeels* representatief voor de vragen die je op het tentamen tegen zou kunnen komen.
 
@@ -12,7 +12,7 @@ Wat je zeker moet weten voor het tentamen:
 
 - Diverse manieren van omrekenen
 - Omrekenen van en naar two's complement
-- Optellen in two's complement 
+- Optellen in two's complement
 
 Je hoeft niet de ASCII-tabel uit je hoofd te kennen. Je krijgt een tabel met letters en hun ASCII-waarde (maar alleen decimaal!).
 
