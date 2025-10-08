@@ -2,98 +2,14 @@ _settings:
     start_date: 1/9/25
     end_date: 24/10/25
 
-templates:
-    1: &aftekenen
-        subgrades:
-            akkoord: boolean
-        calculation: akkoord
-
 grades:
-    # -- portfolio deadlines --
     computing:
-        <<: *aftekenen
         deadline: 7/9/25 15:00
     besturingssystemen:
-        <<: *aftekenen
         deadline: 14/9/25 15:00
     representaties:
-        <<: *aftekenen
         deadline: 21/9/25 15:00
     internet:
-        <<: *aftekenen
         deadline: 28/9/25 15:00
     homepage:
-        <<: *aftekenen
         deadline: 5/9/25 15:00
-    tentamen:
-        subgrades:
-            commands: integer
-            oneliners: integer
-            binair: integer
-            regex: integer
-            scraping: integer
-            database: integer
-        calculation: commands + oneliners + binair + regex + scraping + database
-    hertentamen:
-        subgrades:
-            commands: integer
-            oneliners: integer
-            binair: integer
-            regex: integer
-            scraping: integer
-            database: integer
-        calculation: commands + oneliners + binair + regex + scraping + database
-
-practicum:
-    show_progress: true
-    type: points
-    submits:
-        pidac_1: 2
-        pidac_2: 2
-        pidac_3: 2
-
-portfolio:
-    show_progress: true
-    type: points
-    submits:
-        computing: 1
-        besturingssystemen: 1
-        representaties: 1
-        internet: 1
-        html_for_people: 2
-
-tentamen:
-    show_progress: true
-    type: points
-    attempt_required: true
-    submits:
-        tentamen: 36
-        # commands: 6
-        # oneliners: 6
-        # binary: 6
-        # regexes: 6
-        # scraping: 6
-        # databases: 6
-
-hertentamen:
-    show_progress: true
-    type: points
-    attempt_required: true
-    submits:
-        hertentamen: 36
-        # commands-her: 6
-        # oneliners-her: 6
-        # binary-her: 6
-        # regexes-her: 6
-        # scraping-her: 6
-        # databases-her: 6
-
-calculation:
-    eindcijfer:
-        practicum: 6
-        portfolio: 6
-        tentamen: 36
-    herkansingscijfer:
-        practicum: 6
-        portfolio: 6
-        hertentamen: 36
