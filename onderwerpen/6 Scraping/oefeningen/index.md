@@ -52,7 +52,7 @@ Gegeven is het volgende HTML-document in `sample.html`:
 
 Geef **nauwkeurige selectors** om de volgende vragen te beantwoorden. Gebruik altijd selectors die net zo specifiek zijn als de vraag zegt! Je selectors moeten ook op andere HTML-documenten werken.
 
-Een selector om alle `<h1>` tags in een body te selecteren is bijvoorbeeld: `body h1`.
+Een selector om alle `<h1>` tags in een `<body>` te selecteren is bijvoorbeeld: `body h1`.
 
 1. Geef een commando om de eerste `<p>` tag in elke eerste `<div>` te selecteren. In het document hierboven matcht dan alleen de `<p>Here is some text in a paragraph.</p>`.
 
