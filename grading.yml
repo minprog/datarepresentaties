@@ -23,11 +23,11 @@ templates:
         subgrades:
             commands: integer
             oneliners: integer
-            binair: integer
+            representaties: integer
             regex: integer
             scraping: integer
-            database: integer
-        calculation: commands + oneliners + binair + regex + scraping + database
+            databases: integer
+        calculation: commands + oneliners + representaties + regex + scraping + database
         hide_calculated: true
 
 grades:
