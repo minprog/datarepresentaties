@@ -17,6 +17,8 @@ templates:
             punten: integer
         calculation: punten
     4: &tentamen
+        type: points
+        is_test: true
         subgrades:
             commands: integer
             oneliners: integer
