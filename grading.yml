@@ -16,6 +16,7 @@ templates:
         subgrades:
             punten: integer
         calculation: punten
+        hide_subgrades: true
     4: &tentamen
         type: points
         is_test: true
@@ -82,7 +83,8 @@ tentamen:
         tentamen: 36
 
 hertentamen:
-    show_progress: true
+    # show_progress: true
+    show_overview: true
     type: points
     attempt_required: true
     submits:
