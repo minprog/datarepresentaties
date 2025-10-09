@@ -43,7 +43,7 @@ grades:
             sessie_1: boolean
             sessie_2: boolean
             sessie_3: boolean
-        calculation: -(-(sessie_1 + sessie_2 + sessie_3) / 3)
+        calculation: -(sessie_1 + sessie_2 + sessie_3) * 2
 
     pidac_1: *aftekenen
     pidac_2: *aftekenen
