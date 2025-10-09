@@ -28,6 +28,7 @@ templates:
             scraping: integer
             database: integer
         calculation: commands + oneliners + binair + regex + scraping + database
+        hide_calculated: true
 
 grades:
     computing: *aftekenen
