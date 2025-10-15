@@ -65,9 +65,9 @@ Voor elk onderdeel kun je deelpunten ontvangen op basis van het aantal goede ant
 
 Voor dit tentamen wordt een normale herkansing gepland. Het cijfer voor de herkansing komt in de plaats van het cijfer van het volledige schriftelijke tentamen. De uitslagen van de overige onderdelen hieronder blijven daarbij staan.
 
-**Portfolio.** Daarnaast zijn er ter verdieping vier schrijfopdrachten die je moet doen. In het rooster staan bijeenkomsten voor het in groepjes bespreken van de schrijfopdrachten. Het deelnemen aan deze bijeenkomsten is verplicht voor het aftekenen van deze opdrachten. In week 5 ga je een website maken over jouw persoonlijke interesses (een "homepage"). In deze website verwerk je ook de antwoorden van alle schrijfopdrachten, die je dan ook nog mag verbeteren.
+**Portfolio.** Daarnaast zijn er ter verdieping vier schrijfopdrachten die je moet doen. In het rooster staan bijeenkomsten voor het in groepjes bespreken van de schrijfopdrachten. Het deelnemen aan deze bijeenkomsten is verplicht voor het aftekenen van deze opdrachten. In week 5 ga je een website maken over jouw persoonlijke interesses (een "homepage").
 
-De schrijfopdrachten zijn verplichte onderdelen. Je krijgt geen punten maar als je ze niet doet kun je het vak niet halen. Voor je website krijg je punten, waarbij we kijken in hoeverre het is gelukt aan alle eisen van de opdracht te voldoen.
+De schrijfopdrachten zijn verplichte onderdelen. Je krijgt geen punten maar als je ze niet doet kun je het vak niet halen. Voor je website krijg je punten, waarbij we kijken in hoeverre het is gelukt aan alle eisen van de opdracht te voldoen (hopelijk heb je alle stappen gevolgd en krijg je gewoon de volle punten).
 
 | onderdeel                  | vorm      | punten | week | vrijgegeven | deadline ft | deadline pt |
 |----------------------------|-----------|:------:|:----:|------------:|------------:|------------:|
@@ -75,7 +75,7 @@ De schrijfopdrachten zijn verplichte onderdelen. Je krijgt geen punten maar als 
 | Besturingssystemen         | schrijven | V      | 2    | wo 10 sep   |    do 12:00 |    zo 15:00 |
 | Representaties en formaten | schrijven | V      | 3    | wo 17 sep   |    do 12:00 |    zo 15:00 |
 | Internet                   | schrijven | V      | 4    | wo 24 sep   |    do 12:00 |    zo 15:00 |
-| Homepage met portfolio     | website   | 6      | 5    | wo  1 okt   |    vr 16:00 |    zo 15:00 |
+| Homepage                   | website   | 6      | 5    | wo  1 okt   |    vr 16:00 |    zo 15:00 |
 
 **Practicum.** Tot slot is er het practicum, waar we ingaan op de elektrotechniek en logica die verscholen zit in de hardware van een computer. Dit is een kwestie van doen, dus je werkt in het lokaal aan praktische opdrachten. Voor PIDAC geldt dat je alleen punten krijgt als je aanwezig bent bij deze practica, en de opdrachten af hebt gekregen en af laten tekenen.
 

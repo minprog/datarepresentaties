@@ -2,7 +2,7 @@
 
 Deze vragen zijn goede oefeningen voor het tentamen. De verwachting is dat je alle vragen op het tentamen correct beantwoordt, foutjes daargelaten. Je hebt dus parate kennis nodig van de regels die je nodig hebt om via `pup` informatie uit een HTML-pagina te extraheren.
 
-Onderstaande vragen zijn *grotendeels* representatief voor de vragen die je op het tentamen tegen zou kunnen komen, maar je zou ook vragen tegen kunnen komen die meer lijken op de vragen bij de [Scraping-opdracht](/scraping/scraping). Er zullen geen vragen zijn over `jq` en JSON.
+Onderstaande vragen zijn *grotendeels* representatief voor de vragen die je op het tentamen tegen zou kunnen komen, maar je zou ook vragen tegen kunnen komen die meer lijken op de vragen bij de [Scraping-opdracht](/onderwerpen/scraping/scraping). Er zullen geen vragen zijn over `jq` en JSON.
 
 Je kunt onderstaande oefeningen niet inleveren. Controleer ze met je medestudenten en check bij de docent als je twijfelt.
 
@@ -50,9 +50,9 @@ Gegeven is het volgende HTML-document in `sample.html`:
     </body>
     </html>
 
-Geef **complete pup-commando's** om de volgende vragen te beantwoorden. Gebruik altijd selectors die net zo specifiek zijn als de vraag zegt! Je selectors moeten ook op andere HTML-documenten werken.
+Geef **nauwkeurige selectors** om de volgende vragen te beantwoorden. Gebruik altijd selectors die net zo specifiek zijn als de vraag zegt! Je selectors moeten ook op andere HTML-documenten werken.
 
-Een commando om de `<h1>` tags in een document te selecteren kan zijn: `pup 'h1' < sample.html`.
+Een selector om alle `<h1>` tags in een `<body>` te selecteren is bijvoorbeeld: `body h1`.
 
 1. Geef een commando om de eerste `<p>` tag in elke eerste `<div>` te selecteren. In het document hierboven matcht dan alleen de `<p>Here is some text in a paragraph.</p>`.
 
@@ -63,3 +63,15 @@ Een commando om de `<h1>` tags in een document te selecteren kan zijn: `pup 'h1'
 4. Geef een commando om de laatste tag in de `<ul id="done">` te selecteren. Hierboven matcht dan `<li>Item 6</li>`.
 
 5. Geef een commando om elke `<title>` tag selecteren. Hierboven matcht dan `<title>Sample HTML Document</title>`.
+
+## Let op!
+
+1.  Geef alleen de selector als antwoord, niet het `pup`-commando en dergelijke.
+
+2.  Let heel erg op het verschil tussen `nth-of-type` en `nth-child`. Als we vragen om de tweede `<p>` dan is het dus die eerste. Vragen we om het tweede element in een `<body>` dan gaat het om de tweede. Je begrip van Nederlandse taal is hier belangrijk om de bepalen welke het moet zijn.
+
+3.  Versimpel niet. Stel: de opdracht wil "de tweede `<li>` tag in elke `<ul>`". Je kunt het document hierboven gebruiken als voorbeeld, maar de opdracht is dat je de taal van de opdracht omzet in een selector.
+
+    Voor het document hierboven staan alle `<li>` tags in een `<ul>`. Dus je zou de opdracht *onterecht* simpeler kunnen maken door alleen `li:nth-of-type(2)` te gebruiken als antwoord. Maar dan mis je de hele `<ul>` uit de opgave. Het moet dus minimaal zijn `ul li:nth-of-type(2)`.
+
+    Er staat bovendien *de* tweede tag *in* elke `<ul>`. Dat impliceert dat de `<li>` een direct child van de `<ul>` moet zijn. Het verwachte antwoord is dus `ul > li:nth-of-type(2)`.

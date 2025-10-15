@@ -3,12 +3,7 @@ templates:
         subgrades:
             akkoord: boolean
         calculation: akkoord
-    2: &punten
-        type: points
-        subgrades:
-            punten: integer
-        calculation: punten
-    4: &automatisch
+    2: &automatisch_aftekenen
         subgrades:
             checks: boolean
         calculation: checks
@@ -16,33 +11,92 @@ templates:
         automatic:
             checks: -(correctness_score.floor)
         auto_publish: true
+    3: &punten
+        type: points
+        subgrades:
+            punten: integer
+        calculation: punten
+        hide_subgrades: true
+    4: &tentamen
+        type: points
+        is_test: true
+        subgrades:
+            commands: integer
+            oneliners: integer
+            representaties: integer
+            regex: integer
+            scraping: integer
+            databases: integer
+        calculation: commands + oneliners + representaties + regex + scraping + database
+        hide_calculated: true
 
 grades:
     computing: *aftekenen
     besturingssystemen: *aftekenen
     representaties: *aftekenen
     internet: *aftekenen
-    homepage: *punten
+
     html_for_people: *punten
+
+    pidac:
+        type: points
+        is_test: true
+        subgrades:
+            sessie_1: boolean
+            sessie_2: boolean
+            sessie_3: boolean
+        calculation: -(sessie_1 + sessie_2 + sessie_3) * 2
 
     pidac_1: *aftekenen
     pidac_2: *aftekenen
     pidac_3: *aftekenen
 
-    movies: *automatisch
-    fiftyville: *automatisch
+    movies: *automatisch_aftekenen
+    fiftyville: *automatisch_aftekenen
 
-    commands: *punten
-    oneliners: *punten
-    binary: *punten
-    regexes: *punten
-    scraping: *punten
-    databases: *punten
+    tentamen: *tentamen
+    hertentamen: *tentamen
 
-    commands-her: *punten
-    oneliners-her: *punten
-    binary-her: *punten
-    regexes-her: *punten
-    scraping-her: *punten
-    databases-her: *punten
+practicum:
+    show_progress: true
+    type: points
+    submits:
+        pidac: 6
+        # pidac_1: 2
+        # pidac_2: 2
+        # pidac_3: 2
 
+portfolio:
+    show_progress: true
+    type: points
+    submits:
+        computing: 0
+        besturingssystemen: 0
+        representaties: 0
+        internet: 0
+        html_for_people: 6
+
+tentamen:
+    show_progress: true
+    type: points
+    attempt_required: true
+    submits:
+        tentamen: 36
+
+hertentamen:
+    # show_progress: true
+    show_overview: true
+    type: points
+    attempt_required: true
+    submits:
+        hertentamen: 36
+
+calculation:
+    eindcijfer:
+        practicum: 6
+        portfolio: 6
+        tentamen: 36
+    herkansingscijfer:
+        practicum: 6
+        portfolio: 6
+        hertentamen: 36
