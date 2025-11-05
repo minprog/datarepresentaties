@@ -36,7 +36,7 @@ grades:
     representaties: *aftekenen
     internet: *aftekenen
 
-    html_for_people: *punten
+    html_for_people: *aftekenen
 
     pidac:
         type: points
