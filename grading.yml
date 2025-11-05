@@ -27,7 +27,7 @@ templates:
             regex: integer
             scraping: integer
             databases: integer
-        calculation: commands + oneliners + representaties + regex + scraping + database
+        calculation: commands + oneliners + representaties + regex + scraping + databases
         hide_calculated: true
 
 grades:
