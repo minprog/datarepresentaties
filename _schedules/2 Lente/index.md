@@ -18,7 +18,7 @@ Het vak is opgedeeld in acht modules.
 5. **Text processing.** Kennismaken met reguliere expressies en zoeken in teksten. Kennismaking met het CSV-dataformaat en gebruik van UNIX-tools om deze te filteren en te manipuleren.
 6. **Internet.** Studie van de werking van internet. Kennismaking met het JSON-formaat. Oefenen met het verkrijgen van data uit semi-gestructureerde websites.
 7. **Databases.** Kennismaken met de relationele manier om data vast te leggen. Oefenen met het schrijven van SQL-queries om interessante data uit een database te halen.
-{: start="0"}
+   {: start="0"}
 
 Module 0 loopt dwars door de andere modules heen in de tweede helft van het vak. Hiervoor word je ingedeeld in een vaste practicumgroep met een vaste tijd.
 
@@ -68,7 +68,7 @@ De schrijfopdrachten zijn verplichte onderdelen. Je krijgt geen punten maar als 
 | Besturingssystemen         | schrijven |   V    |  2   | ma 16 feb 9:30 |
 | Representaties en formaten | schrijven |   V    |  3   | ma 23 feb 9:30 |
 | Internet                   | schrijven |   V    |  4   |  ma 2 mrt 9:30 |
-| Homepage met portfolio     | website   |   6    |  5   |  ma 9 mrt 9:30 |
+| Homepage                   | website   |   6    |  5   |  ma 9 mrt 9:30 |
 
 **Practicum.** Tot slot is er het practicum, waar we ingaan op de elektrotechniek en logica die verscholen zit in de hardware van een computer. Dit is een kwestie van doen, dus je werkt in het lokaal aan praktische opdrachten. Voor PIDAC geldt dat je alleen punten krijgt als je aanwezig bent bij deze practica, en de opdrachten af hebt gekregen en af laten tekenen.
 
