@@ -24,7 +24,7 @@ Module 0 loopt dwars door de andere modules heen in de tweede helft van het vak.
 
 ## Docenten en vragen stellen
 
-De docenten bij dit vak zijn Simon Pauw, Edwin Steffens en Martijn Stegeman. Je vindt ze regelmatig in de collegezaal. Voor praktische zaken kun je ze bereiken via e-mail op <help@mprog.nl>.
+De docenten bij dit vak zijn Jelle van Assema, Simon Pauw, Edwin Steffens en Martijn Stegeman. Je vindt ze regelmatig in de collegezaal. Voor praktische zaken kun je ze bereiken via e-mail op <help@mprog.nl>.
 
 **Assistentie:** direct contact met Edwin, Simon, Jelle en Martijn.
 
