@@ -2,11 +2,9 @@
 
 In dit vak maak je kennis met verschillende platforms om programmeerproblemen aan te pakken. Dit is een breed vak met een focus op het gebruiken tools en technieken uit de professionele software-wereld. De platforms zijn geschikt om uiteenlopende problemen te benaderen, van dataverwerking tot aan webprogrammeren. Soms gebruik je één platform voor een probleem en soms kun je er meerdere samen gebruiken. Daarnaast raak je bekend met UNIX en allerlei verschillende command-line tools zodat je steeds beter grip hebt op jouw ontwikkelomgeving.
 
-
 ## Voorkennis
 
 Je kunt dit vak parallel aan Programmeren 1 volgen, of nadat je Programmeren 1 hebt gehaald. Er is geen verdere voorkennis vereist.
-
 
 ## Onderwerpen en aanpak
 
@@ -24,76 +22,70 @@ Het vak is opgedeeld in acht modules.
 
 Module 0 loopt dwars door de andere modules heen in de tweede helft van het vak. Hiervoor word je ingedeeld in een vaste practicumgroep met een vaste tijd.
 
-
 ## Docenten en vragen stellen
 
-De docenten bij dit vak zijn Simon Pauw, Edwin Steffens en Martijn Stegeman. Je kunt ze bereiken via e-mail op <help@mprog.nl>. Daarnaast zijn er veel student-assistenten, die de cursus goed kennen en jou gaan helpen op de momenten dat het nodig is.
+De docenten bij dit vak zijn Simon Pauw, Edwin Steffens en Martijn Stegeman. Je vindt ze regelmatig in de collegezaal. Voor praktische zaken kun je ze bereiken via e-mail op <help@mprog.nl>.
 
-**Assistentie:** direct contact met een assistent.
+**Assistentie:** direct contact met een docent.
 
-* hulp op locatie (lokaal L0.09)
-* je weet niet waar te beginnen of een onvindbare bug, of alles loopt vast
-* moeite met verzinnen van een oplossing of met het begrijpen van de vraag
-* dagelijks beschikbaar: je kunt gewoon binnenlopen
+- hulp op locatie (lokaal L0.09)
+- je weet niet waar te beginnen of een onvindbare bug, of alles loopt vast
+- moeite met verzinnen van een oplossing of met het begrijpen van de vraag
+- dagelijks beschikbaar: je kunt gewoon binnenlopen
 
 **Spreekuur en e-mail:** contact met de docenten.
 
-* alle vragen over de regels en over dubbelzinnigheden in opdrachten
-    * wat assistenten hierover zeggen is helaas niet geldig
-* bespreken van persoonlijke omstandigheden
-* meedenken over grote problemen met het vak
-* officiële zaken zoals deadlines en cijfers
-* mail <help@mprog.nl> of kom langs tijdens het spreekuur
-
+- alle vragen over de regels en over dubbelzinnigheden in opdrachten
+    - wat assistenten hierover zeggen is helaas niet geldig
+- bespreken van persoonlijke omstandigheden
+- meedenken over grote problemen met het vak
+- officiële zaken zoals deadlines en cijfers
+- mail <help@mprog.nl> of kom langs tijdens het spreekuur
 
 ## Onderdelen
 
-![](schema.png)
-
 **Tentamen.** Elke week ga je oefenen met praktische technieken, en met achtergronden uit de informatica. Je vaardigheid met deze onderwerpen wordt getoetst op het schriftelijk tentamen. Je punten hiervoor worden dan ook volledig bepaald door de uitslag van het tentamen. De tentamenopgaven zijn vergelijkbaar met de oefenopgaven die je wekelijks gaat maken.
 
-| onderdeel                          | vorm      | punten | week |
-|------------------------------------|-----------|:------:|:----:|
-| UNIX-commando's en bestandssysteem | tentamen  | 6      | 1    |
-| UNIX-oneliners                     | tentamen  | 6      | 2    |
-| Binaire representaties             | tentamen  | 6      | 3    |
-| Reguliere expressies               | tentamen  | 6      | 4    |
-| Scraping                           | tentamen  | 6      | 6    |
-| Databases en SQL                   | tentamen  | 6      | 7    |
+| onderdeel                          | vorm     | punten | week |
+| ---------------------------------- | -------- | :----: | :--: |
+| UNIX-commando's en bestandssysteem | tentamen |   6    |  1   |
+| UNIX-oneliners                     | tentamen |   6    |  2   |
+| Binaire representaties             | tentamen |   6    |  3   |
+| Reguliere expressies               | tentamen |   6    |  4   |
+| Scraping                           | tentamen |   6    |  6   |
+| Databases en SQL                   | tentamen |   6    |  7   |
 
 Voor elk onderdeel kun je deelpunten ontvangen op basis van het aantal goede antwoorden op het tentamen.
 
 Voor dit tentamen wordt een normale herkansing gepland. Het cijfer voor de herkansing komt in de plaats van het cijfer van het volledige schriftelijke tentamen. De uitslagen van de overige onderdelen hieronder blijven daarbij staan.
 
-**Portfolio.** Daarnaast zijn er ter verdieping vier schrijfopdrachten die je moet doen. In het rooster staan bijeenkomsten voor het in groepjes bespreken van de schrijfopdrachten. Het deelnemen aan deze bijeenkomsten is verplicht voor het aftekenen van deze opdrachten. In week 5 ga je een website maken over jouw persoonlijke interesses (een "homepage"). In deze website verwerk je ook de antwoorden van alle schrijfopdrachten, die je dan ook nog mag verbeteren.
+**Portfolio.** Daarnaast zijn er ter verdieping vier schrijfopdrachten die je moet doen. Fulltime-studenten bespreken op maandagen om 10 uur in groepjes hun antwoorden. Andere studenten bespreken hun antwoorden met Jelle of Martijn op dinsdag of vrijdag, waarna de opdracht kan worden afgetekend. In week 5 ga je een website maken over jouw persoonlijke interesses (een "homepage").
 
-De schrijfopdrachten zijn verplichte onderdelen. Je krijgt geen punten maar als je ze niet doet kun je het vak niet halen. Voor je website krijg je punten, waarbij we kijken in hoeverre het is gelukt aan alle eisen van de opdracht te voldoen.
+De schrijfopdrachten zijn verplichte onderdelen. Je krijgt geen punten maar als je ze niet doet kun je het vak niet halen. Voor je website krijg je punten, waarbij we kijken in hoeverre het is gelukt aan alle eisen van de opdracht te voldoen (hopelijk heb je alle stappen gevolgd en krijg je gewoon de volle punten).
 
-| onderdeel                  | vorm      | punten | week | vrijgegeven | deadline ft | deadline pt |
-|----------------------------|-----------|:------:|:----:|------------:|------------:|------------:|
-| Computing                  | schrijven | V      | 1    | wo  5 feb   |    do 12:00 |    zo 15:00 |
-| Besturingssystemen         | schrijven | V      | 2    | wo 12 feb   |    do 12:00 |    zo 15:00 |
-| Representaties en formaten | schrijven | V      | 3    | wo 19 feb   |    do 12:00 |    zo 15:00 |
-| Internet                   | schrijven | V      | 4    | wo 26 feb   |    do 12:00 |    zo 15:00 |
-| Homepage met portfolio     | website   | 6      | 5    | wo  5 mrt   |    vr 16:00 |    zo 15:00 |
+| onderdeel                  | vorm      | punten | week |       deadline |
+| -------------------------- | --------- | :----: | :--: | -------------: |
+| Computing                  | schrijven |   V    |  1   |  ma 9 feb 9:30 |
+| Besturingssystemen         | schrijven |   V    |  2   | ma 16 feb 9:30 |
+| Representaties en formaten | schrijven |   V    |  3   | ma 23 feb 9:30 |
+| Internet                   | schrijven |   V    |  4   |  ma 2 mrt 9:30 |
+| Homepage met portfolio     | website   |   6    |  5   |  ma 9 mrt 9:30 |
 
 **Practicum.** Tot slot is er het practicum, waar we ingaan op de elektrotechniek en logica die verscholen zit in de hardware van een computer. Dit is een kwestie van doen, dus je werkt in het lokaal aan praktische opdrachten. Voor PIDAC geldt dat je alleen punten krijgt als je aanwezig bent bij deze practica, en de opdrachten af hebt gekregen en af laten tekenen.
 
-| onderdeel                          | vorm      | punten | week |
-|------------------------------------|-----------|:------:|:----:|
-| PIDAC 1                            | practicum | 2      | 4    |
-| PIDAC 2                            | practicum | 2      | 6    |
-| PIDAC 3                            | practicum | 2      | 7    |
+| onderdeel | vorm      | punten | week |
+| --------- | --------- | :----: | :--: |
+| PIDAC 1   | practicum |   2    |  4   |
+| PIDAC 2   | practicum |   2    |  6   |
+| PIDAC 3   | practicum |   2    |  7   |
 
 Het practicum is niet herkansbaar.
 
 **Eindcijfer.** De punten van de bovenstaande onderdelen tellen op tot een totaal. Je eindcijfer kun je berekenen met `totaal_punten / 48 * 9 + 1`. Als je dus de helft van de punten haalt is dat een 5,5 als cijfer, en dat betekent een voldoende voor het vak.
 
-
 ## Samenwerken
 
 Je mag met je medestudenten (en anderen) communiceren in het Nederlands of Engels over je werk in deze cursus, maar niet in de vorm van meer dan een paar regels JavaScript, HTML en dergelijke talen. Als je twijfelt of je manier van werken in deze correct is, neem gerust contact op met de docenten.
-
 
 ### Citeren en hulpbronnen
 
@@ -104,7 +96,6 @@ Je mag niet op zoek naar daadwerkelijke **antwoorden en oplossingen** voor opdra
 Spreek je docent of assistent aan en zeg "ik weet niet hoe ik nu verder moet". Je docent vraagt dan "wat heb je al gelezen of gedaan?". Vanuit daar ga je kijken wat je nog nodig hebt om de opdracht goed te kunnen doen.
 
 Als je een kort tekst- of codefragment overneemt als onderdeel van jouw zelfbedachte oplossing, dan moet je altijd een precieze bronvermelding doen. Het moet exact duidelijk zijn welk idee je overneemt en van welke bron het komt. Tegelijk moet niet het volledige antwoord zijn overgenomen, anders is het onvoldoende.
-
 
 ### Officiële regels
 
