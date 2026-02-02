@@ -1,4 +1,4 @@
-# Datarepresentaties, tools en technieken<br><small>Studiewijzer, Lente 2025</small>
+# Datarepresentaties, tools en technieken<br><small>Studiewijzer, Lente 2026</small>
 
 In dit vak maak je kennis met verschillende platforms om programmeerproblemen aan te pakken. Dit is een breed vak met een focus op het gebruiken tools en technieken uit de professionele software-wereld. De platforms zijn geschikt om uiteenlopende problemen te benaderen, van dataverwerking tot aan webprogrammeren. Soms gebruik je één platform voor een probleem en soms kun je er meerdere samen gebruiken. Daarnaast raak je bekend met UNIX en allerlei verschillende command-line tools zodat je steeds beter grip hebt op jouw ontwikkelomgeving.
 
