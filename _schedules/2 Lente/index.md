@@ -26,21 +26,20 @@ Module 0 loopt dwars door de andere modules heen in de tweede helft van het vak.
 
 De docenten bij dit vak zijn Simon Pauw, Edwin Steffens en Martijn Stegeman. Je vindt ze regelmatig in de collegezaal. Voor praktische zaken kun je ze bereiken via e-mail op <help@mprog.nl>.
 
-**Assistentie:** direct contact met een docent.
+**Assistentie:** direct contact met Edwin, Simon, Jelle en Martijn.
 
 - hulp op locatie (lokaal L0.09)
 - je weet niet waar te beginnen of een onvindbare bug, of alles loopt vast
 - moeite met verzinnen van een oplossing of met het begrijpen van de vraag
 - dagelijks beschikbaar: je kunt gewoon binnenlopen
 
-**Spreekuur en e-mail:** contact met de docenten.
+**Spreekuur en e-mail:** direct contact met Jelle en Martijn.
 
 - alle vragen over de regels en over dubbelzinnigheden in opdrachten
-    - wat assistenten hierover zeggen is helaas niet geldig
 - bespreken van persoonlijke omstandigheden
 - meedenken over grote problemen met het vak
 - officiële zaken zoals deadlines en cijfers
-- mail <help@mprog.nl> of kom langs tijdens het spreekuur
+- mail <help@mprog.nl> of spreek ons aan in het lokaal
 
 ## Onderdelen
 
