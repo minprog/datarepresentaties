@@ -27,7 +27,7 @@ Representaties:
         Binaire representaties: /onderwerpen/representaties/binair
         Tekstformaten: /onderwerpen/representaties/text
     Woensdag t/m vrijdag:
-        Formaten: /onderwerpen/representaties/formaten
+        # Formaten: /onderwerpen/representaties/formaten
         Tentamenoefeningen binair: /onderwerpen/representaties/oefeningen
     Huiswerk:
         Representaties: /onderwerpen/representaties/intro
