@@ -52,4 +52,4 @@ Isabelle Bousquette (2025).
 
 6.  Lees de volgende medium-long-read: [Everyone Is Cheating Their Way Through College](https://archive.md/fRhvx) door James D. Walsh (2025).
 
-    Doe een voorstel om onderwijs zo in te richten dat het niet (zo) aantrekkelijk is om (alleen maar) LLM's te gebruiken. Neem bijvoorbeeld een vak van je hoofdstudie, of een meer algemeen soort vak zoals "schrijfopdrachten", "scripties", enz. Niet te uitgebreid! Maar maak het wel concreet en toepasbaar, en zorg dat je plan niet bland is zoals een LLM het zou genereren.
+    Doe een voorstel om onderwijs zo in te richten dat het niet (zo) aantrekkelijk is om (alleen maar) LLM's te gebruiken. Neem bijvoorbeeld een vak van je hoofdstudie, of een meer algemeen soort vak zoals "schrijfopdrachten", "scripties", enz. Niet te uitgebreid! Maar maak het wel concreet en toepasbaar, en zorg dat je plan niet "bland" is zoals een LLM het zou genereren.
