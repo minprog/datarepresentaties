@@ -19,16 +19,16 @@ Bij het beantwoorden van de volgende vragen moet je soms een LLM gebruiken en so
 
 1.  Lees dit artikel: [ChatGPT Is a Blurry JPEG of the Web](https://archive.md/V8IT4) door Ted Chiang (2023).
 
-    1. Beschrijf in je eigen woorden hoe een LLM het "volgende woord" kiest op basis van de tekst die al gegenereerd is "tot nu toe".
+    1. Zoek uit hoe een LLM het "volgende woord" kiest op basis van de tekst die al gegenereerd is "tot nu toe". Je kunt een LLM gebruiken voor uitleg of zoeken (met of zonder LLM) naar blogs met goede uitleg.
 
     2. Zoek uit hoe een LLM met je kan "chatten". Ofwel: hoe kan het dat er een antwoord wordt gegeven op een vraag en dat er een "gesprek" ontstaat? Je kunt een LLM gebruiken om dit uit te zoeken. Laat het zodanig uitleggen dat je het antwoord helemaal begrijpt en kunt uitleggen.
 
 2.  Lees dit artikeltje of kijk de video: [The Hottest AI Job of 2023 Is Already Obsolete](https://www.wsj.com/articles/the-hottest-ai-job-of-2023-is-already-obsolete-1961b054) door 
 Isabelle Bousquette (2025).
 
-    1. Probeer een zo kort mogelijke prompt te bedenken die nuttige informatie geeft over de ontdekking van de psychedelische werking van bepaalde paddestoelen en wie de kennis bekend heeft gemaakt in de "westerse wereld" (begin een nieuwe chat voor elke poging!).
+    1. Probeer een zo kort mogelijke prompt te bedenken die nuttige informatie geeft over de ontdekking van de psychedelische werking van bepaalde paddestoelen en wie de kennis bekend heeft gemaakt in de "westerse wereld" (begin een nieuwe chat voor elke poging, gebruik zo weinig mogelijk woorden!).
 
-    2. Grote kans dat bovenstaande prompt leidt tot een soort overview-artikel met kopjes en bullets en (zucht) emoji. Vind een prompt die (over hetzelfde onderwerp) zo kort mogelijk uitlegt wie de belangrijkste betrokken personen waren in een coherent stukje tekst dat niet te lang is en niet te kort. Hoe kun je dit sturen? Hele prompt moet in één keer het juiste resultaat geven.
+    2. Grote kans dat bovenstaande prompt leidt tot een soort overview-artikel met kopjes en bullets en (zucht) emoji. Vind een prompt die (over hetzelfde onderwerp) zo kort mogelijk uitlegt wie de belangrijkste betrokken personen waren, in een coherent stukje tekst dat niet te lang is en niet te kort. Hoe kun je dit sturen? Hele prompt moet in één keer het juiste resultaat geven.
 
 2.  Neem het volgende artikel: [Why AI writing is so generic, boring, and dangerous: Semantic ablation](https://www.theregister.com/2026/02/16/semantic_ablation_ai_writing/) door Claudio Nastruzzi (2026). Het maakt een algemeen punt maar gebruikt termen die vrij technisch zijn. Gebruik gerust een LLM om het artikel uit te laten leggen op jouw niveau en/of termen uit te leggen.
 
