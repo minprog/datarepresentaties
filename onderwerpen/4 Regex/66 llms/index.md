@@ -44,7 +44,7 @@ Isabelle Bousquette (2025).
 
     Leg uit in je eigen woorden: hoe kan het dat genereerde code zoveel beginnersfouten bevat?
 
-5.  Lees het volgende nieuwsbericht: [Advocaten krijgen waarschuwing en moeten op cursus na verkeerd gebruik AI](https://nos.nl/artikel/2603525-advocaten-krijgen-waarschuwing-en-moeten-op-cursus-na-verkeerd-gebruik-ai) door Stan Hulschen (2026).
+5.  Lees het volgende nieuwsbericht: [Advocaten krijgen waarschuwing en moeten op cursus na verkeerd gebruik AI](https://nos.nl/artikel/2603525-advocaten-krijgen-waarschuwing-en-moeten-op-cursus-na-verkeerd-gebruik-ai) door Stan Hulsen (2026).
 
     1.  Bedenk: waarom wordt hier zo nadrukkelijk gesproken over "*verkeerd* inzetten", en niet over "inzetten" of "gebruiken"?
 
