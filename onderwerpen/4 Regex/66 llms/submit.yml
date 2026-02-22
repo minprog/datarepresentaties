@@ -1,0 +1,4 @@
+name: llms
+files:
+    required:
+        - llms.pdf
