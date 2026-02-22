@@ -46,7 +46,9 @@ Isabelle Bousquette (2025).
 
 5.  Lees het volgende nieuwsbericht: [Advocaten krijgen waarschuwing en moeten op cursus na verkeerd gebruik AI](https://nos.nl/artikel/2603525-advocaten-krijgen-waarschuwing-en-moeten-op-cursus-na-verkeerd-gebruik-ai) door Stan Hulschen (2026).
 
-    Ga na (met hulp van een LLM) of het mogelijk is om een LLM zodanig te gebruiken dat de LLM met zekerheid geen fouten maakt zoals hier in de praktijk gebeurd is. Vraag goed door tot je een duidelijk en overzichtelijk antwoord hebt dat jij van woord tot woord kunt begrijpen en uitleggen. (Niet te veel detail dus, anders moet je teveel uitleggen.)
+    1.  Bedenk: waarom wordt hier zo nadrukkelijk gesproken over "*verkeerd* inzetten", en niet over "inzetten" of "gebruiken"?
+
+    2.  Ga na (met hulp van een LLM) of het mogelijk is om een LLM zodanig te gebruiken dat de LLM met zekerheid geen fouten maakt zoals hier in de praktijk gebeurd is. Vraag goed door tot je een duidelijk en overzichtelijk antwoord hebt dat jij van woord tot woord kunt begrijpen en uitleggen. (Niet te veel detail dus, anders moet je teveel uitleggen.)
 
 6.  Lees de volgende medium-long-read: [Everyone Is Cheating Their Way Through College](https://archive.md/fRhvx) door James D. Walsh (2025).
 
