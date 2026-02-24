@@ -9,7 +9,18 @@ grades:
         deadline: 16/2/26 9:30
     representaties:
         deadline: 23/2/26 9:30
-    internet:
+    llms:
         deadline: 2/3/26 9:30
     html_for_people:
         deadline: 9/3/26 9:30
+
+# tweede semester override llms ipv internet opdracht
+portfolio:
+    show_progress: true
+    type: points
+    submits:
+        computing: 0
+        besturingssystemen: 0
+        representaties: 0
+        llms: 0
+        html_for_people: 6

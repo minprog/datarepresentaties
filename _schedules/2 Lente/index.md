@@ -67,7 +67,7 @@ De schrijfopdrachten zijn verplichte onderdelen. Je krijgt geen punten maar als 
 | Computing                  | schrijven |   V    |  1   |  ma 9 feb 9:30 |
 | Besturingssystemen         | schrijven |   V    |  2   | ma 16 feb 9:30 |
 | Representaties en formaten | schrijven |   V    |  3   | ma 23 feb 9:30 |
-| Internet                   | schrijven |   V    |  4   |  ma 2 mrt 9:30 |
+| LLM's & Internet           | schrijven |   V    |  4   |  ma 2 mrt 9:30 |
 | Homepage                   | website   |   6    |  5   |  ma 9 mrt 9:30 |
 
 **Practicum.** Tot slot is er het practicum, waar we ingaan op de elektrotechniek en logica die verscholen zit in de hardware van een computer. Dit is een kwestie van doen, dus je werkt in het lokaal aan praktische opdrachten. Voor PIDAC geldt dat je alleen punten krijgt als je aanwezig bent bij deze practica, en de opdrachten af hebt gekregen en af laten tekenen.
@@ -75,8 +75,8 @@ De schrijfopdrachten zijn verplichte onderdelen. Je krijgt geen punten maar als 
 | onderdeel | vorm      | punten | week |
 | --------- | --------- | :----: | :--: |
 | PIDAC 1   | practicum |   2    |  4   |
-| PIDAC 2   | practicum |   2    |  6   |
-| PIDAC 3   | practicum |   2    |  7   |
+| PIDAC 2   | practicum |   2    |  5   |
+| PIDAC 3   | practicum |   2    |  6   |
 
 Het practicum is niet herkansbaar.
 

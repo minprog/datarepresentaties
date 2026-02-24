@@ -36,6 +36,7 @@ grades:
     besturingssystemen: *aftekenen
     representaties: *aftekenen
     internet: *aftekenen
+    llms: *aftekenen
 
     html_for_people: *aftekenen
 
