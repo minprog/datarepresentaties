@@ -19,9 +19,9 @@ Bij het beantwoorden van de volgende vragen moet je soms een LLM gebruiken en so
 
 1.  Lees dit artikel: [ChatGPT Is a Blurry JPEG of the Web](https://archive.md/V8IT4) door Ted Chiang (2023).
 
-    1. Zoek uit hoe een LLM het "volgende woord" kiest op basis van de tekst die al gegenereerd is "tot nu toe". Je kunt een LLM gebruiken voor uitleg of zoeken (met of zonder LLM) naar blogs met goede uitleg.
+    1. Zoek uit hoe een LLM het "volgende woord" kiest op basis van de tekst die al gegenereerd is "tot nu toe". Je kunt een LLM gebruiken voor uitleg of zoeken (met of zonder LLM) naar blogs met goede uitleg. Beschrijf de essentie in je eigen woorden.
 
-    2. Zoek uit hoe een LLM met je kan "chatten". Ofwel: hoe kan het dat er een antwoord wordt gegeven op een vraag en dat er een "gesprek" ontstaat? Je kunt een LLM gebruiken om dit uit te zoeken. Laat het zodanig uitleggen dat je het antwoord helemaal begrijpt en kunt uitleggen.
+    2. Zoek uit hoe een LLM met je kan "chatten". Ofwel: hoe kan het dat er een antwoord wordt gegeven op een vraag en dat er een "gesprek" ontstaat? Je kunt een LLM gebruiken om dit uit te zoeken. Laat het zodanig uitleggen dat je het antwoord helemaal begrijpt en kunt uitleggen. Beschrijf de essentie in je eigen woorden.
 
 2.  Lees dit artikeltje of kijk de video: [The Hottest AI Job of 2023 Is Already Obsolete](https://www.wsj.com/articles/the-hottest-ai-job-of-2023-is-already-obsolete-1961b054) door 
 Isabelle Bousquette (2025).
