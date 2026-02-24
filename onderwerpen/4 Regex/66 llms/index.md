@@ -34,9 +34,9 @@ Isabelle Bousquette (2025).
 
     Geef in je eigen woorden(!) aan waarom teksten van LLM's zo saai zijn volgens het artikel.
 
-3.  ChatGPT werd gelanceerd op 30 november 2022. Het werd meteen immens populair (een simpelere versie zonder echte chat was al een tijdje online). Sommige mensen kwamen op het idee om ChatGPT te gebruiken om blogposts te genereren en dan weer op internet te zetten.
+3.  ChatGPT werd gelanceerd op 30 november 2022. Het werd meteen immens populair (een simpelere versie zonder echte chat was al een tijdje online). De eerste versies zijn "getraind" op basis van boeken, blogposts, Reddit-threads, anders forums, enz.
 
-    Bestudeer de volgende blogpost (die vermoedelijk wel door een mens geschreven is): [LLMs Aren't Just "Trained On the Internet" Anymore](https://allenpike.com/2024/llms-trained-on-internet/) door Allen Pike (2024).
+    Bestudeer de volgende blogpost: [LLMs Aren't Just "Trained On the Internet" Anymore](https://allenpike.com/2024/llms-trained-on-internet/) door Allen Pike (2024).
 
     Bedenk en beantwoord: waarom moeten LLM's voortaan op kunstmatige data getraind worden en kunnen LLM's niet zomaar getraind blijven worden op nieuwe posts en gesprekken en websites die publiek op internet staan?
 
