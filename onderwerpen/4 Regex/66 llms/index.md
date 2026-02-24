@@ -38,7 +38,7 @@ Isabelle Bousquette (2025).
 
     Bestudeer de volgende blogpost (die vermoedelijk wel door een mens geschreven is): [LLMs Aren't Just "Trained On the Internet" Anymore](https://allenpike.com/2024/llms-trained-on-internet/) door Allen Pike (2024).
 
-    Bedenk en beantwoord: waarom moeten LLM's voortaan op kunstmatige data getraind worden en kunnen LLM's niet gewoon getraind blijven worden op nieuwe posts en gesprekken en websites die publiek op internet staan?
+    Bedenk en beantwoord: waarom moeten LLM's voortaan op kunstmatige data getraind worden en kunnen LLM's niet zomaar getraind blijven worden op nieuwe posts en gesprekken en websites die publiek op internet staan?
 
 4.  Lees dit krantenartikel: ['Vibe coding' geeft de beurskoers van allerlei bedrijven een klap](https://advance-lexis-com.proxy.uba.uva.nl/document/?pdmfid=1519360&crid=47a075fc-97fd-455e-bbfc-0b2f4eed63aa&pddocfullpath=%2Fshared%2Fdocument%2Fnews%2Furn%3AcontentItem%3A6HWX-GYB3-S2PH-13YP-00000-00&pdcontentcomponentid=471706&pdteaserkey=sr0&pditab=allpods&ecomp=hc-yk&earg=sr0&prid=6e010001-8f96-45ed-9189-01eb4e02c2a7) ([alternatief](https://archive.md/ogyNa)) door Timo Nijssen (2026).
 
