@@ -24,3 +24,9 @@ portfolio:
         representaties: 0
         llms: 0
         html_for_people: 6
+
+sql:
+    show_overview: true
+    submits:
+        movies: 1
+        fiftyville: 1
