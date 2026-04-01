@@ -71,6 +71,7 @@ practicum:
 portfolio:
     show_progress: true
     type: points
+    maximum: 6
     submits:
         computing: 0
         besturingssystemen: 0
