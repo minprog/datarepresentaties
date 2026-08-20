@@ -71,13 +71,18 @@ practicum:
 portfolio:
     show_progress: true
     type: points
-    maximum: 6
     submits:
         computing: 0
         besturingssystemen: 0
         representaties: 0
-        internet: 0
+        llms: 0
         html_for_people: 6
+
+sql:
+    show_overview: true
+    submits:
+        movies: 1
+        fiftyville: 1
 
 tentamen:
     show_progress: true
