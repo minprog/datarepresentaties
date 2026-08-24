@@ -61,6 +61,7 @@ website:
         html_for_people: 6
 
 schrijfopdrachten:
+    show_progress: true
     type: pass_all
     submits:
         - computing
