@@ -48,18 +48,6 @@ grades:
     tentamen: *tentamen
     hertentamen: *tentamen
 
-practicum:
-    show_progress: true
-    type: points
-    submits:
-        pidac: 6
-
-website:
-    show_progress: true
-    type: points
-    submits:
-        html_for_people: 6
-
 schrijfopdrachten:
     show_progress: true
     type: pass_all
@@ -68,6 +56,18 @@ schrijfopdrachten:
         - besturingssystemen
         - representaties
         - llms
+
+website:
+    show_progress: true
+    type: points
+    submits:
+        html_for_people: 6
+
+practicum:
+    show_progress: true
+    type: points
+    submits:
+        pidac: 6
 
 sql:
     show_overview: true
