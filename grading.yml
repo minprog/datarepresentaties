@@ -29,7 +29,6 @@ grades:
     computing: *aftekenen
     besturingssystemen: *aftekenen
     representaties: *aftekenen
-    internet: *aftekenen
     llms: *aftekenen
 
     html_for_people: *aftekenen
@@ -55,15 +54,19 @@ practicum:
     submits:
         pidac: 6
 
-portfolio:
+website:
     show_progress: true
     type: points
     submits:
-        computing: 0
-        besturingssystemen: 0
-        representaties: 0
-        llms: 0
         html_for_people: 6
+
+schrijfopdrachten:
+    type: pass_all
+    submits:
+        - computing
+        - besturingssystemen
+        - representaties
+        - llms
 
 sql:
     show_overview: true
@@ -88,9 +91,11 @@ hertentamen:
 calculation:
     eindcijfer:
         practicum: 6
-        portfolio: 6
+        website: 6
+        schrijfopdrachten: 0
         tentamen: 36
     herkansingscijfer:
         practicum: 6
-        portfolio: 6
+        website: 6
+        schrijfopdrachten: 0
         hertentamen: 36

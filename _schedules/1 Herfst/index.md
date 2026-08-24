@@ -18,7 +18,7 @@ Het vak is opgedeeld in acht modules.
 3. **Web development.** Leren schrijven van HTML en het toepassen van stijlen via CSS. Je maakt een eigen portfolio als project.
 4. **Representaties.** Een overzicht van allerlei soorten informatie die in een computer kunnen worden gerepresenteerd. Oefenen met binaire bestanden en bestandsformaten.
 5. **Text processing.** Kennismaken met reguliere expressies en zoeken in teksten. Kennismaking met het CSV-dataformaat en gebruik van UNIX-tools om deze te filteren en te manipuleren.
-6. **Internet.** Studie van de werking van internet. Kennismaking met het JSON-formaat. Oefenen met het verkrijgen van data uit semi-gestructureerde websites.
+6. **LLM's en internet.** Studie van de werking van LLM's en internet. Kennismaking met het JSON-formaat. Oefenen met het verkrijgen van data uit semi-gestructureerde websites.
 7. **Databases.** Kennismaken met de relationele manier om data vast te leggen. Oefenen met het schrijven van SQL-queries om interessante data uit een database te halen.
 {: start="0"}
 
@@ -27,7 +27,7 @@ Module 0 loopt dwars door de andere modules heen in de tweede helft van het vak.
 
 ## Docenten en vragen stellen
 
-De docenten bij dit vak zijn Simon Pauw, Edwin Steffens en Martijn Stegeman. Je kunt ze bereiken via e-mail op <help@mprog.nl>. Daarnaast zijn er veel student-assistenten, die de cursus goed kennen en jou gaan helpen op de momenten dat het nodig is.
+De docenten bij dit vak zijn Simon Pauw, Edwin Steffens en Martijn Stegeman. Je kunt ze bereiken via e-mail op <help@mprog.nl>. Daarnaast zijn er student-assistenten, die de cursus goed kennen en jou gaan helpen op de momenten dat het nodig is.
 
 **Assistentie:** direct contact met een assistent.
 
@@ -35,6 +35,7 @@ De docenten bij dit vak zijn Simon Pauw, Edwin Steffens en Martijn Stegeman. Je 
 * je weet niet waar te beginnen of een onvindbare bug, of alles loopt vast
 * moeite met verzinnen van een oplossing of met het begrijpen van de vraag
 * dagelijks beschikbaar: je kunt gewoon binnenlopen
+* zet jezelf in de rij via de assistentieknop rechtsboven!
 
 **Spreekuur en e-mail:** contact met de docenten.
 
@@ -69,13 +70,13 @@ Voor dit tentamen wordt een normale herkansing gepland. Het cijfer voor de herka
 
 De schrijfopdrachten zijn verplichte onderdelen. Je krijgt geen punten maar als je ze niet doet kun je het vak niet halen. Voor je website krijg je punten, waarbij we kijken in hoeverre het is gelukt aan alle eisen van de opdracht te voldoen (hopelijk heb je alle stappen gevolgd en krijg je gewoon de volle punten).
 
-| onderdeel                  | vorm      | punten | week | vrijgegeven | deadline ft | deadline pt |
-|----------------------------|-----------|:------:|:----:|------------:|------------:|------------:|
-| Computing                  | schrijven | V      | 1    | wo  3 sep   |    do 12:00 |    zo 15:00 |
-| Besturingssystemen         | schrijven | V      | 2    | wo 10 sep   |    do 12:00 |    zo 15:00 |
-| Representaties en formaten | schrijven | V      | 3    | wo 17 sep   |    do 12:00 |    zo 15:00 |
-| Internet                   | schrijven | V      | 4    | wo 24 sep   |    do 12:00 |    zo 15:00 |
-| Homepage                   | website   | 6      | 5    | wo  1 okt   |    vr 16:00 |    zo 15:00 |
+| onderdeel                  | vorm      | punten | week | vrijgegeven | deadline    |
+|----------------------------|-----------|:------:|:----:|------------:|------------:|
+| Computing                  | schrijven | V      | 1    | di  1 sep   |    wo 18:00 |
+| Besturingssystemen         | schrijven | V      | 2    | ma  7 sep   |    wo 18:00 |
+| Representaties en formaten | schrijven | V      | 3    | ma 14 sep   |    wo 18:00 |
+| LLM's en internet          | schrijven | V      | 4    | ma 21 sep   |    wo 18:00 |
+| Homepage                   | website   | 6      | 5    | ma 28 sep   |    vr 16:00 |
 
 **Practicum.** Tot slot is er het practicum, waar we ingaan op de elektrotechniek en logica die verscholen zit in de hardware van een computer. Dit is een kwestie van doen, dus je werkt in het lokaal aan praktische opdrachten. Voor PIDAC geldt dat je alleen punten krijgt als je aanwezig bent bij deze practica, en de opdrachten af hebt gekregen en af laten tekenen.
 

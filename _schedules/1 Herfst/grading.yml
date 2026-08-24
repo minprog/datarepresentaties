@@ -4,12 +4,12 @@ _settings:
 
 grades:
     computing:
-        deadline: 2/9/26 21:00
+        deadline: 2/9/26 18:00
     besturingssystemen:
-        deadline: 9/9/26 21:00
+        deadline: 9/9/26 18:00
     representaties:
-        deadline: 16/9/26 21:00
-    internet:
-        deadline: 23/9/26 21:00
+        deadline: 16/9/26 18:00
+    llms:
+        deadline: 23/9/26 18:00
     html_for_people:
-        deadline: 2/10/26 18:00
+        deadline: 2/10/26 16:00
