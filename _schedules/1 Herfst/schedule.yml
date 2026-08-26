@@ -5,13 +5,13 @@ Welkom:
 Computers:
     Installatie: /installatie
     Software Carpentry deel 1: /onderwerpen/computers/carpentry
-    Introduction to computing [deadline woensdag]: /onderwerpen/computers/intro
+    Introduction to computing [wo 18:00]: /onderwerpen/computers/intro
     Herhaling UNIX: /onderwerpen/computers/herhaling
     Tentamenoefeningen UNIX: /onderwerpen/computers/oefeningen
 
 Besturingssystemen:
     Software Carpentry deel 2: /onderwerpen/besturingssystemen/carpentry
-    Besturingssystemen [deadline woensdag]: /onderwerpen/besturingssystemen/intro
+    Besturingssystemen [wo 18:00]: /onderwerpen/besturingssystemen/intro
     Herhaling Pipelines: /onderwerpen/besturingssystemen/herhaling
     Tentamenoefeningen Pipelines: /onderwerpen/besturingssystemen/oefeningen
 
@@ -19,7 +19,7 @@ Representaties:
     Getallenstelsels: /onderwerpen/representaties/getallen
     Binaire representaties: /onderwerpen/representaties/binair
     Tekstformaten: /onderwerpen/representaties/text
-    Representaties [deadline woensdag]: /onderwerpen/representaties/intro
+    Representaties [wo 18:00]: /onderwerpen/representaties/intro
     Formaten: /onderwerpen/representaties/formaten
     Tentamenoefeningen binair: /onderwerpen/representaties/oefeningen
 
@@ -29,7 +29,7 @@ Regex:
     Regels matchen: /onderwerpen/regex/regels
     Strings matchen: /onderwerpen/regex/strings
     Woorden matchen: /onderwerpen/regex/woorden
-    Internet & LLMs [deadline woensdag]: /onderwerpen/regex/llms
+    Internet & LLMs [wo 18:00]: /onderwerpen/regex/llms
     Tentamenoefeningen: /onderwerpen/regex/oefeningen
 
 Web development:
