@@ -2,9 +2,9 @@
 
 Deze pagina bevat oefenmaterialen om je voor te bereiden voor het tentamenonderdeel "UNIX-commando's en bestandssysteem".
 
-## Voorbereiding
+## Extra achtergrond
 
-Lees het hoofdstuk 5 "File systems" uit het boek van Dale & Lewis, *Computer Science Illuminated*. (Let op: in de reader staat eerst nog diverse andere hoofdstukken, maar die komen later.)
+Lees (niet tijdens het college maar daarna) het hoofdstuk 5 "File systems" uit het boek van Dale & Lewis, *Computer Science Illuminated*. (Let op: in de reader staat eerst nog diverse andere hoofdstukken, maar die komen later.)
 
 ## Workshop
 
